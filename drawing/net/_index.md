@@ -18,9 +18,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Drawing for .NET API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Drawing for .NET supports .NET Framework version 2.0, .NET Core 2.0 or later." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -126,7 +123,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for .NET supports the following image formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Drawing for .NET supports .NET Framework version 2.0, .NET Core 2.0 or later." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -150,6 +147,58 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="drawing Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"/>
+  <header>
+   Aspose.Drawing
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for .NET supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     BMP
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     GIF
+    </li>
+    <li>
+     TIFF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png"/>
   <header>
    Aspose.Drawing
   </header>

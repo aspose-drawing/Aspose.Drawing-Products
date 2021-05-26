@@ -10,20 +10,11 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png" productLink="https://products.aspose.com/drawing/net" >}}
 On Premise APIs for 2D graphics drawing processing in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/family" innerText="View All On Premise APIs" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

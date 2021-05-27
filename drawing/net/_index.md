@@ -517,10 +517,5 @@ bitmap.Save(@"dirpath\LinesCurvesShapes\DrawArc_out.png");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing/net" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

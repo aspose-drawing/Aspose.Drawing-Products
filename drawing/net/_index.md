@@ -5,13 +5,17 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for 2D Graphics Drawing" h2="Aspose.Drawing" logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/header/aspose_drawing-for-net.png" pfName="" subTitlepfName="" downloadUrl="https://downloads.aspose.com/drawing/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for 2D Graphics Drawing" h2="Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images with System.Drawing compatible API." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/header/aspose_drawing-for-net.png" pfName="Aspose.Drawing" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/drawing/net" >}}
 
-{{< blocks/products/pf/main-container pfName="" subTitlepfName="" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/drawing/net/release-notes/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p align="justify">
+ Aspose.Drawing for .NET is a cross-platform 2D drawing engine with System.Drawing compatible API. Drawing library supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images. Images can be saved in all commonly used graphics formats including BMP, PNG, JPEG, GIF, and TIFF. Aspose.Drawing is a pure .NET library and does not rely on any external native rendering engine.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -488,12 +492,6 @@ bitmap.Save(@"dirpath\LinesCurvesShapes\DrawArc_out.png");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -518,7 +516,7 @@ bitmap.Save(@"dirpath\LinesCurvesShapes\DrawArc_out.png");</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing/net" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="" description="" >}}
 
     {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
 

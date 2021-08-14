@@ -6,12 +6,12 @@ description: Graphics 2D drawing library to render vector graphics like lines, c
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process 2D Graphics on Any Platform" h2="Native APIs to parse 2D Drawing including rendering vector graphics and text without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/drawing/header/aspose_drawing.png" pfName="Aspose.Drawing" downloadUrl="https://downloads.aspose.com/drawing" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process 2D Graphics on Any Platform" h2="Native APIs to parse 2D Drawing including rendering vector graphics and text without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://downloads.aspose.com/drawing" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/drawing/272x272/aspose_drawing-for-net.png" productLink="/drawing/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/net/" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 

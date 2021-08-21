@@ -169,7 +169,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for .NET supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for .NET supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

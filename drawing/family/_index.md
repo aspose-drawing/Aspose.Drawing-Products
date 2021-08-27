@@ -39,6 +39,6 @@ Target Windows Forms, ASP.NET or any type of application based on .NET Framework
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing" pricingInformationLink="https://purchase.aspose.com/pricing/drawing" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

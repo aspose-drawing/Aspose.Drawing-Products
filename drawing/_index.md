@@ -6,7 +6,7 @@ description: On Premise APIs and Free Apps to parse 2D Graphics Drawings. Abilit
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Graphics Processing Solution" h2="On Premise APIs and free apps having the capability of processing 2D drawings identical to GDI+, with no dependency on any other software." logoImageSrc="https://www.aspose.com/templates/brand/images/drawing/aspose_drawing-brand.png" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Graphics Processing Solution" h2="On Premise APIs and free apps having the capability of processing 2D drawings identical to GDI+, with no dependency on any other software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing On Premise APIs Include" >}}

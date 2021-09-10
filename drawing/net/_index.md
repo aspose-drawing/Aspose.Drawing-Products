@@ -10,7 +10,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/pricing/drawing/net" docsLink="https://docs.aspose.com/drawing/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">

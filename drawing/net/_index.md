@@ -6,11 +6,11 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for 2D Graphics Drawing" h2="Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images with System.Drawing compatible API." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/drawing/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for 2D Graphics Drawing" h2="Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images with System.Drawing compatible API." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/drawing/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -110,7 +110,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Drawing Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img alt=".NET Drawing Processing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -151,7 +151,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="drawing Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img alt="drawing Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -203,7 +203,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://www.aspose.cloud/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img alt=".NET PUB API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>

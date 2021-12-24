@@ -6,7 +6,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs for 2D Graphics Drawing" h2="Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images with System.Drawing compatible library." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/drawing/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs for 2D Graphics Drawing" h2="Fully managed, cross-platform, complete 2D graphic library for drawing text, geometries, and images with System.Drawing compatible library." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/drawing/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for .NET" >}}
 
@@ -14,7 +14,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
- Aspose.Drawing for .NET is a cross-platform 2D drawing engine with System.Drawing compatible API. Drawing library supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images. Images can be saved in all commonly used graphics formats including BMP, PNG, JPEG, GIF, and TIFF. Aspose.Drawing is a pure .NET library and does not rely on any external native rendering engine.
+ Aspose.Drawing for .NET is a cross-platform 2D drawing engine with System.Drawing compatible API. Drawing library supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images. Images can be saved in all commonly used graphics formats including BMP, PNG, JPEG, GIF, and TIFF. Aspose.Drawing is a pure .NET library and does not rely on any external native rendering engine.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -132,7 +132,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!-- <header><i class="fa fa-cubes"> </i>Mono</header><br />-->
+   <!-- <header><i class="fa fa-cubes"> </i>Mono</header><br />-->
    <header>
     <i class="fa fa-cubes">
     </i>
@@ -169,7 +169,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for .NET supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for .NET supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -305,85 +305,85 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
      Use coordinate system transformations
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Sheet Color Highlighting</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support of Layer Mask</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-font ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-font ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support of Text Layers on Runtime</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support of Adjustment Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-arrows-v ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-arrows-v ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manage Brightness and Contrast in Adjustment Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-arrows-h ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-arrows-h ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manage Exposure Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manage Channel Mixer Adjust Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Merge PUB layers into Other layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Rendering of Curves Adjustment Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manager Photo Filter Adjustment Layer</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Adding and Rendering of Level Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-adjust ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-adjust ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Add Hue Saturation of Adjustment Layers</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Support of Clipping Mask</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
 
@@ -442,7 +442,7 @@ bitmap.Save(@"dirpath\LinesCurvesShapes\DrawArc_out.png");</code></pre>
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB for .NET not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. .NET developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 

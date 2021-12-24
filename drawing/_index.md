@@ -6,7 +6,7 @@ description: On Premise APIs and Free Apps to parse 2D Graphics Drawings. Abilit
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Graphics Processing Solution" h2="On Premise APIs and free apps having the capability of processing 2D drawings identical to GDI+, with no dependency on any other software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="Graphics Processing Solution" h2="On Premise APIs and free apps having the capability of processing 2D drawings identical to GDI+, with no dependency on any other software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing On Premise APIs Include" >}}
@@ -21,7 +21,7 @@ On Premise APIs for 2D graphics drawing processing in Windows Forms, ASP.NET, WP
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

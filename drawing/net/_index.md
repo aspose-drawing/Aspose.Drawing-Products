@@ -110,7 +110,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Drawing Processing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Drawing Processing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -151,7 +151,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="drawing Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="drawing Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -203,7 +203,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET PUB API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>

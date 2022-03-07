@@ -420,15 +420,7 @@ description: .NET graphic library for drawing text, geometries, and images. C# 2
      <h3>
       Drawing Arc - C#
      </h3>
-     <pre><code class="cs">Bitmap bitmap = new Bitmap(1000, 800, System.Drawing.Imaging.PixelFormat.Format32bppPArgb);
-
-Graphics graphics = Graphics.FromImage(bitmap);
-
-Pen pen = new Pen(Color.FromKnownColor(KnownColor.Blue), 2);
-
-graphics.DrawArc(pen, 0, 0, 700, 700, 0, 180);
-
-bitmap.Save(@"dirpath\LinesCurvesShapes\DrawArc_out.png");</code></pre>
+     {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">

@@ -1,8 +1,8 @@
 ---
-title: 2D Drawing API - Aspose 
+title: 2D Drawing API |  
 weight: 10
 url: /family
-description: Graphics 2D drawing library to render vector graphics like lines, curves and figures and multi style text on any Platform
+description: 2D Graphics Library to render vector graphics, display text, and to save drawing results in commonly used graphics file formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

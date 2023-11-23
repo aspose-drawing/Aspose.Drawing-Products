@@ -317,7 +317,7 @@ description: .NET graphic library for drawing text, geometries, and images, to d
      Draw Vector Graphics
     </h2>
     <p>
-     Aspose.Drawing for .NET allows to draw different vector graphics such as arcs, Cardinal Spline, Bezier spline, ellipses, closed curves, lines and a number of other types. Only few lines of code needed to draw different types of vector graphics using the API. e.g here is code for drawing arc.
+     Aspose.Drawing for .NET allows to draw different vector graphics such as arcs, Cardinal Spline, Bezier spline, ellipses, closed curves, lines and a number of other types. Only few lines of code needed to draw different types of vector graphics using the API. E.g here is code for drawing arc.
     </p>
     <div class="codeblock" id="code">
      <h3>

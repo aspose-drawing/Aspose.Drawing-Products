@@ -1,33 +1,51 @@
 ---
-title: โซลูชันการวาดภาพกราฟิก 2 มิติ 
+title: โซลูชันการวาดภาพกราฟิก 2D 
 weight: 30
 url: /th/
-description: High Code APIs และแอพฟรีเพื่อแยกวิเคราะห์ 2D Graphics Drawings ความสามารถในการวาดเส้น เส้นโค้ง และตัวเลข ตลอดจนแปลงรูปภาพเป็นรูปแบบต่างๆ
+description: High Code API และแอปฟรีสำหรับการวาดภาพกราฟิก 2D ความสามารถในการวาดข้อความ เส้น เส้นโค้ง และตัวเลข รวมถึงแปลงรูปภาพเป็นรูปแบบต่างๆ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="โซลูชันการประมวลผลกราฟิก" h2="High Code API และแอปฟรีที่มีความสามารถในการประมวลผลภาพวาด 2D เหมือนกับ GDI+ โดยไม่ต้องพึ่งพาซอฟต์แวร์อื่นๆ" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="โซลูชันการประมวลผลกราฟิก" h2="High Code API และแอปฟรีสำหรับการวาดภาพกราฟิก 2D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose. โซลูชั่นผลิตภัณฑ์การเขียนแบบ" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.drawing High Code APIs รวม" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code APIs รวมอยู่ด้วย" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/th/net/" >}}
-API โค้ดสูงสำหรับการประมวลผลการวาดภาพกราฟิก 2 มิติใน Windows Forms, ASP.NET, WPF, WCF หรือแอปพลิเคชันประเภทใดก็ได้ที่ใช้ .NET Framework 2.0 หรือใหม่กว่า
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/th/net/" >}}
+ไลบรารีกราฟิก .NET สำหรับการวาดข้อความ รูปทรงเรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System. Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/th/family/" innerText="ดู High Code API ทั้งหมด" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< blocks/products/pf/product-card-row title="Aspose.การเขียนแบบไม่มีโค้ดรวมการใช้งาน" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="ข้อความบนภาพ" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
+เพิ่มข้อความลงในรูปภาพ โบรชัวร์ มีมจากทุกอุปกรณ์
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="เครื่องกำเนิดมีม" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_memegenerator-app.png" productLink="https://products.aspose.app/drawing/meme-generator" >}}
+สร้างมีมจากรูปภาพของคุณจากอุปกรณ์ใดก็ได้
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
+ใช้เทปวัดขนาดจริงทางออนไลน์
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="ดูแอปพลิเคชันที่ไม่มีรหัสทั้งหมด" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งใช้คำพูดของเราสำหรับมัน ดูว่าผู้ใช้พูดถึง Aspose อย่างไร" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="สิ่งที่ผู้คนกำลังพูด" subTitle="อย่าเพิ่งเชื่อคำพูดของเรา ดูว่าผู้ใช้พูดถึง Aspose อย่างไร" caseStudiesLink="https://about.aspose.com/customers/success-stories/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- เราใช้ Aspose มาระยะหนึ่งแล้ว และไม่พบข้อบกพร่องที่เกี่ยวข้องกับ Aspose เลย. .
+ เราใช้ Aspose มาระยะหนึ่งแล้ว และไม่พบจุดบกพร่องที่เกี่ยวข้องกับ Aspose แม้แต่จุดเดียว
  <em>
-  แจ็ค กูร์เดน | Bicore, เนเธอร์แลนด์
+  แจค กูร์เดน | บิคอร์, เนเธอร์แลนด์
  </em>
 </p>
 
@@ -35,7 +53,7 @@ API โค้ดสูงสำหรับการประมวลผลก�
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total ใช้งานได้ดีเมื่อเรามีไฟล์และเอกสารขนาดใหญ่ให้ทำงาน.
+ Aspose.Total ใช้งานได้ดีเมื่อเรามีไฟล์และเอกสารขนาดใหญ่ที่ต้องดำเนินการ
  <em>
   MiniTool® Software Ltd., แคนาดา
  </em>

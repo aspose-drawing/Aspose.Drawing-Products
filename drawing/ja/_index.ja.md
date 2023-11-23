@@ -2,32 +2,50 @@
 title: 2Dグラフィックス描画ソリューション 
 weight: 30
 url: /ja/
-description: 2Dグラフィックス図面を解析するためのハイコードAPIと無料アプリ。線、曲線、図を描画したり、画像をさまざまな形式に変換したりする機能。
+description: 2D グラフィックス描画用のハイコード API と無料アプリ。テキスト、線、曲線、図形を描画したり、画像をさまざまな形式に変換したりする機能。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="グラフィック処理ソリューション" h2="他のソフトウェアに依存せずに、GDI+と同一の2D図面を処理する機能を備えたハイコードAPIと無料アプリ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="グラフィックス処理ソリューション" h2="2D グラフィックス描画用のハイコード API と無料アプリ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing 製品ソリューション" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing HighCodeAPIには次のものが含まれます" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing ハイコード API には以下が含まれます" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ja/net/" >}}
-Windowsフォーム、ASP.NET、WPF、WCF、または.NETFramework2.0以降に基づく任意の種類のアプリケーションでの2Dグラフィックス描画処理用のハイコードAPI。
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ja/net/" >}}
+テキスト、ジオメトリ、イメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ja/family/" innerText="すべてのハイコードAPIを表示" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ja/family/" innerText="すべてのハイコード API を表示" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing コードなしアプリケーションには以下が含まれます" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="画像上のテキスト" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
+あらゆるデバイスから画像、パンフレット、ミームにテキストを追加します。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="ミームジェネレーター" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_memegenerator-app.png" productLink="https://products.aspose.app/drawing/meme-generator" >}}
+任意のデバイスから写真からミームを生成します。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
+オンラインで実際のサイズのメジャーを使用してください。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="コード不要のアプリケーションをすべて表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人々が言っていること" subTitle="私たちの言葉をそのまま受け入れるのではありません。 Asposeについてユーザーが何を言わなければならないかを見てください。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人々の意見" subTitle="私たちの言葉をそのまま鵜呑みにしないでください。 Aspose についてのユーザーの意見をご覧ください。" caseStudiesLink="https://about.aspose.com/customers/success-stories/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Asposeはかなり前から使用されており、Aspose関連のバグは1つもありません。. .
+ 私たちはかなり長い間 Aspose を使用してきましたが、Aspose 関連のバグは 1 つも発生していません。
  <em>
-  Jac Goorden | Bicore、オランダ
+  ジャック・ゴーデン |ビコア（オランダ）
  </em>
 </p>
 
@@ -35,9 +53,9 @@ Windowsフォーム、ASP.NET、WPF、WCF、または.NETFramework2.0以降に�
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Totalは、作業する大きなファイルやドキュメントがある場合にうまく機能します.
+ Aspose.Total は、作業する大きなファイルやドキュメントがある場合に最適です。
  <em>
-  MiniTool®SoftwareLtd.、カナダ
+  MiniTool® Software Ltd.、カナダ
  </em>
 </p>
 

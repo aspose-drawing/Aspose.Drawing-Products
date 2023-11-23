@@ -1,33 +1,51 @@
 ---
-title: حل رسم رسومات ثنائي الأبعاد 
+title: حل الرسم الجرافيكي ثنائي الأبعاد 
 weight: 30
 url: /ar/
-description: واجهات برمجة تطبيقات برمجية عالية وتطبيقات مجانية لتحليل رسومات الرسومات ثنائية الأبعاد. القدرة على رسم الخطوط والمنحنيات والأشكال وكذلك تحويل الصور إلى صيغ مختلفة.
+description: واجهات برمجة التطبيقات ذات الكود العالي والتطبيقات المجانية لرسم الرسومات ثنائية الأبعاد. القدرة على رسم النصوص والخطوط والمنحنيات والأشكال وكذلك تحويل الصور إلى تنسيقات مختلفة.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="حل معالجة الرسومات" h2="واجهات برمجة التطبيقات ذات الأكواد العالية والتطبيقات المجانية التي لديها القدرة على معالجة رسومات ثنائية الأبعاد مماثلة لـ GDI + ، دون الاعتماد على أي برنامج آخر." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="حل معالجة الرسومات" h2="واجهات برمجة تطبيقات High Code وتطبيقات مجانية لرسم الرسومات ثنائية الأبعاد." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing حل المنتج" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing عالية كود API تشمل" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing تتضمن واجهات برمجة التطبيقات ذات التعليمات البرمجية العالية" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ar/net/" >}}
-واجهات برمجة التطبيقات ذات الشفرة العالية لمعالجة رسومات الرسومات ثنائية الأبعاد في Windows Forms أو ASP.NET أو WPF أو WCF أو أي نوع من التطبيقات القائمة على .NET Framework 2.0 أو أحدث.
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ar/net/" >}}
+مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لتحل محل حزمة System.Drawing.Common مباشرةً دون تغيير كود C# الموجود.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ar/family/" innerText="عرض جميع واجهات برمجة التطبيقات عالية الكود" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ar/family/" innerText="عرض جميع واجهات برمجة التطبيقات ذات الكود العالي" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing لا تتضمن تطبيقات التعليمات البرمجية" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="النص على الصورة" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
+أضف نصًا إلى الصورة أو الكتيب أو الميمي من أي جهاز.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="مولد ميمي" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_memegenerator-app.png" productLink="https://products.aspose.app/drawing/meme-generator" >}}
+قم بإنشاء ميمي من صورتك من أي جهاز.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
+استخدم شريط قياس الحجم الفعلي عبر الإنترنت.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="عرض جميع التطبيقات التي لا تحتوي على كود" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. انظر ماذا يقول المستخدمون عن Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="ما يقوله الناس" subTitle="لا تأخذ كلمتنا فقط. تعرف على ما يقوله المستخدمون عن Aspose." caseStudiesLink="https://about.aspose.com/customers/success-stories/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- لقد استخدمنا Aspose منذ بعض الوقت ، ولم نواجه خطأً واحدًا مرتبطًا بـ Aspose. .
+ نحن نستخدم Aspose منذ بعض الوقت، ولم نواجه أي خطأ يتعلق بـ Aspose.
  <em>
-  جاك جوردن | بيكور ، هولندا
+  جاك جوردن | بيكوري، هولندا
  </em>
 </p>
 
@@ -35,9 +53,9 @@ description: واجهات برمجة تطبيقات برمجية عالية وت
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total يعمل بشكل رائع عندما يكون لدينا ملفات ووثائق كبيرة للعمل عليها.
+ يعمل Aspose.Total بشكل رائع عندما يكون لدينا ملفات ومستندات كبيرة للعمل عليها.
  <em>
-  MiniTool® Software Ltd. ، كندا
+  شركة MiniTool® Software Ltd.، كندا
  </em>
 </p>
 

@@ -1,18 +1,18 @@
 ---
-title: 2D 繪圖 API - Aspose 
+title: 2D繪圖API
 weight: 10
 url: /zh-hant/family
-description: 圖形 2D 繪圖庫，可在任何平台上渲染矢量圖形，如線條、曲線和圖形以及多樣式文本
+description: 2D 圖形庫，用於渲染向量圖形、顯示文字以及以常用圖形檔案格式儲存繪圖結果
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="在任何平台上處理 2D 圖形" h2="用於解析 2D 繪圖的原生 API，包括渲染矢量圖形和文本，無需任何軟件依賴。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://downloads.aspose.com/drawing" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="在任何平台上處理 2D 圖形" h2="用於 2D 繪圖的本機 API，包括渲染向量圖形和文本，無需任何軟體依賴性。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing 高代碼 API 包括" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing 高程式碼 API 包括" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/zh-hant/net/" >}}
-以 Windows 窗體、ASP.NET 或任何類型的基於 .NET Framework 2.0 或更高版本的應用程序為目標。
+用於繪製文字、幾何圖形和圖像的.NET圖形庫，可直接取代System.Drawing.Common包，而無需更改現有的C#程式碼。
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -20,25 +20,25 @@ description: 圖形 2D 繪圖庫，可在任何平台上渲染矢量圖形，如
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/drawing/" >}}
-{{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-drawing" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/drawing" >}}
-{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="文件" href="https://docs.aspose.com/drawing/" >}}
+{{< blocks/products/pf/slr-element name="原始碼" href="https://github.com/aspose-drawing" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://reference.aspose.com/drawing/" >}}
+{{< blocks/products/pf/slr-element name="教學影片" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/drawing" >}}
+{{< blocks/products/pf/slr-tab tabTitle="產品支援" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="免費支援" href="https://forum.aspose.com/c/drawing" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/drawing/" >}}
+{{< blocks/products/pf/slr-element name="部落格" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Drawing 產品系列？" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/family" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/drawing/" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

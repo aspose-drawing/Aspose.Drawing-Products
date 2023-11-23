@@ -2,32 +2,50 @@
 title: 2D grafische tekenoplossing 
 weight: 30
 url: /nl/
-description: High Code API's en gratis apps om 2D grafische tekeningen te ontleden. Mogelijkheid om lijnen, bochten en figuren te tekenen en afbeeldingen naar verschillende formaten te converteren.
+description: High Code API's en gratis apps voor grafische 2D-tekeningen. Mogelijkheid om tekst, lijnen, curven en figuren te tekenen en afbeeldingen naar verschillende formaten te converteren.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Grafische verwerkingsoplossing" h2="High Code API's en gratis apps die 2D-tekeningen kunnen verwerken die identiek zijn aan GDI+, zonder afhankelijkheid van andere software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Grafische verwerkingsoplossing" h2="High Code API's en gratis apps voor 2D grafische tekeningen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Productoplossing tekenen" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API's omvatten:" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code-API's omvatten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/nl/net/" >}}
-High Code API's voor 2D grafische tekeningverwerking in Windows Forms, ASP.NET, WPF, WCF of elk type applicatie op basis van .NET Framework 2.0 of hoger.
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/nl/net/" >}}
+.NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/nl/family/" innerText="Bekijk alle High Code API's" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Bevat geen codetoepassingen" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="Tekst op afbeelding" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
+Voeg tekst toe aan een afbeelding, brochure of een meme vanaf elk apparaat.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="Meme-generator" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_memegenerator-app.png" productLink="https://products.aspose.app/drawing/meme-generator" >}}
+Genereer vanaf elk apparaat een meme van uw foto.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
+Gebruik online meetlint op ware grootte.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="Bekijk alle toepassingen zonder code" >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Wat mensen zeggen" subTitle="Geloof ons niet zomaar op ons woord. Bekijk wat gebruikers te zeggen hebben over Aspose." caseStudiesLink="https://about.aspose.com/customers/success-stories/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- We gebruiken Aspose nu al geruime tijd en we zijn nog geen enkele Aspose-gerelateerde bug tegengekomen. .
+ We gebruiken Aspose al geruime tijd en we zijn nog geen enkele Aspose-gerelateerde bug tegengekomen.
  <em>
-  Jac Goorden | Bicore, Nederland
+  Jac Goorden | Bicore, Netherlands
  </em>
 </p>
 
@@ -35,7 +53,7 @@ High Code API's voor 2D grafische tekeningverwerking in Windows Forms, ASP.NET, 
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total werkt geweldig als we grote bestanden en documenten hebben om aan te werken.
+ Aspose.Total werkt prima als we grote bestanden en documenten hebben om aan te werken.
  <em>
   MiniTool® Software Ltd., Canada
  </em>

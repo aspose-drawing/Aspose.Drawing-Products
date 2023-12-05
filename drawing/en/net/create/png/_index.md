@@ -18,7 +18,7 @@ description: Create PNG image file via .NET.
      <h3>
       Create PNG Image File - C#
      </h3>
-     {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Create-PNG-Image-File.cs " >}}
+     {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Create-PNG-Image-File.cs" >}}
     </div>
 
 {{< /blocks/products/pf/main-container >}}

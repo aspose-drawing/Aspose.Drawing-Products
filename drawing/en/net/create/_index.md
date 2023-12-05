@@ -14,8 +14,8 @@ description: Creating bitmaps from scratch.
 
 <h2>How to Create Bitmaps from Scratch Using C#</h2>
 
-<p>[Create BMP image file](https://products-qa.aspose.com/drawing/net/create/bmp/)</p>
-<p>[Create EMF image file](/drawing/net/create/emf/)</p>
+<p><a href="bmp/">Create BMP image file</a></p>
+<p><a href="emf/">Create EMF image file</a></p>
 [Create GIF image file](gif/)
 [Create JPEG image file](https://products-qa.aspose.com/drawing/net/create/jpeg/)
 [Create PNG image file](/drawing/net/create/png/)

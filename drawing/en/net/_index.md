@@ -244,8 +244,8 @@ description: .NET graphic library for drawing text, geometries, and images, to d
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     [Creating bitmaps from scratch](create/) or load existing files
+    <p class="col-lg-10"><a href="create/">Create bitmaps from scratch</a>
+     or load existing files
     </p>
    </div>
    <div class="col-lg-4">

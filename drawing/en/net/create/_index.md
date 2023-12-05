@@ -16,11 +16,11 @@ description: Creating bitmaps from scratch.
 
 <p><a href="bmp/">Create BMP image file</a></p>
 <p><a href="emf/">Create EMF image file</a></p>
-[Create GIF image file](gif/)
-[Create JPEG image file](https://products-qa.aspose.com/drawing/net/create/jpeg/)
-[Create PNG image file](/drawing/net/create/png/)
-<p>[Create TIFF image file](tiff/)</p>
-<p>[Create WMF image file](wmf/)</p>
+<p><a href="gif/">Create GIF image file</a></p>
+<p><a href="jpeg/">Create JPEG image file</a></p>
+<p><a href="png/">Create PNG image file</a></p>
+<p><a href="tiff/">Create TIFF image file</a></p>
+<p><a href="wmf/">Create WMF image file</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

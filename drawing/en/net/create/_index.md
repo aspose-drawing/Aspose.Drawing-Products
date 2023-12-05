@@ -12,7 +12,7 @@ description: Creating bitmaps from scratch.
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/drawing/net/" >}}
 
-{{% blocks/products/pf/agp/content h2="How to Create Bitmaps from Scratch Using C#" %}}
+<h2>How to Create Bitmaps from Scratch Using C#</h2>
 
 <p>[Create BMP image file](bmp/)</p>
 <p>[Create EMF image file](emf/)</p>

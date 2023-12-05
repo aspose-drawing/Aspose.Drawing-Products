@@ -12,7 +12,7 @@ description: Create WMF image file via .NET.
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/drawing/net/" >}}
 
-{{% blocks/products/pf/agp/content h2="How to Create WMF Image File Using C#" %}}
+<h2>How to Create WMF Image File Using C#</h2>
 
     <div class="codeblock" id="code">
      <h3>

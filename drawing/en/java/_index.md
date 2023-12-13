@@ -39,7 +39,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
      Draw Shapes
     </li>
     <li>
-     Uses Pens
+     Use Pens
     </li>
     <li>
      Use Brushes
@@ -169,7 +169,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="Java Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -384,9 +384,9 @@ description: Java graphic library for drawing text, geometries, and images, to d
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Drawing Arc - C#
+      Drawing Arc - Java
      </h3>
-     {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.cs" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">

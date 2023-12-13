@@ -6,20 +6,20 @@ description: API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Giải pháp xử lý đồ họa" h2="API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Giải pháp sản phẩm Aspose.draw" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Giải pháp xử lý đồ họa" h2="API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Giải pháp sản phẩm Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Các API mã cao của Aspose.draw bao gồm" >}}
+{{< blocks/products/pf/product-card-row title="API mã cao Aspose.Drawing bao gồm" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/vi/net/" >}}
-Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.draw.Common mà không thay đổi mã C# hiện có.
+{{< blocks/products/pf/product pfName="Aspose.Drawing cho" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/vi/net/" >}}
+Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.Drawing.Common mà không thay đổi mã C# hiện có.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/vi/family/" innerText="Xem tất cả API mã cao" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.draw Không có ứng dụng mã nào bao gồm" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Không Có Mã Ứng Dụng Bao Gồm" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Văn bản trên hình ảnh" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Thêm văn bản vào hình ảnh, tài liệu quảng cáo, meme từ bất kỳ thiết bị nào.

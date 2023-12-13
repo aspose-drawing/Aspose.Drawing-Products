@@ -9,9 +9,9 @@ description: Bibliothèque de graphiques 2D pour restituer des graphiques vector
 {{< blocks/products/pf/i18n/upper-banner h1="Traitez des graphiques 2D sur n'importe quelle plate-forme" h2="API natives pour le dessin 2D, notamment le rendu de graphiques vectoriels et de texte sans aucune dépendance logicielle." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Les API Aspose.Drawing High Code incluent" >}}
+{{< blocks/products/pf/product-card-row title="Les API High Code du Aspose.Drawing incluent" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/fr/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing pour" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/fr/net/" >}}
 Bibliothèque graphique .NET pour dessiner du texte, des géométries et des images, pour remplacer directement le package System.Drawing.Common sans modifier le code C# existant.
 {{< /blocks/products/pf/product >}}
 

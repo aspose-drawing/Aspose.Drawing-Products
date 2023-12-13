@@ -1,20 +1,20 @@
 ---
-title: .NET 的 Aspose.Drawing |跨平台系统.绘图.通用替换 
+title: Aspose.Drawing 换 .NET |跨平台 System.Drawing.Common 替代品 
 weight: 20
 url: /zh/net/ 
-description: 用于绘制文本、几何图形和图像的.NET图形库，可直接替换System.Drawing.Common包，而无需更改现有的C#代码。
+description: .NET图形库，用于绘制文本、几何图形和图像，可直接替换System.Drawing.Common软件包，无需更改现有C#代码。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="跨平台系统.绘图.通用替换" h2="Aspose.Drawing 在完全托管的代码中实现了大部分 System.Drawing API（包括图像处理、矢量和文本绘制），无需任何外部依赖。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="对于.NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="跨平台 System.Drawing.Common 替代品" h2="Aspose.Drawing 在完全托管的代码中实现了 System.Drawing API 的大部分（包括图像处理、矢量和文本绘制），无需任何外部依赖。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="适用于 .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="对于.NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="适用于 .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing 包可用于直接替换项目中的 System.Drawing.Common 包引用 - 使用 System.Drawing API 的所有现有代码将继续工作，但现在可以在任何 .NET 支持的平台上运行。绘图库支持将矢量图形（例如直线、曲线和图形）以及各种字体、大小和样式的文本渲染到光栅图像上。图像可以保存为所有常用的图形格式，包括 BMP、PNG、JPEG、GIF 和 TIFF。 Aspose.Drawing是一个纯.NET库，不依赖任何外部本机渲染引擎。
+ Aspose.Drawing 包可用于直接替换项目中的 System.Drawing.Common 包引用 - 使用 System.Drawing API 的所有现有代码将继续工作，但现在可以在任何 .NET 支持的平台上工作。绘图库支持将矢量图形（例如直线、曲线和图形）以及各种字体、大小和样式的文本渲染到光栅图像上。图像可以以所有常用的图形格式保存，包括 BMP、PNG、JPEG、GIF 和 TIFF。 Aspose.Drawing是一个纯粹的.NET库，不依赖任何外部原生渲染引擎。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Drawing 对于.NET API 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description=".NET API 的 Aspose.Drawing 概述。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -110,7 +110,7 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET 绘图处理 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt=".NET绘图处理API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -128,7 +128,7 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Drawing 对于.NET 支持.NET Framework 2.0 版、.NET Standard 2.0 或更高版本。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Drawing 为 .NET 支持 .NET Framework 版本 2.0、.NET Standard 2.0 或更高版本。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Drawing 对于.NET 支持以下[图像格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Drawing 为 .NET 支持以下[图像格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -209,7 +209,7 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET 绘图 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt=".NET绘图API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -244,8 +244,8 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     从头开始创建位图或加载现有文件
+    <p class="col-lg-10"><a href="create/">从头开始创建位图</a>
+     或加载现有文件
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,11 +317,11 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
      绘制矢量图形
     </h2>
     <p>
-     Aspose.Drawing 对于.NET 允许绘制不同的矢量图形，例如圆弧、基数样条线、贝塞尔样条线、椭圆、闭合曲线、直线和许多其他类型。使用 API 只需几行代码即可绘制不同类型的矢量图形。例如，这是绘制圆弧的代码。
+     Aspose.Drawing 为 .NET 允许绘制不同的矢量图形，例如圆弧、基数样条线、贝塞尔样条线、椭圆、闭合曲线、直线和许多其他类型。使用 API 只需几行代码即可绘制不同类型的矢量图形。例如，这是绘制圆弧的代码。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      绘制圆弧 - C#
+      画弧 - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>
@@ -348,7 +348,7 @@ description: 用于绘制文本、几何图形和图像的.NET图形库，可直
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Drawing 对于.NET？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么Aspose.Drawing换成.NET？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -6,20 +6,20 @@ description: API-интерфейсы High Code и бесплатные прил
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Решение для обработки графики" h2="API-интерфейсы High Code и бесплатные приложения для рисования 2D-графики." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Продуктовое решение Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Решение для обработки графики" h2="API-интерфейсы High Code и бесплатные приложения для рисования 2D-графики." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Решение для продукта Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Включает API высокого кода Aspose.Drawing" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API включает в себя" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ru/net/" >}}
-Графическая библиотека .NET для рисования текста, геометрии и изображений, позволяющая напрямую заменить пакет System.Drawing.Common без изменения существующего кода C#.
+{{< blocks/products/pf/product pfName="Aspose.Drawing для" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ru/net/" >}}
+Графическая библиотека .NET для рисования текста, геометрии и изображений для прямой замены пакета System.Drawing.Common без изменения существующего кода C#.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ru/family/" innerText="Просмотреть все API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing не содержит приложений с кодом" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Приложения без кода" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Текст на изображении" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Добавьте текст к изображению, брошюре или мему с любого устройства.

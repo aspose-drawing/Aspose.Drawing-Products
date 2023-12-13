@@ -1,12 +1,12 @@
 ---
-title: .NET 用の Aspose.Drawing |クロスプラットフォーム システム.図面.共通の置き換え 
+title: Aspose.Drawing用.NET |クロスプラットフォーム System.Drawing.Common の代替品 
 weight: 20
 url: /ja/net/ 
-description: テキスト、ジオメトリ、イメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
+description: テキスト、ジオメトリ、およびイメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="クロスプラットフォーム システム.図面.共通の置き換え" h2="Aspose.Drawing は、System.Drawing API (画像操作、ベクターおよびテキスト描画を含む) のほとんどを、外部依存関係なしでフルマネージド コードで実装します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="クロスプラットフォーム System.Drawing.Common の代替品" h2="Aspose.Drawing は、System.Drawing API (画像操作、ベクトルおよびテキスト描画を含む) のほとんどを、外部依存関係のないフルマネージド コードで実装します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET用" >}}
 
@@ -14,7 +14,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing パッケージを使用すると、プロジェクト内の System.Drawing.Common パッケージ参照を直接置き換えることができます。System.Drawing API を使用する既存のコードはすべて、.NET がサポートするプラットフォーム上で引き続き動作します。描画ライブラリは、線、曲線、図形などのベクトル グラフィックスと、さまざまなフォント、サイズ、スタイルのテキストのラスター イメージへのレンダリングをサポートします。画像は、BMP、PNG、JPEG、GIF、TIFF などの一般的に使用されるすべてのグラフィック形式で保存できます。 Aspose.Drawing は純粋な .NET ライブラリであり、外部のネイティブ レンダリング エンジンには依存しません。
+ Aspose.Drawing パッケージを使用すると、プロジェクト内の System.Drawing.Common パッケージ参照を直接置き換えることができます。System.Drawing API を使用する既存のコードはすべて引き続き機能しますが、.NET がサポートするプラットフォームでも動作するようになりました。描画ライブラリは、線、曲線、図形などのベクトル グラフィックスと、さまざまなフォント、サイズ、スタイルのテキストのラスター イメージへのレンダリングをサポートします。画像は、BMP、PNG、JPEG、GIF、TIFF などの一般的に使用されるすべてのグラフィック形式で保存できます。 Aspose.Drawing は純粋な .NET ライブラリであり、外部のネイティブ レンダリング エンジンには依存しません。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing .NET用 API の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing用 .NET API の概要。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -48,7 +48,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
      テキストをレンダリングする
     </li>
     <li>
-     異なるフォントを使用する
+     別のフォントを使用する
     </li>
    </ul>
    <header>
@@ -77,7 +77,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
      ビットマップの作成
     </li>
     <li>
-     画像のロード
+     画像をロードする
     </li>
     <li>
      トリミング
@@ -128,7 +128,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Drawing .NET用 は、.NET Framework バージョン 2.0、.NET Standard 2.0 以降をサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Drawing 用 .NET は、.NET Framework バージョン 2.0、.NET Standard 2.0 以降をサポートします。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing .NET用 は、次の [画像形式](https://docs.aspose.com/drawing/net/supported-file-formats/) をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing用 .NET は、次の [画像形式](https://docs.aspose.com/drawing/net/supported-file-formats/) をサポートしています。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -244,8 +244,8 @@ description: テキスト、ジオメトリ、イメージを描画するため�
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     ビットマップを最初から作成するか、既存のファイルをロードする
+    <p class="col-lg-10"><a href="create/">ビットマップを最初から作成する</a>
+     または既存のファイルをロードします
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,7 +317,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
      ベクターグラフィックスの描画
     </h2>
     <p>
-     Aspose.Drawing .NET用 を使用すると、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクター グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
+     Aspose.Drawing用 .NET では、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -348,7 +348,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle=".NET に Aspose.Drawing を使用する理由" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ .NET で Aspose.Drawing なのか?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="成功事例" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

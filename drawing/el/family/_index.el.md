@@ -9,9 +9,9 @@ description: Βιβλιοθήκη 2D γραφικών για απόδοση δι
 {{< blocks/products/pf/i18n/upper-banner h1="Επεξεργαστείτε δισδιάστατα γραφικά σε οποιαδήποτε πλατφόρμα" h2="Εγγενή API για 2D Drawing, συμπεριλαμβανομένης της απόδοσης διανυσματικών γραφικών και κειμένου χωρίς εξαρτήσεις λογισμικού." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Περιλαμβάνονται τα API υψηλής κώδικα Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/el/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing για" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/el/net/" >}}
 Βιβλιοθήκη γραφικών .NET για σχεδίαση κειμένου, γεωμετριών και εικόνων, για άμεση αντικατάσταση του πακέτου System.Drawing.Common χωρίς αλλαγή του υπάρχοντος κώδικα C#.
 {{< /blocks/products/pf/product >}}
 

@@ -6,20 +6,20 @@ description: High Code API a bezplatné aplikace pro kreslení 2D grafiky. Schop
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Řešení pro zpracování grafiky" h2="High Code API a bezplatné aplikace pro kreslení 2D grafiky." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Product Solution" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Řešení pro zpracování grafiky" h2="High Code API a bezplatné aplikace pro kreslení 2D grafiky." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Řešení produktu Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API zahrnuje" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/cs/net/" >}}
+{{< blocks/products/pf/product pfName="za Aspose.Drawing" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/cs/net/" >}}
 Grafická knihovna .NET pro kreslení textu, geometrií a obrázků, která přímo nahrazuje balíček System.Drawing.Common bez změny stávajícího kódu C#.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/cs/family/" innerText="Zobrazit všechna rozhraní High Code API" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/cs/family/" innerText="Zobrazit všechna rozhraní API vysokého kódu" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing Aplikace neobsahuje žádný kód" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Bez kódu Aplikace zahrnuje" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Text na obrázku" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Přidejte text do obrázku, brožury nebo memu z jakéhokoli zařízení.

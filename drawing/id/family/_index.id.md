@@ -9,9 +9,9 @@ description: Pustaka Grafik 2D untuk merender grafik vektor, menampilkan teks, d
 {{< blocks/products/pf/i18n/upper-banner h1="Memproses Grafik 2D di Platform Apa Pun" h2="API asli untuk Gambar 2D termasuk rendering grafik vektor dan teks tanpa ketergantungan perangkat lunak apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Menggambar API Kode Tinggi Termasuk" >}}
+{{< blocks/products/pf/product-card-row title="Termasuk API Kode Tinggi Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/id/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing untuk" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/id/net/" >}}
 Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 {{< /blocks/products/pf/product >}}
 
@@ -32,7 +32,7 @@ Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung 
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Menggambar Rangkaian Produk?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Rangkaian Produk Aspose.Drawing?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

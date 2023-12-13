@@ -11,7 +11,7 @@ description: 2D grafik çizimi için Yüksek Kod API'leri ve Ücretsiz Uygulamal
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing Yüksek Kod API'leri şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/tr/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing için" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/tr/net/" >}}
 Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini doğrudan değiştirmek için metin, geometri ve görüntü çizmeye yönelik .NET grafik kitaplığı.
 {{< /blocks/products/pf/product >}}
 
@@ -19,7 +19,7 @@ Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini doğrudan deği�
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing Kodsuz Uygulama İçermez" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Kodsuz Uygulamalar Dahildir" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Resim Üzerindeki Metin" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Herhangi bir cihazdan görsele, broşüre veya memeye metin ekleyin.

@@ -6,7 +6,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform System.Drawing.Common ersättning" h2="Aspose.Drawing implementerar det mesta av System.Drawing API (inklusive bildmanipulation, vektor- och textritning) i helt hanterad kod utan några externa beroenden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="för .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform System.Drawing.Common ersättning" h2="Aspose.Drawing implementerar det mesta av System.Drawing API (inklusive bildmanipulation, vektor- och textritning) i fullständigt hanterad kod utan några externa beroenden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="för .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="för .NET" >}}
 
@@ -14,7 +14,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing-paketet kan användas för att direkt ersätta System.Drawing.Common paketreferens i ditt projekt - all din befintliga kod som använder System.Drawing API kommer att fortsätta att fungera, men nu på alla .NET-stödda plattformar. Ritbiblioteket stöder rendering av vektorgrafik som linjer, kurvor och figurer samt text i en mängd olika typsnitt, storlekar och stilar på rasterbilder. Bilder kan sparas i alla vanliga grafikformat inklusive BMP, PNG, JPEG, GIF och TIFF. Aspose.Drawing är ett rent .NET-bibliotek och förlitar sig inte på någon extern inbyggd renderingsmotor.
+ Aspose.Drawing-paketet kan användas för att direkt ersätta System.Drawing.Common-paketreferensen i ditt projekt - all din befintliga kod som använder System.Drawing API kommer att fortsätta att fungera, men nu på vilken .NET-stödd plattform som helst. Ritbiblioteket stöder rendering av vektorgrafik som linjer, kurvor och figurer samt text i en mängd olika typsnitt, storlekar och stilar på rasterbilder. Bilder kan sparas i alla vanliga grafikformat inklusive BMP, PNG, JPEG, GIF och TIFF. Aspose.Drawing är ett rent .NET-bibliotek och är inte beroende av någon extern inbyggd renderingsmotor.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -209,7 +209,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Ritnings-API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -244,8 +244,8 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Skapa bitmappar från början eller ladda befintliga filer
+    <p class="col-lg-10"><a href="create/">Skapa bitmappar från grunden</a>
+     eller ladda befintliga filer
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,7 +317,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
      Rita vektorgrafik
     </h2>
     <p>
-     Aspose.Drawing för .NET tillåter att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal andra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. Här är t.ex. kod för att rita båge.
+     Aspose.Drawing för .NET gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal andra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. Här är t.ex. kod för att rita båge.
     </p>
     <div class="codeblock" id="code">
      <h3>

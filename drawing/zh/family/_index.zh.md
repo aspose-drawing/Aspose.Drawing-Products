@@ -11,8 +11,8 @@ description: 2D 图形库，用于渲染矢量图形、显示文本以及以常�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing 高代码 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/zh/net/" >}}
-用于绘制文本、几何图形和图像的.NET图形库，可直接替换System.Drawing.Common包，而无需更改现有的C#代码。
+{{< blocks/products/pf/product pfName="Aspose.Drawing 为" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/zh/net/" >}}
+.NET图形库，用于绘制文本、几何图形和图像，可直接替换System.Drawing.Common软件包，无需更改现有C#代码。
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

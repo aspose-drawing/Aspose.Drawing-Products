@@ -9,10 +9,10 @@ description: Thư viện đồ họa 2D để hiển thị đồ họa vector, h
 {{< blocks/products/pf/i18n/upper-banner h1="Xử lý đồ họa 2D trên mọi nền tảng" h2="API gốc dành cho Bản vẽ 2D bao gồm hiển thị đồ họa vector và văn bản mà không cần bất kỳ sự phụ thuộc phần mềm nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Các API mã cao của Aspose.draw bao gồm" >}}
+{{< blocks/products/pf/product-card-row title="API mã cao Aspose.Drawing bao gồm" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/vi/net/" >}}
-Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.draw.Common mà không thay đổi mã C# hiện có.
+{{< blocks/products/pf/product pfName="Aspose.Drawing cho" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/vi/net/" >}}
+Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.Drawing.Common mà không thay đổi mã C# hiện có.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -32,7 +32,7 @@ Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh,
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại là dòng sản phẩm Aspose.draw?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại là dòng sản phẩm Aspose.Drawing?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

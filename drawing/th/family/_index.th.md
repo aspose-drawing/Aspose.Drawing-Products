@@ -11,15 +11,15 @@ description: ไลบรารีกราฟิก 2D เพื่อเรน
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code APIs รวมอยู่ด้วย" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/th/net/" >}}
-ไลบรารีกราฟิก .NET สำหรับการวาดข้อความ รูปทรงเรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System. Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
+{{< blocks/products/pf/product pfName="Aspose.Drawing สำหรับ" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/th/net/" >}}
+ไลบรารีกราฟิก .NET สำหรับการวาดข้อความ เรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System.Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="ทรัพยากรการเรียนรู้" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสารประกอบ" href="https://docs.aspose.com/drawing/" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-drawing" >}}
 {{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://reference.aspose.com/drawing/" >}}
@@ -32,7 +32,7 @@ description: ไลบรารีกราฟิก 2D เพื่อเรน
 {{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="ทำไมต้องเป็นตระกูลผลิตภัณฑ์ Aspose. Drawing?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="ทำไมต้องเป็นตระกูลผลิตภัณฑ์ Aspose.Drawing?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

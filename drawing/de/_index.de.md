@@ -11,7 +11,7 @@ description: High-Code-APIs und kostenlose Apps für das Zeichnen von 2D-Grafike
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High-Code-APIs enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/de/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing für" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/de/net/" >}}
 .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern, um das System.Drawing.Common-Paket direkt zu ersetzen, ohne den vorhandenen C#-Code zu ändern.
 {{< /blocks/products/pf/product >}}
 
@@ -19,7 +19,7 @@ description: High-Code-APIs und kostenlose Apps für das Zeichnen von 2D-Grafike
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing enthält keine Code-Anwendungen" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Keine Code-Anwendungen enthalten" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Text auf Bild" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Fügen Sie von jedem Gerät aus Text zu Bildern, Broschüren oder Memes hinzu.

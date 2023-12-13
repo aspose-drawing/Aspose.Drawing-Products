@@ -2,11 +2,11 @@
 title: Aspose.Drawing para .NET | Substituição System.Drawing.Common multiplataforma 
 weight: 20
 url: /pt/net/ 
-description: Biblioteca gráfica .NET para desenhar texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
+description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Substituição System.Drawing.Common multiplataforma" h2="Aspose.Drawing implementa a maior parte da API System.Drawing (incluindo manipulação de imagens, desenho vetorial e de texto) em código totalmente gerenciado, sem quaisquer dependências externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Substituição System.Drawing.Common multiplataforma" h2="O Aspose.Drawing implementa a maior parte da API do System.Drawing (incluindo manipulação de imagens, desenho vetorial e de texto) em código totalmente gerenciado, sem quaisquer dependências externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
@@ -237,15 +237,15 @@ description: Biblioteca gráfica .NET para desenhar texto, geometrias e imagens,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Recursos avançados da API gráfica .NET
+    Recursos avançados da API gráfica do .NET
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Criando bitmaps do zero ou carregando arquivos existentes
+    <p class="col-lg-10"><a href="create/">Crie bitmaps do zero</a>
+     ou carregue arquivos existentes
     </p>
    </div>
    <div class="col-lg-4">
@@ -321,7 +321,7 @@ description: Biblioteca gráfica .NET para desenhar texto, geometrias e imagens,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arco de desenho - C#
+      Arco de Desenho - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

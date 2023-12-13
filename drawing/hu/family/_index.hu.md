@@ -9,7 +9,7 @@ description: 2D Graphics Library vektorgrafikák megjelenítéséhez, szöveg me
 {{< blocks/products/pf/i18n/upper-banner h1="2D grafikát bármilyen platformon feldolgozhat" h2="Natív API-k 2D rajzhoz, beleértve a vektorgrafikák és szövegek szoftverfüggõségek nélküli renderelését." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API-k közé tartozik" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API-k tartalmazzák" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/hu/net/" >}}
 .NET grafikus könyvtár szövegek, geometriák és képek rajzolásához, a System.Drawing.Common csomag közvetlen helyettesítésére a meglévő C# kód megváltoztatása nélkül.
@@ -32,7 +32,7 @@ description: 2D Graphics Library vektorgrafikák megjelenítéséhez, szöveg me
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.Drawing termékcsalád?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért a Aspose.Drawing termékcsalád?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

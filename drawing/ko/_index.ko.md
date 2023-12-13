@@ -6,20 +6,20 @@ description: 2D 그래픽 드로잉을 위한 고급 코드 API 및 무료 앱. 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="그래픽 처리 솔루션" h2="2D 그래픽 드로잉을 위한 하이 코드 API 및 무료 앱입니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.드로잉 제품 솔루션" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="그래픽 처리 솔루션" h2="2D 그래픽 드로잉을 위한 하이 코드 API 및 무료 앱입니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing 제품 솔루션" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.드로잉 하이 코드 API에는 다음이 포함됩니다." >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing 하이 코드 API에는 다음이 포함됩니다." >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ko/net/" >}}
-텍스트, 형상 및 이미지를 그리기 위한 .NET 그래픽 라이브러리로 기존 C# 코드를 변경하지 않고 System. Drawing.Common 패키지를 직접 대체합니다.
+{{< blocks/products/pf/product pfName="Aspose.Drawing용" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ko/net/" >}}
+기존 C# 코드를 변경하지 않고 System.Drawing.Common 패키지를 직접 대체하기 위해 텍스트, 기하학 및 이미지를 그리기 위한 .NET 그래픽 라이브러리입니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ko/family/" innerText="모든 고급 코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose. Drawing 코드 없음 애플리케이션 포함" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing 코드 없음 애플리케이션 포함" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="이미지의 텍스트" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 모든 장치에서 이미지, 브로셔, 밈에 텍스트를 추가하세요.

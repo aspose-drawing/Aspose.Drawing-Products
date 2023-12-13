@@ -9,17 +9,17 @@ description: APIs de alto código e aplicativos gratuitos para desenho gráfico 
 {{< blocks/products/pf/i18n/upper-banner h1="Solução de processamento gráfico" h2="APIs High Code e aplicativos gratuitos para desenho gráfico 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Solução de produto Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="APIs Aspose.Drawing High Code incluem" >}}
+{{< blocks/products/pf/product-card-row title="APIs de alto código Aspose.Drawing incluem" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/pt/net/" >}}
-Biblioteca gráfica .NET para desenhar texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
+{{< blocks/products/pf/product pfName="Aspose.Drawing para" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/pt/net/" >}}
+Biblioteca gráfica .NET para desenho de texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/pt/family/" innerText="Ver todas as APIs de alto código" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing Nenhum aplicativo de código inclui" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing sem aplicativos de código incluídos" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Texto na imagem" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Adicione texto à imagem, folheto ou meme de qualquer dispositivo.

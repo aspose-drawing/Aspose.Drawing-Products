@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing dla .NET | System wieloplatformowy. Rysunek. Wspólna wymiana 
+title: Aspose.Drawing dla .NET | Wieloplatformowy zamiennik System.Drawing.Common 
 weight: 20
 url: /pl/net/ 
 description: Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów, bezpośrednio zastępująca pakiet System.Drawing.Common bez zmiany istniejącego kodu C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="System wieloplatformowy. Rysunek. Wspólna wymiana" h2="Aspose.Drawing implementuje większość interfejsu API System.Drawing (w tym manipulację obrazami, rysowanie wektorów i tekstu) w kodzie w pełni zarządzanym, bez żadnych zewnętrznych zależności." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Wieloplatformowy zamiennik System.Drawing.Common" h2="Aspose.Drawing implementuje większość API System.Drawing (w tym manipulację obrazami, rysowanie wektorów i tekstu) w postaci w pełni zarządzanego kodu, bez żadnych zewnętrznych zależności." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla .NET" >}}
 
@@ -14,7 +14,7 @@ description: Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Pakietu Aspose.Drawing można użyć do bezpośredniego zastąpienia odniesienia do pakietu System.Drawing.Common w projekcie — cały istniejący kod korzystający z interfejsu API System.Drawing będzie nadal działać, ale teraz na dowolnej platformie obsługiwanej przez platformę .NET. Biblioteka rysunków obsługuje renderowanie grafiki wektorowej, takiej jak linie, krzywe i figury, a także tekstu zapisanego różnymi czcionkami, rozmiarami i stylami na obrazach rastrowych. Obrazy można zapisywać we wszystkich powszechnie używanych formatach graficznych, w tym BMP, PNG, JPEG, GIF i TIFF. Aspose.Drawing jest czystą biblioteką .NET i nie opiera się na żadnym zewnętrznym, natywnym silniku renderującym.
+ Pakiet Aspose.Drawing może zostać użyty do bezpośredniego zastąpienia odniesienia do pakietu System.Drawing.Common w Twoim projekcie - cały istniejący kod korzystający z API System.Drawing będzie nadal działać, ale teraz na dowolnej platformie obsługiwanej przez .NET. Biblioteka rysunków obsługuje renderowanie grafiki wektorowej, takiej jak linie, krzywe i figury, a także tekstu zapisanego różnymi czcionkami, rozmiarami i stylami na obrazach rastrowych. Obrazy można zapisywać we wszystkich powszechnie używanych formatach graficznych, w tym BMP, PNG, JPEG, GIF i TIFF. Aspose.Drawing jest czystą biblioteką .NET i nie opiera się na żadnym zewnętrznym, natywnym silniku renderującym.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -244,8 +244,8 @@ description: Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Tworzenie bitmap od podstaw lub ładowanie istniejących plików
+    <p class="col-lg-10"><a href="create/">Twórz mapy bitowe od podstaw</a>
+     lub załaduj istniejące pliki
     </p>
    </div>
    <div class="col-lg-4">
@@ -321,7 +321,7 @@ description: Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Rysowanie łuku — C#
+      Rysowanie łuku - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

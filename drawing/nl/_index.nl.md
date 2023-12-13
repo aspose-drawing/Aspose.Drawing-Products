@@ -6,12 +6,12 @@ description: High Code API's en gratis apps voor grafische 2D-tekeningen. Mogeli
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Grafische verwerkingsoplossing" h2="High Code API's en gratis apps voor 2D grafische tekeningen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Productoplossing tekenen" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Grafische verwerkingsoplossing" h2="High Code API's en gratis apps voor 2D grafische tekeningen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing-productoplossing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code-API's omvatten" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API's omvatten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/nl/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing voor" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/nl/net/" >}}
 .NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 {{< /blocks/products/pf/product >}}
 
@@ -19,7 +19,7 @@ description: High Code API's en gratis apps voor grafische 2D-tekeningen. Mogeli
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing Bevat geen codetoepassingen" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Geen codetoepassingen inbegrepen" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Tekst op afbeelding" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Voeg tekst toe aan een afbeelding, brochure of een meme vanaf elk apparaat.

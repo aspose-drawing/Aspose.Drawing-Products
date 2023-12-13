@@ -1,12 +1,12 @@
 ---
-title: Aspose.Σχέδιο για .NET | Σύστημα πολλαπλών πλατφορμών. Σχέδιο. Κοινή αντικατάσταση 
+title: Aspose.Drawing για .NET | Αντικατάσταση cross-platform System.Drawing.Common 
 weight: 20
 url: /el/net/ 
 description: Βιβλιοθήκη γραφικών .NET για σχεδίαση κειμένου, γεωμετριών και εικόνων, για άμεση αντικατάσταση του πακέτου System.Drawing.Common χωρίς αλλαγή του υπάρχοντος κώδικα C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Σύστημα πολλαπλών πλατφορμών. Σχέδιο. Κοινή αντικατάσταση" h2="Το Aspose.Drawing υλοποιεί το μεγαλύτερο μέρος του System.Drawing API (συμπεριλαμβανομένου του χειρισμού εικόνας, του διανύσματος και του σχεδίου κειμένου) σε πλήρως διαχειριζόμενο κώδικα χωρίς εξωτερικές εξαρτήσεις." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Αντικατάσταση cross-platform System.Drawing.Common" h2="Το Aspose.Drawing υλοποιεί το μεγαλύτερο μέρος του System.Drawing API (συμπεριλαμβανομένου του χειρισμού εικόνας, του διανύσματος και του σχεδίου κειμένου) σε πλήρως διαχειριζόμενο κώδικα χωρίς εξωτερικές εξαρτήσεις." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="για .NET" >}}
 
@@ -14,7 +14,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Το πακέτο Aspose.Drawing μπορεί να χρησιμοποιηθεί για την άμεση αντικατάσταση του System.Drawing.Common αναφοράς πακέτου στο έργο σας - όλος ο υπάρχων κώδικάς σας που χρησιμοποιεί το System.Drawing API θα συνεχίσει να λειτουργεί, αλλά τώρα σε οποιαδήποτε πλατφόρμα που υποστηρίζεται .NET. Η βιβλιοθήκη σχεδίων υποστηρίζει την απόδοση διανυσματικών γραφικών, όπως γραμμές, καμπύλες και σχήματα, καθώς και κείμενο σε μια ποικιλία γραμματοσειρών, μεγεθών και στυλ σε εικόνες ράστερ. Οι εικόνες μπορούν να αποθηκευτούν σε όλες τις κοινώς χρησιμοποιούμενες μορφές γραφικών, συμπεριλαμβανομένων των BMP, PNG, JPEG, GIF και TIFF. Το Aspose.Drawing είναι μια καθαρή βιβλιοθήκη .NET και δεν βασίζεται σε καμία εξωτερική μηχανή απόδοσης.
+ Το πακέτο Aspose.Drawing μπορεί να χρησιμοποιηθεί για την άμεση αντικατάσταση της αναφοράς πακέτου System.Drawing.Common στο έργο σας - όλος ο υπάρχων κώδικάς σας που χρησιμοποιεί το System.Drawing API θα συνεχίσει να λειτουργεί, αλλά τώρα σε οποιαδήποτε υποστηριζόμενη πλατφόρμα .NET. Η βιβλιοθήκη σχεδίων υποστηρίζει την απόδοση διανυσματικών γραφικών, όπως γραμμές, καμπύλες και σχήματα, καθώς και κείμενο σε μια ποικιλία γραμματοσειρών, μεγεθών και στυλ σε εικόνες ράστερ. Οι εικόνες μπορούν να αποθηκευτούν σε όλες τις μορφές γραφικών που χρησιμοποιούνται συνήθως, συμπεριλαμβανομένων των BMP, PNG, JPEG, GIF και TIFF. Το Aspose.Drawing είναι μια καθαρή βιβλιοθήκη .NET και δεν βασίζεται σε καμία εξωτερική μηχανή απόδοσης.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Drawing για .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Drawing για το .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -80,7 +80,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
      Φόρτωση εικόνων
     </li>
     <li>
-     Καλλιέργεια
+     Περικοπή
     </li>
     <li>
      Απολέπιση
@@ -169,7 +169,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Drawing για .NET υποστηρίζει τις ακόλουθες [μορφές εικόνας](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Drawing για το .NET υποστηρίζει τις ακόλουθες [μορφές εικόνας](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -237,15 +237,15 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Προηγμένες δυνατότητες .NET Graphics API
+    Προηγμένες δυνατότητες API γραφικών .NET
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Δημιουργία bitmaps από την αρχή ή φόρτωση υπαρχόντων αρχείων
+    <p class="col-lg-10"><a href="create/">Δημιουργήστε bitmaps από την αρχή</a>
+     ή να φορτώσετε υπάρχοντα αρχεία
     </p>
    </div>
    <div class="col-lg-4">
@@ -294,7 +294,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστηρίζει άλφα ανάμειξη και αντι-αλλοίωση
+     Υποστηρίζει ανάμειξη άλφα και αντι-αλλοίωση
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,7 +317,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
      Σχεδιάστε διανυσματικά γραφικά
     </h2>
     <p>
-     Το Aspose.Drawing για .NET επιτρέπει τη σχεδίαση διαφορετικών διανυσματικών γραφικών, όπως τόξα, σφήνα Cardinal, σφήνα Bezier, ελλείψεις, κλειστές καμπύλες, γραμμές και μια σειρά άλλων τύπων. Χρειάζονται μόνο λίγες γραμμές κώδικα για τη σχεδίαση διαφορετικών τύπων διανυσματικών γραφικών χρησιμοποιώντας το API. Π.χ. εδώ είναι ο κώδικας για τη σχεδίαση τόξου.
+     Το Aspose.Drawing για .NET επιτρέπει τη σχεδίαση διαφορετικών διανυσματικών γραφικών, όπως τόξα, καρδινάλιο, σφήνα Bezier, ελλείψεις, κλειστές καμπύλες, γραμμές και μια σειρά άλλων τύπων. Χρειάζονται μόνο λίγες γραμμές κώδικα για τη σχεδίαση διαφορετικών τύπων διανυσματικών γραφικών χρησιμοποιώντας το API. Π.χ. εδώ είναι ο κώδικας για τη σχεδίαση τόξου.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -348,7 +348,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Drawing για .NET;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί το Aspose.Drawing για το .NET;" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

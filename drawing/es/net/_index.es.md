@@ -1,12 +1,12 @@
 ---
-title: Aspose.Dibujo para .NET | Sistema multiplataforma. Dibujo. Reemplazo común 
+title: Aspose.Drawing para .NET | Reemplazo multiplataforma System.Drawing.Common 
 weight: 20
 url: /es/net/ 
 description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágenes, para reemplazar directamente el paquete System.Drawing.Common sin cambiar el código C# existente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Sistema multiplataforma. Dibujo. Reemplazo común" h2="Aspose.Drawing implementa la mayor parte de la API System.Drawing (incluida la manipulación de imágenes, el dibujo vectorial y de texto) en código totalmente administrado sin dependencias externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Reemplazo multiplataforma System.Drawing.Common" h2="Aspose.Drawing implementa la mayor parte de la API System.Drawing (incluida la manipulación de imágenes, el dibujo vectorial y de texto) en código totalmente administrado sin dependencias externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
@@ -14,7 +14,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto: todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con .NET. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca .NET pura y no depende de ningún motor de renderizado nativo externo.
+ El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con .NET. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca .NET pura y no depende de ningún motor de renderizado nativo externo.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Una descripción general de Aspose.Drawing para .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="De un vistazo" description="Una descripción general de Aspose.Drawing para la API .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Drawing para .NET es compatible con .NET Framework versión 2.0, .NET Standard 2.0 o posterior." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Drawing para .NET admite .NET Framework versión 2.0, .NET Standard 2.0 o posterior." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -244,8 +244,8 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Crear mapas de bits desde cero o cargar archivos existentes
+    <p class="col-lg-10"><a href="create/">Crea mapas de bits desde cero</a>
+     o cargar archivos existentes
     </p>
    </div>
    <div class="col-lg-4">

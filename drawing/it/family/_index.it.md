@@ -11,7 +11,7 @@ description: Libreria grafica 2D per eseguire il rendering di grafica vettoriale
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Le API Aspose.Drawing High Code includono" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/it/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing per" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/it/net/" >}}
 Libreria grafica .NET per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 {{< /blocks/products/pf/product >}}
 

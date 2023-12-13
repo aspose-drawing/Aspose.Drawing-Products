@@ -6,12 +6,12 @@ description: Interfejsy API High Code i bezpłatne aplikacje do rysowania grafik
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozwiązanie do przetwarzania grafiki" h2="Interfejsy API High Code i bezpłatne aplikacje do rysowania grafiki 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Rozwiązanie produktu Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozwiązanie do przetwarzania grafiki" h2="Interfejsy API High Code i bezpłatne aplikacje do rysowania grafiki 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Rozwiązanie produktowe Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Zawierają interfejsy API Aspose.Drawing High Code" >}}
+{{< blocks/products/pf/product-card-row title="Zawiera interfejsy API wysokiego kodu Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/pl/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing za" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/pl/net/" >}}
 Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów, bezpośrednio zastępująca pakiet System.Drawing.Common bez zmiany istniejącego kodu C#.
 {{< /blocks/products/pf/product >}}
 
@@ -19,7 +19,7 @@ Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów, bezpośredn
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing Nie zawiera aplikacji kodu" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Brak aplikacji kodowych" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Tekst na obrazie" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Dodaj tekst do obrazu, broszury lub mema z dowolnego urządzenia.

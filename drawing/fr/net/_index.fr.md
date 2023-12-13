@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing pour .NET | Système multiplateforme.Drawing.Remplacement commun 
+title: Aspose.Drawing pour .NET | Remplacement multiplateforme du System.Drawing.Common 
 weight: 20
 url: /fr/net/ 
 description: Bibliothèque graphique .NET pour dessiner du texte, des géométries et des images, pour remplacer directement le package System.Drawing.Common sans modifier le code C# existant.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Système multiplateforme.Drawing.Remplacement commun" h2="Aspose.Drawing implémente la plupart des API System.Drawing (y compris la manipulation d'images, le dessin vectoriel et de texte) dans un code entièrement géré sans aucune dépendance externe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pour .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Remplacement multiplateforme du System.Drawing.Common" h2="Le Aspose.Drawing implémente la plupart des API du System.Drawing (y compris la manipulation d'images, le dessin vectoriel et de texte) dans un code entièrement géré sans aucune dépendance externe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pour .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pour .NET" >}}
 
@@ -14,7 +14,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Le package Aspose.Drawing peut être utilisé pour remplacer directement la référence du package System.Drawing.Common dans votre projet - tout votre code existant utilisant l'API System.Drawing continuera à fonctionner, mais désormais sur n'importe quelle plate-forme prise en charge par .NET. La bibliothèque de dessins prend en charge le rendu de graphiques vectoriels tels que des lignes, des courbes et des figures, ainsi que du texte dans une variété de polices, de tailles et de styles sur des images raster. Les images peuvent être enregistrées dans tous les formats graphiques couramment utilisés, notamment BMP, PNG, JPEG, GIF et TIFF. Aspose.Drawing est une bibliothèque .NET pure et ne repose sur aucun moteur de rendu natif externe.
+ Le package Aspose.Drawing peut être utilisé pour remplacer directement la référence du package System.Drawing.Common dans votre projet - tout votre code existant utilisant l'API System.Drawing continuera à fonctionner, mais désormais sur n'importe quelle plate-forme prise en charge par .NET. La bibliothèque de dessins prend en charge le rendu de graphiques vectoriels tels que des lignes, des courbes et des figures, ainsi que du texte dans une variété de polices, de tailles et de styles sur des images raster. Les images peuvent être enregistrées dans tous les formats graphiques couramment utilisés, notamment BMP, PNG, JPEG, GIF et TIFF. Aspose.Drawing est une pure bibliothèque .NET et ne repose sur aucun moteur de rendu natif externe.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En un coup d'œil" description="Présentation de l'API Aspose.Drawing pour .NET." >}}
+{{< blocks/products/pf/carousel-item h3="En un coup d'œil" description="Un aperçu du Aspose.Drawing pour l'API .NET." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -110,7 +110,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API de traitement de dessin .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="API de traitement des dessins .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -128,7 +128,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Aspose.Drawing pour .NET prend en charge .NET Framework version 2.0, .NET Standard 2.0 ou version ultérieure." >}}
+{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Le Aspose.Drawing pour .NET prend en charge le .NET Framework version 2.0, le .NET Standard 2.0 ou version ultérieure." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Drawing pour .NET prend en charge les [formats d'image](https://docs.aspose.com/drawing/net/supported-file-formats/) suivants." >}}
+{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Le Aspose.Drawing pour .NET prend en charge les [formats d'image](https://docs.aspose.com/drawing/net/supported-file-formats/) suivants." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -244,8 +244,8 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Créer des bitmaps à partir de zéro ou charger des fichiers existants
+    <p class="col-lg-10"><a href="create/">Créer des bitmaps à partir de zéro</a>
+     ou charger des fichiers existants
     </p>
    </div>
    <div class="col-lg-4">
@@ -321,7 +321,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Dessiner un arc - C#
+      Arc de dessin - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

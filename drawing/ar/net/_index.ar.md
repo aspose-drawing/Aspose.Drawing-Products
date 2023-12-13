@@ -1,20 +1,20 @@
 ---
-title: Aspose.Drawing لـ .NET | نظام متعدد المنصات.رسم.استبدال مشترك 
+title: Aspose.Drawing لـ .NET | استبدال System.Drawing.Common عبر الأنظمة الأساسية 
 weight: 20
 url: /ar/net/ 
-description: مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لتحل محل حزمة System.Drawing.Common مباشرةً دون تغيير كود C# الموجود.
+description: مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="نظام متعدد المنصات.رسم.استبدال مشترك" h2="ينفذ Aspose.Drawing معظم واجهة برمجة تطبيقات System.Drawing (بما في ذلك معالجة الصور والمتجهات ورسم النص) في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="ل.NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="استبدال System.Drawing.Common عبر الأنظمة الأساسية" h2="تطبق Aspose.Drawing معظم واجهة برمجة تطبيقات System.Drawing (بما في ذلك معالجة الصور ورسم المتجهات ورسم النص) في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="ل .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="ل.NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="ل .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- يمكن استخدام حزمة Aspose.Drawing لاستبدال مرجع حزمة System.Drawing.Common مباشرة في مشروعك - ستستمر جميع التعليمات البرمجية الموجودة لديك باستخدام System.Drawing API في العمل، ولكن الآن على أي نظام أساسي مدعوم من .NET. تدعم مكتبة الرسم عرض الرسومات المتجهة مثل الخطوط والمنحنيات والأشكال بالإضافة إلى النص في مجموعة متنوعة من الخطوط والأحجام والأنماط على الصور النقطية. يمكن حفظ الصور بجميع تنسيقات الرسومات شائعة الاستخدام بما في ذلك BMP وPNG وJPEG وGIF وTIFF. Aspose.Drawing عبارة عن مكتبة .NET خالصة ولا تعتمد على أي محرك عرض أصلي خارجي.
+ يمكن استخدام حزمة Aspose.Drawing لاستبدال مرجع حزمة System.Drawing.Common مباشرة في مشروعك - ستستمر جميع التعليمات البرمجية الموجودة لديك باستخدام System.Drawing API في العمل، ولكن الآن على أي نظام أساسي مدعوم من .NET. تدعم مكتبة الرسم عرض الرسومات المتجهة مثل الخطوط والمنحنيات والأشكال بالإضافة إلى النص بمجموعة متنوعة من الخطوط والأحجام والأنماط على الصور النقطية. يمكن حفظ الصور بجميع تنسيقات الرسومات شائعة الاستخدام بما في ذلك BMP وPNG وJPEG وGIF وTIFF. Aspose.Drawing هي مكتبة .NET خالصة ولا تعتمد على أي محرك عرض أصلي خارجي.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -110,7 +110,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET واجهة برمجة تطبيقات معالجة الرسم" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="واجهة برمجة تطبيقات معالجة الرسم .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -128,7 +128,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="يدعم Aspose.Drawing ل.NET الإصدار 2.0 من .NET Framework أو .NET Standard 2.0 أو الأحدث." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="يدعم Aspose.Drawing لـ .NET الإصدار 2.0 من .NET Framework أو .NET Standard 2.0 أو الأحدث." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Drawing ل.NET [تنسيقات الصور] التالية (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Drawing لـ .NET [تنسيقات الصور] التالية (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -209,7 +209,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET الرسم API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="واجهة برمجة تطبيقات الرسم .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -237,15 +237,15 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    ميزات .NET Graphics API المتقدمة
+    ميزات واجهة برمجة تطبيقات الرسومات .NET المتقدمة
    </h2>
    <p>
    </p>
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     إنشاء صور نقطية من البداية أو تحميل الملفات الموجودة
+    <p class="col-lg-10"><a href="create/">إنشاء صور نقطية من البداية</a>
+     أو تحميل الملفات الموجودة
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,11 +317,11 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
      رسم الرسومات المتجهة
     </h2>
     <p>
-     يسمح Aspose.Drawing ل.NET برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal Spline، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
+     يسمح Aspose.Drawing لـ .NET برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal Spline، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      قوس الرسم – C#
+      رسم القوس - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

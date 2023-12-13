@@ -9,10 +9,10 @@ description: 벡터 그래픽을 렌더링하고, 텍스트를 표시하고, 일
 {{< blocks/products/pf/i18n/upper-banner h1="모든 플랫폼에서 2D 그래픽 처리" h2="소프트웨어 종속성 없이 벡터 그래픽 및 텍스트 렌더링을 포함하는 2D 드로잉용 기본 API입니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.드로잉 하이 코드 API에는 다음이 포함됩니다." >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing 하이 코드 API에는 다음이 포함됩니다." >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ko/net/" >}}
-텍스트, 형상 및 이미지를 그리기 위한 .NET 그래픽 라이브러리로 기존 C# 코드를 변경하지 않고 System. Drawing.Common 패키지를 직접 대체합니다.
+{{< blocks/products/pf/product pfName="Aspose.Drawing용" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ko/net/" >}}
+기존 C# 코드를 변경하지 않고 System.Drawing.Common 패키지를 직접 대체하기 위해 텍스트, 기하학 및 이미지를 그리기 위한 .NET 그래픽 라이브러리입니다.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -32,7 +32,7 @@ description: 벡터 그래픽을 렌더링하고, 텍스트를 표시하고, 일
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Aspose.드로잉 제품군을 선택해야 하는 이유는 무엇입니까?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Drawing 제품군인가?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

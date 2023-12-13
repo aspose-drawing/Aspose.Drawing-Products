@@ -2,7 +2,7 @@
 title: 2B Çizim API'si
 weight: 10
 url: /tr/family
-description: Vektör grafiklerini oluşturmak, metni görüntülemek ve çizim sonuçlarını yaygın olarak kullanılan grafik dosyası formatlarında kaydetmek için 2B Grafik Kitaplığı
+description: Vektör grafiklerini oluşturmak, metni görüntülemek ve çizim sonuçlarını yaygın olarak kullanılan grafik dosyası formatlarında kaydetmek için 2D Grafik Kitaplığı
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -11,7 +11,7 @@ description: Vektör grafiklerini oluşturmak, metni görüntülemek ve çizim s
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing Yüksek Kod API'leri şunları içerir:" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/tr/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing için" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/tr/net/" >}}
 Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini doğrudan değiştirmek için metin, geometri ve görüntü çizmeye yönelik .NET grafik kitaplığı.
 {{< /blocks/products/pf/product >}}
 

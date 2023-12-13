@@ -11,7 +11,7 @@ description: Biblioteca de gráficos 2D para representar gráficos vectoriales, 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Las API de código alto de Aspose.Drawing incluyen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/es/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing para" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/es/net/" >}}
 Biblioteca gráfica .NET para dibujar texto, geometrías e imágenes, para reemplazar directamente el paquete System.Drawing.Common sin cambiar el código C# existente.
 {{< /blocks/products/pf/product >}}
 

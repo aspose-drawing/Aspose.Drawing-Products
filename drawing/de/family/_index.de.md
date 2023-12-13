@@ -11,7 +11,7 @@ description: 2D-Grafikbibliothek zum Rendern von Vektorgrafiken, Anzeigen von Te
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High-Code-APIs enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/de/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing für" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/de/net/" >}}
 .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern, um das System.Drawing.Common-Paket direkt zu ersetzen, ohne den vorhandenen C#-Code zu ändern.
 {{< /blocks/products/pf/product >}}
 
@@ -32,7 +32,7 @@ description: 2D-Grafikbibliothek zum Rendern von Vektorgrafiken, Anzeigen von Te
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Warum die Produktfamilie Aspose.Drawing?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Drawing-Produktfamilie?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundenliste" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

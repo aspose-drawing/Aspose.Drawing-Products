@@ -6,12 +6,12 @@ description: API Kode Tinggi dan Aplikasi Gratis untuk menggambar grafis 2D. Kem
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solusi Pemrosesan Grafis" h2="API Kode Tinggi dan aplikasi gratis untuk menggambar grafis 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Menggambar Solusi Produk" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solusi Pemrosesan Grafis" h2="API Kode Tinggi dan aplikasi gratis untuk menggambar grafis 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Solusi Produk Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Menggambar API Kode Tinggi Termasuk" >}}
+{{< blocks/products/pf/product-card-row title="Termasuk API Kode Tinggi Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/id/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing untuk" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/id/net/" >}}
 Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 {{< /blocks/products/pf/product >}}
 
@@ -19,7 +19,7 @@ Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung 
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Gambar Tanpa Kode Aplikasi Sertakan" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing Tidak Termasuk Aplikasi Kode" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Teks pada Gambar" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_textonimage-app.png" productLink="https://products.aspose.app/drawing/text-on-image" >}}
 Tambahkan teks ke gambar, brosur, meme dari perangkat apa pun.

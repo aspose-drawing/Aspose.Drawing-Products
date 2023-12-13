@@ -22,7 +22,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über Aspose.Drawing für .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die Aspose.Drawing für die .NET-API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -244,8 +244,8 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Erstellen Sie Bitmaps von Grund auf oder laden Sie vorhandene Dateien
+    <p class="col-lg-10"><a href="create/">Erstellen Sie Bitmaps von Grund auf</a>
+     oder vorhandene Dateien laden
     </p>
    </div>
    <div class="col-lg-4">
@@ -321,7 +321,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Bogen zeichnen – C#
+      Zeichnungsbogen - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

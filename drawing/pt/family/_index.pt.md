@@ -9,10 +9,10 @@ description: Biblioteca de gráficos 2D para renderizar gráficos vetoriais, exi
 {{< blocks/products/pf/i18n/upper-banner h1="Processe gráficos 2D em qualquer plataforma" h2="APIs nativas para desenho 2D, incluindo renderização de gráficos vetoriais e texto sem qualquer dependência de software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="APIs Aspose.Drawing High Code incluem" >}}
+{{< blocks/products/pf/product-card-row title="APIs de alto código Aspose.Drawing incluem" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/pt/net/" >}}
-Biblioteca gráfica .NET para desenhar texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
+{{< blocks/products/pf/product pfName="Aspose.Drawing para" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/pt/net/" >}}
+Biblioteca gráfica .NET para desenho de texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

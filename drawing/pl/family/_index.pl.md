@@ -9,9 +9,9 @@ description: Biblioteka grafiki 2D do renderowania grafiki wektorowej, wyświetl
 {{< blocks/products/pf/i18n/upper-banner h1="Przetwarzaj grafikę 2D na dowolnej platformie" h2="Natywne interfejsy API do rysowania 2D, w tym renderowanie grafiki wektorowej i tekstu bez żadnych zależności programowych." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Zawierają interfejsy API Aspose.Drawing High Code" >}}
+{{< blocks/products/pf/product-card-row title="Zawiera interfejsy API wysokiego kodu Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/pl/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing za" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/pl/net/" >}}
 Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów, bezpośrednio zastępująca pakiet System.Drawing.Common bez zmiany istniejącego kodu C#.
 {{< /blocks/products/pf/product >}}
 

@@ -1,12 +1,12 @@
 ---
-title: .NET के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म सिस्टम.ड्राइंग.सामान्य प्रतिस्थापन 
+title: .NET के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म System.Drawing.Common प्रतिस्थापन 
 weight: 20
 url: /hi/net/ 
-description: मौजूदा C# कोड को बदले बिना System.Drawing.Common पैकेज को सीधे बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफ़िक लाइब्रेरी।
+description: मौजूदा C# कोड को बदले बिना सीधे System.Drawing.Common पैकेज को बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफिक लाइब्रेरी।
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="क्रॉस-प्लेटफ़ॉर्म सिस्टम.ड्राइंग.सामान्य प्रतिस्थापन" h2="Aspose.Drawing बिना किसी बाहरी निर्भरता के पूरी तरह से प्रबंधित कोड में अधिकांश System.Drawing API (छवि हेरफेर, वेक्टर और टेक्स्ट ड्राइंग सहित) को लागू करता है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET के लिए" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="क्रॉस-प्लेटफ़ॉर्म System.Drawing.Common प्रतिस्थापन" h2="Aspose.Drawing अधिकांश System.Drawing API (छवि हेरफेर, वेक्टर और टेक्स्ट ड्राइंग सहित) को बिना किसी बाहरी निर्भरता के पूरी तरह से प्रबंधित कोड में लागू करता है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET के लिए" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET के लिए" >}}
 
@@ -14,7 +14,7 @@ description: मौजूदा C# कोड को बदले बिना Sy
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing पैकेज का उपयोग सीधे आपके प्रोजेक्ट में System.Drawing.Common पैकेज संदर्भ को बदलने के लिए किया जा सकता है - System.Drawing API का उपयोग करने वाले आपके सभी मौजूदा कोड काम करना जारी रखेंगे, लेकिन अब किसी भी .NET समर्थित प्लेटफ़ॉर्म पर। ड्राइंग लाइब्रेरी रेखापुंज छवियों पर वेक्टर ग्राफिक्स जैसे रेखाओं, वक्रों और आकृतियों के साथ-साथ विभिन्न प्रकार के फ़ॉन्ट, आकार और शैलियों में पाठ को प्रस्तुत करने का समर्थन करती है। छवियों को बीएमपी, पीएनजी, जेपीईजी, जीआईएफ और टीआईएफएफ सहित सभी सामान्य रूप से उपयोग किए जाने वाले ग्राफिक्स प्रारूपों में सहेजा जा सकता है। Aspose.Drawing एक शुद्ध .NET लाइब्रेरी है और यह किसी बाहरी देशी रेंडरिंग इंजन पर निर्भर नहीं है।
+ Aspose.Drawing पैकेज का उपयोग सीधे आपके प्रोजेक्ट में System.Drawing.Common पैकेज संदर्भ को बदलने के लिए किया जा सकता है - System.Drawing API का उपयोग करने वाले आपके सभी मौजूदा कोड काम करना जारी रखेंगे, लेकिन अब किसी भी .NET समर्थित प्लेटफ़ॉर्म पर। ड्राइंग लाइब्रेरी रेखापुंज छवियों पर वेक्टर ग्राफिक्स जैसे रेखाओं, वक्रों और आकृतियों के साथ-साथ विभिन्न प्रकार के फ़ॉन्ट, आकार और शैलियों में पाठ को प्रस्तुत करने का समर्थन करती है। छवियों को BMP, PNG, JPEG, GIF और TIFF सहित सभी सामान्य रूप से उपयोग किए जाने वाले ग्राफिक्स प्रारूपों में सहेजा जा सकता है। Aspose.Drawing एक शुद्ध .NET लाइब्रेरी है और यह किसी बाहरी देशी रेंडरिंग इंजन पर निर्भर नहीं है।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -128,7 +128,7 @@ description: मौजूदा C# कोड को बदले बिना Sy
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=".NET के लिए Aspose.Drawing .NET Framework संस्करण 2.0, .NET मानक 2.0 या बाद के संस्करण का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=".NET के लिए Aspose.Drawing .NET Framework संस्करण 2.0, .NET Standard 2.0 या बाद के संस्करण का समर्थन करता है।" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -244,8 +244,8 @@ description: मौजूदा C# कोड को बदले बिना Sy
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     स्क्रैच से बिटमैप बनाना या मौजूदा फ़ाइलों को लोड करना
+    <p class="col-lg-10"><a href="create/">शुरुआत से बिटमैप बनाएं</a>
+     या मौजूदा फ़ाइलें लोड करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -321,7 +321,7 @@ description: मौजूदा C# कोड को बदले बिना Sy
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ड्राइंग आर्क - सी#
+      ड्राइंग आर्क - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

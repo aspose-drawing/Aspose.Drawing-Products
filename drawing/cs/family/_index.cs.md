@@ -11,7 +11,7 @@ description: Knihovna 2D grafiky pro vykreslování vektorové grafiky, zobrazen
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API zahrnuje" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/cs/net/" >}}
+{{< blocks/products/pf/product pfName="za Aspose.Drawing" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/cs/net/" >}}
 Grafická knihovna .NET pro kreslení textu, geometrií a obrázků, která přímo nahrazuje balíček System.Drawing.Common bez změny stávajícího kódu C#.
 {{< /blocks/products/pf/product >}}
 

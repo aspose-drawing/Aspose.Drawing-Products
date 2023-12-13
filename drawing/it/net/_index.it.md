@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing per .NET | Sistema multipiattaforma. Disegno. Sostituzione comune 
+title: Aspose.Drawing per .NET | Sostituzione System.Drawing.Common multipiattaforma 
 weight: 20
 url: /it/net/ 
 description: Libreria grafica .NET per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Sistema multipiattaforma. Disegno. Sostituzione comune" h2="Aspose.Drawing implementa la maggior parte dell'API System.Drawing (inclusa la manipolazione delle immagini, il disegno vettoriale e di testo) in codice completamente gestito senza dipendenze esterne." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Sostituzione System.Drawing.Common multipiattaforma" h2="Aspose.Drawing implementa la maggior parte dell'API System.Drawing (inclusa manipolazione di immagini, disegno vettoriale e di testo) in codice completamente gestito senza dipendenze esterne." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
@@ -169,7 +169,7 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Drawing per .NET supporta i seguenti [formati di immagine](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Drawing per .NET supporta i seguenti [formati immagine](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -244,8 +244,8 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Creare bitmap da zero o caricare file esistenti
+    <p class="col-lg-10"><a href="create/">Crea bitmap da zero</a>
+     o caricare file esistenti
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,11 +317,11 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
      Disegna grafica vettoriale
     </h2>
     <p>
-     Aspose.Drawing per .NET consente di disegnare diversi elementi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. Ad esempio, ecco il codice per disegnare l'arco.
+     Aspose.Drawing per .NET consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. Ad esempio, ecco il codice per disegnare l'arco.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arco di disegno - C#
+      Arco da disegno - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

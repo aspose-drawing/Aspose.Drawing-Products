@@ -9,10 +9,10 @@ description: مكتبة الرسومات ثنائية الأبعاد لتقدي�
 {{< blocks/products/pf/i18n/upper-banner h1="معالجة الرسومات ثنائية الأبعاد على أي منصة" h2="واجهات برمجة التطبيقات الأصلية للرسم ثنائي الأبعاد، بما في ذلك عرض الرسومات المتجهة والنصوص دون أي تبعيات برمجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing تتضمن واجهات برمجة التطبيقات ذات التعليمات البرمجية العالية" >}}
+{{< blocks/products/pf/product-card-row title="تتضمن واجهات برمجة التطبيقات ذات الكود العالي Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ar/net/" >}}
-مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لتحل محل حزمة System.Drawing.Common مباشرةً دون تغيير كود C# الموجود.
+{{< blocks/products/pf/product pfName="Aspose.Drawing ل" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ar/net/" >}}
+مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

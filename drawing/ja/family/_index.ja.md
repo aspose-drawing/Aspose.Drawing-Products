@@ -11,8 +11,8 @@ description: ベクトル グラフィックスのレンダリング、テキス
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing ハイコード API には以下が含まれます" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ja/net/" >}}
-テキスト、ジオメトリ、イメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
+{{< blocks/products/pf/product pfName="Aspose.Drawing用" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ja/net/" >}}
+テキスト、ジオメトリ、およびイメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -32,7 +32,7 @@ description: ベクトル グラフィックスのレンダリング、テキス
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Aspose.Drawing 製品ファミリーを選ぶ理由" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Drawing 製品ファミリーなのか?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="成功事例" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

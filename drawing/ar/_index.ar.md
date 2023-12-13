@@ -1,18 +1,18 @@
 ---
-title: حل الرسم الجرافيكي ثنائي الأبعاد 
+title: حل الرسم ثنائي الأبعاد 
 weight: 30
 url: /ar/
 description: واجهات برمجة التطبيقات ذات الكود العالي والتطبيقات المجانية لرسم الرسومات ثنائية الأبعاد. القدرة على رسم النصوص والخطوط والمنحنيات والأشكال وكذلك تحويل الصور إلى تنسيقات مختلفة.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="حل معالجة الرسومات" h2="واجهات برمجة تطبيقات High Code وتطبيقات مجانية لرسم الرسومات ثنائية الأبعاد." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing حل المنتج" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="حل معالجة الرسومات" h2="واجهات برمجة تطبيقات High Code وتطبيقات مجانية لرسم الرسومات ثنائية الأبعاد." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="حل المنتج Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing تتضمن واجهات برمجة التطبيقات ذات التعليمات البرمجية العالية" >}}
+{{< blocks/products/pf/product-card-row title="تتضمن واجهات برمجة التطبيقات ذات الكود العالي Aspose.Drawing" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ar/net/" >}}
-مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لتحل محل حزمة System.Drawing.Common مباشرةً دون تغيير كود C# الموجود.
+{{< blocks/products/pf/product pfName="Aspose.Drawing ل" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ar/net/" >}}
+مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ar/family/" innerText="عرض جميع واجهات برمجة التطبيقات ذات الكود العالي" >}}

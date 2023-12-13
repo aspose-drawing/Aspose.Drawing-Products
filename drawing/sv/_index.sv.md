@@ -6,12 +6,12 @@ description: High Code API:er och gratisappar för 2D-grafikritning. Möjlighet 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Lösning för grafisk bearbetning" h2="High Code API:er och gratisappar för 2D-grafikritning." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Produktlösning" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Lösning för grafisk bearbetning" h2="High Code API:er och gratisappar för 2D-grafikritning." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing produktlösning" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code APIs inkluderar" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API:er inkluderar" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/sv/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Drawing för" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/sv/net/" >}}
 .NET grafiskt bibliotek för att rita text, geometrier och bilder, för att direkt ersätta System.Drawing.Common-paketet utan att ändra befintlig C#-kod.
 {{< /blocks/products/pf/product >}}
 

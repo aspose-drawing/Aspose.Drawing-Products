@@ -9,10 +9,10 @@ description: 2डी ग्राफ़िक्स लाइब्रेरी 
 {{< blocks/products/pf/i18n/upper-banner h1="किसी भी प्लेटफ़ॉर्म पर 2डी ग्राफ़िक्स को प्रोसेस करें" h2="2डी ड्राइंग के लिए नेटिव एपीआई, जिसमें बिना किसी सॉफ्टवेयर निर्भरता के वेक्टर ग्राफिक्स और टेक्स्ट को प्रस्तुत करना शामिल है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing हाई कोड एपीआई शामिल करें" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing हाई कोड एपीआई शामिल हैं" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/hi/net/" >}}
-मौजूदा C# कोड को बदले बिना System.Drawing.Common पैकेज को सीधे बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफ़िक लाइब्रेरी।
+{{< blocks/products/pf/product pfName="Aspose.Drawing के लिए" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/hi/net/" >}}
+मौजूदा C# कोड को बदले बिना सीधे System.Drawing.Common पैकेज को बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफिक लाइब्रेरी।
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

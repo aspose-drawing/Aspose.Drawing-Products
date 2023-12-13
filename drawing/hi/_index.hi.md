@@ -6,13 +6,13 @@ description: 2डी ग्राफिक्स ड्राइंग के �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ग्राफ़िक्स प्रोसेसिंग समाधान" h2="2डी ग्राफिक्स ड्राइंग के लिए हाई कोड एपीआई और मुफ्त ऐप्स।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.ड्राइंग उत्पाद समाधान" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ग्राफ़िक्स प्रोसेसिंग समाधान" h2="2डी ग्राफिक्स ड्राइंग के लिए हाई कोड एपीआई और मुफ्त ऐप्स।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing उत्पाद समाधान" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Drawing हाई कोड एपीआई शामिल करें" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Drawing हाई कोड एपीआई शामिल हैं" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/hi/net/" >}}
-मौजूदा C# कोड को बदले बिना System.Drawing.Common पैकेज को सीधे बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफ़िक लाइब्रेरी।
+{{< blocks/products/pf/product pfName="Aspose.Drawing के लिए" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/hi/net/" >}}
+मौजूदा C# कोड को बदले बिना सीधे System.Drawing.Common पैकेज को बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफिक लाइब्रेरी।
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/hi/family/" innerText="सभी हाई कोड एपीआई देखें" >}}

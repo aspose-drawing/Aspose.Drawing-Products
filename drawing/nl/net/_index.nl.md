@@ -1,12 +1,12 @@
 ---
-title: Aspose.Tekening voor .NET | Platformonafhankelijk systeem. Tekening. Algemene vervanging 
+title: Aspose.Drawing voor .NET | Platformonafhankelijke System.Drawing.Common-vervanging 
 weight: 20
 url: /nl/net/ 
 description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Platformonafhankelijk systeem. Tekening. Algemene vervanging" h2="Aspose.Drawing implementeert het grootste deel van de System.Drawing API (inclusief beeldmanipulatie, vector- en teksttekeningen) in volledig beheerde code zonder enige externe afhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Platformonafhankelijke System.Drawing.Common-vervanging" h2="Aspose.Drawing implementeert het grootste deel van de System.Drawing API (inclusief beeldmanipulatie, vector- en teksttekeningen) in volledig beheerde code zonder enige externe afhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
@@ -14,7 +14,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Het Aspose.Drawing-pakket kan worden gebruikt om de System.Drawing.Common-pakketreferentie in uw project direct te vervangen. Al uw bestaande code met de System.Drawing API blijft werken, maar nu op elk door .NET ondersteund platform. De tekenbibliotheek ondersteunt het renderen van vectorafbeeldingen zoals lijnen, curven en figuren, evenals tekst in verschillende lettertypen, formaten en stijlen op rasterafbeeldingen. Afbeeldingen kunnen worden opgeslagen in alle gangbare grafische formaten, waaronder BMP, PNG, JPEG, GIF en TIFF. Aspose.Drawing is een pure .NET-bibliotheek en is niet afhankelijk van een externe native rendering-engine.
+ Het Aspose.Drawing-pakket kan worden gebruikt om de System.Drawing.Common-pakketreferentie in uw project direct te vervangen - al uw bestaande code met behulp van de System.Drawing API blijft werken, maar nu op elk door .NET ondersteund platform. De tekenbibliotheek ondersteunt het renderen van vectorafbeeldingen zoals lijnen, curven en figuren, evenals tekst in verschillende lettertypen, formaten en stijlen op rasterafbeeldingen. Afbeeldingen kunnen worden opgeslagen in alle gangbare grafische formaten, waaronder BMP, PNG, JPEG, GIF en TIFF. Aspose.Drawing is een pure .NET-bibliotheek en is niet afhankelijk van een externe native rendering-engine.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van Aspose.Drawing voor .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van de Aspose.Drawing voor .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -74,7 +74,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
    </header>
    <ul>
     <li>
-     Bitmaps maken
+     Maak bitmaps
     </li>
     <li>
      Laad afbeeldingen
@@ -110,7 +110,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET-API voor tekenverwerking" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt=".NET API voor tekeningverwerking" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -244,8 +244,8 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">
-     Maak vanaf het begin bitmaps of laad bestaande bestanden
+    <p class="col-lg-10"><a href="create/">Maak vanaf het begin bitmaps</a>
+     of bestaande bestanden laden
     </p>
    </div>
    <div class="col-lg-4">

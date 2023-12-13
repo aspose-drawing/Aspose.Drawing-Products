@@ -11,8 +11,8 @@ description: 2D グラフィックス描画用のハイコード API と無料�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing ハイコード API には以下が含まれます" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Drawing for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ja/net/" >}}
-テキスト、ジオメトリ、イメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
+{{< blocks/products/pf/product pfName="Aspose.Drawing用" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/ja/net/" >}}
+テキスト、ジオメトリ、およびイメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ja/family/" innerText="すべてのハイコード API を表示" >}}
@@ -45,7 +45,7 @@ description: 2D グラフィックス描画用のハイコード API と無料�
 <p class="first">
  私たちはかなり長い間 Aspose を使用してきましたが、Aspose 関連のバグは 1 つも発生していません。
  <em>
-  ジャック・ゴーデン |ビコア（オランダ）
+  ジャック・ゴーデン |ビコア、オランダ
  </em>
 </p>
 

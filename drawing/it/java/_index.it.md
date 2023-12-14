@@ -1,67 +1,67 @@
 ---
-title: Aspose.Drawing for Java | Cross-platform System.Drawing.Common replacement 
+title: Aspose.Drawing per Java | Sistema multipiattaforma. Disegno. Sostituzione comune 
 weight: 20
-url: /java/ 
-description: Java graphic library for drawing text, geometries, and images, to directly replace System.Drawing.Common package without changing existing C# code.
+url: /it/java/ 
+description: Libreria grafica Java per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Cross-platform System.Drawing.Common replacement" h2="Aspose.Drawing implements most of System.Drawing API (including image manipulation, vector and text drawing) in fully managed code without any external dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Sistema multipiattaforma. Disegno. Sostituzione comune" h2="Aspose.Drawing implementa la maggior parte dell'API System.Drawing (inclusa la manipolazione delle immagini, il disegno vettoriale e di testo) in codice completamente gestito senza dipendenze esterne." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="per Giava" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per Giava" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing package can be used to directly replace System.Drawing.Common package reference in your project - all your existing code using System.Drawing API will continue to work, but now on any Java supported platform. The drawing library supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images. Images can be saved in all commonly used graphics formats including BMP, PNG, JPEG, GIF, and TIFF. Aspose.Drawing is a pure Java library and does not rely on any external native rendering engine.
+ Il pacchetto Aspose.Drawing può essere utilizzato per sostituire direttamente il riferimento al pacchetto System.Drawing.Common nel tuo progetto: tutto il codice esistente che utilizza l'API System.Drawing continuerà a funzionare, ma ora su qualsiasi piattaforma supportata da Java. La libreria di disegni supporta il rendering di grafica vettoriale come linee, curve e figure, nonché testo in una varietà di caratteri, dimensioni e stili su immagini raster. Le immagini possono essere salvate in tutti i formati grafici comunemente utilizzati, inclusi BMP, PNG, JPEG, GIF e TIFF. Aspose.Drawing è una libreria Java pura e non si basa su alcun motore di rendering nativo esterno.
 </p>
 
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/carousel >}}
+{{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Drawing for Java API." >}}
+{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica dell'API Aspose.Drawing per Java." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Vector Graphics
+    Grafica vettoriale
    </header>
    <ul>
     <li>
-     Draw Lines and Curves
+     Disegna linee e curve
     </li>
     <li>
-     Draw Shapes
+     Disegna forme
     </li>
     <li>
-     Use Pens
+     Usa le penne
     </li>
     <li>
-     Use Brushes
+     Usa i pennelli
     </li>
     <li>
-     Render Text
+     Rendering del testo
     </li>
     <li>
-     Use Different Fonts
+     Utilizza caratteri diversi
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Transformations
+    Trasformazioni
    </header>
    <ul>
     <li>
-     Matrix
+     Matrice
     </li>
     <li>
-     Global and Local
+     Globale e locale
     </li>
    </ul>
   </div>
@@ -70,23 +70,23 @@ description: Java graphic library for drawing text, geometries, and images, to d
    <header>
     <i class="fa fa-picture-o">
     </i>
-    Image Operations
+    Operazioni sulle immagini
    </header>
    <ul>
     <li>
-     Create bitmaps
+     Crea bitmap
     </li>
     <li>
-     Load Images
+     Carica immagini
     </li>
     <li>
-     Cropping
+     Ritaglio
     </li>
     <li>
-     Scaling
+     Ridimensionamento
     </li>
     <li>
-     Save Images
+     Salva immagini
     </li>
    </ul>
    <header>
@@ -96,13 +96,13 @@ description: Java graphic library for drawing text, geometries, and images, to d
    </header>
    <ul>
     <li>
-     Antialiasing
+     Anti aliasing
     </li>
     <li>
-     Clipping
+     Ritaglio
     </li>
     <li>
-     Alpha blending
+     Miscelazione alfa
     </li>
    </ul>
   </div>
@@ -117,7 +117,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="drawing Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="disegnare API di manipolazione" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -136,14 +136,14 @@ description: Java graphic library for drawing text, geometries, and images, to d
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for Java supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Drawing per Java supporta i seguenti [formati di immagine](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/Output
+    Input Output
    </header>
    <ul>
     <li>
@@ -170,7 +170,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API di disegno Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -188,7 +188,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/carousel >}}
+{{< /blocks/products/pf/i18n/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -198,7 +198,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Advanced Java Graphics API Features
+    Funzionalità avanzate dell'API grafica Java
    </h2>
    <p>
    </p>
@@ -206,70 +206,70 @@ description: Java graphic library for drawing text, geometries, and images, to d
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Creating bitmaps from scratch or load existing files
+     Creare bitmap da zero o caricare file esistenti
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw lines, curves, splines and arcs
+     Disegna linee, curve, spline e archi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw shapes like rectangle, polygon, ellipse, etc
+     Disegna forme come rettangolo, poligono, ellisse, ecc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Process and draw graphics paths
+     Elaborare e disegnare percorsi grafici
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render text with different fonts and styles
+     Visualizza il testo con caratteri e stili diversi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use different pen widths and styles
+     Utilizza stili e larghezze di penna diversi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use solid, texture, gradient, and hatch brushes
+     Utilizza pennelli solidi, texture, sfumatura e tratteggio
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports alpha blending and anti-aliasing
+     Supporta la fusione alfa e l'anti-aliasing
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Work with clip regions
+     Lavora con le regioni di clip
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use coordinate system transformations
+     Utilizzare le trasformazioni del sistema di coordinate
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
@@ -346,7 +346,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Support of Clipping Mask</p>
+<p class="col-lg-10">Support of Ritaglio Mask</p>
 
 </div>
 
@@ -359,7 +359,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <h2 class="h2title">Latest PUB API Features</h2>
 
-<p>Aspose.PUB for Java API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
+<p>Aspose.PUB per Giava API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
@@ -378,14 +378,14 @@ description: Java graphic library for drawing text, geometries, and images, to d
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Draw Vector Graphics
+     Disegna grafica vettoriale
     </h2>
     <p>
-     Aspose.Drawing for Java allows to draw different vector graphics such as arcs, Cardinal Spline, Bezier spline, ellipses, closed curves, lines and a number of other types. Only few lines of code needed to draw different types of vector graphics using the API. e.g here is code for drawing arc.
+     Aspose.Drawing per Java consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. ad esempio ecco il codice per disegnare l'arco.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Drawing Arc - Java
+      Arco di disegno - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
@@ -394,14 +394,14 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <h2 class="h2title">Access & Manipulate PUB Layers</h2>
 
-<p>Aspose.PUB for Java lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
+<p>Aspose.PUB per Giava lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
 
 </div>-->
    <!--<div class="col-lg-12">
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for Java not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB per Giava not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 
@@ -442,7 +442,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <h2 class="h2title">Various Imaging Filters</h2>
 
-<p>Aspose.PUB for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
+<p>Aspose.PUB per Giava provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -453,28 +453,28 @@ description: Java graphic library for drawing text, geometries, and images, to d
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/drawing/java/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-drawing/Aspose.Drawing-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/drawing/java" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/drawing/java/" >}}
+{{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-drawing/Aspose.Drawing-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://apireference.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/drawing" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/drawing" >}}
+{{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Drawing for Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Drawing per Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing/java" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing/java" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/java" >}}
 
 
 {{< /blocks/products/pf/main-wrap-class >}}

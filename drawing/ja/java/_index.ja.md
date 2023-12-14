@@ -1,12 +1,12 @@
 ---
-title: Java 用 Aspose.Drawing |クロスプラットフォーム システム.図面.共通の置き換え 
+title: Java 用 Aspose.Drawing |クロスプラットフォーム System.Drawing.Common の代替品 
 weight: 20
 url: /ja/java/ 
 description: テキスト、ジオメトリ、イメージを描画するための Java グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="クロスプラットフォーム システム.図面.共通の置き換え" h2="Aspose.Drawing は、System.Drawing API (画像操作、ベクターおよびテキスト描画を含む) のほとんどを、外部依存関係なしでフルマネージド コードで実装します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java用" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="クロスプラットフォーム System.Drawing.Common の代替品" h2="Aspose.Drawing は、System.Drawing API (画像操作、ベクトルおよびテキスト描画を含む) のほとんどを、外部依存関係のないフルマネージド コードで実装します。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java用" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java用" >}}
 
@@ -14,7 +14,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing パッケージを使用すると、プロジェクト内の System.Drawing.Common パッケージ参照を直接置き換えることができます。System.Drawing API を使用する既存のコードはすべて引き続き動作しますが、Java がサポートするプラットフォームでも動作するようになりました。描画ライブラリは、線、曲線、図形などのベクトル グラフィックスと、さまざまなフォント、サイズ、スタイルのテキストのラスター イメージへのレンダリングをサポートします。画像は、BMP、PNG、JPEG、GIF、TIFF などの一般的に使用されるすべてのグラフィック形式で保存できます。 Aspose.Drawing は純粋な Java ライブラリであり、外部のネイティブ レンダリング エンジンには依存しません。
+ Aspose.Drawing パッケージを使用すると、プロジェクト内の System.Drawing.Common パッケージ参照を直接置き換えることができます。System.Drawing API を使用する既存のコードはすべて、Java がサポートするプラットフォーム上で引き続き動作します。描画ライブラリは、線、曲線、図形などのベクトル グラフィックスと、さまざまなフォント、サイズ、スタイルのテキストのラスター イメージへのレンダリングをサポートします。画像は、BMP、PNG、JPEG、GIF、TIFF などの一般的に使用されるすべてのグラフィック形式で保存できます。 Aspose.Drawing は純粋な Java ライブラリであり、外部のネイティブ レンダリング エンジンには依存しません。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing Java用 API の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing用 Java APIの概要。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -48,7 +48,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
      テキストをレンダリングする
     </li>
     <li>
-     異なるフォントを使用する
+     別のフォントを使用する
     </li>
    </ul>
    <header>
@@ -77,7 +77,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
      ビットマップの作成
     </li>
     <li>
-     画像のロード
+     画像をロードする
     </li>
     <li>
      トリミング
@@ -136,7 +136,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing Java用 は、次の [画像形式](https://docs.aspose.com/drawing/net/supported-file-formats/) をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing用 Java は、次の [画像形式](https://docs.aspose.com/drawing/net/supported-file-formats/) をサポートしています。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,7 +381,7 @@ description: テキスト、ジオメトリ、イメージを描画するため�
      ベクターグラフィックスの描画
     </h2>
     <p>
-     Aspose.Drawing Java用 を使用すると、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
+     Aspose.Drawing用 Java では、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
     </p>
     <div class="codeblock" id="code">
      <h3>

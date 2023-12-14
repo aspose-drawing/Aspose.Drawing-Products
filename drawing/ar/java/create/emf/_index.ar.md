@@ -1,0 +1,25 @@
+---
+title: قم بإنشاء ملف صورة EMF عبر JAVA
+weight: 20
+url: /ar/java/create/emf/
+description: قم بإنشاء ملف صورة EMF عبر JAVA.
+---
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
+{{< blocks/products/pf/i18n/upper-banner h1="قم بإنشاء ملف صورة EMF عبر JAVA" h2="قم بإنشاء ملف صورة EMF عبر JAVA." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="ل JAVA" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="ل JAVA" >}}
+
+<h2>كيفية إنشاء ملف صورة EMF باستخدام JAVA</h2>
+
+    <div class="codeblock" id="code">
+     <h3>
+      إنشاء ملف صورة EMF - JAVA
+     </h3>
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-Create-EMF-Image-File.java" >}}
+    </div>
+
+{{< /blocks/products/pf/main-container >}}
+
+
+{{< /blocks/products/pf/main-wrap-class >}}

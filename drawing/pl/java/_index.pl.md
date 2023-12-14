@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing dla Java | System wieloplatformowy. Rysunek. Wspólna wymiana 
+title: Aspose.Drawing dla Javy | Wieloplatformowy zamiennik System.Drawing.Common 
 weight: 20
 url: /pl/java/ 
 description: Biblioteka graficzna Java do rysowania tekstu, geometrii i obrazów, bezpośrednio zastępująca pakiet System.Drawing.Common bez zmiany istniejącego kodu C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="System wieloplatformowy. Rysunek. Wspólna wymiana" h2="Aspose.Drawing implementuje większość interfejsu API System.Drawing (w tym manipulację obrazami, rysowanie wektorów i tekstu) w kodzie w pełni zarządzanym, bez żadnych zewnętrznych zależności." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="dla Javy" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Wieloplatformowy zamiennik System.Drawing.Common" h2="Aspose.Drawing implementuje większość API System.Drawing (w tym manipulację obrazami, rysowanie wektorów i tekstu) w postaci w pełni zarządzanego kodu, bez żadnych zewnętrznych zależności." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="dla Javy" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla Javy" >}}
 
@@ -14,7 +14,7 @@ description: Biblioteka graficzna Java do rysowania tekstu, geometrii i obrazów
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Pakietu Aspose.Drawing można użyć do bezpośredniego zastąpienia odniesienia do pakietu System.Drawing.Common w projekcie — cały istniejący kod korzystający z interfejsu API System.Drawing będzie nadal działać, ale teraz na dowolnej platformie obsługującej język Java. Biblioteka rysunków obsługuje renderowanie grafiki wektorowej, takiej jak linie, krzywe i figury, a także tekstu zapisanego różnymi czcionkami, rozmiarami i stylami na obrazach rastrowych. Obrazy można zapisywać we wszystkich powszechnie używanych formatach graficznych, w tym BMP, PNG, JPEG, GIF i TIFF. Aspose.Drawing jest czystą biblioteką Java i nie opiera się na żadnym zewnętrznym, natywnym silniku renderującym.
+ Pakiet Aspose.Drawing może zostać użyty do bezpośredniego zastąpienia odniesienia do pakietu System.Drawing.Common w Twoim projekcie - cały istniejący kod korzystający z API System.Drawing będzie nadal działać, ale teraz na dowolnej platformie obsługującej Java. Biblioteka rysunków obsługuje renderowanie grafiki wektorowej, takiej jak linie, krzywe i figury, a także tekstu zapisanego różnymi czcionkami, rozmiarami i stylami na obrazach rastrowych. Obrazy można zapisywać we wszystkich powszechnie używanych formatach graficznych, w tym BMP, PNG, JPEG, GIF i TIFF. Aspose.Drawing to czysta biblioteka Java i nie opiera się na żadnym zewnętrznym, natywnym silniku renderującym.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -467,7 +467,7 @@ description: Biblioteka graficzna Java do rysowania tekstu, geometrii i obrazów
 {{< blocks/products/pf/slr-element name="Bloga" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Drawing dla Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Drawing dla Javy?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

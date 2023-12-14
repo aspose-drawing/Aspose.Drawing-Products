@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing Java için | Çapraz platform System.Drawing.Common değiştirme 
+title: Java için Aspose.Drawing | Platformlar arası System.Drawing.Common değişimi 
 weight: 20
 url: /tr/java/ 
-description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini doğrudan değiştirmek için metin, geometri ve görüntü çizmeye yönelik Java grafik kitaplığı.
+description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini doğrudan değiştirmek için metin, geometri ve resim çizmeye yönelik Java grafik kitaplığı.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Çapraz platform System.Drawing.Common değiştirme" h2="Aspose.Drawing, System.Drawing API'nin çoğunu (görüntü işleme, vektör ve metin çizimi dahil) herhangi bir dış bağımlılık olmadan tamamen yönetilen kodda uygular." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java için" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Platformlar arası System.Drawing.Common değişimi" h2="Aspose.Drawing, System.Drawing API'sinin çoğunu (görüntü işleme, vektör ve metin çizimi dahil) herhangi bir harici bağımlılık olmaksızın tamamen yönetilen kodda uygular." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java için" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java için" >}}
 
@@ -14,7 +14,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing paketi, projenizdeki System.Drawing.Common paket referansını doğrudan değiştirmek için kullanılabilir - System.Drawing API'sini kullanan tüm mevcut kodunuz çalışmaya devam edecektir, ancak artık Java destekli herhangi bir platformda. Çizim kitaplığı, çizgiler, eğriler ve şekiller gibi vektör grafiklerinin yanı sıra çeşitli yazı tipleri, boyutlar ve stillerdeki metinlerin taramalı görüntüler üzerine oluşturulmasını destekler. Görüntüler BMP, PNG, JPEG, GIF ve TIFF dahil olmak üzere yaygın olarak kullanılan tüm grafik formatlarında kaydedilebilir. Aspose.Drawing saf bir Java kütüphanesidir ve herhangi bir harici yerel işleme motoruna dayanmaz.
+ Aspose.Drawing paketi, projenizdeki System.Drawing.Common paket referansını doğrudan değiştirmek için kullanılabilir - System.Drawing API'yi kullanan tüm mevcut kodunuz çalışmaya devam edecektir, ancak artık Java destekli herhangi bir platformda. Çizim kitaplığı, çizgiler, eğriler ve şekiller gibi vektör grafiklerinin yanı sıra çeşitli yazı tipleri, boyutlar ve stillerdeki metinlerin taramalı görüntüler üzerinde oluşturulmasını destekler. Görüntüler BMP, PNG, JPEG, GIF ve TIFF dahil yaygın olarak kullanılan tüm grafik formatlarında kaydedilebilir. Aspose.Drawing saf bir Java kitaplığıdır ve herhangi bir harici yerel işleme motoruna dayanmaz.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Drawing Java için API'ye genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Java API için Aspose.Drawing'e genel bakış." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -136,7 +136,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Drawing Java için, aşağıdaki [görüntü formatlarını](https://docs.aspose.com/drawing/net/supported-file-formats/) destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Java için Aspose.Drawing, aşağıdaki [görüntü formatlarını](https://docs.aspose.com/drawing/net/supported-file-formats/) destekler." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,7 +381,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
      Vektör Grafikleri Çizin
     </h2>
     <p>
-     Aspose.Drawing Java için, yaylar, Kardinal Spline, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. örneğin burada yay çizmenin kodu var.
+     Java için Aspose.Drawing, yaylar, Kardinal Spline, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. örneğin burada yay çizmenin kodu var.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -467,7 +467,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Drawing Java için?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Java için Aspose.Drawing?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,12 +1,12 @@
 ---
-title: Aspose.Menggambar untuk Java | Sistem Lintas Platform.Gambar.Penggantian umum 
+title: Aspose.Drawing untuk Jawa | Penggantian System.Drawing.Common lintas platform 
 weight: 20
 url: /id/java/ 
 description: Pustaka grafis Java untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Sistem Lintas Platform.Gambar.Penggantian umum" h2="Aspose.Drawing mengimplementasikan sebagian besar System.Drawing API (termasuk manipulasi gambar, gambar vektor dan teks) dalam kode yang dikelola sepenuhnya tanpa ketergantungan eksternal apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="untuk Jawa" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Penggantian System.Drawing.Common lintas platform" h2="Aspose.Drawing mengimplementasikan sebagian besar API System.Drawing (termasuk manipulasi gambar, gambar vektor dan teks) dalam kode yang dikelola sepenuhnya tanpa ketergantungan eksternal apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="untuk Jawa" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="untuk Jawa" >}}
 
@@ -14,7 +14,7 @@ description: Pustaka grafis Java untuk menggambar teks, geometri, dan gambar, un
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Paket Aspose.Drawing dapat digunakan untuk langsung menggantikan referensi paket System.Drawing.Common di proyek Anda - semua kode yang ada menggunakan System.Drawing API akan terus berfungsi, tetapi sekarang pada platform apa pun yang didukung Java. Pustaka gambar mendukung rendering grafik vektor seperti garis, kurva, dan gambar serta teks dalam berbagai font, ukuran, dan gaya ke gambar raster. Gambar dapat disimpan dalam semua format grafik yang umum digunakan termasuk BMP, PNG, JPEG, GIF, dan TIFF. Aspose.Drawing adalah perpustakaan Java murni dan tidak bergantung pada mesin rendering asli eksternal.
+ Paket Aspose.Drawing dapat digunakan untuk langsung menggantikan referensi paket System.Drawing.Common di proyek Anda - semua kode yang ada menggunakan API System.Drawing akan terus berfungsi, tetapi sekarang pada platform apa pun yang didukung Java. Pustaka gambar mendukung rendering grafik vektor seperti garis, kurva, dan gambar serta teks dalam berbagai font, ukuran, dan gaya ke gambar raster. Gambar dapat disimpan dalam semua format grafik yang umum digunakan termasuk BMP, PNG, JPEG, GIF, dan TIFF. Aspose.Drawing adalah perpustakaan Java murni dan tidak bergantung pada mesin rendering asli eksternal apa pun.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -381,7 +381,7 @@ description: Pustaka grafis Java untuk menggambar teks, geometri, dan gambar, un
      Menggambar Grafik Vektor
     </h2>
     <p>
-     Aspose.Drawing untuk Java memungkinkan untuk menggambar grafik vektor yang berbeda seperti busur, Spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
+     Aspose.Drawing untuk Java memungkinkan menggambar grafik vektor yang berbeda seperti busur, Spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
     </p>
     <div class="codeblock" id="code">
      <h3>

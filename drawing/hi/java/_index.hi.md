@@ -1,12 +1,12 @@
 ---
-title: जावा के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म सिस्टम.ड्राइंग.सामान्य प्रतिस्थापन 
+title: जावा के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म System.Drawing.Common प्रतिस्थापन 
 weight: 20
 url: /hi/java/ 
-description: मौजूदा C# कोड को बदले बिना System.Drawing.Common पैकेज को सीधे बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए जावा ग्राफ़िक लाइब्रेरी।
+description: मौजूदा C# कोड को बदले बिना सीधे System.Drawing.Common पैकेज को बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए जावा ग्राफिक लाइब्रेरी।
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="क्रॉस-प्लेटफ़ॉर्म सिस्टम.ड्राइंग.सामान्य प्रतिस्थापन" h2="Aspose.Drawing बिना किसी बाहरी निर्भरता के पूरी तरह से प्रबंधित कोड में अधिकांश System.Drawing API (छवि हेरफेर, वेक्टर और टेक्स्ट ड्राइंग सहित) को लागू करता है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="जावा के लिए" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="क्रॉस-प्लेटफ़ॉर्म System.Drawing.Common प्रतिस्थापन" h2="Aspose.Drawing अधिकांश System.Drawing API (छवि हेरफेर, वेक्टर और टेक्स्ट ड्राइंग सहित) को बिना किसी बाहरी निर्भरता के पूरी तरह से प्रबंधित कोड में लागू करता है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="जावा के लिए" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="जावा के लिए" >}}
 
@@ -14,7 +14,7 @@ description: मौजूदा C# कोड को बदले बिना Sy
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing पैकेज का उपयोग सीधे आपके प्रोजेक्ट में System.Drawing.Common पैकेज संदर्भ को बदलने के लिए किया जा सकता है - System.Drawing API का उपयोग करने वाले आपके सभी मौजूदा कोड काम करना जारी रखेंगे, लेकिन अब किसी भी जावा समर्थित प्लेटफ़ॉर्म पर। ड्राइंग लाइब्रेरी रेखापुंज छवियों पर वेक्टर ग्राफिक्स जैसे रेखाओं, वक्रों और आकृतियों के साथ-साथ विभिन्न प्रकार के फ़ॉन्ट, आकार और शैलियों में पाठ को प्रस्तुत करने का समर्थन करती है। छवियों को बीएमपी, पीएनजी, जेपीईजी, जीआईएफ और टीआईएफएफ सहित सभी सामान्य रूप से उपयोग किए जाने वाले ग्राफिक्स प्रारूपों में सहेजा जा सकता है। Aspose.Drawing एक शुद्ध जावा लाइब्रेरी है और यह किसी बाहरी देशी रेंडरिंग इंजन पर निर्भर नहीं है।
+ Aspose.Drawing पैकेज का उपयोग सीधे आपके प्रोजेक्ट में System.Drawing.Common पैकेज संदर्भ को बदलने के लिए किया जा सकता है - System.Drawing API का उपयोग करने वाले आपके सभी मौजूदा कोड काम करना जारी रखेंगे, लेकिन अब किसी भी जावा समर्थित प्लेटफ़ॉर्म पर। ड्राइंग लाइब्रेरी रेखापुंज छवियों पर वेक्टर ग्राफिक्स जैसे रेखाओं, वक्रों और आकृतियों के साथ-साथ विभिन्न प्रकार के फ़ॉन्ट, आकार और शैलियों में पाठ को प्रस्तुत करने का समर्थन करती है। छवियों को BMP, PNG, JPEG, GIF और TIFF सहित सभी सामान्य रूप से उपयोग किए जाने वाले ग्राफिक्स प्रारूपों में सहेजा जा सकता है। Aspose.Drawing एक शुद्ध जावा लाइब्रेरी है और यह किसी बाहरी देशी रेंडरिंग इंजन पर निर्भर नहीं है।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -136,7 +136,7 @@ description: मौजूदा C# कोड को बदले बिना Sy
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="जावा के लिए Aspose.Drawing निम्नलिखित [छवि प्रारूपों] (https://docs.aspose.com/drawing/net/supported-file-formats/) का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="जावा के लिए Aspose.Drawing निम्नलिखित [छवि प्रारूप] (https://docs.aspose.com/drawing/net/supported-file-formats/) का समर्थन करता है।" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

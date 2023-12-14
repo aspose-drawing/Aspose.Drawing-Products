@@ -22,7 +22,7 @@ description: Java-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die Aspose.Drawing für Java-API." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über Aspose.Drawing für Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

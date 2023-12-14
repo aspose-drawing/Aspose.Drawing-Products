@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing per Java | Sistema multipiattaforma. Disegno. Sostituzione comune 
+title: Aspose.Drawing per Java | Sostituzione System.Drawing.Common multipiattaforma 
 weight: 20
 url: /it/java/ 
 description: Libreria grafica Java per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Sistema multipiattaforma. Disegno. Sostituzione comune" h2="Aspose.Drawing implementa la maggior parte dell'API System.Drawing (inclusa la manipolazione delle immagini, il disegno vettoriale e di testo) in codice completamente gestito senza dipendenze esterne." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="per Giava" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Sostituzione System.Drawing.Common multipiattaforma" h2="Aspose.Drawing implementa la maggior parte dell'API System.Drawing (inclusa manipolazione di immagini, disegno vettoriale e di testo) in codice completamente gestito senza dipendenze esterne." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="per Giava" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per Giava" >}}
 

@@ -1,67 +1,67 @@
 ---
-title: Aspose.Drawing for Java | Cross-platform System.Drawing.Common replacement 
+title: Aspose.Menggambar untuk Java | Sistem Lintas Platform.Gambar.Penggantian umum 
 weight: 20
-url: /java/ 
-description: Java graphic library for drawing text, geometries, and images, to directly replace System.Drawing.Common package without changing existing C# code.
+url: /id/java/ 
+description: Pustaka grafis Java untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Cross-platform System.Drawing.Common replacement" h2="Aspose.Drawing implements most of System.Drawing API (including image manipulation, vector and text drawing) in fully managed code without any external dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Sistem Lintas Platform.Gambar.Penggantian umum" h2="Aspose.Drawing mengimplementasikan sebagian besar System.Drawing API (termasuk manipulasi gambar, gambar vektor dan teks) dalam kode yang dikelola sepenuhnya tanpa ketergantungan eksternal apa pun." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="untuk Jawa" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="untuk Jawa" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing package can be used to directly replace System.Drawing.Common package reference in your project - all your existing code using System.Drawing API will continue to work, but now on any Java supported platform. The drawing library supports rendering vector graphics such as lines, curves, and figures as well as text in a variety of fonts, sizes, and styles onto raster images. Images can be saved in all commonly used graphics formats including BMP, PNG, JPEG, GIF, and TIFF. Aspose.Drawing is a pure Java library and does not rely on any external native rendering engine.
+ Paket Aspose.Drawing dapat digunakan untuk langsung menggantikan referensi paket System.Drawing.Common di proyek Anda - semua kode yang ada menggunakan System.Drawing API akan terus berfungsi, tetapi sekarang pada platform apa pun yang didukung Java. Pustaka gambar mendukung rendering grafik vektor seperti garis, kurva, dan gambar serta teks dalam berbagai font, ukuran, dan gaya ke gambar raster. Gambar dapat disimpan dalam semua format grafik yang umum digunakan termasuk BMP, PNG, JPEG, GIF, dan TIFF. Aspose.Drawing adalah perpustakaan Java murni dan tidak bergantung pada mesin rendering asli eksternal.
 </p>
 
-{{< /blocks/products/pf/tab-content >}}
+{{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
-{{< blocks/products/pf/carousel >}}
+{{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Drawing for Java API." >}}
+{{< blocks/products/pf/carousel-item h3="Sekilas" description="Ikhtisar Aspose.Drawing untuk Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-bars">
     </i>
-    Vector Graphics
+    Grafik Vektor
    </header>
    <ul>
     <li>
-     Draw Lines and Curves
+     Gambar Garis dan Kurva
     </li>
     <li>
-     Draw Shapes
+     Menggambar Bentuk
     </li>
     <li>
-     Use Pens
+     Gunakan Pena
     </li>
     <li>
-     Use Brushes
+     Gunakan Kuas
     </li>
     <li>
-     Render Text
+     Render Teks
     </li>
     <li>
-     Use Different Fonts
+     Gunakan Font Berbeda
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Transformations
+    Transformasi
    </header>
    <ul>
     <li>
-     Matrix
+     Matriks
     </li>
     <li>
-     Global and Local
+     Global dan Lokal
     </li>
    </ul>
   </div>
@@ -70,39 +70,39 @@ description: Java graphic library for drawing text, geometries, and images, to d
    <header>
     <i class="fa fa-picture-o">
     </i>
-    Image Operations
+    Operasi Gambar
    </header>
    <ul>
     <li>
-     Create bitmaps
+     Buat bitmap
     </li>
     <li>
-     Load Images
+     Memuat gambar
     </li>
     <li>
-     Cropping
+     Memotong
     </li>
     <li>
-     Scaling
+     Penskalaan
     </li>
     <li>
-     Save Images
+     Simpan Gambar
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Rendering
+    Render
    </header>
    <ul>
     <li>
      Antialiasing
     </li>
     <li>
-     Clipping
+     Guntingan
     </li>
     <li>
-     Alpha blending
+     Pencampuran alfa
     </li>
    </ul>
   </div>
@@ -117,7 +117,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="drawing Manipulation APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="menggambar API Manipulasi" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -136,14 +136,14 @@ description: Java graphic library for drawing text, geometries, and images, to d
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Drawing for Java supports the following [image formats](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Drawing untuk Java mendukung [format gambar] berikut(https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/Output
+    Input output
    </header>
    <ul>
     <li>
@@ -170,7 +170,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API Gambar Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -188,7 +188,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/carousel >}}
+{{< /blocks/products/pf/i18n/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
@@ -198,7 +198,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Advanced Java Graphics API Features
+    Fitur API Grafik Java Tingkat Lanjut
    </h2>
    <p>
    </p>
@@ -206,70 +206,70 @@ description: Java graphic library for drawing text, geometries, and images, to d
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Creating bitmaps from scratch or load existing files
+     Membuat bitmap dari awal atau memuat file yang ada
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw lines, curves, splines and arcs
+     Menggambar garis, kurva, spline, dan busur
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw shapes like rectangle, polygon, ellipse, etc
+     Menggambar bentuk seperti persegi panjang, poligon, elips, dll
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Process and draw graphics paths
+     Memproses dan menggambar jalur grafis
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render text with different fonts and styles
+     Render teks dengan font dan gaya berbeda
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use different pen widths and styles
+     Gunakan lebar dan gaya pena yang berbeda
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use solid, texture, gradient, and hatch brushes
+     Gunakan kuas padat, tekstur, gradien, dan penetasan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports alpha blending and anti-aliasing
+     Mendukung pencampuran alfa dan anti-aliasing
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Work with clip regions
+     Bekerja dengan wilayah klip
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use coordinate system transformations
+     Gunakan transformasi sistem koordinat
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
@@ -322,7 +322,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Rendering of Curves Adjustment Layers</p>
+<p class="col-lg-10">Render of Curves Adjustment Layers</p>
 
 </div>
 
@@ -334,7 +334,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Adding and Rendering of Level Layers</p>
+<p class="col-lg-10">Adding and Render of Level Layers</p>
 
 </div>
 
@@ -346,7 +346,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Support of Clipping Mask</p>
+<p class="col-lg-10">Support of Guntingan Mask</p>
 
 </div>
 
@@ -359,7 +359,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <h2 class="h2title">Latest PUB API Features</h2>
 
-<p>Aspose.PUB for Java API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
+<p>Aspose.PUB untuk Jawa API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
 
 <ul>
 
@@ -371,21 +371,21 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Rendering of Stroke effect with Color Fill for export</li>
+<li>Render of Stroke effect with Color Fill for export</li>
 
 </ul>
 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Draw Vector Graphics
+     Menggambar Grafik Vektor
     </h2>
     <p>
-     Aspose.Drawing for Java allows to draw different vector graphics such as arcs, Cardinal Spline, Bezier spline, ellipses, closed curves, lines and a number of other types. Only few lines of code needed to draw different types of vector graphics using the API. e.g here is code for drawing arc.
+     Aspose.Drawing untuk Java memungkinkan untuk menggambar grafik vektor yang berbeda seperti busur, Spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Drawing Arc - Java
+      Menggambar Arc - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
@@ -394,14 +394,14 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <h2 class="h2title">Access & Manipulate PUB Layers</h2>
 
-<p>Aspose.PUB for Java lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
+<p>Aspose.PUB untuk Jawa lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
 
 </div>-->
    <!--<div class="col-lg-12">
 
 <h2 class="h2title">Read or Create PUB Files</h2>
 
-<p>Aspose.PUB for Java not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
+<p>Aspose.PUB untuk Jawa not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
 
 <div id="code" class="codeblock">
 
@@ -442,7 +442,7 @@ description: Java graphic library for drawing text, geometries, and images, to d
 
 <h2 class="h2title">Various Imaging Filters</h2>
 
-<p>Aspose.PUB for Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
+<p>Aspose.PUB untuk Jawa provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
 
 </div>-->
   </div>
@@ -453,28 +453,28 @@ description: Java graphic library for drawing text, geometries, and images, to d
 {{< /blocks/products/pf/main-container >}}
 
 
-{{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/drawing/java/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-drawing/Aspose.Drawing-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/drawing/java" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/drawing/java/" >}}
+{{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-drawing/Aspose.Drawing-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/drawing" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/drawing" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Drawing for Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Drawing untuk Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< /blocks/products/pf/support-learning-resources >}}
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing/java" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/drawing/java" pricingInformationLink="https://purchase.aspose.com/pricing/drawing/java" >}}
 
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing Java számára | Többplatformos rendszer. Rajz. Közös csere 
+title: Aspose.Drawing Java | Cross-platform System.Drawing.Common csere 
 weight: 20
 url: /hu/java/ 
 description: Java grafikus könyvtár szövegek, geometriák és képek rajzolásához, a System.Drawing.Common csomag közvetlen helyettesítésére a meglévő C# kód megváltoztatása nélkül.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Többplatformos rendszer. Rajz. Közös csere" h2="Az Aspose.Drawing a System.Drawing API nagy részét (beleértve a képkezelést, a vektor- és szövegrajzolást) teljes mértékben felügyelt kódban valósítja meg külső függőségek nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java számára" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform System.Drawing.Common csere" h2="A Aspose.Drawing a legtöbb System.Drawing API-t (beleértve a képkezelést, a vektoros és a szövegrajzolást) teljesen felügyelt kódban valósítja meg, külső függőségek nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java számára" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java számára" >}}
 
@@ -14,7 +14,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Az Aspose.Drawing csomag közvetlenül helyettesítheti a System.Drawing.Common csomaghivatkozást a projektben – a System.Drawing API-t használó összes meglévő kód továbbra is működni fog, de mostantól bármely Java által támogatott platformon. A rajzkönyvtár támogatja a vektorgrafikák, például vonalak, görbék és ábrák, valamint különféle betűtípusú, méretű és stílusú szövegek raszteres képeken történő megjelenítését. A képek az összes gyakran használt grafikai formátumban menthetők, beleértve a BMP, PNG, JPEG, GIF és TIFF formátumokat. Az Aspose.Drawing egy tiszta Java-könyvtár, és nem támaszkodik semmilyen külső natív renderelő motorra.
+ A Aspose.Drawing csomag közvetlenül lecserélhető a System.Drawing.Common csomaghivatkozásra a projektben – a System.Drawing API-t használó összes meglévő kód továbbra is működni fog, de mostantól bármely Java által támogatott platformon. A rajzkönyvtár támogatja a vektorgrafikák, például vonalak, görbék és ábrák, valamint különféle betűtípusú, méretű és stílusú szövegek raszteres képeken történő megjelenítését. A képek az összes gyakran használt grafikus formátumban menthetők, beleértve a BMP, PNG, JPEG, GIF és TIFF formátumot. A Aspose.Drawing egy tiszta Java könyvtár, és nem támaszkodik semmilyen külső natív renderelő motorra.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="Az Aspose.Drawing Java számára API áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Drawing Java számára API áttekintése." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -92,7 +92,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
    <header>
     <i class="fa fa-cogs">
     </i>
-    Renderelés
+    Rendering
    </header>
    <ul>
     <li>
@@ -136,7 +136,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Az Aspose.Drawing Java számára a következő [képformátumokat] (https://docs.aspose.com/drawing/net/supported-file-formats/) támogatja." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Drawing Java számára a következő [képformátumokat] támogatja (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -322,7 +322,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 <div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Renderelés of Curves Adjustment Layers</p>
+<p class="col-lg-10">Rendering of Curves Adjustment Layers</p>
 
 </div>
 
@@ -334,7 +334,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 <div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Adding and Renderelés of Level Layers</p>
+<p class="col-lg-10">Adding and Rendering of Level Layers</p>
 
 </div>
 
@@ -371,7 +371,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 <li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
 
-<li>Renderelés of Stroke effect with Color Fill for export</li>
+<li>Rendering of Stroke effect with Color Fill for export</li>
 
 </ul>
 
@@ -381,7 +381,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
      Rajzolj vektorgrafikát
     </h2>
     <p>
-     Az Aspose.Drawing Java számára lehetővé teszi különböző vektorgrafikák, például ívek, Cardinal Spline, Bezier spline, ellipszisek, zárt görbék, vonalak és számos más típus rajzolását. Csak néhány kódsorra volt szükség a különböző típusú vektorgrafikák API használatával történő rajzolásához. például itt van az ív rajzolásának kódja.
+     A Aspose.Drawing Java számára lehetővé teszi különböző vektorgrafikák, például ívek, Cardinal Spline, Bezier spline, ellipszisek, zárt görbék, vonalak és számos más típus rajzolását. Csak néhány kódsorra volt szükség a különböző típusú vektorgrafikák API használatával történő rajzolásához. például itt van az ív rajzolásának kódja.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -467,7 +467,7 @@ description: Java grafikus könyvtár szövegek, geometriák és képek rajzolá
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért az Aspose.Drawing Java számára?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért a Aspose.Drawing a Java számára?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

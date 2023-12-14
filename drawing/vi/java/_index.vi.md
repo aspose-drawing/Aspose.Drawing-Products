@@ -1,12 +1,12 @@
 ---
-title: Aspose.draw cho Java | Hệ thống đa nền tảng.Bản vẽ.Thay thế chung 
+title: Aspose.Drawing cho Java | Thay thế System.Drawing.Common đa nền tảng 
 weight: 20
 url: /vi/java/ 
-description: Thư viện đồ họa Java để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.draw.Common mà không thay đổi mã C# hiện có.
+description: Thư viện đồ họa Java để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.Drawing.Common mà không thay đổi mã C# hiện có.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Hệ thống đa nền tảng.Bản vẽ.Thay thế chung" h2="Aspose.draw triển khai hầu hết API System.draw (bao gồm thao tác hình ảnh, vẽ vectơ và văn bản) trong mã được quản lý hoàn toàn mà không có bất kỳ sự phụ thuộc bên ngoài nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="cho Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Thay thế System.Drawing.Common đa nền tảng" h2="Aspose.Drawing triển khai hầu hết API System.Drawing (bao gồm thao tác hình ảnh, vẽ vectơ và văn bản) trong mã được quản lý hoàn toàn mà không có bất kỳ sự phụ thuộc bên ngoài nào." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="cho Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="cho Java" >}}
 
@@ -14,7 +14,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Gói Aspose.draw có thể được sử dụng để thay thế trực tiếp tham chiếu gói System.draw.common trong dự án của bạn - tất cả mã hiện có của bạn sử dụng API system.draw sẽ tiếp tục hoạt động, nhưng bây giờ trên bất kỳ nền tảng hỗ trợ Java nào. Thư viện bản vẽ hỗ trợ hiển thị đồ họa vector như đường thẳng, đường cong và hình cũng như văn bản ở nhiều phông chữ, kích thước và kiểu dáng khác nhau trên hình ảnh raster. Hình ảnh có thể được lưu ở tất cả các định dạng đồ họa thường được sử dụng bao gồm BMP, PNG, JPEG, GIF và TIFF. Aspose. Draw là một thư viện Java thuần túy và không dựa vào bất kỳ công cụ kết xuất gốc bên ngoài nào.
+ Gói Aspose.Drawing có thể được sử dụng để thay thế trực tiếp tham chiếu gói System.Drawing.Common trong dự án của bạn - tất cả mã hiện có của bạn sử dụng API System.Drawing sẽ tiếp tục hoạt động, nhưng hiện tại trên mọi nền tảng được Java hỗ trợ. Thư viện bản vẽ hỗ trợ hiển thị đồ họa vector như đường thẳng, đường cong và hình cũng như văn bản ở nhiều phông chữ, kích thước và kiểu dáng khác nhau trên hình ảnh raster. Hình ảnh có thể được lưu ở tất cả các định dạng đồ họa thường được sử dụng bao gồm BMP, PNG, JPEG, GIF và TIFF. Aspose.Drawing là một thư viện Java thuần túy và không dựa vào bất kỳ công cụ kết xuất gốc bên ngoài nào.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan về Aspose.draw cho API Java." >}}
+{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan về Aspose.Drawing cho Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -99,7 +99,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
      Khử răng cưa
     </li>
     <li>
-     cắt xén
+     Cắt
     </li>
     <li>
      Pha trộn alpha
@@ -136,7 +136,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.draw cho Java hỗ trợ [các định dạng hình ảnh] sau (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Drawing dành cho Java hỗ trợ [các định dạng hình ảnh] sau (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -346,7 +346,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
 
 <div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Support of cắt xén Mask</p>
+<p class="col-lg-10">Support of Cắt Mask</p>
 
 </div>
 
@@ -381,7 +381,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
      Vẽ đồ họa vector
     </h2>
     <p>
-     Aspose. Draw cho Java cho phép vẽ các đồ họa vector khác nhau như hình cung, Cardinal Spline, Bezier spline, hình elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. ví dụ đây là mã để vẽ vòng cung.
+     Aspose.Drawing cho Java cho phép vẽ đồ họa vector khác nhau như đường cong, đường cong Cardinal, đường cong Bezier, hình elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. ví dụ đây là mã để vẽ vòng cung.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -467,7 +467,7 @@ description: Thư viện đồ họa Java để vẽ văn bản, hình học và
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.draw cho Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Drawing dành cho Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

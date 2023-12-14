@@ -2,11 +2,11 @@
 title: Aspose.Drawing para Java | Substituição System.Drawing.Common multiplataforma 
 weight: 20
 url: /pt/java/ 
-description: Biblioteca gráfica Java para desenhar texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
+description: Biblioteca gráfica Java para desenho de texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Substituição System.Drawing.Common multiplataforma" h2="Aspose.Drawing implementa a maior parte da API System.Drawing (incluindo manipulação de imagens, desenho vetorial e de texto) em código totalmente gerenciado, sem quaisquer dependências externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Substituição System.Drawing.Common multiplataforma" h2="O Aspose.Drawing implementa a maior parte da API do System.Drawing (incluindo manipulação de imagens, desenho vetorial e de texto) em código totalmente gerenciado, sem quaisquer dependências externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 
@@ -22,7 +22,7 @@ description: Biblioteca gráfica Java para desenhar texto, geometrias e imagens,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral da API Aspose.Drawing para Java." >}}
+{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral do Aspose.Drawing para API Java." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

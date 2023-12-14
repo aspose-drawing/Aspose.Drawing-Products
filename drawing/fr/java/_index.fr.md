@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing pour Java | Système multiplateforme.Drawing.Remplacement commun 
+title: Aspose.Drawing pour Java | Remplacement multiplateforme du System.Drawing.Common 
 weight: 20
 url: /fr/java/ 
 description: Bibliothèque graphique Java pour dessiner du texte, des géométries et des images, pour remplacer directement le package System.Drawing.Common sans modifier le code C# existant.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Système multiplateforme.Drawing.Remplacement commun" h2="Aspose.Drawing implémente la plupart des API System.Drawing (y compris la manipulation d'images, le dessin vectoriel et de texte) dans un code entièrement géré sans aucune dépendance externe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="pour Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Remplacement multiplateforme du System.Drawing.Common" h2="Le Aspose.Drawing implémente la plupart des API du System.Drawing (y compris la manipulation d'images, le dessin vectoriel et de texte) dans un code entièrement géré sans aucune dépendance externe." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="pour Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pour Java" >}}
 
@@ -22,7 +22,7 @@ description: Bibliothèque graphique Java pour dessiner du texte, des géométri
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En un coup d'œil" description="Un aperçu de l’API Aspose.Drawing pour Java." >}}
+{{< blocks/products/pf/carousel-item h3="En un coup d'œil" description="Présentation de l'API Aspose.Drawing pour Java." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -136,7 +136,7 @@ description: Bibliothèque graphique Java pour dessiner du texte, des géométri
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Drawing pour Java prend en charge les [formats d'image](https://docs.aspose.com/drawing/net/supported-file-formats/) suivants." >}}
+{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Le Aspose.Drawing pour Java prend en charge les [formats d'image](https://docs.aspose.com/drawing/net/supported-file-formats/) suivants." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,7 +381,7 @@ description: Bibliothèque graphique Java pour dessiner du texte, des géométri
      Dessiner des graphiques vectoriels
     </h2>
     <p>
-     Aspose.Drawing pour Java permet de dessiner différents graphiques vectoriels tels que des arcs, des splines cardinales, des splines de Bézier, des ellipses, des courbes fermées, des lignes et un certain nombre d'autres types. Seules quelques lignes de code sont nécessaires pour dessiner différents types de graphiques vectoriels à l'aide de l'API. par exemple, voici le code pour dessiner un arc.
+     Le Aspose.Drawing pour Java permet de dessiner différents graphiques vectoriels tels que des arcs, des splines cardinales, des splines de Bézier, des ellipses, des courbes fermées, des lignes et un certain nombre d'autres types. Seules quelques lignes de code sont nécessaires pour dessiner différents types de graphiques vectoriels à l'aide de l'API. par exemple, voici le code pour dessiner un arc.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -467,7 +467,7 @@ description: Bibliothèque graphique Java pour dessiner du texte, des géométri
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Drawing pour Java ?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Pourquoi le Aspose.Drawing pour Java ?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Liste des clients" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Réussites" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

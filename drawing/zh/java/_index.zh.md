@@ -1,12 +1,12 @@
 ---
-title: 用于 Java 的 Aspose.Drawing |跨平台系统.绘图.通用替换 
+title: Aspose.Drawing Java 版 |跨平台 System.Drawing.Common 替代品 
 weight: 20
 url: /zh/java/ 
-description: 用于绘制文本、几何图形和图像的 Java 图形库，可直接替换 System.Drawing.Common 包，而无需更改现有的 C# 代码。
+description: 用于绘制文本、几何图形和图像的 Java 图形库，可直接替换 System.Drawing.Common 软件包，而无需更改现有的 C# 代码。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="跨平台系统.绘图.通用替换" h2="Aspose.Drawing 在完全托管的代码中实现了大部分 System.Drawing API（包括图像处理、矢量和文本绘制），无需任何外部依赖。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="对于Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="跨平台 System.Drawing.Common 替代品" h2="Aspose.Drawing 在完全托管的代码中实现了 System.Drawing API 的大部分（包括图像处理、矢量和文本绘制），无需任何外部依赖。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="对于Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="对于Java" >}}
 
@@ -14,7 +14,7 @@ description: 用于绘制文本、几何图形和图像的 Java 图形库，可�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing 包可用于直接替换项目中的 System.Drawing.Common 包引用 - 所有使用 System.Drawing API 的现有代码将继续工作，但现在可以在任何 Java 支持的平台上工作。绘图库支持将矢量图形（例如直线、曲线和图形）以及各种字体、大小和样式的文本渲染到光栅图像上。图像可以保存为所有常用的图形格式，包括 BMP、PNG、JPEG、GIF 和 TIFF。 Aspose.Drawing是一个纯Java库，不依赖任何外部本机渲染引擎。
+ Aspose.Drawing 包可用于直接替换项目中的 System.Drawing.Common 包引用 - 使用 System.Drawing API 的所有现有代码将继续工作，但现在可以在任何 Java 支持的平台上工作。绘图库支持将矢量图形（例如直线、曲线和图形）以及各种字体、大小和样式的文本渲染到光栅图像上。图像可以以所有常用的图形格式保存，包括 BMP、PNG、JPEG、GIF 和 TIFF。 Aspose.Drawing是一个纯Java库，不依赖任何外部原生渲染引擎。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: 用于绘制文本、几何图形和图像的 Java 图形库，可�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Drawing 对于Java API 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Drawing Java API 概述。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -136,7 +136,7 @@ description: 用于绘制文本、几何图形和图像的 Java 图形库，可�
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Drawing 对于Java 支持以下[图像格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Drawing 为 Java 支持以下[图像格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,7 +381,7 @@ description: 用于绘制文本、几何图形和图像的 Java 图形库，可�
      绘制矢量图形
     </h2>
     <p>
-     Aspose.Drawing 对于Java 允许绘制不同的矢量图形，例如圆弧、基数样条线、贝塞尔样条线、椭圆、闭合曲线、直线和许多其他类型。使用 API 只需几行代码即可绘制不同类型的矢量图形。例如，这是绘制圆弧的代码。
+     Aspose.Drawing 为 Java 允许绘制不同的矢量图形，例如圆弧、基数样条线、贝塞尔样条线、椭圆、闭合曲线、直线和许多其他类型。使用 API 只需几行代码即可绘制不同类型的矢量图形。例如，这是绘制圆弧的代码。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -467,7 +467,7 @@ description: 用于绘制文本、几何图形和图像的 Java 图形库，可�
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Drawing 对于Java？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么选择 Aspose.Drawing 为 Java？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

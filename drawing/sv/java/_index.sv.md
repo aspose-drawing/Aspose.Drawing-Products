@@ -6,7 +6,7 @@ description: Java-grafiskt bibliotek för att rita text, geometrier och bilder, 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform System.Drawing.Common ersättning" h2="Aspose.Drawing implementerar det mesta av System.Drawing API (inklusive bildmanipulation, vektor- och textritning) i helt hanterad kod utan några externa beroenden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="för Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform System.Drawing.Common ersättning" h2="Aspose.Drawing implementerar det mesta av System.Drawing API (inklusive bildmanipulation, vektor- och textritning) i fullständigt hanterad kod utan några externa beroenden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="för Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="för Java" >}}
 
@@ -14,7 +14,7 @@ description: Java-grafiskt bibliotek för att rita text, geometrier och bilder, 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing-paketet kan användas för att direkt ersätta System.Drawing.Common paketreferens i ditt projekt - all din befintliga kod som använder System.Drawing API kommer att fortsätta att fungera, men nu på alla Java-stödda plattformar. Ritbiblioteket stöder rendering av vektorgrafik som linjer, kurvor och figurer samt text i en mängd olika typsnitt, storlekar och stilar på rasterbilder. Bilder kan sparas i alla vanliga grafikformat inklusive BMP, PNG, JPEG, GIF och TIFF. Aspose.Drawing är ett rent Java-bibliotek och förlitar sig inte på någon extern inbyggd renderingsmotor.
+ Aspose.Drawing-paketet kan användas för att direkt ersätta System.Drawing.Common-paketreferensen i ditt projekt - all din befintliga kod som använder System.Drawing API kommer att fortsätta att fungera, men nu på alla Java-stödda plattformar. Ritbiblioteket stöder rendering av vektorgrafik som linjer, kurvor och figurer samt text i en mängd olika typsnitt, storlekar och stilar på rasterbilder. Bilder kan sparas i alla vanliga grafikformat inklusive BMP, PNG, JPEG, GIF och TIFF. Aspose.Drawing är ett rent Java-bibliotek och är inte beroende av någon extern inbyggd renderingsmotor.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

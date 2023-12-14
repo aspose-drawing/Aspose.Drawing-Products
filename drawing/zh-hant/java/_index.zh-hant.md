@@ -1,12 +1,12 @@
 ---
-title: 用於 Java 的 Aspose.Drawing |跨平台系統.繪圖.通用替換 
+title: Aspose.Drawing Java 版 |跨平台 System.Drawing.Common 替代品 
 weight: 20
 url: /zh-hant/java/ 
-description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可直接取代 System.Drawing.Common 包，而無需更改現有的 C# 程式碼。
+description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可直接取代 System.Drawing.Common 軟體包，而無需更改現有的 C# 程式碼。
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="跨平台系統.繪圖.通用替換" h2="Aspose.Drawing 在完全託管的程式碼中實現了大部分 System.Drawing API（包括圖像處理、向量和文字繪製），無需任何外部依賴。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="對於Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="跨平台 System.Drawing.Common 替代品" h2="Aspose.Drawing 在完全託管的程式碼中實現了 System.Drawing API 的大部分（包括圖像處理、向量和文字繪製），無需任何外部依賴。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="對於Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="對於Java" >}}
 
@@ -14,7 +14,7 @@ description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Aspose.Drawing 套件可用於直接取代專案中的 System.Drawing.Common 套件參考 - 所有使用 System.Drawing API 的現有程式碼將繼續運作，但現在可以在任何 Java 支援的平台上運作。繪圖庫支援將向量圖形（例如直線、曲線和圖形）以及各種字體、大小和样式的文字渲染到光柵圖像上。影像可以儲存為所有常用的圖形格式，包括 BMP、PNG、JPEG、GIF 和 TIFF。 Aspose.Drawing是一個純Java函式庫，不依賴任何外部本機渲染引擎。
+ Aspose.Drawing 套件可用於直接取代專案中的 System.Drawing.Common 套件引用 - 使用 System.Drawing API 的所有現有程式碼將繼續運作，但現在可以在任何 Java 支援的平台上工作。繪圖庫支援將向量圖形（例如直線、曲線和圖形）以及各種字體、大小和样式的文字渲染到光柵圖像上。影像可以所有常用的圖形格式儲存，包括 BMP、PNG、JPEG、GIF 和 TIFF。 Aspose.Drawing是純Java函式庫，不依賴任何外部原生渲染引擎。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Drawing 對於Java API 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Drawing Java API 概述。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -136,7 +136,7 @@ description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可�
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Drawing 對於Java 支援以下[圖片格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Drawing 為 Java 支援以下[圖片格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,7 +381,7 @@ description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可�
      繪製向量圖形
     </h2>
     <p>
-     Aspose.Drawing 對於Java 允許繪製不同的向量圖形，例如圓弧、基數樣條線、貝塞爾樣條線、橢圓、閉合曲線、直線和許多其他類型。使用 API 只需幾行程式碼即可繪製不同類型的向量圖形。例如，這是繪製圓弧的程式碼。
+     Aspose.Drawing 為 Java 允許繪製不同的向量圖形，例如圓弧、基數樣條線、貝塞爾樣條線、橢圓、閉合曲線、直線和許多其他類型。使用 API 只需幾行程式碼即可繪製不同類型的向量圖形。例如，這是繪製圓弧的程式碼。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -467,7 +467,7 @@ description: 用於繪製文字、幾何圖形和圖像的 Java 圖形庫，可�
 {{< blocks/products/pf/slr-element name="部落格" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Drawing 對於Java？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Drawing 為 Java？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

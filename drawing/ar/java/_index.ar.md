@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing لجافا | نظام متعدد المنصات.رسم.استبدال شائع 
+title: Aspose.Drawing لجافا | استبدال System.Drawing.Common عبر الأنظمة الأساسية 
 weight: 20
 url: /ar/java/ 
-description: مكتبة رسومات Java لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الموجود.
+description: مكتبة رسومات Java لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير رمز C# الحالي.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="نظام متعدد المنصات.رسم.استبدال مشترك" h2="ينفذ Aspose.Drawing معظم واجهة برمجة تطبيقات System.Drawing (بما في ذلك معالجة الصور والمتجهات ورسم النص) في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="لجافا" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="استبدال System.Drawing.Common عبر الأنظمة الأساسية" h2="تطبق Aspose.Drawing معظم واجهة برمجة تطبيقات System.Drawing (بما في ذلك معالجة الصور ورسم المتجهات ورسم النص) في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="لجافا" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="لجافا" >}}
 
@@ -14,7 +14,7 @@ description: مكتبة رسومات Java لرسم النصوص والأشكال
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- يمكن استخدام حزمة Aspose.Drawing لاستبدال مرجع حزمة System.Drawing.Common مباشرة في مشروعك - ستستمر جميع التعليمات البرمجية الموجودة لديك باستخدام System.Drawing API في العمل، ولكن الآن على أي نظام أساسي مدعوم من Java. تدعم مكتبة الرسم عرض الرسومات المتجهة مثل الخطوط والمنحنيات والأشكال بالإضافة إلى النص في مجموعة متنوعة من الخطوط والأحجام والأنماط على الصور النقطية. يمكن حفظ الصور بجميع تنسيقات الرسومات شائعة الاستخدام بما في ذلك BMP وPNG وJPEG وGIF وTIFF. Aspose.Drawing هي مكتبة Java خالصة ولا تعتمد على أي محرك عرض أصلي خارجي.
+ يمكن استخدام حزمة Aspose.Drawing لاستبدال مرجع حزمة System.Drawing.Common مباشرةً في مشروعك - ستستمر جميع التعليمات البرمجية الموجودة لديك باستخدام System.Drawing API في العمل، ولكن الآن على أي نظام أساسي مدعوم من Java. تدعم مكتبة الرسم عرض الرسومات المتجهة مثل الخطوط والمنحنيات والأشكال بالإضافة إلى النص في مجموعة متنوعة من الخطوط والأحجام والأنماط على الصور النقطية. يمكن حفظ الصور بجميع تنسيقات الرسومات شائعة الاستخدام بما في ذلك BMP وPNG وJPEG وGIF وTIFF. Aspose.Drawing هي مكتبة Java خالصة ولا تعتمد على أي محرك عرض أصلي خارجي.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -136,7 +136,7 @@ description: مكتبة رسومات Java لرسم النصوص والأشكال
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Drawing لجافا [تنسيقات الصور] التالية (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Drawing لـ Java [تنسيقات الصور] التالية (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,7 +381,7 @@ description: مكتبة رسومات Java لرسم النصوص والأشكال
      رسم الرسومات المتجهة
     </h2>
     <p>
-     يسمح Aspose.Drawing لجافا برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal Spline، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
+     يسمح Aspose.Drawing لـ Java برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal Spline، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
     </p>
     <div class="codeblock" id="code">
      <h3>

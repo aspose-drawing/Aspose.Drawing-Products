@@ -16,7 +16,7 @@ description: Create BMP image file via JAVA.
      <h3>
       Create BMP Image File - JAVA
      </h3>
-     {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-JAVA-Create-BMP-Image-File.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-Create-BMP-Image-File.java" >}}
     </div>
 
 {{< /blocks/products/pf/main-container >}}

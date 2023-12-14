@@ -1,12 +1,12 @@
 ---
-title: Aspose.Drawing pro Javu | Víceplatformní systém. Kreslení. Běžná náhrada 
+title: Aspose.Drawing pro Javu | Náhrada System.Drawing.Common pro více platforem 
 weight: 20
 url: /cs/java/ 
 description: Grafická knihovna Java pro kreslení textu, geometrií a obrázků, která přímo nahrazuje balíček System.Drawing.Common bez změny stávajícího kódu C#.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Víceplatformní systém. Kreslení. Běžná náhrada" h2="Aspose.Drawing implementuje většinu API System.Drawing (včetně manipulace s obrázky, vektorového a textového kreslení) v plně spravovaném kódu bez jakýchkoliv externích závislostí." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="pro Javu" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Náhrada System.Drawing.Common pro více platforem" h2="Aspose.Drawing implementuje většinu System.Drawing API (včetně manipulace s obrázky, vektorového a textového kreslení) v plně spravovaném kódu bez jakýchkoliv externích závislostí." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="pro Javu" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pro Javu" >}}
 
@@ -14,7 +14,7 @@ description: Grafická knihovna Java pro kreslení textu, geometrií a obrázků
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Balíček Aspose.Drawing lze použít k přímému nahrazení odkazu na balíček System.Drawing.Common ve vašem projektu – veškerý váš stávající kód využívající API System.Drawing bude nadále fungovat, ale nyní na jakékoli platformě s podporou jazyka Java. Knihovna výkresů podporuje vykreslování vektorové grafiky, jako jsou čáry, křivky a obrázky, stejně jako text v různých fontech, velikostech a stylech na rastrové obrázky. Obrázky lze ukládat ve všech běžně používaných grafických formátech včetně BMP, PNG, JPEG, GIF a TIFF. Aspose.Drawing je čistě Java knihovna a nespoléhá na žádné externí nativní vykreslovací jádro.
+ Balíček Aspose.Drawing lze použít k přímému nahrazení odkazu na balíček System.Drawing.Common ve vašem projektu – veškerý váš stávající kód využívající System.Drawing API bude nadále fungovat, ale nyní na jakékoli platformě s podporou Java. Knihovna výkresů podporuje vykreslování vektorové grafiky, jako jsou čáry, křivky a obrázky, stejně jako text v různých fontech, velikostech a stylech na rastrové obrázky. Obrázky lze ukládat ve všech běžně používaných grafických formátech včetně BMP, PNG, JPEG, GIF a TIFF. Aspose.Drawing je čistě Java knihovna a nespoléhá na žádné externí nativní vykreslovací jádro.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Grafická knihovna Java pro kreslení textu, geometrií a obrázků
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Drawing pro Javu API." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Drawing pro Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -136,7 +136,7 @@ description: Grafická knihovna Java pro kreslení textu, geometrií a obrázků
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Drawing pro Javu podporuje následující [formáty obrázků](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="za Aspose.Drawing Java podporuje následující [formáty obrázků] (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -255,7 +255,7 @@ description: Grafická knihovna Java pro kreslení textu, geometrií a obrázků
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podporuje alfa míšení a anti-aliasing
+     Podporuje alfa blending a anti-aliasing
     </p>
    </div>
    <div class="col-lg-4">
@@ -467,7 +467,7 @@ description: Grafická knihovna Java pro kreslení textu, geometrií a obrázků
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Drawing pro Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Drawing pro Javu?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

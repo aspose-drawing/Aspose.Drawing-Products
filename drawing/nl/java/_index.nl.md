@@ -1,12 +1,12 @@
 ---
-title: Aspose.Tekening voor Java | Platformonafhankelijk systeem. Tekening. Algemene vervanging 
+title: Aspose.Drawing voor Java | Platformonafhankelijke System.Drawing.Common-vervanging 
 weight: 20
 url: /nl/java/ 
 description: Grafische Java-bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Platformonafhankelijk systeem. Tekening. Algemene vervanging" h2="Aspose.Drawing implementeert het grootste deel van de System.Drawing API (inclusief beeldmanipulatie, vector- en teksttekeningen) in volledig beheerde code zonder enige externe afhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="voor Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Platformonafhankelijke System.Drawing.Common-vervanging" h2="Aspose.Drawing implementeert het grootste deel van de System.Drawing API (inclusief beeldmanipulatie, vector- en teksttekeningen) in volledig beheerde code zonder enige externe afhankelijkheden." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="voor Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor Java" >}}
 
@@ -22,7 +22,7 @@ description: Grafische Java-bibliotheek voor het tekenen van tekst, geometrieën
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van Aspose.Drawing voor Java API." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van de Aspose.Drawing voor Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -74,7 +74,7 @@ description: Grafische Java-bibliotheek voor het tekenen van tekst, geometrieën
    </header>
    <ul>
     <li>
-     Bitmaps maken
+     Maak bitmaps
     </li>
     <li>
      Laad afbeeldingen

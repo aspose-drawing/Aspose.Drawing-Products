@@ -1,12 +1,12 @@
 ---
-title: Aspose.Dibujo para Java | Sistema multiplataforma. Dibujo. Reemplazo común 
+title: Aspose.Drawing para Java | Reemplazo multiplataforma System.Drawing.Common 
 weight: 20
 url: /es/java/ 
 description: Biblioteca gráfica Java para dibujar texto, geometrías e imágenes, para reemplazar directamente el paquete System.Drawing.Common sin cambiar el código C# existente.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Sistema multiplataforma. Dibujo. Reemplazo común" h2="Aspose.Drawing implementa la mayor parte de la API System.Drawing (incluida la manipulación de imágenes, el dibujo vectorial y de texto) en código totalmente administrado sin dependencias externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Reemplazo multiplataforma System.Drawing.Common" h2="Aspose.Drawing implementa la mayor parte de la API System.Drawing (incluida la manipulación de imágenes, el dibujo vectorial y de texto) en código totalmente administrado sin dependencias externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 
@@ -14,7 +14,7 @@ description: Biblioteca gráfica Java para dibujar texto, geometrías e imágene
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto: todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con Java. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca Java pura y no depende de ningún motor de renderizado nativo externo.
+ El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con Java. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca Java pura y no depende de ningún motor de renderizado nativo externo.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

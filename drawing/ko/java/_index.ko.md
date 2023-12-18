@@ -1,21 +1,107 @@
 ---
-title: 자바용 Aspose.Drawing | 크로스 플랫폼 System.Drawing.Common 대체 
+title: 자바용 Aspose.Drawing | 크로스 플랫폼 그래픽 라이브러리
 weight: 20
 url: /ko/java/ 
-description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패키지를 직접 대체하기 위해 텍스트, 형상 및 이미지를 그리기 위한 Java 그래픽 라이브러리입니다.
+description: 텍스트, 곡선, 선, 그림 및 이미지를 그리기 위한 Java 그래픽 라이브러리입니다.
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="크로스 플랫폼 System.Drawing.Common 대체" h2="Aspose.Drawing은 외부 종속성 없이 완전 관리형 코드로 대부분의 System.Drawing API(이미지 조작, 벡터 및 텍스트 그리기 포함)를 구현합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="자바용" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java용 크로스 플랫폼 그래픽 라이브러리" h2="Aspose.Drawing은 외부 종속성 없이 완전히 관리되는 코드로 이미지 조작, 벡터 및 텍스트 그리기를 포함하여 사용하기 쉬운 포괄적인 그리기 API를 구현합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="자바용" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="자바용" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify">
- Aspose.Drawing 패키지는 프로젝트에서 System.Drawing.Common 패키지 참조를 직접 대체하는 데 사용할 수 있습니다. System.Drawing API를 사용하는 모든 기존 코드는 계속 작동하지만 이제 모든 Java 지원 플랫폼에서 작동합니다. 드로잉 라이브러리는 선, 곡선, 그림과 같은 벡터 그래픽은 물론 다양한 글꼴, 크기 및 스타일의 텍스트를 래스터 이미지로 렌더링하는 것을 지원합니다. 이미지는 BMP, PNG, JPEG, GIF 및 TIFF를 포함하여 일반적으로 사용되는 모든 그래픽 형식으로 저장할 수 있습니다. Aspose.Drawing은 순수 Java 라이브러리이며 외부 기본 렌더링 엔진에 의존하지 않습니다.
-</p>
+
+
+<div class="col-lg-12">
+   <h2 class="h2title">
+   Java용 Aspose.Drawing: 그래픽 경험 향상
+   </h2>
+
+   <p align='justify'>
+   개발자가 애플리케이션에서 비교할 수 없는 그래픽 우수성을 달성할 수 있도록 지원하는 최첨단 드로잉 라이브러리인 Java용 Aspose.Drawing을 소개합니다.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   벡터 그래픽 성능을 최대한 활용하세요
+   </h3>
+
+   <p align='justify'>
+   Aspose.Drawing은 벡터 그래픽을 원활하게 렌더링하는 강력한 기능 세트를 제공합니다. 선, 곡선, 도형 등을 쉽게 만들 수 있습니다. 숙련된 개발자이든 초보자이든 관계없이 라이브러리의 사용자 친화적인 인터페이스는 원활한 디자인 프로세스를 보장합니다.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   다양한 스타일의 텍스트로 시선을 사로잡으세요
+   </h3>
+
+   <p align='justify'>
+   그래픽에 매력적인 텍스트를 추가하여 돋보이세요. Aspose.Drawing은 다양한 글꼴, 크기 및 스타일을 제공하여 텍스트 조작을 쉽게 만듭니다. 현대적인 외관을 선호하든 클래식한 외관을 선호하든 라이브러리는 귀하의 비전을 현실로 만들 수 있는 도구를 제공합니다.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   지원되는 형식으로 저장
+   </h3>
+
+   <p align='justify'>
+   Aspose.Drawing은 유연성을 제공합니다. 걸작을 BMP, PNG, JPEG, GIF 및 TIFF 형식으로 저장하세요. 원활한 통합을 위해 애플리케이션이나 프로젝트 요구 사항에 맞게 출력을 조정하세요.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   순수 Java 매직, 종속성 없음
+   </h3>
+
+   <p align='justify'>
+   외부 의존성과 작별을 고하세요. Aspose.Drawing은 순수 Java 라이브러리이므로 외부 기본 렌더링 엔진이 필요하지 않습니다. Java 프로젝트와 원활하게 조화되도록 설계된 간편한 개발 경험을 즐겨보세요.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Java용 Aspose.Drawing을 선택하는 이유는 무엇입니까?
+   </h3>
+
+   <p>
+   <ul>
+   <li>
+   <b>단순한 힘:</b> Aspose.Drawing은 단순성과 성능 사이의 균형을 유지하여 필수 기능을 희생하지 않고도 간단한 통합 프로세스를 제공합니다.
+   </li>
+   <li>
+   <b>다양한 벡터 그래픽:</b> 복잡한 곡선부터 굵은 그림까지 Aspose.Drawing은 모든 벡터 그래픽 요구 사항을 충족하므로 창의력이 제한 없이 흐를 수 있습니다.
+   </li>
+   <li>
+   <b>스토리텔링 텍스트:</b> 많은 것을 말해주는 텍스트로 매력적인 스토리를 만드세요. 광범위한 글꼴과 스타일을 갖춘 Aspose.Drawing은 그래픽만큼 매력적인 텍스트를 보장합니다.
+   </li>
+   <li>
+   <b>형식의 자유:</b> Aspose.Drawing은 다양한 그래픽 형식을 지원하므로 자신의 비전에 맞는 형식으로 창작물을 자유롭게 저장하고 공유할 수 있습니다.
+   </li>
+   <li>
+   <b>네이티브 자바:</b> Java 기본 라이브러리의 단순성과 효율성을 활용하세요. 더 이상 외부 종속성이나 복잡성이 없습니다. 순수한 Java 마법입니다.
+   </li>
+   </ul>
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   지금 그래픽을 향상시키세요
+   </h3>
+
+   <p align='justify'>
+   Java용 Aspose.Drawing으로 애플리케이션의 그래픽을 향상하세요. 원활한 통합, 강력한 기능, 사용자 친화적인 디자인을 경험해 보세요. 창의력을 발휘하고 작업 흐름을 간소화하며 Aspose.Drawing을 통해 그래픽 경험을 재정의해보세요. 지금 다운로드하여 시각적 광채를 향한 여정을 시작하세요.
+   </p>
+</div>
+
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 

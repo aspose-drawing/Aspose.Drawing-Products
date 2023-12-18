@@ -1,21 +1,107 @@
 ---
-title: Aspose.Drawing لجافا | استبدال System.Drawing.Common عبر الأنظمة الأساسية 
+title: Aspose.Drawing لجافا | مكتبة الرسومات عبر الأنظمة الأساسية
 weight: 20
 url: /ar/java/ 
-description: مكتبة رسومات Java لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير رمز C# الحالي.
+description: مكتبة رسومات Java لرسم النصوص والمنحنيات والخطوط والأشكال والصور.
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="استبدال System.Drawing.Common عبر الأنظمة الأساسية" h2="تطبق Aspose.Drawing معظم واجهة برمجة تطبيقات System.Drawing (بما في ذلك معالجة الصور ورسم المتجهات ورسم النص) في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="لجافا" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="مكتبة الرسومات عبر الأنظمة الأساسية لـ Java" h2="تطبق Aspose.Drawing واجهة برمجة تطبيقات الرسم الشاملة سهلة الاستخدام، بما في ذلك معالجة الصور ورسم المتجهات ورسم النص في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="لجافا" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="لجافا" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify">
- يمكن استخدام حزمة Aspose.Drawing لاستبدال مرجع حزمة System.Drawing.Common مباشرةً في مشروعك - ستستمر جميع التعليمات البرمجية الموجودة لديك باستخدام System.Drawing API في العمل، ولكن الآن على أي نظام أساسي مدعوم من Java. تدعم مكتبة الرسم عرض الرسومات المتجهة مثل الخطوط والمنحنيات والأشكال بالإضافة إلى النص في مجموعة متنوعة من الخطوط والأحجام والأنماط على الصور النقطية. يمكن حفظ الصور بجميع تنسيقات الرسومات شائعة الاستخدام بما في ذلك BMP وPNG وJPEG وGIF وTIFF. Aspose.Drawing هي مكتبة Java خالصة ولا تعتمد على أي محرك عرض أصلي خارجي.
-</p>
+
+
+<div class="col-lg-12">
+   <h2 class="h2title">
+   Aspose.Drawing لـ Java: ارفع مستوى تجربة الرسومات الخاصة بك
+   </h2>
+
+   <p align='justify'>
+   نقدم لكم Aspose.Drawing ل Java، وهي مكتبة رسومات حديثة تمكن المطورين من تحقيق تميز رسومي لا مثيل له في تطبيقاتهم.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   أطلق العنان لقوة الرسومات المتجهة
+   </h3>
+
+   <p align='justify'>
+   يقدم Aspose.Drawing مجموعة ميزات قوية، تعرض الرسومات المتجهة بسلاسة. قم بإنشاء الخطوط والمنحنيات والأشكال والمزيد بسهولة. سواء كنت مطورًا متمرسًا أو مبتدئًا، تضمن واجهة المكتبة سهلة الاستخدام عملية تصميم سلسة.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   يأسر مع النص في أنماط مختلفة
+   </h3>
+
+   <p align='justify'>
+   تميّز عن طريق إضافة نص آسر إلى رسوماتك. يجعل Aspose.Drawing معالجة النص أمرًا سهلاً، حيث يقدم خطوطًا وأحجامًا وأنماطًا متنوعة. سواء كنت تفضل المظهر الحديث أو الكلاسيكي، توفر المكتبة الأدوات اللازمة لإضفاء الحيوية على رؤيتك.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   احفظ بأي تنسيق مدعوم
+   </h3>
+
+   <p align='justify'>
+   يوفر Aspose.Drawing المرونة — احفظ تحفتك الفنية بتنسيقات BMP وPNG وJPEG وGIF وTIFF. قم بتخصيص مخرجاتك لتتناسب مع متطلبات تطبيقك أو مشروعك لتحقيق التكامل السلس.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   سحر جافا النقي، لا تبعيات
+   </h3>
+
+   <p align='justify'>
+   قل وداعًا للتبعيات الخارجية. Aspose.Drawing عبارة عن مكتبة Java خالصة، مما يلغي الحاجة إلى محركات عرض أصلية خارجية. استمتع بتجربة تطوير خالية من الصعوبات ومصممة لتتماشى بسلاسة مع مشاريع Java الخاصة بك.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   لماذا تختار Aspose.Drawing لجافا؟
+   </h3>
+
+   <p>
+   <ul>
+   <li>
+   <b>قوة بسيطة:</b> تحقق Aspose.Drawing التوازن بين البساطة والقوة، وتقدم عملية تكامل مباشرة دون التضحية بالميزات الأساسية.
+   </li>
+   <li>
+   <b>رسومات المتجهات متعددة الاستخدامات:</b> بدءًا من المنحنيات المعقدة وحتى الأشكال الجريئة، تلبي اللوحة Aspose.Drawing كافة احتياجات الرسومات المتجهة، مما يسمح بإبداعك بالتدفق دون قيود.
+   </li>
+   <li>
+   <b>النص القصصي:</b> قم بإنشاء قصص مقنعة بنصوص تتحدث عن الكثير. مع مجموعة واسعة من الخطوط والأنماط، يضمن Aspose.Drawing أن يكون النص الخاص بك جذابًا مثل الرسومات الخاصة بك.
+   </li>
+   <li>
+   <b>حرية التنسيق:</b> يدعم Aspose.Drawing تنسيقات رسومات متعددة، مما يوفر حرية حفظ ومشاركة الإبداعات بتنسيق يناسب رؤيتك.
+   </li>
+   <li>
+   <b>جافا الأصلية:</b> احتضن بساطة وكفاءة المكتبة الأصلية في Java. لا مزيد من التبعيات أو التعقيدات الخارجية — فقط سحر جافا الخالص.
+   </li>
+   </ul>
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   ارفع مستوى رسوماتك اليوم
+   </h3>
+
+   <p align='justify'>
+   قم بتحسين رسومات التطبيق الخاص بك باستخدام Aspose.Drawing لـ Java. استمتع بالتكامل السلس والميزات القوية والتصميم سهل الاستخدام. أطلق العنان لإبداعك، وقم بتبسيط سير عملك، ودع Aspose.Drawing يعيد تعريف تجربة الرسومات الخاصة بك. قم بالتنزيل الآن وابدأ رحلتك من التألق البصري.
+   </p>
+</div>
+
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 

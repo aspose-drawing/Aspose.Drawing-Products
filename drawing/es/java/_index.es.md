@@ -1,21 +1,107 @@
 ---
-title: Aspose.Drawing para Java | Reemplazo multiplataforma System.Drawing.Common 
+title: Aspose.Drawing para Java | Biblioteca gráfica multiplataforma
 weight: 20
 url: /es/java/ 
-description: Biblioteca gráfica Java para dibujar texto, geometrías e imágenes, para reemplazar directamente el paquete System.Drawing.Common sin cambiar el código C# existente.
+description: Biblioteca gráfica Java para dibujar texto, curvas, líneas, figuras e imágenes.
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Reemplazo multiplataforma System.Drawing.Common" h2="Aspose.Drawing implementa la mayor parte de la API System.Drawing (incluida la manipulación de imágenes, el dibujo vectorial y de texto) en código totalmente administrado sin dependencias externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Biblioteca gráfica multiplataforma para Java" h2="Aspose.Drawing implementa una API de dibujo integral y fácil de usar, que incluye manipulación de imágenes, dibujo vectorial y de texto en código totalmente administrado sin dependencias externas." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify">
- El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con Java. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca Java pura y no depende de ningún motor de renderizado nativo externo.
-</p>
+
+
+<div class="col-lg-12">
+   <h2 class="h2title">
+   Aspose.Drawing para Java: mejore su experiencia gráfica
+   </h2>
+
+   <p align='justify'>
+   Presentamos Aspose.Drawing para Java, una biblioteca de dibujo de última generación que permite a los desarrolladores lograr una excelencia gráfica inigualable en sus aplicaciones.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Libera el poder de los gráficos vectoriales
+   </h3>
+
+   <p align='justify'>
+   Aspose.Drawing ofrece un sólido conjunto de funciones que reproducen gráficos vectoriales sin problemas. Crea líneas, curvas, figuras y más con facilidad. Ya sea que sea un desarrollador experimentado o un principiante, la interfaz fácil de usar de la biblioteca garantiza un proceso de diseño fluido.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Cautiva con texto en varios estilos
+   </h3>
+
+   <p align='justify'>
+   Destaca agregando texto cautivador a tus gráficos. Aspose.Drawing facilita la manipulación de texto y ofrece varias fuentes, tamaños y estilos. Ya sea que prefiera una apariencia moderna o clásica, la biblioteca le brinda las herramientas para hacer realidad su visión.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Guarde en cualquier formato compatible
+   </h3>
+
+   <p align='justify'>
+   Aspose.Drawing proporciona flexibilidad: guarde sus obras maestras en formatos BMP, PNG, JPEG, GIF y TIFF. Adapte su producción para que coincida con los requisitos de su aplicación o proyecto para una integración perfecta.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Pura magia de Java, sin dependencias
+   </h3>
+
+   <p align='justify'>
+   Di adiós a las dependencias externas. Aspose.Drawing es una biblioteca Java pura, lo que elimina la necesidad de motores de renderizado nativos externos. Disfrute de una experiencia de desarrollo sin complicaciones diseñada para alinearse perfectamente con sus proyectos Java.
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   ¿Por qué elegir Aspose.Drawing para Java?
+   </h3>
+
+   <p>
+   <ul>
+   <li>
+   <b>Poder sencillo:</b> Aspose.Drawing logra un equilibrio entre simplicidad y potencia, ofreciendo un proceso de integración sencillo sin sacrificar funciones esenciales.
+   </li>
+   <li>
+   <b>Gráficos vectoriales versátiles:</b> Desde curvas intrincadas hasta figuras llamativas, Aspose.Drawing satisface todas las necesidades de gráficos vectoriales, permitiendo que su creatividad fluya sin limitaciones.
+   </li>
+   <li>
+   <b>Texto narrativo:</b> Cree historias convincentes con texto que lo diga todo. Con una amplia gama de fuentes y estilos, Aspose.Drawing garantiza que su texto sea tan cautivador como sus gráficos.
+   </li>
+   <li>
+   <b>Libertad de formato:</b> Aspose.Drawing admite múltiples formatos de gráficos, lo que brinda la libertad de guardar y compartir creaciones en un formato que se adapte a su visión.
+   </li>
+   <li>
+   <b>Java nativo:</b> Adopte la simplicidad y eficiencia de una biblioteca nativa de Java. No más dependencias externas ni complicaciones: solo pura magia de Java.
+   </li>
+   </ul>
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Mejore sus gráficos hoy
+   </h3>
+
+   <p align='justify'>
+   Mejore los gráficos de su aplicación con Aspose.Drawing para Java. Experimente una integración perfecta, funciones potentes y un diseño fácil de usar. Da rienda suelta a tu creatividad, optimiza tu flujo de trabajo y deja que Aspose.Drawing redefina tu experiencia gráfica. Descárgalo ahora y comienza tu viaje hacia la brillantez visual.
+   </p>
+</div>
+
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 

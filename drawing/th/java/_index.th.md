@@ -1,21 +1,107 @@
 ---
-title: Aspose.Drawing สำหรับ Java | การเปลี่ยน System.Drawing.Common ข้ามแพลตฟอร์ม 
+title: Aspose.Drawing สำหรับ Java | ไลบรารีกราฟิกข้ามแพลตฟอร์ม
 weight: 20
 url: /th/java/ 
-description: ไลบรารีกราฟิก Java สำหรับการวาดข้อความ เรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System.Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
+description: ไลบรารีกราฟิก Java สำหรับการวาดข้อความ เส้นโค้ง เส้น ตัวเลข และรูปภาพ
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="การเปลี่ยน System.Drawing.Common ข้ามแพลตฟอร์ม" h2="Aspose.Drawing ใช้ System.Drawing API ส่วนใหญ่ (รวมถึงการจัดการรูปภาพ เวกเตอร์ และการวาดข้อความ) ในโค้ดที่ได้รับการจัดการเต็มรูปแบบโดยไม่ต้องพึ่งพาภายนอก" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับจาวา" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ไลบรารีกราฟิกข้ามแพลตฟอร์มสำหรับ Java" h2="Aspose.Drawing ใช้ API การวาดที่ครอบคลุมที่ใช้งานง่าย รวมถึงการจัดการรูปภาพ การวาดเวกเตอร์และข้อความในโค้ดที่ได้รับการจัดการเต็มรูปแบบโดยไม่ต้องพึ่งพาภายนอก" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับจาวา" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="สำหรับจาวา" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify">
- สามารถใช้แพ็คเกจ Aspose.Drawing เพื่อแทนที่การอ้างอิงแพ็คเกจ System.Drawing.Common ในโปรเจ็กต์ของคุณได้โดยตรง - โค้ดที่มีอยู่ทั้งหมดของคุณที่ใช้ System.Drawing API จะยังคงใช้งานได้ แต่ขณะนี้บนแพลตฟอร์มที่รองรับ Java แล้ว ไลบรารีรูปวาดรองรับการเรนเดอร์กราฟิกแบบเวกเตอร์ เช่น เส้น เส้นโค้ง และตัวเลข รวมถึงข้อความในแบบอักษร ขนาด และสไตล์ที่หลากหลายลงบนภาพแรสเตอร์ สามารถบันทึกรูปภาพในรูปแบบกราฟิกที่ใช้ทั่วไปทั้งหมดได้ รวมถึง BMP, PNG, JPEG, GIF และ TIFF Aspose.Drawing เป็นไลบรารี Java ล้วนๆ และไม่ต้องอาศัยเอ็นจิ้นการเรนเดอร์เนทีฟภายนอกใดๆ
-</p>
+
+
+<div class="col-lg-12">
+   <h2 class="h2title">
+   Aspose.Drawing สำหรับ Java: ยกระดับประสบการณ์กราฟิกของคุณ
+   </h2>
+
+   <p align='justify'>
+   ขอแนะนำ Aspose.Drawing สำหรับ Java ซึ่งเป็นไลบรารี่การวาดภาพที่ล้ำสมัยที่ช่วยให้นักพัฒนาสามารถบรรลุความเป็นเลิศด้านกราฟิกที่ไม่มีใครเทียบได้ในแอพพลิเคชั่นของพวกเขา
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   ปลดปล่อยพลังกราฟิกแบบเวกเตอร์
+   </h3>
+
+   <p align='justify'>
+   Aspose.Drawing นำเสนอชุดคุณสมบัติที่แข็งแกร่ง เรนเดอร์กราฟิกแบบเวกเตอร์ได้อย่างราบรื่น สร้างเส้น เส้นโค้ง ตัวเลข และอื่นๆ ได้อย่างง่ายดาย ไม่ว่าคุณจะเป็นนักพัฒนาที่มีประสบการณ์หรือมือใหม่ อินเทอร์เฟซที่ใช้งานง่ายของไลบรารีช่วยให้กระบวนการออกแบบราบรื่น
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   สะกดใจด้วยข้อความในรูปแบบต่างๆ
+   </h3>
+
+   <p align='justify'>
+   โดดเด่นด้วยการเพิ่มข้อความที่น่าดึงดูดให้กับกราฟิกของคุณ Aspose.Drawing ทำให้การจัดการข้อความเป็นเรื่องง่าย ด้วยแบบอักษร ขนาด และสไตล์ที่หลากหลาย ไม่ว่าคุณจะชอบรูปลักษณ์ที่ทันสมัยหรือคลาสสิก ห้องสมุดก็มีเครื่องมือที่จะทำให้วิสัยทัศน์ของคุณเป็นจริง
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   บันทึกในรูปแบบที่รองรับ
+   </h3>
+
+   <p align='justify'>
+   Aspose.Drawing มอบความยืดหยุ่น — บันทึกผลงานชิ้นเอกของคุณในรูปแบบ BMP, PNG, JPEG, GIF และ TIFF ปรับแต่งเอาท์พุตของคุณให้ตรงกับความต้องการของแอปพลิเคชันหรือโปรเจ็กต์ของคุณเพื่อการบูรณาการที่ราบรื่น
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   Pure Java Magic ไม่มีการพึ่งพา
+   </h3>
+
+   <p align='justify'>
+   บอกลาการพึ่งพาจากภายนอก Aspose.Drawing เป็นไลบรารี Java ล้วนๆ ซึ่งไม่จำเป็นต้องใช้เอ็นจิ้นการเรนเดอร์ภายนอกภายนอก เพลิดเพลินไปกับประสบการณ์การพัฒนาที่ไร้อุปสรรคซึ่งออกแบบมาเพื่อให้สอดคล้องกับโปรเจ็กต์ Java ของคุณได้อย่างราบรื่น
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   เหตุใดจึงเลือก Aspose.Drawing สำหรับ Java?
+   </h3>
+
+   <p>
+   <ul>
+   <li>
+   <b>พลังที่เรียบง่าย:</b> Aspose.Drawing สร้างความสมดุลระหว่างความเรียบง่ายและพลัง โดยนำเสนอกระบวนการบูรณาการที่ตรงไปตรงมาโดยไม่ต้องเสียสละคุณสมบัติที่สำคัญ
+   </li>
+   <li>
+   <b>กราฟิกแบบเวกเตอร์อเนกประสงค์:</b> ตั้งแต่เส้นโค้งที่ซับซ้อนไปจนถึงรูปร่างที่หนา Aspose.Drawing ตอบสนองความต้องการกราฟิกแบบเวกเตอร์ทั้งหมด ช่วยให้ความคิดสร้างสรรค์ของคุณไหลลื่นโดยไม่มีข้อจำกัด
+   </li>
+   <li>
+   <b>ข้อความเล่าเรื่อง:</b> สร้างเรื่องราวที่น่าสนใจด้วยข้อความที่พูดได้มากมาย ด้วยแบบอักษรและสไตล์ที่หลากหลาย Aspose.Drawing ช่วยให้ข้อความของคุณน่าดึงดูดพอๆ กับกราฟิกของคุณ
+   </li>
+   <li>
+   <b>เสรีภาพของรูปแบบ:</b> Aspose.Drawing รองรับรูปแบบกราฟิกที่หลากหลาย ให้อิสระในการบันทึกและแบ่งปันผลงานสร้างสรรค์ในรูปแบบที่เหมาะกับวิสัยทัศน์ของคุณ
+   </li>
+   <li>
+   <b>ชวาพื้นเมือง:</b> โอบรับความเรียบง่ายและประสิทธิภาพของไลบรารี่ดั้งเดิมของ Java ไม่มีการพึ่งพาภายนอกหรือความยุ่งยากอีกต่อไป — แค่เวทย์มนตร์ Java ล้วนๆ
+   </li>
+   </ul>
+   </p>
+</div>
+
+<div class="col-lg-12">
+   <h3 class="h3title">
+   ยกระดับกราฟิกของคุณวันนี้
+   </h3>
+
+   <p align='justify'>
+   ปรับปรุงกราฟิกแอปพลิเคชันของคุณด้วย Aspose.Drawing สำหรับ Java สัมผัสประสบการณ์การผสานรวมที่ราบรื่น ฟีเจอร์อันทรงพลัง และการออกแบบที่ใช้งานง่าย ปลดปล่อยความคิดสร้างสรรค์ของคุณ ปรับปรุงขั้นตอนการทำงานของคุณ และปล่อยให้ Aspose.Drawing กำหนดประสบการณ์กราฟิกของคุณใหม่ ดาวน์โหลดตอนนี้และเริ่มต้นการเดินทางของคุณสู่ความสดใสของภาพ
+   </p>
+</div>
+
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 

@@ -12,13 +12,13 @@ description: Bittérképek készítése a semmiből.
 
 <h2>Bittérképek létrehozása a semmiből a C# használatával</h2>
 
-<p><a href="bmp/">Hozzon létre BMP képfájlt</a></p>
-<p><a href="emf/">Hozzon létre EMF képfájlt</a></p>
-<p><a href="gif/">Hozzon létre GIF képfájlt</a></p>
-<p><a href="jpeg/">Hozzon létre JPEG képfájlt</a></p>
-<p><a href="png/">Hozzon létre PNG képfájlt</a></p>
-<p><a href="tiff/">Hozzon létre TIFF képfájlt</a></p>
-<p><a href="wmf/">Hozzon létre WMF képfájlt</a></p>
+<p><a href="bmp">Hozzon létre BMP képfájlt</a></p>
+<p><a href="emf">Hozzon létre EMF képfájlt</a></p>
+<p><a href="gif">Hozzon létre GIF képfájlt</a></p>
+<p><a href="jpeg">Hozzon létre JPEG képfájlt</a></p>
+<p><a href="png">Hozzon létre PNG képfájlt</a></p>
+<p><a href="tiff">Hozzon létre TIFF képfájlt</a></p>
+<p><a href="wmf">Hozzon létre WMF képfájlt</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

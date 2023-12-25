@@ -1,5 +1,5 @@
 ---
-title: 자바용 Aspose.Drawing | 크로스 플랫폼 그래픽 라이브러리
+title: Java 용 Aspose.Drawing | 크로스 플랫폼 그래픽 라이브러리
 weight: 20
 url: /ko/java/ 
 description: 텍스트, 곡선, 선, 그림 및 이미지를 그리기 위한 Java 그래픽 라이브러리입니다.
@@ -7,9 +7,9 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java용 크로스 플랫폼 그래픽 라이브러리" h2="Aspose.Drawing은 외부 종속성 없이 완전히 관리되는 코드로 이미지 조작, 벡터 및 텍스트 그리기를 포함하여 사용하기 쉬운 포괄적인 그리기 API를 구현합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="자바용" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java용 크로스 플랫폼 그래픽 라이브러리" h2="Aspose.Drawing은 외부 종속성 없이 완전히 관리되는 코드로 이미지 조작, 벡터 및 텍스트 그리기를 포함하여 사용하기 쉬운 포괄적인 그리기 API를 구현합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java 용" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="자바용" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java 용" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>형식의 자유:</b> Aspose.Drawing은 다양한 그래픽 형식을 지원하므로 자신의 비전에 맞는 형식으로 창작물을 자유롭게 저장하고 공유할 수 있습니다.
    </li>
    <li>
-   <b>네이티브 자바:</b> Java 기본 라이브러리의 단순성과 효율성을 활용하세요. 더 이상 외부 종속성이나 복잡성이 없습니다. 순수한 Java 마법입니다.
+   <b>네이티브 Java:</b> Java 기본 라이브러리의 단순성과 효율성을 활용하세요. 더 이상 외부 종속성이나 복잡성이 없습니다. 순수한 Java 마법입니다.
    </li>
    </ul>
    </p>
@@ -203,7 +203,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="드로잉 조작 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="드로잉 조작 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Java용 Aspose.Drawing은 다음 [이미지 형식](https://docs.aspose.com/printing/net/supported-file-formats/)을 지원합니다." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Java용 Aspose.Drawing은 다음 [이미지 형식](https://docs.aspose.com/raw/java/supported-file-formats/)을 지원합니다." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="자바 드로잉 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="Java 드로잉 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -358,110 +358,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      좌표계 변환 사용
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Sheet Color Highlighting</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Layer Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-font ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Text Layers on Runtime</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-v ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Brightness and Contrast in Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-h ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Exposure Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Channel Mixer Adjust Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Merge PUB layers into Other layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">표현 of Curves Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manager Photo Filter Adjustment Layer</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and 표현 of Level Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-adjust ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add Hue Saturation of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of 깎는 Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Latest PUB API Features</h2>
-
-<p>Aspose.PUB 자바용 API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
-
-<ul>
-
-<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
-
-<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
-
-<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
-
-<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
-
-<li>표현 of Stroke effect with Color Fill for export</li>
-
-</ul>
-
-</div>-->
+   
    <div class="col-lg-12">
     <h2 class="h2title">
      벡터 그래픽 그리기
@@ -471,66 +368,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      호 그리기 - 자바
+      호 그리기 - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Access & Manipulate PUB Layers</h2>
-
-<p>Aspose.PUB 자바용 lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Read or Create PUB Files</h2>
-
-<p>Aspose.PUB 자바용 not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Create PUB from scratch - C#</h3>
-
-<pre><code class="cs">using (var PUB = Aspose.PSD.Image.Create(new Aspose.PSD.ImageOptions.PsdOptions()
-
-{
-
-    Source = new Aspose.PSD.Sources.FileCreateSource(dir + "output.psd", false),
-
-    ColorMode = Aspose.PSD.FileFormats.Psd.ColorModes.Rgb,
-
-    CompressionMethod = Aspose.PSD.FileFormats.Psd.CompressionMethod.RLE,
-
-    Version = 4
-
-}, 400, 400))
-
-{
-
-    // draw some graphics over the newly created PSD
-
-    var graphics = new Aspose.PSD.Graphics(psd);
-
-    graphics.Clear(Aspose.PSD.Color.White);
-
-    graphics.DrawEllipse(new Aspose.PSD.Pen(Aspose.PSD.Color.Red, 6), new Aspose.PSD.Rectangle(0, 0, 400, 400));
-
-    psd.Save();
-
-}</code></pre>
-
-</div>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Various Imaging Filters</h2>
-
-<p>Aspose.PUB 자바용 provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
-
-</div>-->
   </div>
  </div>
 </div>

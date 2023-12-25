@@ -15,6 +15,10 @@ description: مكتبة الرسومات ثنائية الأبعاد لتقدي�
 مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing ل" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+مكتبة رسومية Java لرسم النصوص والأشكال الهندسية والصور بتنسيقات مختلفة.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

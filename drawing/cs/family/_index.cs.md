@@ -15,6 +15,10 @@ description: Knihovna 2D grafiky pro vykreslování vektorové grafiky, zobrazen
 Grafická knihovna .NET pro kreslení textu, geometrií a obrázků, která přímo nahrazuje balíček System.Drawing.Common bez změny stávajícího kódu C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="za Aspose.Drawing" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Grafická knihovna Java pro kreslení textu, geometrií a obrázků v různých formátech.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

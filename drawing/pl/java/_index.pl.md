@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h2>
 
    <p align='justify'>
-   Przedstawiamy Aspose.Drawing za Java, najnowocześniejszą bibliotekę rysunków, która umożliwia programistom osiągnięcie niezrównanej doskonałości graficznej w swoich aplikacjach.
+   Przedstawiamy Aspose.Drawing dla Javy, najnowocześniejszą bibliotekę rysunków, która umożliwia programistom osiągnięcie niezrównanej doskonałości graficznej w swoich aplikacjach.
    </p>
 </div>
 
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Ulepsz grafikę swojej aplikacji dzięki Aspose.Drawing za Java. Doświadcz płynnej integracji, zaawansowanych funkcji i przyjaznego dla użytkownika projektu. Uwolnij swoją kreatywność, usprawnij przepływ pracy i pozwól Aspose.Drawing na nowo zdefiniować swoje wrażenia graficzne. Pobierz teraz i rozpocznij podróż po doskonałej jakości obrazu.
+   Ulepsz grafikę swojej aplikacji dzięki Aspose.Drawing dla Javy. Doświadcz płynnej integracji, zaawansowanych funkcji i przyjaznego dla użytkownika projektu. Uwolnij swoją kreatywność, usprawnij przepływ pracy i pozwól Aspose.Drawing na nowo zdefiniować swoje wrażenia graficzne. Pobierz teraz i rozpocznij podróż po doskonałej jakości obrazu.
    </p>
 </div>
 
@@ -203,7 +203,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="rysowanie interfejsów API manipulacji" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="rysowanie interfejsów API manipulacji" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Drawing dla Java obsługuje następujące [formaty obrazów] (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Drawing dla Java obsługuje następujące [formaty obrazów] (https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -358,110 +358,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Użyj transformacji układu współrzędnych
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Sheet Color Highlighting</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Layer Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-font ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Text Layers on Runtime</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-v ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Brightness and Contrast in Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-h ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Exposure Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Channel Mixer Adjust Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Merge PUB layers into Other layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Wykonanie of Curves Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manager Photo Filter Adjustment Layer</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and Wykonanie of Level Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-adjust ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add Hue Saturation of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Obrzynek Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Latest PUB API Features</h2>
-
-<p>Aspose.PUB dla Javy API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
-
-<ul>
-
-<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
-
-<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
-
-<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
-
-<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
-
-<li>Wykonanie of Stroke effect with Color Fill for export</li>
-
-</ul>
-
-</div>-->
+   
    <div class="col-lg-12">
     <h2 class="h2title">
      Narysuj grafikę wektorową
@@ -476,61 +373,6 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Access & Manipulate PUB Layers</h2>
-
-<p>Aspose.PUB dla Javy lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Read or Create PUB Files</h2>
-
-<p>Aspose.PUB dla Javy not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Create PUB from scratch - C#</h3>
-
-<pre><code class="cs">using (var PUB = Aspose.PSD.Image.Create(new Aspose.PSD.ImageOptions.PsdOptions()
-
-{
-
-    Source = new Aspose.PSD.Sources.FileCreateSource(dir + "output.psd", false),
-
-    ColorMode = Aspose.PSD.FileFormats.Psd.ColorModes.Rgb,
-
-    CompressionMethod = Aspose.PSD.FileFormats.Psd.CompressionMethod.RLE,
-
-    Version = 4
-
-}, 400, 400))
-
-{
-
-    // draw some graphics over the newly created PSD
-
-    var graphics = new Aspose.PSD.Graphics(psd);
-
-    graphics.Clear(Aspose.PSD.Color.White);
-
-    graphics.DrawEllipse(new Aspose.PSD.Pen(Aspose.PSD.Color.Red, 6), new Aspose.PSD.Rectangle(0, 0, 400, 400));
-
-    psd.Save();
-
-}</code></pre>
-
-</div>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Various Imaging Filters</h2>
-
-<p>Aspose.PUB dla Javy provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
-
-</div>-->
   </div>
  </div>
 </div>

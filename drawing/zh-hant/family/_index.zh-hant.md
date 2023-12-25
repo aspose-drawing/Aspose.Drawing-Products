@@ -15,6 +15,10 @@ description: 2D 圖形庫，用於渲染向量圖形、顯示文字以及以常�
 .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直接取代System.Drawing.Common軟體包，無需更改現有C#程式碼。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing 為" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Java 圖形庫，用於繪製不同格式的文字、幾何圖形和圖像。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

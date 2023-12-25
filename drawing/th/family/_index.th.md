@@ -15,6 +15,10 @@ description: ไลบรารีกราฟิก 2D เพื่อเรน
 ไลบรารีกราฟิก .NET สำหรับการวาดข้อความ เรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System.Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing สำหรับ" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+ไลบรารีกราฟิก Java สำหรับการวาดข้อความ เรขาคณิต และรูปภาพด้วยรูปแบบที่แตกต่างกัน
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

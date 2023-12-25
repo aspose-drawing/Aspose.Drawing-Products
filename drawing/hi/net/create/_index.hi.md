@@ -12,13 +12,13 @@ description: शुरुआत से बिटमैप बनाना.
 
 <h2>C# का उपयोग करके स्क्रैच से बिटमैप्स कैसे बनाएं</h2>
 
-<p><a href="bmp/">BMP छवि फ़ाइल बनाएँ</a></p>
-<p><a href="emf/">EMF छवि फ़ाइल बनाएँ</a></p>
-<p><a href="gif/">GIF छवि फ़ाइल बनाएँ</a></p>
-<p><a href="jpeg/">JPEG छवि फ़ाइल बनाएँ</a></p>
-<p><a href="png/">PNG छवि फ़ाइल बनाएँ</a></p>
-<p><a href="tiff/">TIFF छवि फ़ाइल बनाएँ</a></p>
-<p><a href="wmf/">WMF छवि फ़ाइल बनाएँ</a></p>
+<p><a href="bmp">BMP छवि फ़ाइल बनाएँ</a></p>
+<p><a href="emf">EMF छवि फ़ाइल बनाएँ</a></p>
+<p><a href="gif">GIF छवि फ़ाइल बनाएँ</a></p>
+<p><a href="jpeg">JPEG छवि फ़ाइल बनाएँ</a></p>
+<p><a href="png">PNG छवि फ़ाइल बनाएँ</a></p>
+<p><a href="tiff">TIFF छवि फ़ाइल बनाएँ</a></p>
+<p><a href="wmf">WMF छवि फ़ाइल बनाएँ</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

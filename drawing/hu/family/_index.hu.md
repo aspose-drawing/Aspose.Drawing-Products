@@ -15,6 +15,10 @@ description: 2D Graphics Library vektorgrafikák megjelenítéséhez, szöveg me
 .NET grafikus könyvtár szövegek, geometriák és képek rajzolásához, a System.Drawing.Common csomag közvetlen helyettesítésére a meglévő C# kód megváltoztatása nélkül.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Java grafikus könyvtár szövegek, geometriák és képek rajzolásához különböző formátumokkal.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

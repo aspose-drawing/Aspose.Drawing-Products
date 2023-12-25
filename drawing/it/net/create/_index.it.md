@@ -12,13 +12,13 @@ description: Creazione di bitmap da zero.
 
 <h2>Come creare bitmap da zero utilizzando C#</h2>
 
-<p><a href="bmp/">Crea un file immagine BMP</a></p>
-<p><a href="emf/">Crea un file immagine EMF</a></p>
-<p><a href="gif/">Crea un file immagine GIF</a></p>
-<p><a href="jpeg/">Crea un file immagine JPEG</a></p>
-<p><a href="png/">Crea un file immagine PNG</a></p>
-<p><a href="tiff/">Crea un file immagine TIFF</a></p>
-<p><a href="wmf/">Crea un file immagine WMF</a></p>
+<p><a href="bmp">Crea un file immagine BMP</a></p>
+<p><a href="emf">Crea un file immagine EMF</a></p>
+<p><a href="gif">Crea un file immagine GIF</a></p>
+<p><a href="jpeg">Crea un file immagine JPEG</a></p>
+<p><a href="png">Crea un file immagine PNG</a></p>
+<p><a href="tiff">Crea un file immagine TIFF</a></p>
+<p><a href="wmf">Crea un file immagine WMF</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

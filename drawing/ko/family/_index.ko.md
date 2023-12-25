@@ -15,6 +15,10 @@ description: 벡터 그래픽을 렌더링하고, 텍스트를 표시하고, 일
 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패키지를 직접 대체하기 위해 텍스트, 기하학 및 이미지를 그리기 위한 .NET 그래픽 라이브러리입니다.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing용" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+다양한 형식의 텍스트, 기하학 및 이미지를 그리기 위한 Java 그래픽 라이브러리입니다.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

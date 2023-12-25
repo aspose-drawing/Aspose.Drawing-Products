@@ -1,15 +1,15 @@
 ---
-title: जावा के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म ग्राफ़िक लाइब्रेरी
+title: Java के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म ग्राफ़िक लाइब्रेरी
 weight: 20
 url: /hi/java/ 
-description: पाठ, वक्र, रेखाएँ, आकृतियाँ और चित्र बनाने के लिए जावा ग्राफ़िक लाइब्रेरी।
+description: पाठ, वक्र, रेखाएँ, आकृतियाँ और चित्र बनाने के लिए Java ग्राफ़िक लाइब्रेरी।
 keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="जावा के लिए क्रॉस-प्लेटफ़ॉर्म ग्राफ़िक लाइब्रेरी" h2="Aspose.Drawing उपयोग में आसान व्यापक ड्राइंग एपीआई को लागू करता है, जिसमें बिना किसी बाहरी निर्भरता के पूरी तरह से प्रबंधित कोड में छवि हेरफेर, वेक्टर और टेक्स्ट ड्राइंग शामिल है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="जावा के लिए" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java के लिए क्रॉस-प्लेटफ़ॉर्म ग्राफ़िक लाइब्रेरी" h2="Aspose.Drawing उपयोग में आसान व्यापक ड्राइंग एपीआई को लागू करता है, जिसमें बिना किसी बाहरी निर्भरता के पूरी तरह से प्रबंधित कोड में छवि हेरफेर, वेक्टर और टेक्स्ट ड्राइंग शामिल है।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java के लिए" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="जावा के लिए" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java के लिए" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
@@ -18,11 +18,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h2 class="h2title">
-   जावा के लिए Aspose.Drawing: अपने ग्राफ़िक्स अनुभव को उन्नत करें
+   Java के लिए Aspose.Drawing: अपने ग्राफ़िक्स अनुभव को उन्नत करें
    </h2>
 
    <p align='justify'>
-   पेश है जावा के लिए Aspose.Drawing, एक अत्याधुनिक ड्राइंग लाइब्रेरी जो डेवलपर्स को उनके अनुप्रयोगों में बेजोड़ ग्राफिक्स उत्कृष्टता प्राप्त करने के लिए सशक्त बनाती है।
+   पेश है Java के लिए Aspose.Drawing, एक अत्याधुनिक ड्राइंग लाइब्रेरी जो डेवलपर्स को उनके अनुप्रयोगों में बेजोड़ ग्राफिक्स उत्कृष्टता प्राप्त करने के लिए सशक्त बनाती है।
    </p>
 </div>
 
@@ -58,17 +58,17 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   शुद्ध जावा जादू, कोई निर्भरता नहीं
+   शुद्ध Java जादू, कोई निर्भरता नहीं
    </h3>
 
    <p align='justify'>
-   बाहरी निर्भरता को अलविदा कहें. Aspose.Drawing एक शुद्ध जावा लाइब्रेरी है, जो बाहरी देशी रेंडरिंग इंजनों की आवश्यकता को समाप्त करती है। अपने जावा प्रोजेक्ट्स के साथ सहजता से संरेखित करने के लिए डिज़ाइन किए गए संघर्ष-मुक्त विकास अनुभव का आनंद लें।
+   बाहरी निर्भरता को अलविदा कहें. Aspose.Drawing एक शुद्ध Java लाइब्रेरी है, जो बाहरी देशी रेंडरिंग इंजनों की आवश्यकता को समाप्त करती है। अपने Java प्रोजेक्ट्स के साथ सहजता से संरेखित करने के लिए डिज़ाइन किए गए संघर्ष-मुक्त विकास अनुभव का आनंद लें।
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   जावा के लिए Aspose.Drawing क्यों चुनें?
+   Java के लिए Aspose.Drawing क्यों चुनें?
    </h3>
 
    <p>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>प्रारूप स्वतंत्रता:</b> Aspose.Drawing कई ग्राफिक्स प्रारूपों का समर्थन करता है, जो आपकी दृष्टि के अनुरूप प्रारूप में रचनाओं को सहेजने और साझा करने की स्वतंत्रता प्रदान करता है।
    </li>
    <li>
-   <b>मूल जावा:</b> जावा की मूल लाइब्रेरी की सरलता और दक्षता को अपनाएँ। अब कोई बाहरी निर्भरता या जटिलता नहीं - केवल शुद्ध जावा जादू।
+   <b>मूल Java:</b> Java की मूल लाइब्रेरी की सरलता और दक्षता को अपनाएँ। अब कोई बाहरी निर्भरता या जटिलता नहीं - केवल शुद्ध Java जादू।
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   जावा के लिए Aspose.Drawing के साथ अपने एप्लिकेशन के ग्राफ़िक्स को बेहतर बनाएं। निर्बाध एकीकरण, शक्तिशाली सुविधाओं और उपयोगकर्ता के अनुकूल डिज़ाइन का अनुभव करें। अपनी रचनात्मकता को उजागर करें, अपने वर्कफ़्लो को सुव्यवस्थित करें, और Aspose.Drawing को अपने ग्राफिक्स अनुभव को फिर से परिभाषित करने दें। अभी डाउनलोड करें और दृश्य प्रतिभा की अपनी यात्रा शुरू करें।
+   Java के लिए Aspose.Drawing के साथ अपने एप्लिकेशन के ग्राफ़िक्स को बेहतर बनाएं। निर्बाध एकीकरण, शक्तिशाली सुविधाओं और उपयोगकर्ता के अनुकूल डिज़ाइन का अनुभव करें। अपनी रचनात्मकता को उजागर करें, अपने वर्कफ़्लो को सुव्यवस्थित करें, और Aspose.Drawing को अपने ग्राफिक्स अनुभव को फिर से परिभाषित करने दें। अभी डाउनलोड करें और दृश्य प्रतिभा की अपनी यात्रा शुरू करें।
    </p>
 </div>
 
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="एक नजर में" description="जावा एपीआई के लिए Aspose.Drawing का अवलोकन।" >}}
+{{< blocks/products/pf/carousel-item h3="एक नजर में" description="Java एपीआई के लिए Aspose.Drawing का अवलोकन।" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -203,7 +203,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="हेरफेर एपीआई ड्राइंग" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="हेरफेर एपीआई ड्राइंग" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="जावा के लिए Aspose.Drawing निम्नलिखित [छवि प्रारूप] (https://docs.aspose.com/drawing/net/supported-file-formats/) का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="Java के लिए Aspose.Drawing निम्नलिखित [छवि प्रारूपों] (https://docs.aspose.com/drawing/java/supported-file-formats/) का समर्थन करता है।" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="जावा ड्राइंग एपीआई" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="Java ड्राइंग एपीआई" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    उन्नत जावा ग्राफ़िक्स एपीआई सुविधाएँ
+    उन्नत Java ग्राफ़िक्स एपीआई सुविधाएँ
    </h2>
    <p>
    </p>
@@ -358,179 +358,21 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      समन्वय प्रणाली परिवर्तनों का उपयोग करें
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Sheet Color Highlighting</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Layer Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-font ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Text Layers on Runtime</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-v ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Brightness and Contrast in Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-h ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Exposure Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Channel Mixer Adjust Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Merge PUB layers into Other layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">प्रतिपादन of Curves Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manager Photo Filter Adjustment Layer</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and प्रतिपादन of Level Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-adjust ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add Hue Saturation of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of कतरन Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Latest PUB API Features</h2>
-
-<p>Aspose.PUB जावा के लिए API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
-
-<ul>
-
-<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
-
-<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
-
-<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
-
-<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
-
-<li>प्रतिपादन of Stroke effect with Color Fill for export</li>
-
-</ul>
-
-</div>-->
+   
    <div class="col-lg-12">
     <h2 class="h2title">
      वेक्टर ग्राफ़िक्स बनाएं
     </h2>
     <p>
-     जावा के लिए Aspose.Drawing विभिन्न वेक्टर ग्राफिक्स जैसे आर्क, कार्डिनल स्पलाइन, बेज़ियर स्पलाइन, एलिप्स, बंद वक्र, रेखाएं और कई अन्य प्रकार खींचने की अनुमति देता है। एपीआई का उपयोग करके विभिन्न प्रकार के वेक्टर ग्राफिक्स बनाने के लिए कोड की केवल कुछ पंक्तियों की आवश्यकता होती है। उदाहरण के लिए यहां आर्क खींचने के लिए कोड है।
+     Java के लिए Aspose.Drawing विभिन्न वेक्टर ग्राफिक्स जैसे आर्क, कार्डिनल स्पलाइन, बेज़ियर स्पलाइन, एलिप्स, बंद वक्र, रेखाएं और कई अन्य प्रकार खींचने की अनुमति देता है। एपीआई का उपयोग करके विभिन्न प्रकार के वेक्टर ग्राफिक्स बनाने के लिए कोड की केवल कुछ पंक्तियों की आवश्यकता होती है। उदाहरण के लिए यहां आर्क खींचने के लिए कोड है।
     </p>
     <div class="codeblock" id="code">
      <h3>
-      ड्राइंग आर्क - जावा
+      ड्राइंग आर्क - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Access & Manipulate PUB Layers</h2>
-
-<p>Aspose.PUB जावा के लिए lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Read or Create PUB Files</h2>
-
-<p>Aspose.PUB जावा के लिए not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Create PUB from scratch - C#</h3>
-
-<pre><code class="cs">using (var PUB = Aspose.PSD.Image.Create(new Aspose.PSD.ImageOptions.PsdOptions()
-
-{
-
-    Source = new Aspose.PSD.Sources.FileCreateSource(dir + "output.psd", false),
-
-    ColorMode = Aspose.PSD.FileFormats.Psd.ColorModes.Rgb,
-
-    CompressionMethod = Aspose.PSD.FileFormats.Psd.CompressionMethod.RLE,
-
-    Version = 4
-
-}, 400, 400))
-
-{
-
-    // draw some graphics over the newly created PSD
-
-    var graphics = new Aspose.PSD.Graphics(psd);
-
-    graphics.Clear(Aspose.PSD.Color.White);
-
-    graphics.DrawEllipse(new Aspose.PSD.Pen(Aspose.PSD.Color.Red, 6), new Aspose.PSD.Rectangle(0, 0, 400, 400));
-
-    psd.Save();
-
-}</code></pre>
-
-</div>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Various Imaging Filters</h2>
-
-<p>Aspose.PUB जावा के लिए provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
-
-</div>-->
   </div>
  </div>
 </div>
@@ -553,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="जावा के लिए Aspose.Drawing क्यों?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Java के लिए Aspose.Drawing क्यों?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

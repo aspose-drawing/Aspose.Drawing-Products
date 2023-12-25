@@ -12,13 +12,13 @@ description: Creando mapas de bits desde cero.
 
 <h2>Cómo crear mapas de bits desde cero usando C#</h2>
 
-<p><a href="bmp/">Crear archivo de imagen BMP</a></p>
-<p><a href="emf/">Crear archivo de imagen EMF</a></p>
-<p><a href="gif/">Crear archivo de imagen GIF</a></p>
-<p><a href="jpeg/">Crear archivo de imagen JPEG</a></p>
-<p><a href="png/">Crear archivo de imagen PNG</a></p>
-<p><a href="tiff/">Crear archivo de imagen TIFF</a></p>
-<p><a href="wmf/">Crear archivo de imagen WMF</a></p>
+<p><a href="bmp">Crear archivo de imagen BMP</a></p>
+<p><a href="emf">Crear archivo de imagen EMF</a></p>
+<p><a href="gif">Crear archivo de imagen GIF</a></p>
+<p><a href="jpeg">Crear archivo de imagen JPEG</a></p>
+<p><a href="png">Crear archivo de imagen PNG</a></p>
+<p><a href="tiff">Crear archivo de imagen TIFF</a></p>
+<p><a href="wmf">Crear archivo de imagen WMF</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

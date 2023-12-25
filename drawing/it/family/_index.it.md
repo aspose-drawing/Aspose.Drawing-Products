@@ -15,6 +15,10 @@ description: Libreria grafica 2D per eseguire il rendering di grafica vettoriale
 Libreria grafica .NET per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing per" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Libreria grafica Java per disegnare testi, geometrie e immagini con diversi formati.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

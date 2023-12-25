@@ -1,5 +1,5 @@
 ---
-title: API 2D-рисования
+title: API 2D-чертежа
 weight: 10
 url: /ru/family
 description: Библиотека 2D-графики для рендеринга векторной графики, отображения текста и сохранения результатов рисования в широко используемых форматах графических файлов.
@@ -13,6 +13,10 @@ description: Библиотека 2D-графики для рендеринга 
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing для" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/ru/net/" >}}
 Графическая библиотека .NET для рисования текста, геометрии и изображений для прямой замены пакета System.Drawing.Common без изменения существующего кода C#.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Drawing для" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Графическая библиотека Java для рисования текста, геометрии и изображений в различных форматах.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

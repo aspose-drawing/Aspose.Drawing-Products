@@ -18,11 +18,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h2 class="h2title">
-   Aspose.Drawing 為 Java：提升您的圖形體驗
+   用於 Java 的 Aspose.Drawing：提升您的圖形體驗
    </h2>
 
    <p align='justify'>
-   隆重介紹 Aspose.Drawing 為 Java，這是一個最先進的繪圖庫，使開發人員能夠在其應用程式中實現無與倫比的圖形卓越性。
+   隆重介紹 用於 Java 的 Aspose.Drawing，這是一個最先進的繪圖庫，使開發人員能夠在其應用程式中實現無與倫比的圖形卓越性。
    </p>
 </div>
 
@@ -68,7 +68,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   為什麼選擇 Aspose.Drawing 為 Java？
+   為什麼選擇 用於 Java 的 Aspose.Drawing？
    </h3>
 
    <p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   使用 Aspose.Drawing 為 Java 增強應用程式的圖形效果。體驗無縫整合、強大的功能和使用者友好的設計。釋放您的創造力，簡化您的工作流程，讓 Aspose.Drawing 重新定義您的圖形體驗。立即下載並開始您的視覺輝煌之旅。
+   使用 用於 Java 的 Aspose.Drawing 增強應用程式的圖形效果。體驗無縫整合、強大的功能和使用者友好的設計。釋放您的創造力，簡化您的工作流程，讓 Aspose.Drawing 重新定義您的圖形體驗。立即下載並開始您的視覺輝煌之旅。
    </p>
 </div>
 
@@ -203,7 +203,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="繪圖操作 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="繪圖操作 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Drawing 為 Java 支援以下[圖片格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="用於 Java 的 Aspose.Drawing 支援以下[影像格式](https://docs.aspose.com/drawing/java/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -358,116 +358,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      使用座標系變換
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Sheet Color Highlighting</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Layer Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-font ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Text Layers on Runtime</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-v ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Brightness and Contrast in Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-h ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Exposure Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Channel Mixer Adjust Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-bars ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Merge PUB layers into Other layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">渲染 of Curves Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manager Photo Filter Adjustment Layer</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-level-up ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and 渲染 of Level Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-adjust ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add Hue Saturation of Adjustment Layers</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-star-half-o ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Support of 剪裁 Mask</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Manage Opacity of Layers & Flatten Layers</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Latest PUB API Features</h2>
-
-<p>Aspose.PUB 對於Java API continuously adding more features to make it powerful. Here is list of few picks from the latest ones added.</p>
-
-<ul>
-
-<li>Support of Fill layers. Pattern, Color and Gradient fill</li>
-
-<li>Support of GdFlResource, VmskResource, PtFlResource and VsmsResource</li>
-
-<li>Load JPEG/PNG/etc image files to PsdImage without direct loading</li>
-
-<li>Support of Layer Vector Masks and Text Layer Custom FlipRotate</li>
-
-<li>渲染 of Stroke effect with Color Fill for export</li>
-
-</ul>
-
-</div>-->
+   
    <div class="col-lg-12">
     <h2 class="h2title">
      繪製向量圖形
     </h2>
     <p>
-     Aspose.Drawing 為 Java 允許繪製不同的向量圖形，例如圓弧、基數樣條線、貝塞爾樣條線、橢圓、閉合曲線、直線和許多其他類型。使用 API 只需幾行程式碼即可繪製不同類型的向量圖形。例如，這是繪製圓弧的程式碼。
+     用於 Java 的 Aspose.Drawing 允許繪製不同的向量圖形，例如圓弧、基數樣條線、貝塞爾樣條線、橢圓、閉合曲線、直線和許多其他類型。使用 API 只需幾行程式碼即可繪製不同類型的向量圖形。例如，這是繪製圓弧的程式碼。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -476,61 +373,6 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Access & Manipulate PUB Layers</h2>
-
-<p>Aspose.PUB 對於Java lets you access layers of a PUB with the ability to draw on it with either image or text. You can merge layers, update text on layers, set effects or export layer as an image. You may also use PUB Java API to detect flattened PUB files or create thumbnails.</p>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Read or Create PUB Files</h2>
-
-<p>Aspose.PUB 對於Java not only supports loading PSD & PSB file formats for manipulation & conversion but it also provides the capability to create PUB & PSB files from scratch. Java developers can use the API to automate scenarios that may help them on their way.</p>
-
-<div id="code" class="codeblock">
-
-<h3>Create PUB from scratch - C#</h3>
-
-<pre><code class="cs">using (var PUB = Aspose.PSD.Image.Create(new Aspose.PSD.ImageOptions.PsdOptions()
-
-{
-
-    Source = new Aspose.PSD.Sources.FileCreateSource(dir + "output.psd", false),
-
-    ColorMode = Aspose.PSD.FileFormats.Psd.ColorModes.Rgb,
-
-    CompressionMethod = Aspose.PSD.FileFormats.Psd.CompressionMethod.RLE,
-
-    Version = 4
-
-}, 400, 400))
-
-{
-
-    // draw some graphics over the newly created PSD
-
-    var graphics = new Aspose.PSD.Graphics(psd);
-
-    graphics.Clear(Aspose.PSD.Color.White);
-
-    graphics.DrawEllipse(new Aspose.PSD.Pen(Aspose.PSD.Color.Red, 6), new Aspose.PSD.Rectangle(0, 0, 400, 400));
-
-    psd.Save();
-
-}</code></pre>
-
-</div>
-
-</div>-->
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Various Imaging Filters</h2>
-
-<p>Aspose.PUB 對於Java provides the core imaging features such as color adjustment via its class libraries. Developers can easily adjust brightness, contrast or gamma on raster image loaded by the API. Furthermore, developers can dynamically dither or blur images as well as use popular filters including Median, Gauss Wiener, Motion Wiener and Bradley Threshold.</p>
-
-</div>-->
   </div>
  </div>
 </div>
@@ -553,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="部落格" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Drawing 為 Java？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 用於 Java 的 Aspose.Drawing？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

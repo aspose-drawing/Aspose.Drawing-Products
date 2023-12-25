@@ -12,13 +12,13 @@ description: Membuat bitmap dari awal.
 
 <h2>Cara Membuat Bitmap dari Awal Menggunakan C#</h2>
 
-<p><a href="bmp/">Buat file gambar BMP</a></p>
-<p><a href="emf/">Buat file gambar EMF</a></p>
-<p><a href="gif/">Buat file gambar GIF</a></p>
-<p><a href="jpeg/">Buat file gambar JPEG</a></p>
-<p><a href="png/">Buat file gambar PNG</a></p>
-<p><a href="tiff/">Buat file gambar TIFF</a></p>
-<p><a href="wmf/">Buat file gambar WMF</a></p>
+<p><a href="bmp">Buat file gambar BMP</a></p>
+<p><a href="emf">Buat file gambar EMF</a></p>
+<p><a href="gif">Buat file gambar GIF</a></p>
+<p><a href="jpeg">Buat file gambar JPEG</a></p>
+<p><a href="png">Buat file gambar PNG</a></p>
+<p><a href="tiff">Buat file gambar TIFF</a></p>
+<p><a href="wmf">Buat file gambar WMF</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

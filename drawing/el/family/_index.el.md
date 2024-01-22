@@ -15,6 +15,10 @@ description: Βιβλιοθήκη 2D γραφικών για απόδοση δι
 Βιβλιοθήκη γραφικών .NET για σχεδίαση κειμένου, γεωμετριών και εικόνων, για άμεση αντικατάσταση του πακέτου System.Drawing.Common χωρίς αλλαγή του υπάρχοντος κώδικα C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing για" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Βιβλιοθήκη γραφικών Java για σχεδίαση κειμένου, γεωμετριών και εικόνων με διαφορετικές μορφές.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -12,13 +12,13 @@ description: إنشاء الصور النقطية من الصفر.
 
 <h2>كيفية إنشاء صور نقطية من الصفر باستخدام C#</h2>
 
-<p><a href="bmp/">إنشاء ملف صورة BMP</a></p>
-<p><a href="emf/">إنشاء ملف صورة EMF</a></p>
-<p><a href="gif/">إنشاء ملف صورة GIF</a></p>
-<p><a href="jpeg/">إنشاء ملف صورة JPEG</a></p>
-<p><a href="png/">إنشاء ملف صورة PNG</a></p>
-<p><a href="tiff/">إنشاء ملف صورة TIFF</a></p>
-<p><a href="wmf/">إنشاء ملف صورة WMF</a></p>
+<p><a href="bmp">إنشاء ملف صورة BMP</a></p>
+<p><a href="emf">إنشاء ملف صورة EMF</a></p>
+<p><a href="gif">إنشاء ملف صورة GIF</a></p>
+<p><a href="jpeg">إنشاء ملف صورة JPEG</a></p>
+<p><a href="png">إنشاء ملف صورة PNG</a></p>
+<p><a href="tiff">إنشاء ملف صورة TIFF</a></p>
+<p><a href="wmf">إنشاء ملف صورة WMF</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

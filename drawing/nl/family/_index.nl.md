@@ -15,6 +15,10 @@ description: 2D Graphics Library om vectorafbeeldingen weer te geven, tekst weer
 .NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing voor" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Java grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen met verschillende formaten.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

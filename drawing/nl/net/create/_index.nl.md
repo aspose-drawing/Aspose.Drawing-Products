@@ -12,13 +12,13 @@ description: Vanaf het begin bitmaps maken.
 
 <h2>Hoe u vanuit het niets bitmaps kunt maken met de C#</h2>
 
-<p><a href="bmp/">Maak een BMP-afbeeldingsbestand</a></p>
-<p><a href="emf/">Maak een EMF-afbeeldingsbestand</a></p>
-<p><a href="gif/">Maak een GIF-afbeeldingsbestand</a></p>
-<p><a href="jpeg/">Maak een JPEG-afbeeldingsbestand</a></p>
-<p><a href="png/">Maak een PNG-afbeeldingsbestand</a></p>
-<p><a href="tiff/">Maak een TIFF-afbeeldingsbestand</a></p>
-<p><a href="wmf/">Maak een WMF-afbeeldingsbestand</a></p>
+<p><a href="bmp">Maak een BMP-afbeeldingsbestand</a></p>
+<p><a href="emf">Maak een EMF-afbeeldingsbestand</a></p>
+<p><a href="gif">Maak een GIF-afbeeldingsbestand</a></p>
+<p><a href="jpeg">Maak een JPEG-afbeeldingsbestand</a></p>
+<p><a href="png">Maak een PNG-afbeeldingsbestand</a></p>
+<p><a href="tiff">Maak een TIFF-afbeeldingsbestand</a></p>
+<p><a href="wmf">Maak een WMF-afbeeldingsbestand</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

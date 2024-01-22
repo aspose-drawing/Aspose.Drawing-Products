@@ -15,6 +15,10 @@ description: Thư viện đồ họa 2D để hiển thị đồ họa vector, h
 Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.Drawing.Common mà không thay đổi mã C# hiện có.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing cho" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Thư viện đồ họa Java để vẽ văn bản, hình học và hình ảnh với các định dạng khác nhau.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

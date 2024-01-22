@@ -12,13 +12,13 @@ description: Bitmaps von Grund auf erstellen.
 
 <h2>So erstellen Sie Bitmaps von Grund auf mit C#</h2>
 
-<p><a href="bmp/">Erstellen Sie eine BMP-Imagedatei</a></p>
-<p><a href="emf/">Erstellen Sie eine EMF-Imagedatei</a></p>
-<p><a href="gif/">Erstellen Sie eine GIF-Imagedatei</a></p>
-<p><a href="jpeg/">Erstellen Sie eine JPEG-Imagedatei</a></p>
-<p><a href="png/">Erstellen Sie eine PNG-Imagedatei</a></p>
-<p><a href="tiff/">Erstellen Sie eine TIFF-Imagedatei</a></p>
-<p><a href="wmf/">Erstellen Sie eine WMF-Imagedatei</a></p>
+<p><a href="bmp">Erstellen Sie eine BMP-Imagedatei</a></p>
+<p><a href="emf">Erstellen Sie eine EMF-Imagedatei</a></p>
+<p><a href="gif">Erstellen Sie eine GIF-Imagedatei</a></p>
+<p><a href="jpeg">Erstellen Sie eine JPEG-Imagedatei</a></p>
+<p><a href="png">Erstellen Sie eine PNG-Imagedatei</a></p>
+<p><a href="tiff">Erstellen Sie eine TIFF-Imagedatei</a></p>
+<p><a href="wmf">Erstellen Sie eine WMF-Imagedatei</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

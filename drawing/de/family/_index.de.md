@@ -15,6 +15,10 @@ description: 2D-Grafikbibliothek zum Rendern von Vektorgrafiken, Anzeigen von Te
 .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern, um das System.Drawing.Common-Paket direkt zu ersetzen, ohne den vorhandenen C#-Code zu ändern.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing für" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Java-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern in verschiedenen Formaten.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

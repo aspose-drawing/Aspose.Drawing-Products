@@ -12,13 +12,13 @@ description: ビットマップを最初から作成します。
 
 <h2>C# を使用してビットマップを最初から作成する方法</h2>
 
-<p><a href="bmp/">BMPイメージファイルの作成</a></p>
-<p><a href="emf/">EMFイメージファイルの作成</a></p>
-<p><a href="gif/">GIFイメージファイルの作成</a></p>
-<p><a href="jpeg/">JPEGイメージファイルの作成</a></p>
-<p><a href="png/">PNGイメージファイルの作成</a></p>
-<p><a href="tiff/">TIFFイメージファイルの作成</a></p>
-<p><a href="wmf/">WMFイメージファイルの作成</a></p>
+<p><a href="bmp">BMPイメージファイルの作成</a></p>
+<p><a href="emf">EMFイメージファイルの作成</a></p>
+<p><a href="gif">GIFイメージファイルの作成</a></p>
+<p><a href="jpeg">JPEGイメージファイルの作成</a></p>
+<p><a href="png">PNGイメージファイルの作成</a></p>
+<p><a href="tiff">TIFFイメージファイルの作成</a></p>
+<p><a href="wmf">WMFイメージファイルの作成</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

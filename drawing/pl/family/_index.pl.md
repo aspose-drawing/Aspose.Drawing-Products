@@ -15,6 +15,10 @@ description: Biblioteka grafiki 2D do renderowania grafiki wektorowej, wyświetl
 Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów, bezpośrednio zastępująca pakiet System.Drawing.Common bez zmiany istniejącego kodu C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing za" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Biblioteka graficzna Java do rysowania tekstu, geometrii i obrazów w różnych formatach.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

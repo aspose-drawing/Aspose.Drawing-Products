@@ -15,6 +15,10 @@ description: Pustaka Grafik 2D untuk merender grafik vektor, menampilkan teks, d
 Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing untuk" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+Pustaka grafis Java untuk menggambar teks, geometri, dan gambar dengan format berbeda.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

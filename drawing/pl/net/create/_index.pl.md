@@ -12,13 +12,13 @@ description: Tworzenie bitmap od podstaw.
 
 <h2>Jak tworzyć mapy bitowe od podstaw przy użyciu C#</h2>
 
-<p><a href="bmp/">Utwórz plik obrazu BMP</a></p>
-<p><a href="emf/">Utwórz plik obrazu EMF</a></p>
-<p><a href="gif/">Utwórz plik obrazu GIF</a></p>
-<p><a href="jpeg/">Utwórz plik obrazu JPEG</a></p>
-<p><a href="png/">Utwórz plik obrazu PNG</a></p>
-<p><a href="tiff/">Utwórz plik obrazu TIFF</a></p>
-<p><a href="wmf/">Utwórz plik obrazu WMF</a></p>
+<p><a href="bmp">Utwórz plik obrazu BMP</a></p>
+<p><a href="emf">Utwórz plik obrazu EMF</a></p>
+<p><a href="gif">Utwórz plik obrazu GIF</a></p>
+<p><a href="jpeg">Utwórz plik obrazu JPEG</a></p>
+<p><a href="png">Utwórz plik obrazu PNG</a></p>
+<p><a href="tiff">Utwórz plik obrazu TIFF</a></p>
+<p><a href="wmf">Utwórz plik obrazu WMF</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

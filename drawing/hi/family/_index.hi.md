@@ -15,6 +15,10 @@ description: 2डी ग्राफ़िक्स लाइब्रेरी 
 मौजूदा C# कोड को बदले बिना सीधे System.Drawing.Common पैकेज को बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफिक लाइब्रेरी।
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing के लिए" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+विभिन्न प्रारूपों के साथ पाठ, ज्यामिति और छवियों को चित्रित करने के लिए Java ग्राफिक लाइब्रेरी।
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

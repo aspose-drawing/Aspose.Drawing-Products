@@ -244,7 +244,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create/">Créer des bitmaps à partir de zéro</a>
+    <p class="col-lg-10"><a href="create">Créer des bitmaps à partir de zéro</a>
      ou charger des fichiers existants
     </p>
    </div>

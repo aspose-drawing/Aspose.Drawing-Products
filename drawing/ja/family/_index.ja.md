@@ -15,6 +15,10 @@ description: ベクトル グラフィックスのレンダリング、テキス
 テキスト、ジオメトリ、およびイメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing用" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}
+さまざまな形式でテキスト、ジオメトリ、画像を描画するための Java グラフィック ライブラリ。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

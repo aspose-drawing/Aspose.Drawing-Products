@@ -12,13 +12,13 @@ description: 비트맵을 처음부터 생성합니다.
 
 <h2>C#을 사용하여 처음부터 비트맵을 만드는 방법</h2>
 
-<p><a href="bmp/">BMP 이미지 파일 생성</a></p>
-<p><a href="emf/">EMF 이미지 파일 생성</a></p>
-<p><a href="gif/">GIF 이미지 파일 생성</a></p>
-<p><a href="jpeg/">JPEG 이미지 파일 생성</a></p>
-<p><a href="png/">PNG 이미지 파일 생성</a></p>
-<p><a href="tiff/">TIFF 이미지 파일 생성</a></p>
-<p><a href="wmf/">WMF 이미지 파일 생성</a></p>
+<p><a href="bmp">BMP 이미지 파일 생성</a></p>
+<p><a href="emf">EMF 이미지 파일 생성</a></p>
+<p><a href="gif">GIF 이미지 파일 생성</a></p>
+<p><a href="jpeg">JPEG 이미지 파일 생성</a></p>
+<p><a href="png">PNG 이미지 파일 생성</a></p>
+<p><a href="tiff">TIFF 이미지 파일 생성</a></p>
+<p><a href="wmf">WMF 이미지 파일 생성</a></p>
 
 {{< /blocks/products/pf/main-container >}}
 

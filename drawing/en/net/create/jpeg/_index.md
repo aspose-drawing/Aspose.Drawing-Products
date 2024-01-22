@@ -83,6 +83,7 @@ The drawing engine within Aspose.Drawing empowers users to render vector graphic
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your files and create text drawing in the web-browser" >}}
 {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resulting JPEG file" >}}
 
+{{< /blocks/products/pf/agp/demobox >}}
 
 {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 

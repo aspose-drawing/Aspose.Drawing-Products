@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Creating bitmaps from scratch or load existing files
+     <a href="create/">Create bitmaps from scratch</a> or load existing files
     </p>
    </div>
    <div class="col-lg-4">

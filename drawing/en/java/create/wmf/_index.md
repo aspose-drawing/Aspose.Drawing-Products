@@ -75,7 +75,7 @@ Aspose.Drawing for Java is supported on all major operating systems. Just make s
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create WMF Image File - Java" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Create-WMF-Image-File.cs" >}}
+{{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-Java-Create-WMF-Image-File.java" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -111,7 +111,7 @@ Files with the .WMF extension serves as a container for storing both vector and 
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/png/" name="PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/tiff/" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/Java/create/wmf/" name="WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/wmf/" name="WMF" description="Microsoft Windows Metafile" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

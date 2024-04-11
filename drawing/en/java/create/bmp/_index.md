@@ -74,7 +74,7 @@ Aspose.Drawing for Java is supported on all major operating systems. Just make s
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create BMP Image File - Java" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Create-BMP-Image-File.cs" >}}
+{{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-Java-Create-BMP-Image-File.java" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

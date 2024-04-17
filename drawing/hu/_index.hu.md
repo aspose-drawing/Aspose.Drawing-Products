@@ -15,6 +15,10 @@ description: High Code API-k és ingyenes alkalmazások 2D grafikus rajzoláshoz
 .NET grafikus könyvtár szövegek, geometriák és képek rajzolásához, a System.Drawing.Common csomag közvetlen helyettesítésére a meglévő C# kód megváltoztatása nélkül.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Java grafikus könyvtár rajzoláshoz, beleértve a vektoros és szöveges rajzolást is teljesen felügyelt kódban, külső függőségek nélkül.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/hu/family/" innerText="Az összes High Code API megtekintése" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

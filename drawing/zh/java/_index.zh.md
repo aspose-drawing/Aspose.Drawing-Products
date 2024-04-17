@@ -1,34 +1,34 @@
 ---
-title: 用于 Java 的 Aspose.Drawing |跨平台图形库
+title: Aspose.Drawing 换 Java |跨平台图形库
 weight: 20
 url: /zh/java/ 
-description: 用于绘制文本、曲线、直线、图形和图像的 Java 图形库。
+description: Java 图形库用于绘制文本、曲线、直线、图形和图像。
 keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java 跨平台图形库" h2="Aspose.Drawing实现了易于使用的综合绘图API，包括完全托管代码中的图像处理、矢量和文本绘图，无需任何外部依赖" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="对于Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java 跨平台图形库" h2="Aspose.Drawing实现了易于使用的综合绘图API，包括完全托管代码中的图像处理、矢量和文本绘图，无需任何外部依赖" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="适用于 Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="对于Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="适用于 Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
 
 <div class="col-lg-12">
    <h2 class="h2title">
-   用于 Java 的 Aspose.Drawing：提升您的图形体验
+   Aspose.Drawing 为 Java：提升您的图形体验
    </h2>
 
    <p align='justify'>
-   隆重推出 用于 Java 的 Aspose.Drawing，这是一个最先进的绘图库，使开发人员能够在其应用程序中实现无与伦比的图形卓越性。
+   Java 推出 Aspose.Drawing，Java 是最先进的绘图库，使开发人员能够在其应用程序中实现无与伦比的图形卓越性。
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   释放矢量图形力量
+   释放矢量图形的力量
    </h3>
 
    <p align='justify'>
@@ -58,17 +58,17 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   纯 Java 魔法，无依赖
+   纯粹的 Java 魔法，无依赖性
    </h3>
 
    <p align='justify'>
-   告别外部依赖。 Aspose.Drawing是一个纯Java库，无需外部本机渲染引擎。享受专为与您的 Java 项目无缝配合而设计的轻松开发体验。
+   告别外部依赖。 Aspose.Drawing 是一个纯粹的 Java 库，无需外部原生渲染引擎。享受专为与您的 Java 项目无缝配合而设计的轻松开发体验。
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   为什么选择 用于 Java 的 Aspose.Drawing？
+   为什么Java选择Aspose.Drawing？
    </h3>
 
    <p>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>格式自由：</b> Aspose.Drawing 支持多种图形格式，可以自由地以适合您愿景的格式保存和共享创作。
    </li>
    <li>
-   <b>原生Java：</b> 拥抱 Java 原生库的简单性和高效性。不再有外部依赖或复杂性——只有纯粹的 Java 魔法。
+   <b>本机 Java：</b> 拥抱 Java 原生库的简单性和高效性。不再有外部依赖性或复杂性——只有纯粹的 Java 魔力。
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   使用 用于 Java 的 Aspose.Drawing 增强应用程序的图形效果。体验无缝集成、强大的功能和用户友好的设计。释放您的创造力，简化您的工作流程，让 Aspose.Drawing 重新定义您的图形体验。立即下载并开始您的视觉辉煌之旅。
+   使用 Aspose.Drawing 为 Java 增强应用程序的图形效果。体验无缝集成、强大的功能和用户友好的设计。释放您的创造力，简化您的工作流程，让 Aspose.Drawing 重新定义您的图形体验。立即下载并开始您的视觉辉煌之旅。
    </p>
 </div>
 
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Drawing Java API 概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Java API 的 Aspose.Drawing 概述。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="用于 Java 的 Aspose.Drawing 支持以下[图像格式](https://docs.aspose.com/drawing/java/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Drawing 为 Java 支持以下[图像格式](https://docs.aspose.com/drawing/java/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     从头开始创建位图或加载现有文件
+     <a href="create/">从头开始创建位图</a> 或加载现有文件
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,11 +364,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      绘制矢量图形
     </h2>
     <p>
-     用于 Java 的 Aspose.Drawing 允许绘制不同的矢量图形，例如圆弧、基数样条线、贝塞尔样条线、椭圆、闭合曲线、直线和许多其他类型。使用 API 只需几行代码即可绘制不同类型的矢量图形。例如，这是绘制圆弧的代码。
+     Aspose.Drawing 为 Java 允许绘制不同的矢量图形，例如圆弧、基数样条线、贝塞尔样条线、椭圆、闭合曲线、直线和许多其他类型。使用 API 只需几行代码即可绘制不同类型的矢量图形。例如，这是绘制圆弧的代码。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      绘制弧线 - Java
+      画弧 - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么选择 用于 Java 的 Aspose.Drawing？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么Aspose.Drawing换成Java？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

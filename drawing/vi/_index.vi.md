@@ -15,6 +15,10 @@ description: API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D.
 Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.Drawing.Common mà không thay đổi mã C# hiện có.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing cho" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Thư viện đồ họa Java để vẽ, bao gồm vẽ vector và văn bản trong mã được quản lý hoàn toàn mà không có bất kỳ sự phụ thuộc bên ngoài nào.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/vi/family/" innerText="Xem tất cả API mã cao" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

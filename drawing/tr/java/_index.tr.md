@@ -2,7 +2,7 @@
 title: Java için Aspose.Drawing | Platformlar Arası Grafik Kütüphanesi
 weight: 20
 url: /tr/java/ 
-description: Metin, eğri, çizgi, şekil ve resim çizmek için Java grafik kütüphanesi.
+description: Metin, eğri, çizgi, şekil ve görsel çizmek için Java grafik kütüphanesi.
 keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java için" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h2>
 
    <p align='justify'>
-   Geliştiricilere uygulamalarında benzersiz grafik mükemmelliği elde etme gücü veren son teknoloji ürünü bir çizim kitaplığı olan Java için Aspose.Drawing ile tanışın.
+   Java için Aspose.Drawing ile tanışın, geliştiricilere uygulamalarında benzersiz grafik mükemmelliği elde etme gücü veren son teknoloji ürünü bir çizim kitaplığı.
    </p>
 </div>
 
@@ -58,7 +58,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Saf Java Sihri, Bağımlılık Yok
+   Pure Java Magic, Bağımlılık Yok
    </h3>
 
    <p align='justify'>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Biçim Özgürlüğü:</b> Aspose.Drawing birden fazla grafik formatını destekleyerek, yaratımlarınızı vizyonunuza uygun bir formatta kaydetme ve paylaşma özgürlüğü sağlar.
    </li>
    <li>
-   <b>Yerel Java:</b> Java'ya özgü bir kitaplığın basitliğini ve verimliliğini benimseyin. Artık harici bağımlılıklar veya zorluklar yok; yalnızca saf Java büyüsü.
+   <b>Yerel Java:</b> Java'e özgü bir kitaplığın sadeliğini ve verimliliğini benimseyin. Artık harici bağımlılıklar veya zorluklar yok; yalnızca saf Java büyüsü.
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Uygulamanızın grafiklerini Java için Aspose.Drawing ile geliştirin. Kusursuz entegrasyonu, güçlü özellikleri ve kullanıcı dostu tasarımı deneyimleyin. Yaratıcılığınızı serbest bırakın, iş akışınızı kolaylaştırın ve Aspose.Drawing'ün grafik deneyiminizi yeniden tanımlamasına izin verin. Hemen indirin ve görsel parlaklık yolculuğunuza başlayın.
+   Java için Aspose.Drawing ile uygulamanızın grafiklerini geliştirin. Kusursuz entegrasyonu, güçlü özellikleri ve kullanıcı dostu tasarımı deneyimleyin. Yaratıcılığınızı serbest bırakın, iş akışınızı kolaylaştırın ve Aspose.Drawing'ün grafik deneyiminizi yeniden tanımlamasına izin verin. Hemen indirin ve görsel parlaklık yolculuğunuza başlayın.
    </p>
 </div>
 
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Gelişmiş Java Grafik API'si Özellikleri
+    Gelişmiş Java Grafik API Özellikleri
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bitmap'leri sıfırdan oluşturma veya mevcut dosyaları yükleme
+     <a href="create/">Bitmap'leri sıfırdan oluşturun</a> veya mevcut dosyaları yükleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Yay Çizimi - Java
+      Ark Çizimi - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden Java için Aspose.Drawing?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Java için neden Aspose.Drawing?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

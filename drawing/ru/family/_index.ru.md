@@ -1,12 +1,12 @@
 ---
-title: API 2D-чертежа
+title: API 2D-графики
 weight: 10
 url: /ru/family
 description: Библиотека 2D-графики для рендеринга векторной графики, отображения текста и сохранения результатов рисования в широко используемых форматах графических файлов.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Обработка 2D-графики на любой платформе" h2="Собственные API для 2D-рисования, включая рендеринг векторной графики и текста без каких-либо программных зависимостей." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Обработка 2D-графики на любой платформе" h2="Собственные API для 2D-графики, включая рендеринг векторной графики и текста без каких-либо программных зависимостей." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing.svg" pfName="Aspose.Drawing" downloadUrl="https://releases.aspose.com/drawing/" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API включает в себя" >}}

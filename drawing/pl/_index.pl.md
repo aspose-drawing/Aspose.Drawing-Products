@@ -15,6 +15,10 @@ description: Interfejsy API High Code i bezpłatne aplikacje do rysowania grafik
 Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów, bezpośrednio zastępująca pakiet System.Drawing.Common bez zmiany istniejącego kodu C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing za" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Biblioteka graficzna Java do rysowania, obejmująca rysowanie wektorów i tekstu we w pełni zarządzanym kodzie bez żadnych zewnętrznych zależności.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/pl/family/" innerText="Wyświetl wszystkie interfejsy API wysokiego kodu" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -15,6 +15,10 @@ description: API Kode Tinggi dan Aplikasi Gratis untuk menggambar grafis 2D. Kem
 Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing untuk" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Pustaka grafis Java untuk menggambar, termasuk gambar vektor dan teks dalam kode yang dikelola sepenuhnya tanpa ketergantungan eksternal apa pun.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/id/family/" innerText="Lihat Semua API Kode Tinggi" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

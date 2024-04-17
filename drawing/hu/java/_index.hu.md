@@ -7,22 +7,22 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Többplatformos grafikus könyvtár Java számára" h2="A Aspose.Drawing könnyen használható átfogó rajz API-t valósít meg, beleértve a képkezelést, a vektor- és szövegrajzolást teljesen felügyelt kódban, külső függőségek nélkül" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java számára" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Platformok közötti grafikus könyvtár a Java-hoz" h2="A Aspose.Drawing könnyen használható, átfogó rajz API-t valósít meg, beleértve a képkezelést, a vektor- és szövegrajzolást teljesen felügyelt kódban, külső függőségek nélkül" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java-hoz" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java számára" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java-hoz" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
 
 <div class="col-lg-12">
    <h2 class="h2title">
-   Aspose.Drawing Java-hoz: Növelje grafikai élményét
+   Aspose.Drawing Java-hez: Növelje grafikai élményét
    </h2>
 
    <p align='justify'>
-   Bemutatjuk a Aspose.Drawing Java-hoz-t, egy korszerű rajzkönyvtárat, amely lehetővé teszi a fejlesztők számára, hogy alkalmazásaikban páratlan grafikai kiválóságot érjenek el.
+   Bemutatkozik a Aspose.Drawing Java-hoz, egy korszerű rajzkönyvtár, amely lehetővé teszi a fejlesztők számára, hogy páratlan grafikai kiválóságot érjenek el alkalmazásaikban.
    </p>
 </div>
 
@@ -58,17 +58,17 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Tiszta Java mágia, függőségek nélkül
+   Pure Java Magic, függőségek nélkül
    </h3>
 
    <p align='justify'>
-   Mondjon búcsút a külső függőségeknek. A Aspose.Drawing egy tiszta Java-könyvtár, így nincs szükség külső natív renderelőmotorokra. Élvezze a problémamentes fejlesztési élményt, amelyet úgy terveztek, hogy zökkenőmentesen illeszkedjen Java-projektjeihez.
+   Mondjon búcsút a külső függőségeknek. A Aspose.Drawing egy tiszta Java könyvtár, amely szükségtelenné teszi a külső natív renderelő motorokat. Élvezze a problémamentes fejlesztési élményt, amelyet úgy terveztek, hogy zökkenőmentesen illeszkedjen Java projektjeihez.
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Miért válassza a Aspose.Drawing-at Java számára?
+   Miért válassza a Aspose.Drawing-at a Java-hez?
    </h3>
 
    <p>
@@ -80,13 +80,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Sokoldalú vektorgrafika:</b> A bonyolult ívektől a merész figurákig a Aspose.Drawing minden vektorgrafikus igényt kielégít, lehetővé téve, hogy kreativitásod korlátok nélkül áramoljon.
    </li>
    <li>
-   <b>Mesemondó szöveg:</b> Hozzon létre lenyűgöző történeteket olyan szöveggel, amely sokatmondó. A betűtípusok és stílusok széles skálá Java l a Aspose.Drawing gondoskodik arról, hogy a szövege ugyanolyan lenyűgöző legyen, mint a grafika.
+   <b>Mesemondó szöveg:</b> Hozzon létre lenyűgöző történeteket olyan szöveggel, amely sokatmondó. A betűtípusok és stílusok széles skálájával a Aspose.Drawing gondoskodik arról, hogy a szövege ugyanolyan lenyűgöző legyen, mint a grafika.
    </li>
    <li>
    <b>Formátum szabadság:</b> A Aspose.Drawing többféle grafikus formátumot támogat, így szabadságot biztosít az alkotások mentésére és megosztására olyan formátumban, amely megfelel az elképzeléseinek.
    </li>
    <li>
-   <b>Natív Java:</b> Fogadja el a Java-ban natív könyvtár egyszerűségét és hatékonyságát. Nincs több külső függőség vagy komplikáció – csak tiszta Java varázslat.
+   <b>Natív Java:</b> Élje át a Java-ban natív könyvtár egyszerűségét és hatékonyságát. Nincs több külső függőség vagy komplikáció – csak tiszta Java varázslat.
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Javítsa alkalmazása grafikáját a Aspose.Drawing Java-hoz segítségével. Tapasztalja meg a zökkenőmentes integrációt, a hatékony funkciókat és a felhasználóbarát kialakítást. Engedje szabadjára kreativitását, egyszerűsítse munkafolyamatait, és hagyja, hogy a Aspose.Drawing újradefiniálja grafikus élményét. Töltse le most, és kezdje el a vizuális ragyogás útját.
+   Javítsa alkalmazásának grafikáját a Aspose.Drawing Java-hoz segítségével. Tapasztalja meg a zökkenőmentes integrációt, a hatékony funkciókat és a felhasználóbarát kialakítást. Engedje szabadjára kreativitását, egyszerűsítse munkafolyamatait, és hagyja, hogy a Aspose.Drawing újradefiniálja grafikus élményét. Töltse le most, és kezdje el a vizuális ragyogás útját.
    </p>
 </div>
 
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Speciális Java Graphics API-funkciók
+    Advanced Java Graphics API funkciók
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bittérképek létrehozása a semmiből vagy meglévő fájlok betöltése
+     <a href="create/">Hozzon létre bittérképeket a semmiből</a> vagy töltsön be meglévő fájlokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért a Aspose.Drawing a Java számára?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért a Aspose.Drawing a Java-hez?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -15,6 +15,10 @@ description: API High Code e app gratuite per il disegno grafico 2D. Possibilit√
 Libreria grafica .NET per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing per" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Libreria grafica Java per il disegno, incluso il disegno vettoriale e di testo in codice completamente gestito senza dipendenze esterne.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/it/family/" innerText="Visualizza tutte le API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

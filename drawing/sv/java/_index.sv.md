@@ -1,5 +1,5 @@
 ---
-title: Aspose.Drawing för Java | Plattformsövergripande grafiskt bibliotek
+title: Aspose.Drawing för Java | Grafiskt bibliotek över plattformar
 weight: 20
 url: /sv/java/ 
 description: Java grafiskt bibliotek för att rita text, kurvor, linjer, figurer och bilder.
@@ -7,11 +7,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Plattformsövergripande grafiskt bibliotek för Java" h2="Aspose.Drawing implementerar ett lättanvänt omfattande ritnings-API, inklusive bildmanipulation, vektor- och textritning i fullständigt hanterad kod utan några externa beroenden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="för Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform Graphic Library för Java" h2="Aspose.Drawing implementerar ett lättanvänt omfattande ritnings-API, inklusive bildmanipulering, vektor- och textritning i fullständigt hanterad kod utan några externa beroenden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="för Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="för Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -52,13 +52,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Aspose.Drawing ger flexibilitet – spara dina mästerverk i formaten BMP, PNG, JPEG, GIF och TIFF. Skräddarsy din produktion för att matcha dina applikations- eller projektkrav för sömlös integration.
+   Aspose.Drawing ger flexibilitet — spara dina mästerverk i formaten BMP, PNG, JPEG, GIF och TIFF. Skräddarsy din produktion för att matcha dina applikations- eller projektkrav för sömlös integration.
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Ren Java-magi, inga beroenden
+   Ren Java magi, inga beroenden
    </h3>
 
    <p align='justify'>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Formatfrihet:</b> Aspose.Drawing stöder flera grafikformat, vilket ger friheten att spara och dela skapelser i ett format som passar din vision.
    </li>
    <li>
-   <b>Native Java:</b> Omfamna enkelheten och effektiviteten hos ett bibliotek som är inbyggt i Java. Inga fler externa beroenden eller komplikationer – bara ren Java-magi.
+   <b>Native Java:</b> Omfamna enkelheten och effektiviteten hos ett bibliotek från Java. Inga fler externa beroenden eller komplikationer – bara ren Java-magi.
    </li>
    </ul>
    </p>
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java Drawing API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="Java Ritnings-API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa bitmappar från början eller ladda befintliga filer
+     <a href="create/">Skapa bitmappar från grunden</a> eller ladda befintliga filer
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Teckning båge - Java
+      Ritbåge - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>

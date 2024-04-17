@@ -244,7 +244,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">Δημιουργήστε bitmaps από την αρχή</a>
+    <p class="col-lg-10"><a href="create/">Δημιουργήστε bitmaps από την αρχή</a>
      ή να φορτώσετε υπάρχοντα αρχεία
     </p>
    </div>

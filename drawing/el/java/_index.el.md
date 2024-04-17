@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="για Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -58,17 +58,17 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Καθαρή Java Magic, χωρίς εξαρτήσεις
+   Pure Java Magic, χωρίς εξαρτήσεις
    </h3>
 
    <p align='justify'>
-   Πείτε αντίο στις εξωτερικές εξαρτήσεις. Το Aspose.Drawing είναι μια καθαρή βιβλιοθήκη Java, που εξαλείφει την ανάγκη για εξωτερικές εγγενείς μηχανές απόδοσης. Απολαύστε μια εμπειρία ανάπτυξης χωρίς κόπο που έχει σχεδιαστεί για να ευθυγραμμίζεται απρόσκοπτα με τα έργα σας Java.
+   Πείτε αντίο στις εξωτερικές εξαρτήσεις. Το Aspose.Drawing είναι μια καθαρή βιβλιοθήκη Java, που εξαλείφει την ανάγκη για εξωτερικές εγγενείς μηχανές απόδοσης. Απολαύστε μια εμπειρία ανάπτυξης χωρίς κόπο, σχεδιασμένη για να ευθυγραμμιστεί άψογα με τα έργα σας Java.
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Γιατί να επιλέξετε το Aspose.Drawing για Java;
+   Γιατί να επιλέξετε το Aspose.Drawing για το Java;
    </h3>
 
    <p>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Ελευθερία μορφής:</b> Το Aspose.Drawing υποστηρίζει πολλαπλές μορφές γραφικών, παρέχοντας την ελευθερία αποθήκευσης και κοινής χρήσης δημιουργιών σε μια μορφή που ταιριάζει στην όρασή σας.
    </li>
    <li>
-   <b>Εγγενής Java:</b> Αγκαλιάστε την απλότητα και την αποτελεσματικότητα μιας βιβλιοθήκης εγγενούς στην Java. Όχι άλλες εξωτερικές εξαρτήσεις ή επιπλοκές — απλώς καθαρή μαγεία Java.
+   <b>Native Java:</b> Αγκαλιάστε την απλότητα και την αποτελεσματικότητα μιας βιβλιοθήκης που είναι εγγενής στο Java. Όχι άλλες εξωτερικές εξαρτήσεις ή επιπλοκές — απλώς καθαρή μαγεία Java.
    </li>
    </ul>
    </p>
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Drawing για Java API." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Drawing για το Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Προηγμένες λειτουργίες Java Graphics API
+    Προηγμένες δυνατότητες API γραφικών Java
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία bitmaps από την αρχή ή φόρτωση υπαρχόντων αρχείων
+     <a href="create/">Δημιουργήστε bitmaps από την αρχή</a> ή να φορτώσετε υπάρχοντα αρχεία
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,11 +364,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Σχεδιάστε διανυσματικά γραφικά
     </h2>
     <p>
-     Το Aspose.Drawing για Java επιτρέπει τη σχεδίαση διαφορετικών διανυσματικών γραφικών, όπως τόξα, σφήνα Cardinal, Spline Bezier, ελλείψεις, κλειστές καμπύλες, γραμμές και μια σειρά άλλων τύπων. Χρειάζονται μόνο λίγες γραμμές κώδικα για τη σχεδίαση διαφορετικών τύπων διανυσματικών γραφικών χρησιμοποιώντας το API. π.χ. εδώ είναι ο κώδικας για τη σχεδίαση τόξου.
+     Το Aspose.Drawing για Java επιτρέπει τη σχεδίαση διαφορετικών διανυσματικών γραφικών, όπως τόξα, καρδινάλιο Spline, Bezier spline, ελλείψεις, κλειστές καμπύλες, γραμμές και μια σειρά άλλων τύπων. Χρειάζονται μόνο λίγες γραμμές κώδικα για τη σχεδίαση διαφορετικών τύπων διανυσματικών γραφικών χρησιμοποιώντας το API. π.χ. εδώ είναι ο κώδικας για τη σχεδίαση τόξου.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Σχέδιο Arc - Java
+      Τόξο σχεδίασης - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Drawing για Java;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί το Aspose.Drawing για το Java;" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

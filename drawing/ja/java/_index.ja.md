@@ -1,5 +1,5 @@
 ---
-title: Java 用 Aspose.Drawing |クロスプラットフォームのグラフィック ライブラリ
+title: Aspose.Drawing用Java |クロスプラットフォームのグラフィック ライブラリ
 weight: 20
 url: /ja/java/ 
 description: テキスト、曲線、線、図形、画像を描画するための Java グラフィック ライブラリ。
@@ -11,18 +11,18 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java用" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
 
 <div class="col-lg-12">
    <h2 class="h2title">
-   Java用Aspose.Drawing: グラフィックス体験を向上
+   Aspose.Drawing用 Java: グラフィックス体験を向上
    </h2>
 
    <p align='justify'>
-   Java用Aspose.Drawing は、開発者がアプリケーションで比類のない優れたグラフィックスを実現できるようにする最先端の描画ライブラリです。
+   Aspose.Drawing用 Java は、開発者がアプリケーションで比類のない優れたグラフィックスを実現できるようにする最先端の描画ライブラリです。
    </p>
 </div>
 
@@ -58,7 +58,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Pure Java Magic、依存関係なし
+   純粋な Java マジック、依存関係なし
    </h3>
 
    <p align='justify'>
@@ -68,7 +68,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Java に Aspose.Drawing を選択する理由
+   Java ではなく Aspose.Drawing を選ぶ理由?
    </h3>
 
    <p>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>フォーマットの自由:</b> Aspose.Drawing は複数のグラフィック形式をサポートしており、自分のビジョンに合った形式で作品を自由に保存および共有できます。
    </li>
    <li>
-   <b>ネイティブ Java:</b> Java ネイティブのライブラリのシンプルさと効率性を活用してください。外部への依存関係や複雑さはもうありません。純粋な Java の魔法だけです。
+   <b>ネイティブ Java:</b> Java ネイティブのライブラリのシンプルさと効率性を活用してください。外部への依存や複雑さはもうありません。純粋な Java の魔法だけです。
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Java用Aspose.Drawing を使用してアプリケーションのグラフィックスを強化します。シームレスな統合、強力な機能、ユーザーフレンドリーなデザインを体験してください。創造性を解き放ち、ワークフローを合理化し、Aspose.Drawing でグラフィックス エクスペリエンスを再定義しましょう。今すぐダウンロードして、視覚的な輝きの旅を始めましょう。
+   Aspose.Drawing用 Java を使用してアプリケーションのグラフィックスを強化します。シームレスな統合、強力な機能、ユーザーフレンドリーなデザインを体験してください。創造性を解き放ち、ワークフローを合理化し、Aspose.Drawing でグラフィックス エクスペリエンスを再定義しましょう。今すぐダウンロードして、視覚的な輝きの旅を始めましょう。
    </p>
 </div>
 
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Java用Aspose.Drawing APIの概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing用 Java API の概要。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Java用Aspose.Drawing は、次の [画像形式](https://docs.aspose.com/drawing/java/supported-file-formats/) をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing用 Java は、次の [画像形式](https://docs.aspose.com/drawing/java/supported-file-formats/) をサポートしています。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    高度な Java グラフィック API 機能
+    高度な Java グラフィックス API 機能
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ビットマップを最初から作成するか、既存のファイルをロードする
+     <a href="create/">ビットマップを最初から作成する</a> または既存のファイルをロードします
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,7 +364,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      ベクターグラフィックスの描画
     </h2>
     <p>
-     Java用Aspose.Drawing では、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
+     Aspose.Drawing用 Java では、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Java に Aspose.Drawing を使用する理由" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Java で Aspose.Drawing なのか?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

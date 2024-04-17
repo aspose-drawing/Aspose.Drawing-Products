@@ -1,5 +1,5 @@
 ---
-title: Java 용 Aspose.Drawing | 크로스 플랫폼 그래픽 라이브러리
+title: Java용 Aspose.Drawing | 크로스 플랫폼 그래픽 라이브러리
 weight: 20
 url: /ko/java/ 
 description: 텍스트, 곡선, 선, 그림 및 이미지를 그리기 위한 Java 그래픽 라이브러리입니다.
@@ -7,11 +7,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java용 크로스 플랫폼 그래픽 라이브러리" h2="Aspose.Drawing은 외부 종속성 없이 완전히 관리되는 코드로 이미지 조작, 벡터 및 텍스트 그리기를 포함하여 사용하기 쉬운 포괄적인 그리기 API를 구현합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java 용" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java용 크로스 플랫폼 그래픽 라이브러리" h2="Aspose.Drawing은 외부 종속성 없이 완전히 관리되는 코드에서 이미지 조작, 벡터 및 텍스트 그리기를 포함하여 사용하기 쉬운 포괄적인 그리기 API를 구현합니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="Java의 경우" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java 용" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java의 경우" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -32,7 +32,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Aspose.Drawing은 벡터 그래픽을 원활하게 렌더링하는 강력한 기능 세트를 제공합니다. 선, 곡선, 도형 등을 쉽게 만들 수 있습니다. 숙련된 개발자이든 초보자이든 관계없이 라이브러리의 사용자 친화적인 인터페이스는 원활한 디자인 프로세스를 보장합니다.
+   Aspose.Drawing은 벡터 그래픽을 원활하게 렌더링하는 강력한 기능 세트를 제공합니다. 선, 곡선, 그림 등을 쉽게 만들 수 있습니다. 숙련된 개발자이든 초보자이든 관계없이 라이브러리의 사용자 친화적인 인터페이스는 원활한 디자인 프로세스를 보장합니다.
    </p>
 </div>
 
@@ -58,17 +58,17 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   순수 Java 매직, 종속성 없음
+   순수한 Java 매직, 종속성 없음
    </h3>
 
    <p align='justify'>
-   외부 의존성과 작별을 고하세요. Aspose.Drawing은 순수 Java 라이브러리이므로 외부 기본 렌더링 엔진이 필요하지 않습니다. Java 프로젝트와 원활하게 조화되도록 설계된 간편한 개발 경험을 즐겨보세요.
+   외부 의존성과 작별을 고하세요. Aspose.Drawing은 순수 Java 라이브러리이므로 외부 기본 렌더링 엔진이 필요하지 않습니다. Java 프로젝트와 원활하게 연계되도록 설계된 간편한 개발 경험을 즐겨보세요.
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Java용 Aspose.Drawing을 선택하는 이유는 무엇입니까?
+   Java 대신 Aspose.Drawing을 선택하는 이유는 무엇입니까?
    </h3>
 
    <p>
@@ -77,7 +77,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>단순한 힘:</b> Aspose.Drawing은 단순성과 성능 사이의 균형을 유지하여 필수 기능을 희생하지 않고도 간단한 통합 프로세스를 제공합니다.
    </li>
    <li>
-   <b>다양한 벡터 그래픽:</b> 복잡한 곡선부터 굵은 그림까지 Aspose.Drawing은 모든 벡터 그래픽 요구 사항을 충족하므로 창의력이 제한 없이 흐를 수 있습니다.
+   <b>다양한 벡터 그래픽:</b> 복잡한 곡선부터 굵은 그림까지 Aspose.Drawing은 모든 벡터 그래픽 요구 사항을 충족하므로 창의성이 제한 없이 흐를 수 있습니다.
    </li>
    <li>
    <b>스토리텔링 텍스트:</b> 많은 것을 말해주는 텍스트로 매력적인 스토리를 만드세요. 광범위한 글꼴과 스타일을 갖춘 Aspose.Drawing은 그래픽만큼 매력적인 텍스트를 보장합니다.
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>형식의 자유:</b> Aspose.Drawing은 다양한 그래픽 형식을 지원하므로 자신의 비전에 맞는 형식으로 창작물을 자유롭게 저장하고 공유할 수 있습니다.
    </li>
    <li>
-   <b>네이티브 Java:</b> Java 기본 라이브러리의 단순성과 효율성을 활용하세요. 더 이상 외부 종속성이나 복잡성이 없습니다. 순수한 Java 마법입니다.
+   <b>기본 Java:</b> Java에 기본으로 제공되는 라이브러리의 단순성과 효율성을 활용하세요. 더 이상 외부 종속성이나 복잡함이 없습니다. 순수한 Java의 마법입니다.
    </li>
    </ul>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     처음부터 비트맵 만들기 또는 기존 파일 로드
+     <a href="create/">처음부터 비트맵 만들기</a> 또는 기존 파일 로드
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,7 +364,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      벡터 그래픽 그리기
     </h2>
     <p>
-     Java용 Aspose.Drawing을 사용하면 호, 추기경 스플라인, 베지어 스플라인, 타원, 폐곡선, 선 및 기타 여러 유형과 같은 다양한 벡터 그래픽을 그릴 수 있습니다. API를 사용하여 다양한 유형의 벡터 그래픽을 그리는 데는 몇 줄의 코드만 필요합니다. 예를 들어 호를 그리는 코드는 다음과 같습니다.
+     Java용 Aspose.Drawing을 사용하면 호, 카디널 스플라인, 베지어 스플라인, 타원, 닫힌 곡선, 선 및 기타 여러 유형과 같은 다양한 벡터 그래픽을 그릴 수 있습니다. API를 사용하여 다양한 유형의 벡터 그래픽을 그리는 데는 몇 줄의 코드만 필요합니다. 예를 들어 호를 그리는 코드는 다음과 같습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Java용 Aspose.Drawing이 필요한 이유" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Java에 Aspose.Drawing을 사용하나요?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

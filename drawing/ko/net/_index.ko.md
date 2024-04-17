@@ -244,7 +244,7 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">처음부터 비트맵 만들기</a>
+    <p class="col-lg-10"><a href="create/">처음부터 비트맵 만들기</a>
      또는 기존 파일 로드
     </p>
    </div>

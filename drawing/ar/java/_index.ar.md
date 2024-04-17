@@ -7,11 +7,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="مكتبة الرسومات عبر الأنظمة الأساسية لـ Java" h2="تطبق Aspose.Drawing واجهة برمجة تطبيقات الرسم الشاملة وسهلة الاستخدام، بما في ذلك معالجة الصور ورسم المتجهات ورسم النص في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="ل Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="مكتبة الرسومات عبر الأنظمة الأساسية لـ Java" h2="تطبق Aspose.Drawing واجهة برمجة تطبيقات الرسم الشاملة سهلة الاستخدام، بما في ذلك معالجة الصور ورسم المتجهات ورسم النص في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="ل Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="ل Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إنشاء صور نقطية من البداية أو تحميل الملفات الموجودة
+     <a href="create/">إنشاء صور نقطية من البداية</a> أو تحميل الملفات الموجودة
     </p>
    </div>
    <div class="col-lg-4">

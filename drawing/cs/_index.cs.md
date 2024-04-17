@@ -15,6 +15,10 @@ description: High Code API a bezplatné aplikace pro kreslení 2D grafiky. Schop
 Grafická knihovna .NET pro kreslení textu, geometrií a obrázků, která přímo nahrazuje balíček System.Drawing.Common bez změny stávajícího kódu C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="za Aspose.Drawing" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Grafická knihovna Java pro kreslení, včetně vektorového a textového kreslení v plně spravovaném kódu bez jakýchkoliv externích závislostí.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/cs/family/" innerText="Zobrazit všechna rozhraní API vysokého kódu" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -244,7 +244,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">إنشاء صور نقطية من البداية</a>
+    <p class="col-lg-10"><a href="create/">إنشاء صور نقطية من البداية</a>
      أو تحميل الملفات الموجودة
     </p>
    </div>

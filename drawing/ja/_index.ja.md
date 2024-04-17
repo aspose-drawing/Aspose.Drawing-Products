@@ -15,6 +15,10 @@ description: 2D グラフィックス描画用のハイコード API と無料�
 テキスト、ジオメトリ、およびイメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing用" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+描画用の Java グラフィック ライブラリ。外部依存関係のないフルマネージド コードでのベクターおよびテキスト描画が含まれます。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ja/family/" innerText="すべてのハイコード API を表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

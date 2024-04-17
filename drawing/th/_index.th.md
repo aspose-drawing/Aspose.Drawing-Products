@@ -15,6 +15,10 @@ description: High Code API และแอปฟรีสำหรับกา�
 ไลบรารีกราฟิก .NET สำหรับการวาดข้อความ เรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System.Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing สำหรับ" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+ไลบรารีกราฟิก Java สำหรับการวาดภาพ รวมถึงการวาดเวกเตอร์และข้อความในโค้ดที่ได้รับการจัดการเต็มรูปแบบโดยไม่ต้องพึ่งพาภายนอก
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/th/family/" innerText="ดู High Code API ทั้งหมด" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

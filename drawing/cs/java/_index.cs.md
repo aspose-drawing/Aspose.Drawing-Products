@@ -2,7 +2,7 @@
 title: Aspose.Drawing pro Java | Multiplatformní grafická knihovna
 weight: 20
 url: /cs/java/ 
-description: Java grafická knihovna pro kreslení textu, křivek, čar, obrázků a obrázků.
+description: Grafická knihovna Java pro kreslení textu, křivek, čar, obrázků a obrázků.
 keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
@@ -11,18 +11,18 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pro Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
 
 <div class="col-lg-12">
    <h2 class="h2title">
-   Aspose.Drawing pro Java: Zvyšte své grafické zážitky
+   Aspose.Drawing pro Java: Zvyšte svůj grafický zážitek
    </h2>
 
    <p align='justify'>
-   Představujeme Aspose.Drawing pro Java, nejmodernější knihovnu výkresů, která umožňuje vývojářům dosáhnout v jejich aplikacích bezkonkurenční grafické dokonalosti.
+   Představujeme Aspose.Drawing pro Java, nejmodernější knihovnu výkresů, která umožňuje vývojářům dosáhnout ve svých aplikacích bezkonkurenční grafické dokonalosti.
    </p>
 </div>
 
@@ -58,11 +58,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Čistá Java magie, žádné závislosti
+   Čistá magie Java, žádné závislosti
    </h3>
 
    <p align='justify'>
-   Rozlučte se s vnějšími závislostmi. Aspose.Drawing je čistě Java knihovna, která eliminuje potřebu externích nativních renderovacích enginů. Užijte si bezproblémový vývojový zážitek navržený tak, aby se hladce sladil s vašimi projekty Java.
+   Rozlučte se s vnějšími závislostmi. Aspose.Drawing je čistá knihovna Java, která eliminuje potřebu externích nativních renderovacích enginů. Užijte si bezproblémový vývojový zážitek navržený tak, aby se hladce sladil s vašimi projekty Java.
    </p>
 </div>
 
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Svoboda formátu:</b> Aspose.Drawing podporuje více grafických formátů a poskytuje svobodu ukládat a sdílet výtvory ve formátu, který vyhovuje vaší vizi.
    </li>
    <li>
-   <b>Nativní Java:</b> Osvojte si jednoduchost a efektivitu knihovny nativní v Javě. Žádné další externí závislosti nebo komplikace – jen čistá magie Java.
+   <b>Nativní Java:</b> Osvojte si jednoduchost a efektivitu knihovny nativní pro Java. Žádné další externí závislosti nebo komplikace – jen čistá magie Java.
    </li>
    </ul>
    </p>
@@ -222,7 +222,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< /blocks/products/pf/carousel-item >}}
 
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Drawing pro Java podporuje následující [formáty obrázků] (https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Drawing pro Java podporuje následující [formáty obrázků](https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Pokročilé funkce Java Graphics API
+    Pokročilé funkce grafického rozhraní API Java
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytváření bitmap od začátku nebo načítání existujících souborů
+     <a href="create/">Vytvářejte bitmapy od začátku</a> nebo načíst existující soubory
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Oblouk kreslení - Java
+      Drawing Arc - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>

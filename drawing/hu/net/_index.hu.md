@@ -244,7 +244,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">Hozzon létre bittérképeket a semmiből</a>
+    <p class="col-lg-10"><a href="create/">Hozzon létre bittérképeket a semmiből</a>
      vagy töltsön be meglévő fájlokat
     </p>
    </div>

@@ -15,6 +15,10 @@ description: High Code API και δωρεάν εφαρμογές για 2D σχ
 Βιβλιοθήκη γραφικών .NET για σχεδίαση κειμένου, γεωμετριών και εικόνων, για άμεση αντικατάσταση του πακέτου System.Drawing.Common χωρίς αλλαγή του υπάρχοντος κώδικα C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing για" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Βιβλιοθήκη γραφικών Java για σχέδιο, συμπεριλαμβανομένου σχεδίου διανυσμάτων και κειμένου σε πλήρως διαχειριζόμενο κώδικα χωρίς εξωτερικές εξαρτήσεις.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/el/family/" innerText="Προβολή όλων των API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

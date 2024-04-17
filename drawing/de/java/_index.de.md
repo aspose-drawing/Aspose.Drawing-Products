@@ -2,7 +2,7 @@
 title: Aspose.Drawing für Java | Plattformübergreifende Grafikbibliothek
 weight: 20
 url: /de/java/ 
-description: Java-Grafikbibliothek zum Zeichnen von Text, Kurven, Linien, Figuren und Bildern.
+description: Java-Grafikbibliothek zum Zeichnen von Texten, Kurven, Linien, Figuren und Bildern.
 keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="für Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -58,7 +58,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Reine Java-Magie, keine Abhängigkeiten
+   Pure Java-Magie, keine Abhängigkeiten
    </h3>
 
    <p align='justify'>
@@ -68,7 +68,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Warum Aspose.Drawing für Java wählen?
+   Warum Aspose.Drawing anstelle von Java wählen?
    </h3>
 
    <p>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Formatfreiheit:</b> Aspose.Drawing unterstützt mehrere Grafikformate und bietet so die Freiheit, Kreationen in einem Format zu speichern und zu teilen, das Ihren Vorstellungen entspricht.
    </li>
    <li>
-   <b>Natives Java:</b> Profitieren Sie von der Einfachheit und Effizienz einer nativen Java-Bibliothek. Keine externen Abhängigkeiten oder Komplikationen mehr – einfach pure Java-Magie.
+   <b>Native Java:</b> Profitieren Sie von der Einfachheit und Effizienz einer nativen Bibliothek des Java. Keine externen Abhängigkeiten oder Komplikationen mehr – einfach pure Java-Magie.
    </li>
    </ul>
    </p>
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über Aspose.Drawing für Java API." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die Aspose.Drawing für die Java-API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen Sie Bitmaps von Grund auf oder laden Sie vorhandene Dateien
+     <a href="create/">Erstellen Sie Bitmaps von Grund auf</a> oder vorhandene Dateien laden
     </p>
    </div>
    <div class="col-lg-4">

@@ -7,11 +7,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ไลบรารีกราฟิกข้ามแพลตฟอร์มสำหรับ Java" h2="Aspose.Drawing ใช้ API การวาดที่ครอบคลุมที่ใช้งานง่าย รวมถึงการจัดการรูปภาพ การวาดเวกเตอร์และข้อความในโค้ดที่ได้รับการจัดการเต็มรูปแบบโดยไม่ต้องพึ่งพาภายนอก" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับจาวา" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ไลบรารีกราฟิกข้ามแพลตฟอร์มสำหรับ Java" h2="Aspose.Drawing ใช้ API การวาดที่ครอบคลุมที่ใช้งานง่าย รวมถึงการจัดการรูปภาพ การวาดเวกเตอร์และข้อความในโค้ดที่ได้รับการจัดการเต็มรูปแบบโดยไม่ต้องพึ่งพาภายนอก" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับ Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="สำหรับจาวา" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="สำหรับ Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -62,13 +62,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   บอกลาการพึ่งพาจากภายนอก Aspose.Drawing เป็นไลบรารี Java ล้วนๆ ซึ่งไม่จำเป็นต้องใช้เอ็นจิ้นการเรนเดอร์ภายนอกภายนอก เพลิดเพลินไปกับประสบการณ์การพัฒนาที่ไร้อุปสรรคซึ่งออกแบบมาเพื่อให้สอดคล้องกับโปรเจ็กต์ Java ของคุณได้อย่างราบรื่น
+   บอกลาการพึ่งพาจากภายนอก Aspose.Drawing เป็นไลบรารี่ Java อย่างแท้จริง โดยไม่จำเป็นต้องใช้กลไกการเรนเดอร์ภายนอกภายนอก เพลิดเพลินไปกับประสบการณ์การพัฒนาที่ไร้อุปสรรคซึ่งออกแบบมาเพื่อให้สอดคล้องกับโครงการ Java ของคุณได้อย่างราบรื่น
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   เหตุใดจึงเลือก Aspose.Drawing สำหรับ Java?
+   เหตุใดจึงเลือก Aspose.Drawing สำหรับ Java
    </h3>
 
    <p>
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>เสรีภาพของรูปแบบ:</b> Aspose.Drawing รองรับรูปแบบกราฟิกที่หลากหลาย ให้อิสระในการบันทึกและแบ่งปันผลงานสร้างสรรค์ในรูปแบบที่เหมาะกับวิสัยทัศน์ของคุณ
    </li>
    <li>
-   <b>Java พื้นเมือง:</b> โอบรับความเรียบง่ายและประสิทธิภาพของไลบรารี่ดั้งเดิมของ Java ไม่มีการพึ่งพาภายนอกหรือความยุ่งยากอีกต่อไป — แค่เวทย์มนตร์ Java ล้วนๆ
+   <b>เนทิฟ Java:</b> โอบรับความเรียบง่ายและประสิทธิภาพของไลบรารี่ที่มีใน Java ไม่มีการพึ่งพาหรือภาวะแทรกซ้อนจากภายนอกอีกต่อไป — เพียงแค่เวทมนตร์ Java ล้วนๆ
    </li>
    </ul>
    </p>
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API การวาดภาพ Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API การวาด Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    คุณสมบัติ Java Graphics API ขั้นสูง
+    คุณสมบัติ API กราฟิก Java ขั้นสูง
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     การสร้างบิตแมปตั้งแต่เริ่มต้นหรือโหลดไฟล์ที่มีอยู่
+     <a href="create/">สร้างบิตแมปตั้งแต่เริ่มต้น</a> หรือโหลดไฟล์ที่มีอยู่
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,11 +364,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      วาดกราฟิกแบบเวกเตอร์
     </h2>
     <p>
-     Aspose.Drawing สำหรับ Java ช่วยให้สามารถวาดกราฟิกเวกเตอร์ต่างๆ เช่น ส่วนโค้ง, Cardinal Spline, Bezier spline, วงรี, เส้นโค้งปิด, เส้น และประเภทอื่นๆ อีกหลายประเภท ต้องใช้โค้ดเพียงไม่กี่บรรทัดในการวาดกราฟิกเวกเตอร์ประเภทต่างๆ โดยใช้ API เช่นนี่คือโค้ดสำหรับการวาดส่วนโค้ง
+     Aspose.Drawing สำหรับ Java ช่วยให้สามารถวาดกราฟิกเวกเตอร์ต่างๆ ได้ เช่น ส่วนโค้ง, เส้นโค้งคาร์ดินัล, เส้นโค้งเบซิเยร์, วงรี, เส้นโค้งปิด, เส้น และประเภทอื่นๆ อีกหลายประเภท ต้องใช้โค้ดเพียงไม่กี่บรรทัดในการวาดกราฟิกเวกเตอร์ประเภทต่างๆ โดยใช้ API เช่นนี่คือโค้ดสำหรับการวาดส่วนโค้ง
     </p>
     <div class="codeblock" id="code">
      <h3>
-      การวาดส่วนโค้ง - Java
+      วาดอาร์ค - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>

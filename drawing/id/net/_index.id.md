@@ -244,7 +244,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">Buat bitmap dari awal</a>
+    <p class="col-lg-10"><a href="create/">Buat bitmap dari awal</a>
      atau memuat file yang ada
     </p>
    </div>

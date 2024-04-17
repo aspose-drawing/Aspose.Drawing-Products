@@ -1,5 +1,5 @@
 ---
-title: Aspose.Drawing dla Javy | Wieloplatformowa biblioteka graficzna
+title: Aspose.Drawing dla Java | Wieloplatformowa biblioteka graficzna
 weight: 20
 url: /pl/java/ 
 description: Biblioteka graficzna Java do rysowania tekstu, krzywych, linii, figur i obrazów.
@@ -7,11 +7,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Wieloplatformowa biblioteka graficzna dla języka Java" h2="Aspose.Drawing implementuje łatwy w użyciu, kompleksowy interfejs API do rysowania, obejmujący manipulację obrazami, rysowanie wektorów i tekstu we w pełni zarządzanym kodzie bez żadnych zewnętrznych zależności" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="dla Javy" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Wieloplatformowa biblioteka graficzna dla Java" h2="Aspose.Drawing implementuje łatwy w użyciu, kompleksowy interfejs API do rysowania, obejmujący manipulację obrazami, rysowanie wektorów i tekstu we w pełni zarządzanym kodzie bez żadnych zewnętrznych zależności" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="dla Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla Javy" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h2>
 
    <p align='justify'>
-   Przedstawiamy Aspose.Drawing dla Javy, najnowocześniejszą bibliotekę rysunków, która umożliwia programistom osiągnięcie niezrównanej doskonałości graficznej w swoich aplikacjach.
+   Przedstawiamy Aspose.Drawing dla Java, najnowocześniejszą bibliotekę rysunków, która umożliwia programistom osiągnięcie niezrównanej doskonałości graficznej w swoich aplikacjach.
    </p>
 </div>
 
@@ -62,7 +62,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Pożegnaj się z zewnętrznymi zależnościami. Aspose.Drawing to czysta biblioteka Java, eliminująca potrzebę stosowania zewnętrznych, natywnych silników renderujących. Ciesz się bezproblemowym programowaniem, zaprojektowanym tak, aby płynnie łączyć się z Twoimi projektami Java.
+   Pożegnaj się z zewnętrznymi zależnościami. Aspose.Drawing to czysta biblioteka Java, eliminująca potrzebę stosowania zewnętrznych, natywnych silników renderujących. Ciesz się bezproblemowym programowaniem, zaprojektowanym tak, aby płynnie łączyć się z projektami Java.
    </p>
 </div>
 
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Swoboda formatowania:</b> Aspose.Drawing obsługuje wiele formatów graficznych, zapewniając swobodę zapisywania i udostępniania dzieł w formacie odpowiadającym Twojej wizji.
    </li>
    <li>
-   <b>Natywna Java:</b> Wykorzystaj prostotę i wydajność biblioteki natywnej dla języka Java. Koniec z zewnętrznymi zależnościami i komplikacjami — po prostu czysta magia Java.
+   <b>Natywny Java:</b> Wykorzystaj prostotę i wydajność biblioteki natywnej dla Java. Koniec z zewnętrznymi zależnościami i komplikacjami — po prostu czysta magia Java.
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Ulepsz grafikę swojej aplikacji dzięki Aspose.Drawing dla Javy. Doświadcz płynnej integracji, zaawansowanych funkcji i przyjaznego dla użytkownika projektu. Uwolnij swoją kreatywność, usprawnij przepływ pracy i pozwól Aspose.Drawing na nowo zdefiniować swoje wrażenia graficzne. Pobierz teraz i rozpocznij podróż po doskonałej jakości obrazu.
+   Ulepsz grafikę swojej aplikacji dzięki Aspose.Drawing dla Java. Doświadcz płynnej integracji, zaawansowanych funkcji i przyjaznego dla użytkownika projektu. Uwolnij swoją kreatywność, usprawnij przepływ pracy i pozwól Aspose.Drawing na nowo zdefiniować swoje wrażenia graficzne. Pobierz teraz i rozpocznij podróż po doskonałej jakości obrazu.
    </p>
 </div>
 
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd Aspose.Drawing dla API Java." >}}
+{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd Aspose.Drawing dla Java API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API rysowania w Javie" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API rysowania Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tworzenie bitmap od podstaw lub ładowanie istniejących plików
+     <a href="create/">Twórz mapy bitowe od podstaw</a> lub załaduj istniejące pliki
     </p>
    </div>
    <div class="col-lg-4">
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Bloga" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Drawing dla Javy?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Drawing dla Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

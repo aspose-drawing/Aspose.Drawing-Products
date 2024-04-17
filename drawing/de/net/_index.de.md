@@ -244,7 +244,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">Erstellen Sie Bitmaps von Grund auf</a>
+    <p class="col-lg-10"><a href="create/">Erstellen Sie Bitmaps von Grund auf</a>
      oder vorhandene Dateien laden
     </p>
    </div>

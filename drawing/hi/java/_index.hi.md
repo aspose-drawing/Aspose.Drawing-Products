@@ -2,7 +2,7 @@
 title: Java के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म ग्राफ़िक लाइब्रेरी
 weight: 20
 url: /hi/java/ 
-description: पाठ, वक्र, रेखाएँ, आकृतियाँ और चित्र बनाने के लिए Java ग्राफ़िक लाइब्रेरी।
+description: पाठ, वक्र, रेखाएं, आंकड़े और चित्र बनाने के लिए Java ग्राफिक लाइब्रेरी।
 keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="Java के लिए" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -42,7 +42,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   अपने ग्राफ़िक्स में मनमोहक टेक्स्ट जोड़कर अलग दिखें। Aspose.Drawing विभिन्न फ़ॉन्ट, आकार और शैलियों की पेशकश करके टेक्स्ट हेरफेर को आसान बनाता है। चाहे आप आधुनिक या क्लासिक लुक पसंद करते हों, लाइब्रेरी आपके दृष्टिकोण को जीवन में लाने के लिए उपकरण प्रदान करती है।
+   अपने ग्राफ़िक्स में मनोरम टेक्स्ट जोड़कर अलग दिखें। Aspose.Drawing विभिन्न फ़ॉन्ट, आकार और शैलियों की पेशकश करके टेक्स्ट हेरफेर को आसान बनाता है। चाहे आप आधुनिक या क्लासिक लुक पसंद करते हों, लाइब्रेरी आपके दृष्टिकोण को जीवन में लाने के लिए उपकरण प्रदान करती है।
    </p>
 </div>
 
@@ -62,7 +62,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   बाहरी निर्भरता को अलविदा कहें. Aspose.Drawing एक शुद्ध Java लाइब्रेरी है, जो बाहरी देशी रेंडरिंग इंजनों की आवश्यकता को समाप्त करती है। अपने Java प्रोजेक्ट्स के साथ सहजता से संरेखित करने के लिए डिज़ाइन किए गए संघर्ष-मुक्त विकास अनुभव का आनंद लें।
+   बाहरी निर्भरता को अलविदा कहें. Aspose.Drawing एक शुद्ध Java लाइब्रेरी है, जो बाहरी देशी रेंडरिंग इंजनों की आवश्यकता को समाप्त करती है। अपने Java परियोजनाओं के साथ सहजता से संरेखित करने के लिए डिज़ाइन किए गए संघर्ष-मुक्त विकास अनुभव का आनंद लें।
    </p>
 </div>
 
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>प्रारूप स्वतंत्रता:</b> Aspose.Drawing कई ग्राफिक्स प्रारूपों का समर्थन करता है, जो आपकी दृष्टि के अनुरूप प्रारूप में रचनाओं को सहेजने और साझा करने की स्वतंत्रता प्रदान करता है।
    </li>
    <li>
-   <b>मूल Java:</b> Java की मूल लाइब्रेरी की सरलता और दक्षता को अपनाएँ। अब कोई बाहरी निर्भरता या जटिलता नहीं - केवल शुद्ध Java जादू।
+   <b>मूल Java:</b> Java की मूल लाइब्रेरी की सरलता और दक्षता को अपनाएं। अब कोई बाहरी निर्भरता या जटिलताएँ नहीं - केवल शुद्ध Java जादू।
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Java के लिए Aspose.Drawing के साथ अपने एप्लिकेशन के ग्राफ़िक्स को बेहतर बनाएं। निर्बाध एकीकरण, शक्तिशाली सुविधाओं और उपयोगकर्ता के अनुकूल डिज़ाइन का अनुभव करें। अपनी रचनात्मकता को उजागर करें, अपने वर्कफ़्लो को सुव्यवस्थित करें, और Aspose.Drawing को अपने ग्राफिक्स अनुभव को फिर से परिभाषित करने दें। अभी डाउनलोड करें और दृश्य प्रतिभा की अपनी यात्रा शुरू करें।
+   Java के लिए Aspose.Drawing के साथ अपने एप्लिकेशन के ग्राफ़िक्स को बढ़ाएं। निर्बाध एकीकरण, शक्तिशाली सुविधाओं और उपयोगकर्ता के अनुकूल डिज़ाइन का अनुभव करें। अपनी रचनात्मकता को उजागर करें, अपने वर्कफ़्लो को सुव्यवस्थित करें, और Aspose.Drawing को अपने ग्राफिक्स अनुभव को फिर से परिभाषित करने दें। अभी डाउनलोड करें और दृश्य प्रतिभा की अपनी यात्रा शुरू करें।
    </p>
 </div>
 
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="एक नजर में" description="Java एपीआई के लिए Aspose.Drawing का अवलोकन।" >}}
+{{< blocks/products/pf/carousel-item h3="एक नजर में" description="Java API के लिए Aspose.Drawing का अवलोकन।" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     स्क्रैच से बिटमैप बनाना या मौजूदा फ़ाइलों को लोड करना
+     <a href="create/">शुरुआत से बिटमैप बनाएं</a> या मौजूदा फ़ाइलें लोड करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,7 +364,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      वेक्टर ग्राफ़िक्स बनाएं
     </h2>
     <p>
-     Java के लिए Aspose.Drawing विभिन्न वेक्टर ग्राफिक्स जैसे आर्क, कार्डिनल स्पलाइन, बेज़ियर स्पलाइन, एलिप्स, बंद वक्र, रेखाएं और कई अन्य प्रकार खींचने की अनुमति देता है। एपीआई का उपयोग करके विभिन्न प्रकार के वेक्टर ग्राफिक्स बनाने के लिए कोड की केवल कुछ पंक्तियों की आवश्यकता होती है। उदाहरण के लिए यहां आर्क खींचने के लिए कोड है।
+     Java के लिए Aspose.Drawing विभिन्न वेक्टर ग्राफिक्स जैसे आर्क, कार्डिनल स्पलाइन, बेज़ियर स्पलाइन, दीर्घवृत्त, बंद वक्र, रेखाएं और कई अन्य प्रकार खींचने की अनुमति देता है। एपीआई का उपयोग करके विभिन्न प्रकार के वेक्टर ग्राफिक्स बनाने के लिए कोड की केवल कुछ पंक्तियों की आवश्यकता होती है। उदाहरण के लिए यहां आर्क खींचने के लिए कोड है।
     </p>
     <div class="codeblock" id="code">
      <h3>

@@ -15,6 +15,10 @@ description: واجهات برمجة التطبيقات ذات الكود الع
 مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing ل" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+مكتبة رسومية Java للرسم، بما في ذلك الرسم المتجه والنص في تعليمات برمجية مُدارة بالكامل دون أي تبعيات خارجية.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ar/family/" innerText="عرض جميع واجهات برمجة التطبيقات ذات الكود العالي" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -244,7 +244,7 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">Vytvářejte bitmapy od začátku</a>
+    <p class="col-lg-10"><a href="create/">Vytvářejte bitmapy od začátku</a>
      nebo načíst existující soubory
     </p>
    </div>

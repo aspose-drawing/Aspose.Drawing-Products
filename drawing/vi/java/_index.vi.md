@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="cho Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h2>
 
    <p align='justify'>
-   Giới thiệu Aspose.Drawing cho Java, một thư viện bản vẽ hiện đại giúp các nhà phát triển đạt được sự xuất sắc về đồ họa chưa từng có trong các ứng dụng của họ.
+   Giới thiệu Aspose.Drawing dành cho Java, một thư viện bản vẽ hiện đại giúp các nhà phát triển có được đồ họa xuất sắc chưa từng có trong ứng dụng của họ.
    </p>
 </div>
 
@@ -58,11 +58,11 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Ma thuật Java thuần túy, không phụ thuộc
+   Java Magic thuần túy, không phụ thuộc
    </h3>
 
    <p align='justify'>
-   Nói lời tạm biệt với sự phụ thuộc bên ngoài. Aspose.Drawing là một thư viện Java thuần túy, loại bỏ nhu cầu về các công cụ kết xuất gốc bên ngoài. Tận hưởng trải nghiệm phát triển dễ dàng được thiết kế để phù hợp liền mạch với các dự án Java của bạn.
+   Nói lời tạm biệt với sự phụ thuộc bên ngoài. Aspose.Drawing là thư viện Java thuần túy, loại bỏ nhu cầu về các công cụ kết xuất gốc bên ngoài. Tận hưởng trải nghiệm phát triển dễ dàng được thiết kế để phù hợp liền mạch với các dự án Java của bạn.
    </p>
 </div>
 
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Tự do định dạng:</b> Aspose.Drawing hỗ trợ nhiều định dạng đồ họa, mang lại sự tự do để lưu và chia sẻ các sáng tạo ở định dạng phù hợp với tầm nhìn của bạn.
    </li>
    <li>
-   <b>Java nguyên gốc:</b> Tận dụng sự đơn giản và hiệu quả của một thư viện gốc Java. Không còn sự phụ thuộc hoặc sự phức tạp bên ngoài nữa — chỉ là phép thuật Java thuần túy.
+   <b>Bản địa Java:</b> Tận dụng sự đơn giản và hiệu quả của thư viện gốc của Java. Không còn sự phụ thuộc hay phức tạp bên ngoài nữa — Java thuần túy là phép thuật.
    </li>
    </ul>
    </p>
@@ -98,7 +98,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Nâng cao đồ họa ứng dụng của bạn với Aspose.Drawing cho Java. Trải nghiệm tích hợp liền mạch, các tính năng mạnh mẽ và thiết kế thân thiện với người dùng. Giải phóng khả năng sáng tạo của bạn, hợp lý hóa quy trình làm việc của bạn và để Aspose.Drawing xác định lại trải nghiệm đồ họa của bạn. Tải xuống ngay bây giờ và bắt đầu hành trình sáng tạo về mặt hình ảnh của bạn.
+   Nâng cao đồ họa ứng dụng của bạn với Aspose.Drawing dành cho Java. Trải nghiệm tích hợp liền mạch, các tính năng mạnh mẽ và thiết kế thân thiện với người dùng. Giải phóng khả năng sáng tạo của bạn, hợp lý hóa quy trình làm việc của bạn và để Aspose.Drawing xác định lại trải nghiệm đồ họa của bạn. Tải xuống ngay bây giờ và bắt đầu hành trình sáng tạo về mặt hình ảnh của bạn.
    </p>
 </div>
 
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan về Aspose.Drawing cho Java API." >}}
+{{< blocks/products/pf/carousel-item h3="Nhìn thoáng qua" description="Tổng quan về Aspose.Drawing cho API Java." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API vẽ Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API bản vẽ Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ảnh bitmap từ đầu hoặc tải các tệp hiện có
+     <a href="create/">Tạo ảnh bitmap từ đầu</a> hoặc tải các tập tin hiện có
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,7 +364,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Vẽ đồ họa vector
     </h2>
     <p>
-     Aspose.Drawing cho Java cho phép vẽ đồ họa vector khác nhau như đường cong, đường cong Cardinal, đường cong Bezier, hình elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. ví dụ đây là mã để vẽ vòng cung.
+     Aspose.Drawing cho Java cho phép vẽ đồ họa vector khác nhau như cung tròn, Cardinal Spline, Bezier spline, elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. ví dụ đây là mã để vẽ vòng cung.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Drawing dành cho Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Drawing lại dành cho Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

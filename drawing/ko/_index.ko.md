@@ -15,6 +15,10 @@ description: 2D 그래픽 드로잉을 위한 고급 코드 API 및 무료 앱. 
 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패키지를 직접 대체하기 위해 텍스트, 기하학 및 이미지를 그리기 위한 .NET 그래픽 라이브러리입니다.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing용" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+외부 종속성 없이 완전히 관리되는 코드로 벡터 및 텍스트 그리기를 포함한 그리기용 Java 그래픽 라이브러리입니다.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ko/family/" innerText="모든 고급 코드 API 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

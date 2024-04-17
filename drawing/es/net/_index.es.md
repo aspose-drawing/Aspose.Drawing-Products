@@ -244,7 +244,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
    <div class="col-lg-4">
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="create">Crea mapas de bits desde cero</a>
+    <p class="col-lg-10"><a href="create/">Crea mapas de bits desde cero</a>
      o cargar archivos existentes
     </p>
    </div>

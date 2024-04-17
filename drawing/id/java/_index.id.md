@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="untuk Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -62,7 +62,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Ucapkan selamat tinggal pada ketergantungan eksternal. Aspose.Drawing adalah perpustakaan Java murni, menghilangkan kebutuhan akan mesin rendering asli eksternal. Nikmati pengalaman pengembangan tanpa kesulitan yang dirancang agar selaras dengan proyek Java Anda.
+   Ucapkan selamat tinggal pada ketergantungan eksternal. Aspose.Drawing adalah pustaka Java murni, yang menghilangkan kebutuhan akan mesin rendering asli eksternal. Nikmati pengalaman pengembangan tanpa kesulitan yang dirancang agar selaras dengan proyek Java Anda.
    </p>
 </div>
 
@@ -86,7 +86,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Kebebasan Format:</b> Aspose.Drawing mendukung berbagai format grafis, memberikan kebebasan untuk menyimpan dan berbagi kreasi dalam format yang sesuai dengan visi Anda.
    </li>
    <li>
-   <b>asli Java:</b> Nikmati kesederhanaan dan efisiensi perpustakaan asli Java. Tidak ada lagi ketergantungan atau komplikasi eksternal — hanya keajaiban Java murni.
+   <b>Java asli:</b> Nikmati kesederhanaan dan efisiensi perpustakaan asli Java. Tidak ada lagi ketergantungan atau komplikasi eksternal — hanya keajaiban Java murni.
    </li>
    </ul>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Membuat bitmap dari awal atau memuat file yang ada
+     <a href="create/">Buat bitmap dari awal</a> atau memuat file yang ada
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Menggambar Arc - Java
+      Menggambar Busur - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>

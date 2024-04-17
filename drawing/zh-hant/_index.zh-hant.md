@@ -15,6 +15,10 @@ description: 用於 2D 圖形繪製的高程式碼 API 和免費應用程式。�
 .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直接取代System.Drawing.Common軟體包，無需更改現有C#程式碼。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing 為" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Java 用於繪圖的圖形庫，包括完全託管程式碼中的向量和文字繪圖，無需任何外部相依性。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/zh-hant/family/" innerText="查看所有高程式碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -15,6 +15,10 @@ description: API-интерфейсы High Code и бесплатные прил
 Графическая библиотека .NET для рисования текста, геометрии и изображений для прямой замены пакета System.Drawing.Common без изменения существующего кода C#.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Drawing для" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
+Графическая библиотека Java для рисования, включая векторное и текстовое рисование в полностью управляемом коде без каких-либо внешних зависимостей.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/drawing/ru/family/" innerText="Просмотреть все API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -30,7 +34,7 @@ description: API-интерфейсы High Code и бесплатные прил
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
-Используйте онлайн-мерную ленту реального размера.
+Используйте мерную ленту для измерения реального размера изображения онлайн.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="Просмотреть все приложения без кода" >}}

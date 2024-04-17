@@ -11,7 +11,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="для Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Drawing/" nugetPackageName="Aspose.Drawing" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" liveDemosLink="https://products.aspose.app/drawing/family/" PricingLink="https://purchase.aspose.com/pricing/drawing/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/drawing/java/" installationsDocsLink="https://docs.aspose.com/drawing/java/installation/"  mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-drawing/" directDownloadLink="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 
@@ -32,17 +32,17 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Aspose.Drawing предлагает мощный набор функций, обеспечивающих плавную обработку векторной графики. С легкостью создавайте линии, кривые, фигуры и многое другое. Независимо от того, являетесь ли вы опытным разработчиком или новичком, удобный интерфейс библиотеки обеспечивает плавный процесс проектирования.
+   Aspose.Drawing предлагает мощный набор функций, обеспечивающих эффективную обработку векторной графики. С легкостью создавайте линии, кривые, фигуры и многое другое. Независимо от того, являетесь ли вы опытным разработчиком или новичком, удобный интерфейс библиотеки обеспечивает плавный процесс проектирования.
    </p>
 </div>
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Очаруйте текстом в различных стилях
+   Привлеките внимание текстом в различных стилях
    </h3>
 
    <p align='justify'>
-   Выделитесь, добавив к своей графике привлекательный текст. Aspose.Drawing упрощает работу с текстом, предлагая различные шрифты, размеры и стили. Независимо от того, предпочитаете ли вы современный или классический вид, библиотека предоставит инструменты для воплощения вашего замысла в жизнь.
+   Создайте свой собственный стиль, добавив к графике привлекательный текст. Aspose.Drawing упрощает работу с текстом, предлагая различные шрифты, размеры и стили. Независимо от того, предпочитаете ли вы современный или классический вид, библиотека предоставит инструменты для воплощения вашего замысла в жизнь.
    </p>
 </div>
 
@@ -52,7 +52,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Aspose.Drawing обеспечивает гибкость — сохраняйте свои шедевры в форматах BMP, PNG, JPEG, GIF и TIFF. Настройте выходные данные в соответствии с требованиями вашего приложения или проекта для обеспечения плавной интеграции.
+   Aspose.Drawing обеспечивает гибкость — сохраняйте свои работы в форматах BMP, PNG, JPEG, GIF и TIFF. Настройте выходные данные в соответствии с требованиями вашего приложения или проекта для обеспечения плавной интеграции.
    </p>
 </div>
 
@@ -62,7 +62,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Попрощайтесь с внешними зависимостями. Aspose.Drawing — это чистая библиотека Java, устраняющая необходимость во внешних собственных механизмах рендеринга. Наслаждайтесь простым процессом разработки, который идеально сочетается с вашими проектами Java.
+   Попрощайтесь с внешними зависимостями. Aspose.Drawing — это чистая библиотека Java, устраняющая необходимость во внешних нативных механизмах рендеринга. Наслаждайтесь простым процессом разработки, который идеально подходит для ваших проектов Java.
    </p>
 </div>
 
@@ -74,19 +74,19 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <p>
    <ul>
    <li>
-   <b>Простая сила:</b> Aspose.Drawing обеспечивает баланс между простотой и мощностью, предлагая простой процесс интеграции без ущерба для основных функций.
+   <b>Простота и сила:</b> Aspose.Drawing обеспечивает баланс между простотой и мощью, предлагая легкий процесс интеграции без ущерба для основных функций.
    </li>
    <li>
-   <b>Универсальная векторная графика:</b> От замысловатых кривых до жирных фигур — Aspose.Drawing удовлетворяет все потребности в векторной графике, позволяя вашему творчеству развиваться без ограничений.
+   <b>Универсальная векторная графика:</b> От замысловатых кривых до объемных фигур — Aspose.Drawing удовлетворяет все потребности в векторной графике, позволяя вашему творчеству развиваться без ограничений.
    </li>
    <li>
-   <b>Текст повествования:</b> Создавайте захватывающие истории с текстом, который говорит о многом. Благодаря широкому выбору шрифтов и стилей Aspose.Drawing гарантирует, что ваш текст будет таким же увлекательным, как и графика.
+   <b>Стили шрифтов:</b> Создавайте захватывающие истории с текстом, который говорит о многом. Благодаря широкому выбору шрифтов и стилей Aspose.Drawing гарантирует, что ваш текст будет таким же увлекательным, как и графика.
    </li>
    <li>
    <b>Свобода формата:</b> Aspose.Drawing поддерживает несколько графических форматов, предоставляя свободу сохранять и делиться творениями в формате, который соответствует вашему видению.
    </li>
    <li>
-   <b>Родной Java:</b> Оцените простоту и эффективность встроенной библиотеки Java. Больше никаких внешних зависимостей и сложностей — только чистая магия Java.
+   <b>Встроенная Java:</b> Оцените простоту и эффективность встроенной библиотеки Java. Больше никаких внешних зависимостей и сложностей — только чистая магия Java.
    </li>
    </ul>
    </p>
@@ -108,7 +108,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Drawing для Java API." >}}
+{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Drawing API для Java." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Матрица
+     Матричные операции
     </li>
     <li>
      Глобальный и локальный
@@ -256,7 +256,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API рисования Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API для рисования на Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -284,7 +284,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
  <div class="row">
   <div class="container">
    <h2 class="h2title">
-    Расширенные функции графического API Java
+    Расширенные функции графического Java API
    </h2>
    <p>
    </p>
@@ -292,7 +292,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создание растровых изображений с нуля или загрузка существующих файлов.
+     <a href="create/">Создание растровых изображений с нуля</a> или загрузить существующие файлы
     </p>
    </div>
    <div class="col-lg-4">
@@ -364,7 +364,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Рисовать векторную графику
     </h2>
     <p>
-     Aspose.Drawing для Java позволяет рисовать различную векторную графику, такую ​​как дуги, кардинальный сплайн, сплайн Безье, эллипсы, замкнутые кривые, линии и ряд других типов. Для рисования различных типов векторной графики с помощью API потребовалось всего несколько строк кода. например, вот код для рисования дуги.
+     Aspose.Drawing для Java позволяет рисовать различную векторную графику, такую ​​как дуги, кардинальный сплайн, сплайн Безье, эллипсы, замкнутые кривые, линии и ряд других типов. Для рисования различных типов векторной графики с помощью API потребовалось всего несколько строк кода. Например, вот код для рисования дуги.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -395,7 +395,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Drawing вместо Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Drawing для Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

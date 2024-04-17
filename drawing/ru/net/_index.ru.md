@@ -58,7 +58,7 @@ description: Графическая библиотека .NET для рисов�
    </header>
    <ul>
     <li>
-     Матрица
+     Матричные операции
     </li>
     <li>
      Глобальный и локальный
@@ -110,7 +110,7 @@ description: Графическая библиотека .NET для рисов�
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API обработки чертежей .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="API обработки графики .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -348,7 +348,7 @@ description: Графическая библиотека .NET для рисов�
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/drawing/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Drawing вместо .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Drawing для .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://about.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -109,7 +109,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/i18n/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Drawing API для Java." >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -195,15 +195,8 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
   <!--/right-->
  </div>
  <!--/row-->
- </div>
-<div class="diagram1 d1-net">
- <div class="d1-row">
-  
-  <!--/right-->
- </div>
- <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API манипулирования рисованием" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="API-интерфейсы управления рисования на Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -221,9 +214,51 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< /blocks/products/pf/carousel-item >}}
 
+{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Drawing для Java поддерживает JDK 1.8 и выше." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Среда выполнения Java
+   </header>
+   <ul>
+    <li>
+     Веб-приложения JSP/JSF
+    </li>
+    <li>
+     Настольные приложения
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="API для рисования на Java" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <header>
+   Aspose.Drawing
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Drawing для Java поддерживает следующие [форматы изображений](https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
-<div class="diagram1 d2 d1-net">
+<div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -246,6 +281,12 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </li>
     <li>
      TIFF
+    </li>
+    <li>
+      EMF
+    </li>
+    <li>
+      WMF
     </li>
    </ul>
   </div>

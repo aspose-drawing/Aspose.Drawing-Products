@@ -109,7 +109,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/i18n/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="한눈에" description="Java API용 Aspose.Drawing 개요입니다." >}}
-<div class="diagram1 d1-net">
+<div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -195,15 +195,8 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
   <!--/right-->
  </div>
  <!--/row-->
- </div>
-<div class="diagram1 d1-net">
- <div class="d1-row">
-  
-  <!--/right-->
- </div>
- <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="드로잉 조작 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <img width="70" height="75" alt="Java 도면 조작 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -221,9 +214,51 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< /blocks/products/pf/carousel-item >}}
 
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Java용 Aspose.Drawing은 JDK 1.8 이상을 지원합니다." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java 런타임 환경
+   </header>
+   <ul>
+    <li>
+     JSP/JSF 웹 애플리케이션
+    </li>
+    <li>
+     데스크탑 애플리케이션
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Java 도면 처리 API" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg"/>
+  <header>
+   Aspose.Drawing
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Java용 Aspose.Drawing은 다음 [이미지 형식](https://docs.aspose.com/raw/java/supported-file-formats/)을 지원합니다." >}}
-<div class="diagram1 d2 d1-net">
+<div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
@@ -246,6 +281,12 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </li>
     <li>
      TIFF
+    </li>
+    <li>
+      EMF
+    </li>
+    <li>
+      WMF
     </li>
    </ul>
   </div>

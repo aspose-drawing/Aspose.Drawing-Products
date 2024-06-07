@@ -7,7 +7,7 @@ keywords: create bitmap in C#, create image file, bitmap images in C#, bitmap fr
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ビットマップを最初から作成する" h2="Aspose.Drawing用 .NET を使用した C# でのビットマップ イメージの作成" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ビットマップを最初から作成する" h2="Aspose.Drawing用.NET用 を使用した C# でのビットマップ イメージの作成" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET用" >}}
 

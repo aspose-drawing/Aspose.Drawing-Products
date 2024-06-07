@@ -22,7 +22,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Drawing .NET-hoz API áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Drawing .NET-hez API áttekintése." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,7 +128,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.Drawing .NET-hoz támogatja a .NET Framework 2.0, .NET Standard 2.0 vagy újabb verzióit." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.Drawing .NET-hez támogatja a .NET Framework 2.0, .NET Standard 2.0 vagy újabb verzióit." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Drawing .NET-hoz a következő [képformátumokat] támogatja (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Drawing .NET-hez a következő [képformátumokat] támogatja (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -252,6 +252,13 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Kép szerkesztése</a>, kép hozzáadása, szegély hozzáadása, szöveg hozzáadása, háttér módosítása vagy eltávolítása
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Rajzoljon vonalakat, görbéket, spline-okat és íveket
     </p>
    </div>
@@ -317,7 +324,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
      Rajzolj vektorgrafikát
     </h2>
     <p>
-     A Aspose.Drawing .NET-hoz lehetővé teszi különböző vektorgrafikák, például ívek, Cardinal Spline, Bezier spline, ellipszisek, zárt görbék, vonalak és számos más típus rajzolását. Csak néhány kódsorra volt szükség a különböző típusú vektorgrafikák API használatával történő rajzolásához. Itt van például az ív rajzolásának kódja.
+     A Aspose.Drawing .NET-hez lehetővé teszi különböző vektorgrafikák, például ívek, Cardinal Spline, Bezier spline, ellipszisek, zárt görbék, vonalak és számos más típus rajzolását. Csak néhány kódsorra volt szükség a különböző típusú vektorgrafikák API használatával történő rajzolásához. Itt van például az ív rajzolásának kódja.
     </p>
     <div class="codeblock" id="code">
      <h3>

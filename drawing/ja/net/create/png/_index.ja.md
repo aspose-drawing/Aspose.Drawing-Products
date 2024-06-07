@@ -14,7 +14,7 @@ keywords: create PNG via C#, 2D graphics, drawing API, create bitmap C#, Drawing
 
 {{% blocks/products/pf/agp/content h2="C#を使用してPNGイメージファイルを作成する方法" %}}
 
-C# を使用して PNG イメージ ファイルを作成する簡単さを実感してください。このドキュメントは、経験豊富な開発者でも、初心者でも、重要な洞察とガイダンスを提供します。 PNG イメージ作成をプロジェクトにシームレスに組み込む手順を学び、プログラミング スキルを向上させます。 PNG ファイルを作成するには、C# 用の機能豊富で強力で使いやすい 2D グラフィックス描画 API である [Aspose.Drawing用 .NET](https://products.aspose.com/drawing/net) ライブラリを使用します。プラットホーム。 [NuGet](https://www.nuget.org/packages/aspose.drawing) パッケージ マネージャーを開き、**Aspose.Drawing** を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+C# を使用して PNG イメージ ファイルを作成する簡単さを実感してください。このドキュメントは、経験豊富な開発者でも、初心者でも、重要な洞察とガイダンスを提供します。 PNG イメージ作成をプロジェクトにシームレスに組み込む手順を学び、プログラミング スキルを向上させます。 PNG ファイルを作成するには、C# 用の機能豊富で強力で使いやすい 2D グラフィックス描画 API である [Aspose.Drawing用.NET用](https://products.aspose.com/drawing/net) ライブラリを使用します。プラットホーム。 [NuGet](https://www.nuget.org/packages/aspose.drawing) パッケージ マネージャーを開き、**Aspose.Drawing** を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 ```cs

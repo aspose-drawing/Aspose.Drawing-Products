@@ -252,6 +252,13 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Resmi Düzenle</a>, resim ekleyin, kenarlık ekleyin, metin ekleyin, arka planı değiştirin veya kaldırın
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Çizgiler, eğriler, eğriler ve yaylar çizme
     </p>
    </div>

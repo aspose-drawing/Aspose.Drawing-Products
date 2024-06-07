@@ -252,6 +252,13 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Chỉnh sửa hình ảnh</a>, thêm hình ảnh, thêm đường viền, thêm văn bản, thay đổi hoặc xóa nền
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Vẽ đường thẳng, đường cong, đường cong và vòng cung
     </p>
    </div>

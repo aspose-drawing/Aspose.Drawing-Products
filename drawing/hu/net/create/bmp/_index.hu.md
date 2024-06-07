@@ -14,7 +14,7 @@ keywords: create BMP via C#, 2D graphics, drawing API, create bitmap C#, Drawing
 
 {{% blocks/products/pf/agp/content h2="BMP képfájl létrehozása a C# használatával" %}}
 
-Fedezze fel a C# képfájlok létrehozásának egyszerűségét a C# segítségével. Ez a dokumentum alapvető betekintést és útmutatást nyújt, akár tapasztalt fejlesztő, akár most kezdő. Tanulja meg azokat a lépéseket, amelyekkel zökkenőmentesen építheti be a BMP képalkotást projektjeibe, és fejlesztheti programozási készségeit. A BMP fájlok létrehozásához a [Aspose.Drawing .NET-hoz](https://products.aspose.com/drawing/net) könyvtárat használjuk, amely funkciókban gazdag, hatékony és könnyen használható 2D grafikus rajz API C#-hoz. felület. Nyissa meg a [NuGet](https://www.nuget.org/packages/aspose.drawing) csomagkezelőt, keresse meg a **Aspose.Drawing** kifejezést, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+Fedezze fel a C# képfájlok létrehozásának egyszerűségét a C# segítségével. Ez a dokumentum alapvető betekintést és útmutatást nyújt, akár tapasztalt fejlesztő, akár most kezdő. Tanulja meg azokat a lépéseket, amelyekkel zökkenőmentesen építheti be a BMP képalkotást projektjeibe, és fejlesztheti programozási készségeit. A BMP fájlok létrehozásához a [Aspose.Drawing .NET-hez](https://products.aspose.com/drawing/net) könyvtárat használjuk, amely funkciókban gazdag, hatékony és könnyen használható 2D grafikus rajz API C#-hoz. felület. Nyissa meg a [NuGet](https://www.nuget.org/packages/aspose.drawing) csomagkezelőt, keresse meg a **Aspose.Drawing** kifejezést, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 ```cs
@@ -46,7 +46,7 @@ Szüksége van az [aspose.drawing.dll](https://downloads.aspose.com/drawing/net)
 
 {{% blocks/products/pf/agp/text %}}
 
-A Aspose.Drawing .NET-hoz minden nagyobb operációs rendszeren támogatott. Csak győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
+A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csak győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
 
 {{% /blocks/products/pf/agp/text %}}
 

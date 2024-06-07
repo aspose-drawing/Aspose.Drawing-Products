@@ -22,7 +22,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing用 .NET API の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目でわかる" description="Aspose.Drawing用.NET用 API の概要。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing用 .NET は、次の [画像形式](https://docs.aspose.com/drawing/net/supported-file-formats/) をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Drawing用.NET用 は、次の [画像形式](https://docs.aspose.com/drawing/net/supported-file-formats/) をサポートしています。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -252,6 +252,13 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">画像の編集</a>、画像の追加、枠線の追加、テキストの追加、背景の変更または削除
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      線、曲線、スプライン、円弧を描く
     </p>
    </div>
@@ -317,7 +324,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
      ベクターグラフィックスの描画
     </h2>
     <p>
-     Aspose.Drawing用 .NET では、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
+     Aspose.Drawing用.NET用 では、円弧、カーディナル スプライン、ベジェ スプライン、楕円、閉曲線、直線、その他多数の種類のさまざまなベクトル グラフィックスを描画できます。 API を使用してさまざまな種類のベクター グラフィックスを描画するために必要なコードはわずか数行です。たとえば、これは円弧を描くためのコードです。
     </p>
     <div class="codeblock" id="code">
      <h3>

@@ -252,6 +252,13 @@ description: .NET graphic library for drawing text, geometries, and images, to d
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Edit image</a>, add image, add border, add text, change or remove background
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Draw lines, curves, splines and arcs
     </p>
    </div>

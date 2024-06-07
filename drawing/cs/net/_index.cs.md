@@ -252,6 +252,13 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Upravit obrázek</a>, přidat obrázek, přidat ohraničení, přidat text, změnit nebo odebrat pozadí
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Kreslení čar, křivek, spline a oblouků
     </p>
    </div>

@@ -128,7 +128,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台獨立性" description="Aspose.Drawing 為 .NET 支援 .NET Framework 版本 2.0、.NET Standard 2.0 或更高版本。" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="Aspose.Drawing 換 .NET 支援 .NET Framework 版本 2.0、.NET Standard 2.0 或更高版本。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Drawing 為 .NET 支援以下[影像格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
+{{< blocks/products/pf/carousel-item h3="支援的文件格式" description="Aspose.Drawing 換 .NET 支援以下[影像格式](https://docs.aspose.com/drawing/net/supported-file-formats/)。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -252,6 +252,13 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">編輯影像</a>、新增圖像、新增邊框、新增文字、變更或刪除背景
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      繪製直線、曲線、樣條曲線和圓弧
     </p>
    </div>
@@ -317,7 +324,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
      繪製向量圖形
     </h2>
     <p>
-     Aspose.Drawing 為 .NET 允許繪製不同的向量圖形，例如圓弧、基數樣條線、貝塞爾樣條線、橢圓、閉合曲線、直線和許多其他類型。使用 API 只需幾行程式碼即可繪製不同類型的向量圖形。例如，這是繪製圓弧的程式碼。
+     Aspose.Drawing 換 .NET 允許繪製不同的向量圖形，例如圓弧、基數樣條線、貝塞爾樣條線、橢圓、閉合曲線、直線和許多其他類型。使用 API 只需幾行程式碼即可繪製不同類型的向量圖形。例如，這是繪製圓弧的程式碼。
     </p>
     <div class="codeblock" id="code">
      <h3>

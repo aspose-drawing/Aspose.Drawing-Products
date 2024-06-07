@@ -252,6 +252,13 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Sunting gambar</a>, tambahkan gambar, tambahkan batas, tambahkan teks, ubah atau hapus latar belakang
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Menggambar garis, kurva, spline, dan busur
     </p>
    </div>

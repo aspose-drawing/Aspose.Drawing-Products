@@ -14,7 +14,7 @@ keywords: create EMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 建立 EMF 映像文件" %}}
 
-探索使用 C# 產生 EMF 影像檔案的簡單性。本指南提供了重要的見解和指導，為高級開發人員和初學者提供服務。查看輕鬆將 EMF 圖像創建整合到您的專案中的步驟，從而提高您的程式設計技能。為了建立 EMF 文件，我們將使用 [Aspose.Drawing 為 .NET](https://products.aspose.com/drawing/net) 函式庫，這是一個功能豐富、強大且易於使用的 C# 2D 圖形繪製 API平台。打開 [NuGet](https://www.nuget.org/packages/aspose.drawing) 套件管理器，搜尋 **Aspose.Drawing** 並安裝。您也可以從套件管理器控制台使用以下命令。
+探索使用 C# 產生 EMF 影像檔案的簡單性。本指南提供了重要的見解和指導，為高級開發人員和初學者提供服務。查看輕鬆將 EMF 圖像創建整合到您的專案中的步驟，從而提高您的程式設計技能。為了建立 EMF 文件，我們將使用 [Aspose.Drawing 換 .NET](https://products.aspose.com/drawing/net) 函式庫，這是一個功能豐富、強大且易於使用的 C# 2D 圖形繪製 API平台。打開 [努格特](https://www.nuget.org/packages/aspose.drawing) 套件管理器，搜尋 **Aspose.Drawing** 並安裝。您也可以從套件管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="套件管理器控制台命令" offSpacer="true" %}}
 ```cs
@@ -47,7 +47,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要作業系統支援 Aspose.Drawing 為 .NET。只需確保您滿足以下先決條件即可。
+所有主要作業系統支援 Aspose.Drawing 換 .NET。只需確保您滿足以下先決條件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 

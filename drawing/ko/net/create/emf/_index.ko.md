@@ -14,7 +14,7 @@ keywords: create EMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 EMF 이미지 파일을 만드는 방법" %}}
 
-C#을 사용하여 EMF 이미지 파일을 생성하는 용이성을 살펴보세요. 이 가이드는 수석 개발자와 초보자 모두에게 중요한 통찰력과 지침을 제공합니다. EMF 이미지 생성을 프로젝트에 손쉽게 통합하여 프로그래밍 기술을 향상시키는 단계를 확인하세요. EMF 파일을 생성하기 위해 우리는 기능이 풍부하고 강력하며 사용하기 쉬운 C#용 2D 그래픽 드로잉 API인 [Aspose.Drawing용 .NET](https://products.aspose.com/raw/net) 라이브러리를 사용합니다. 플랫폼. [NuGet](https://www.nuget.org/packages/aspose.raw) 패키지 관리자를 열고 **Aspose.Drawing**을 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+C#을 사용하여 EMF 이미지 파일을 생성하는 용이성을 살펴보세요. 이 가이드는 수석 개발자와 초보자 모두에게 중요한 통찰력과 지침을 제공합니다. EMF 이미지 생성을 프로젝트에 손쉽게 통합하여 프로그래밍 기술을 향상시키는 단계를 확인하세요. EMF 파일을 생성하기 위해 우리는 기능이 풍부하고 강력하며 사용하기 쉬운 C#용 2D 그래픽 드로잉 API인 [.NET용 Aspose.Drawing](https://products.aspose.com/raw/net) 라이브러리를 사용합니다. 플랫폼. [NuGet](https://www.nuget.org/packages/aspose.raw) 패키지 관리자를 열고 **Aspose.Drawing**을 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 ```cs

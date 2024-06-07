@@ -252,6 +252,13 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Redigera bild</a>, lägg till bild, lägg till kant, lägg till text, ändra eller ta bort bakgrund
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Rita linjer, kurvor, splines och bågar
     </p>
    </div>

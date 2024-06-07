@@ -50,7 +50,7 @@ keywords: create EMF via Java, 2D graphics, drawing API, create metafile in Java
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам понадобится [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/java/), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам понадобится [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/java/), чтобы попробовать следующие шаги в вашей локальной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -92,7 +92,7 @@ Aspose.Drawing представляет собой полностью управ
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="" whatIsFormat2="Формат файла" readMoreFormat="Далее" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Про" whatIsFormat2="Формат файла" readMoreFormat="Далее" >}}
 
 Файлы с расширением .EMF служат контейнером для хранения данных изображений как в векторном, так и в растровом формате. В частности, EMF принадлежит к категории векторных файлов в графических форматах файлов, предлагая представление, независимое от устройства. Этот формат обеспечивает универсальность хранения графических данных, поддерживая широкий спектр приложений и платформ.
 

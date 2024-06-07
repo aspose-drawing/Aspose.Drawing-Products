@@ -7,7 +7,7 @@ keywords: create WMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения WMF через C#." h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений WMF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения WMF на C#." h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений WMF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="для .NET" >}}
 
@@ -27,11 +27,11 @@ PM> Install-Package Aspose.Drawing
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Действия по созданию WMF через C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Действия по созданию WMF на C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам понадобится [aspose.drawing.dll](https://downloads.aspose.com/drawing/net), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам понадобится [aspose.drawing.dll](https://downloads.aspose.com/drawing/net), чтобы попробовать следующие шаги в вашей локальной среде:
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,13 +47,13 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Drawing для .NET поддерживается во всех основных операционных системах. Просто убедитесь, что у вас есть следующие предпосылки.
+Aspose.Drawing для .NET поддерживается во всех основных операционных системах. Убедитесь, что ваша среда соответствует следующим требованиям:
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, приложением Windows, веб-приложением ASP.NET.
 - Среда разработки, такая как Microsoft Visual Studio.
-- Aspose.Drawing для .NET, упомянутого в вашем проекте.
+- Ссылка на Aspose.Drawing для .NET, добавлена в ваш проект.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -77,7 +77,7 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="" whatIsFormat2="Формат файла" readMoreFormat="Далее" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Про" whatIsFormat2="Формат файла" readMoreFormat="Далее" >}}
 
 Файлы с расширением WMF предназначены для хранения данных как векторных, так и растровых изображений. Если быть более точным, WMF принадлежит к категории векторных файлов форматов графических файлов, которые не зависят от устройства.
 

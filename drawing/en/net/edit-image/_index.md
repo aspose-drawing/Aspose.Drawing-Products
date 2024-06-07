@@ -15,7 +15,7 @@ keywords: edit image in C#, edit image file, bitmap images in C#, graphic librar
 
 {{% blocks/products/pf/feature-page-section  h2="Simplify Image Editing in C# with Aspose.Drawing" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;" id="overview" name="overview">
-Editing images in C# has never been easier with Aspose.Drawing graphic library for .NET. With this powerful tool, you can quickly add borders, text, and manipulate backgrounds with just a few lines of code. The library offers seamless manipulation of bitmap images, making it effortless to enhance your visuals to perfection. Add stylish borders, overlay text for captions or watermarks, and effortlessly change or remove backgrounds to achieve professional-quality results. With Aspose.Drawing graphic library for .NET, image editing in C# becomes a breeze, allowing you to create stunning visuals with ease.</p>
+Editing images in C# has become incredibly user-friendly thanks to the Aspose.Drawing graphic library for .NET. This powerful tool enables you to effortlessly add borders and text, as well as manipulate backgrounds for images in popular file formats such as BMP, GIF, JPEG, PNG, and TIFF with just a few lines of code. The library seamlessly manipulates bitmap images, making it easy to enhance your visuals to perfection. Whether you're adding stylish borders, overlaying text for captions or watermarks, or effortlessly changing or removing backgrounds, you can achieve professional-quality results with ease. With the Aspose.Drawing graphic library for .NET, image editing in C# becomes a breeze, empowering you to create stunning visuals effortlessly.</p>
 
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
@@ -34,7 +34,7 @@ Editing images in C# has never been easier with Aspose.Drawing graphic library f
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="add-border/">Add border to image</a>
+    <p class="col-lg-10"><a href="add-border/">Add border</a>
     </p>
    </div>
    <div class="col-lg-4">

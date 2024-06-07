@@ -252,6 +252,13 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Bewerk afbeelding</a>, afbeelding toevoegen, rand toevoegen, tekst toevoegen, achtergrond wijzigen of verwijderen
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Teken lijnen, curven, splines en bogen
     </p>
    </div>

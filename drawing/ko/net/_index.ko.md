@@ -252,6 +252,13 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">이미지 편집</a>, 이미지 추가, 테두리 추가, 텍스트 추가, 배경 변경 또는 제거
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      선, 곡선, 스플라인 및 호 그리기
     </p>
    </div>

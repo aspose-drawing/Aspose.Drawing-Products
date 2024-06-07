@@ -14,7 +14,7 @@ keywords: create WMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="Jak utworzyć plik obrazu WMF za pomocą C#" %}}
 
-Odkryj łatwość generowania plików obrazów WMF przy użyciu C#. Ten przewodnik zawiera istotne informacje i wskazówki, przydatne zarówno starszym programistom, jak i początkującym. Sprawdź, jak łatwo zintegrować tworzenie obrazów WMF ze swoimi projektami, podnosząc swoje umiejętności programowania. Aby utworzyć pliki WMF, użyjemy biblioteki [Aspose.Drawing dla .NET](https://products.aspose.com/drawing/net), która jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do rysowania grafiki 2D dla C# platforma. Otwórz menedżera pakietów [NuGet] (https://www.nuget.org/packages/aspose.drawing), wyszukaj **Aspose.Drawing** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+Odkryj łatwość generowania plików obrazów WMF przy użyciu C#. Ten przewodnik zawiera istotne informacje i wskazówki, przydatne zarówno starszym programistom, jak i początkującym. Sprawdź, jak łatwo zintegrować tworzenie obrazów WMF ze swoimi projektami, podnosząc swoje umiejętności programowania. Aby utworzyć pliki WMF, użyjemy biblioteki [Aspose.Drawing dla .NET](https://products.aspose.com/drawing/net), która jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do rysowania grafiki 2D dla C# platforma. Otwórz menedżera pakietów [NuGeta] (https://www.nuget.org/packages/aspose.drawing), wyszukaj **Aspose.Drawing** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 ```cs

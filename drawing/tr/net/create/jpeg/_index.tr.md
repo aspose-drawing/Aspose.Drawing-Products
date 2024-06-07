@@ -14,7 +14,7 @@ keywords: create JPEG via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak JPEG Görüntü Dosyası Nasıl Oluşturulur" %}}
 
-C# ile JPEG görüntü dosyaları oluşturmanın basitliğini keşfedin. Bu belge, ister deneyimli bir geliştirici olun ister yeni başlıyor olun, temel bilgiler ve rehberlik sağlar. JPEG görüntü oluşturma işlemini projelerinize sorunsuz bir şekilde dahil etme ve programlama becerilerinizi geliştirme adımlarını öğrenin. JPEG dosyaları oluşturmak amacıyla, C# için zengin özelliklere sahip, güçlü ve kullanımı kolay bir 2D grafik çizim API'si olan [Aspose.Drawing için .NET](https://products.aspose.com/drawing/net) kitaplığını kullanacağız. platformu. [NuGet](https://www.nuget.org/packages/aspose.drawing) paket yöneticisini açın, **Aspose.Drawing**'ü arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+C# ile JPEG görüntü dosyaları oluşturmanın basitliğini keşfedin. Bu belge, ister deneyimli bir geliştirici olun ister yeni başlıyor olun, temel bilgiler ve rehberlik sağlar. JPEG görüntü oluşturma işlemini projelerinize sorunsuz bir şekilde dahil etme ve programlama becerilerinizi geliştirme adımlarını öğrenin. JPEG dosyaları oluşturmak amacıyla, C# için zengin özelliklere sahip, güçlü ve kullanımı kolay bir 2D grafik çizim API'si olan [.NET için Aspose.Drawing](https://products.aspose.com/drawing/net) kitaplığını kullanacağız. platformu. [NuGet](https://www.nuget.org/packages/aspose.drawing) paket yöneticisini açın, **Aspose.Drawing**'ü arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yönetici Konsolu Komutu" offSpacer="true" %}}
 ```cs

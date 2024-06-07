@@ -252,6 +252,13 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Editar imagen</a>, agregar imagen, agregar borde, agregar texto, cambiar o eliminar fondo
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Dibuja líneas, curvas, splines y arcos.
     </p>
    </div>

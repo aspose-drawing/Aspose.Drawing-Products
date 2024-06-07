@@ -252,6 +252,13 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">تعديل الصورة</a>أو إضافة صورة أو إضافة حدود أو إضافة نص أو تغيير الخلفية أو إزالتها
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      رسم الخطوط والمنحنيات والخطوط والأقواس
     </p>
    </div>

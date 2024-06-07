@@ -252,6 +252,13 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+     <a href="edit-image/">Éditer l'image</a>, ajouter une image, ajouter une bordure, ajouter du texte, modifier ou supprimer l'arrière-plan
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
      Dessinez des lignes, des courbes, des splines et des arcs
     </p>
    </div>

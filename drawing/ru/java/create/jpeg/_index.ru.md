@@ -50,7 +50,7 @@ keywords: create JPEG via Java, 2D graphics, drawing API, create bitmap in Java,
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам понадобится [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/java/), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам понадобится [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/java/), чтобы попробовать следующие шаги в вашей локальной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +100,7 @@ Aspose.Drawing — это полностью управляемая кроссп
 
 {{< /blocks/products/pf/agp/demobox >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="" whatIsFormat2="Формат файла" readMoreFormat="Далее" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Про" whatIsFormat2="Формат файла" readMoreFormat="Далее" >}}
 
 Файлы с расширением .JPEG обозначают файлы растровых изображений, которые служат контейнерами для хранения растровых цифровых данных. Эти изображения можно открыть на нескольких платформах, включая Microsoft Windows, Mac и Linux. Формат файла JPEG поддерживает хранение данных в виде двумерных цифровых изображений как в монохромном, так и в цветном формате, обеспечивая гибкость в настройке глубины цвета.
 

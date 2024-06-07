@@ -7,13 +7,13 @@ keywords: create bitmap in C#, create image file, bitmap images in C#, bitmap fr
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Создание растровых изображений с нуля" h2="Создание растровых изображений в C# с помощью Aspose.Drawing для .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Создание растровых изображений с нуля" h2="Создание растровых изображений на C# с помощью Aspose.Drawing для .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="для .NET" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Как создавать растровые изображения с нуля с помощью C#" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Создание растровых изображений или работа с ними является важным требованием в различных приложениях. Если вам нужно динамически генерировать изображения или манипулировать существующими, графическая библиотека Aspose.Drawing для .NET предоставляет мощный набор инструментов для работы с растровыми изображениями в C#. Создание растрового изображения с нуля в Aspose.Drawing — простой процесс. Используя Aspose.Drawing, вы можете легко <b>Создание растровых изображений</b> для разных форматов изображений программно.
+Создание растровых изображений или работа с ними является важным требованием в различных приложениях. Если вам нужно динамически генерировать изображения или манипулировать существующими, графическая библиотека Aspose.Drawing для .NET предоставляет мощный набор инструментов для работы с растровыми изображениями на C#. Создание растрового изображения с нуля в Aspose.Drawing — простой процесс. Используя Aspose.Drawing, вы можете легко <b>Создание растровых изображений</b> для разных форматов изображений программно.
 </p>
 
 <h3 style="margin-top:16px;">

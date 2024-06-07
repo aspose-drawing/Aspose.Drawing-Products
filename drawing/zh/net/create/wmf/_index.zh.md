@@ -14,7 +14,7 @@ keywords: create WMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 创建 WMF 映像文件" %}}
 
-探索使用 C# 生成 WMF 图像文件的简便性。本指南提供了重要的见解和指导，为高级开发人员和初学者提供服务。查看轻松将 WMF 图像创建集成到您的项目中的步骤，从而提高您的编程技能。为了创建 WMF 文件，我们将使用 [Aspose.Drawing 为 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 C# 2D 图形绘制 API平台。打开 [NuGet](https://www.nuget.org/packages/aspose.drawing) 包管理器，搜索 **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
+探索使用 C# 生成 WMF 图像文件的简便性。本指南提供了重要的见解和指导，为高级开发人员和初学者提供服务。查看轻松将 WMF 图像创建集成到您的项目中的步骤，从而提高您的编程技能。为了创建 WMF 文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 C# 2D 图形绘制 API平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器，搜索 **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 ```cs
@@ -47,7 +47,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系统均支持 Aspose.Drawing 为 .NET。只需确保您满足以下先决条件即可。
+所有主要操作系统均支持 Aspose.Drawing 换 .NET。只需确保您满足以下先决条件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,0 +1,112 @@
+---
+title: Supprimer l'arrière-plan du BMP via le .NET
+weight: 20
+url: /fr/net/edit-image/remove-background/bmp/
+description: Suppression de l'arrière-plan du fichier image BMP via .NET.
+keywords: remove background from image, remove background from BMP, remove background via C#, background removal, erase background, clean image, 2D graphics, drawing API, edit bitmap C#, Drawing pour .NET, save bitmap, save BMP image, cross-platform 2D graphic library, Bitmap class, raster graphics drawing, rendering raster images, BMP image file
+---
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Supprimer l'arrière-plan du fichier image BMP via C#" h2="Nettoyer les images BMP avec suppression de l'arrière-plan à l'aide de l'API de dessin .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pour .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pour .NET" >}}
+
+
+{{% blocks/products/pf/agp/content h2="Comment supprimer l'arrière-plan du fichier image BMP à l'aide du C#" %}}
+
+<p align="justify" style="text-indent:50px;font-size:15px;">
+Dévoilez la puissance d’une retouche d’image précise avec <a href="https://products.aspose.com/drawing/net">Aspose.Drawing pour .NET</a> en éliminant sans effort les arrière-plans de vos fichiers image BMP. Que vous recherchiez une finition soignée ou que vous cherchiez à mettre en valeur votre sujet, cet outil dynamique vous permet de réaliser votre vision de manière transparente. Avec notre API .NET, la suppression des arrière-plans des images BMP devient un processus rationalisé. Utilisez les fonctionnalités robustes de notre bibliothèque de dessins pour éditer des bitmaps avec précision, en tirant parti de son API intuitive pour produire des résultats époustouflants. Découvrez l'efficacité et la précision de la suppression de l'arrière-plan avec le .NET et améliorez dès aujourd'hui les capacités d'édition d'images de votre BMP. Ouvrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestionnaire de paquets et recherchez <b>Aspose.Drawing</b> et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.</p>
+
+{{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
+```cs
+PM> Install-Package Aspose.Drawing
+```
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Étapes pour supprimer l'arrière-plan de l'image BMP via C#" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+Vous avez besoin du [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) pour essayer le flux de travail suivant dans votre propre environnement.
+
+{{% /blocks/products/pf/agp/text %}}
+
++ Créez un objet bitmap à partir du fichier image BMP en utilisant la classe `Bitmap`.
++ Sélectionnez une couleur d'arrière-plan pour la rendre transparente.
++ Définissez les pixels sur transparents avec la méthode `SetPixel()`.
++ Enregistrez le bitmap modifié dans un fichier au format d'image BMP.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+Aspose.Drawing pour .NET est pris en charge sur tous les principaux systèmes d'exploitation. Assurez-vous simplement que vous disposez des conditions préalables suivantes.
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, application Windows, application Web ASP.NET.
+- Environnement de développement comme Microsoft Visual Studio.
+- Aspose.Drawing pour .NET référencé dans votre projet.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Supprimer l'arrière-plan du fichier image BMP - C#" offSpacer="" %}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Edit-Image-File-Remove-Background-BMP.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+<!-- aboutfile Starts -->
+
+{{% blocks/products/pf/agp/content h2="À propos de l'API Aspose.Drawing pour .NET" %}}
+
+Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Standard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
+
+Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et styles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{< blocks/products/pf/agp/about-file-section >}}
+
+{{< blocks/products/pf/agp/demobox sectionTitle="Traitez le BMP via l'application en ligne gratuite" sectionDescription="Créez des images BMP et ajoutez du texte aux images en visitant notre [site Web de démonstrations en direct](https://products.aspose.app/drawing). La démo en direct présente les avantages suivants :" >}}
+
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Pas besoin d'écrire de code" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers et créez un dessin de texte dans le navigateur Web." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier BMP résultant" >}}
+
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="En savoir plus" >}}
+
+Les fichiers ayant l'extension .BMP représentent les fichiers d'images Bitmap utilisés pour stocker des images numériques bitmap. Ce format d'images sert à ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows, Mac et Linux. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
+
+{{< /blocks/products/pf/agp/about-file-text >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
+
+{{< blocks/products/pf/agp/other-supported-section title="Autres formats de redimensionnement pris en charge" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/remove-background/bmp/" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/remove-background/gif/" name="GIF" description="Format d'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/remove-background/jpeg/" name="JPEG" description="Groupe mixte d'experts en photographie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/remove-background/png/" name="PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/remove-background/tiff/" name="TIFF" description="Format d'image balisé" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

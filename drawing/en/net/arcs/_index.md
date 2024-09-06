@@ -86,12 +86,6 @@ The drawing engine within Aspose.Drawing empowers users to render vector graphic
 
 {{< /blocks/products/pf/agp/demobox >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="Arc" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
-
-Files having extension .Arc represent Bitmap Image files that are used to store bitmap digital images. These images format serves the purpose of opening the file on multiple platforms such as Microsoft Windows, Mac and Linux. The Arc file format can store data as two-dimensional digital images in both monochrome as well as color format with various color depths.
-
-{{< /blocks/products/pf/agp/about-file-text >}}
-
 {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

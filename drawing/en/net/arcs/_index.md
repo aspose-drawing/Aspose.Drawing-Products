@@ -1,7 +1,7 @@
 ---
 title: Create Arc image file via .NET
 weight: 20
-url: /net/create/bmp/
+url: /net/arcs/
 description: Create Arc image file via .NET.
 keywords: create Arc via C#, 2D graphics, drawing API, create bitmap C#, Drawing for .NET, save bitmap, save Arc image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Arc image file
 ---
@@ -91,9 +91,9 @@ The drawing engine within Aspose.Drawing empowers users to render vector graphic
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Resize Formats" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported shapes" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/bmp/" name="Arc" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/arcs/" name="Arc" description="Arc Portable Network Graphics Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/emf/" name="EMF" description="Enhanced Metafile Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/gif/" name="GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}

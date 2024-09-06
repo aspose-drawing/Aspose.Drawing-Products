@@ -58,7 +58,7 @@ Aspose.Drawing for .NET is supported on all major operating systems. Just make s
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Curve Image File - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -95,6 +95,7 @@ The drawing engine within Aspose.Drawing empowers users to render vector graphic
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Portable Network Graphics Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Portable Network Graphics Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Portable Network Graphics Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

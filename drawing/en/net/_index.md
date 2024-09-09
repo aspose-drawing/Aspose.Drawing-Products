@@ -295,7 +295,10 @@ Draw shapes like
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use different pen widths and styles
+Use different pen 
+<a href="pen/widths/">widths, </a>
+      and 
+<a href="pen/styles/">styles</a>
     </p>
    </div>
    <div class="col-lg-4">

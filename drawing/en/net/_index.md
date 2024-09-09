@@ -280,7 +280,8 @@ Draw shapes like
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Process and draw graphics paths
+     Process and draw 
+<a href="paths/">graphics paths, </a>
     </p>
    </div>
    <div class="col-lg-4">

@@ -316,14 +316,17 @@ and hatch brushes
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports alpha blending and anti-aliasing
+     Supports 
+<a href="alphaBlending\">alpha blending </a>
+and 
+<a href="antiAliasing/">anti-aliasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Work with clip regions
+<a href="clipping\">Work with clip regions</a>
     </p>
    </div>
    <div class="col-lg-4">

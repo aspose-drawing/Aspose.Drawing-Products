@@ -261,7 +261,7 @@ description: .NET graphic library for drawing text, geometries, and images, to d
     <p class="col-lg-10">
     <a href="lines/">Draw lines, </a>
     <a href="curves/">curves, </a>
-    splines, 
+    <a href="spline/">splines, </a>
     <a href="arcs/">arcs, </a>
     </p>
    </div>

@@ -1,7 +1,7 @@
 ---
 title: Create Rectangle image file via .NET
 weight: 20
-url: /net/curves/
+url: /net/rectangle/
 description: Create Rectangle image file via .NET.
 Keywords: create Rectangle via C#, 2D graphics, drawing API, create bitmap C#, Drawing for .NET, save bitmap, save Rectangle image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Rectangle image file
 ---

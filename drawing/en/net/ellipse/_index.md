@@ -1,7 +1,7 @@
 ---
 title: Create Ellipse image file via .NET
 weight: 20
-url: /net/curves/
+url: /net/ellipse/
 description: Create Ellipse image file via .NET.
 Keywords: create Ellipse via C#, 2D graphics, drawing API, create bitmap C#, Drawing for .NET, save bitmap, save Ellipse image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Ellipse image file
 ---

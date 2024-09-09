@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing for .NET | Cross-platform System.Drawing.Common replacement 
 weight: 20
-url: /net/ 
+url: /net/spline
 description: .NET graphic library for drawing text, geometries, and images, to directly replace System.Drawing.Common package without changing existing C# code.
 ---
 

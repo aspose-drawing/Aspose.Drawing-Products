@@ -1,7 +1,7 @@
 ---
 title: Create Polygon image file via .NET
 weight: 20
-url: /net/curves/
+url: /net/polygon/
 description: Create Polygon image file via .NET.
 Keywords: create Polygon via C#, 2D graphics, drawing API, create bitmap C#, Drawing for .NET, save bitmap, save Polygon image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Polygon image file
 ---

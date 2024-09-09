@@ -1,7 +1,7 @@
 ---
 title: Create Line image file via .NET
 weight: 20
-url: /net/arcs/
+url: /net/lines/
 description: Create Line image file via .NET.
 keywords: create Line via C#, 2D graphics, drawing API, create bitmap C#, Drawing for .NET, save bitmap, save Line image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Line image file
 ---

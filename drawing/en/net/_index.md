@@ -269,7 +269,11 @@ description: .NET graphic library for drawing text, geometries, and images, to d
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw shapes like rectangle, polygon, ellipse, etc
+Draw shapes like 
+    <a href="rectangle/">rectangle, </a>
+    <a href="polygon/">polygon, </a>
+    <a href="ellipse/">ellipse, </a>
+      etc
     </p>
    </div>
    <div class="col-lg-4">

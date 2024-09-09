@@ -305,7 +305,11 @@ Use different pen
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use solid, texture, gradient, and hatch brushes
+     Use 
+<a href="brush/solid/">solid, </a>
+texture, 
+<a href="brush/gradient/">gradient, </a> 
+and hatch brushes
     </p>
    </div>
    <div class="col-lg-4">

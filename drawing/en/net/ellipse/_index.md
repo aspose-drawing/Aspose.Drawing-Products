@@ -93,9 +93,9 @@ The drawing engine within Aspose.Drawing empowers users to render vector graphic
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported shapes" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Portable Network Graphics Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Ellipse" description="Ellipse Portable Network Graphics Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Portable Network Graphics Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse Portable Network Graphics Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rectangle Portable Network Graphics Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon Portable Network Graphics Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

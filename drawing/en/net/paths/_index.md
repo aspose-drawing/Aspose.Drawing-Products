@@ -38,6 +38,7 @@ You need the [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) to t
 + Create bitmap object using Bitmap class.
 + Create graphics object using Graphics.FromImage() method.
 + Create a pen for drawing.
++ Add path elements.
 + Draw curve graphic elements.
 + Save created bitmap in png image format.
 

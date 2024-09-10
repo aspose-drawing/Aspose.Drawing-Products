@@ -334,7 +334,7 @@ and
     </em>
     <p class="col-lg-10">
      Use coordinate system 
-<a href="transformations/">transformations</a>
+<a href="transformations/matrix/">transformations</a>
 
     </p>
    </div>

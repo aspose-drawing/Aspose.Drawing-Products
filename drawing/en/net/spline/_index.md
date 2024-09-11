@@ -1,7 +1,7 @@
 ---
 title: Create Spline image file via .NET
 weight: 20
-url: /net/arcs/
+url: /net/spline/
 description: Create Spline image file via .NET.
 keywords: create Spline via C#, 2D graphics, drawing API, create bitmap C#, Drawing for .NET, save bitmap, save Spline image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Spline image file
 ---

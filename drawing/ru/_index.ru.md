@@ -6,7 +6,7 @@ description: API-интерфейсы High Code и бесплатные прил
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Решение для обработки графики" h2="API-интерфейсы High Code и бесплатные приложения для рисования 2D-графики." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Решение для продукта Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Решение для обработки графики" h2="API-интерфейсы High Code и бесплатные приложения для рисования 2D-графики." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brи.svg" imageAlt="Решение для продукта Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API включает в себя" >}}

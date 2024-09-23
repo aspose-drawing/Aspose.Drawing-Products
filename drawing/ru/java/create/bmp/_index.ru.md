@@ -55,9 +55,9 @@ keywords: create BMP via Java, 2D graphics, drawing API, create bitmap in Java, 
 {{% /blocks/products/pf/agp/text %}}
 
 + Создайте растровый объект, используя класс Bitmap.
-+ Создайте графический объект с помощью метода Graphics.FromImage().
-+ Нарисуйте графические элементы.
-+ Сохраните созданное растровое изображение в формате изображения BMP.
++ Создать графический объект с помощью метода Graphics.FromImage().
++ Рисовать графические элементы.
++ Сохранить созданное растровое изображение в формате изображения BMP.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

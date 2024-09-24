@@ -27,7 +27,7 @@ Java grafiskt bibliotek för att rita text, geometrier och bilder i olika format
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/drawing/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-drawing" >}}
 {{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/drawing/" >}}
-{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
+{{< blocks/products/pf/slr-element name="Hochledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}

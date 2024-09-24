@@ -13,7 +13,7 @@ keywords: change background in C#, change image background, change images in C#,
 
 {{% blocks/products/pf/feature-page-section  h2="Bakgrundsändring på ett enkelt sätt i C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Förvandla din bildestetik med lätthet med hjälp av Aspose.Drawing grafiska bibliotek för .NET för att modifiera bakgrunder. Oavsett om du siktar på att fräscha upp dina bilders visuella tilltalande eller skapa ett sammanhängande tema, ger detta dynamiska verktyg dig möjlighet att göra det sömlöst. Med Aspose.Drawing, <b>ändra bildbakgrunder</b> i C# är enkel och effektiv. Med hjälp av det grafiska bibliotekets möjligheter kan du enkelt redigera bakgrunder och ställa in färger för att uppnå önskad effekt. Upplev mångsidigheten och kraften hos Aspose.Drawing biblioteks API och revolutionera dina bildredigeringsmöjligheter idag.</p>
+Förvochla din bildestetik med lätthet med hjälp av Aspose.Drawing grafiska bibliotek för .NET för att modifiera bakgrunder. Oavsett om du siktar på att fräscha upp dina bilders visuella tilltaloche eller skapa ett sammanhängoche tema, ger detta dynamiska verktyg dig möjlighet att göra det sömlöst. Med Aspose.Drawing, <b>ändra bildbakgrunder</b> i C# är enkel och effektiv. Med hjälp av det grafiska bibliotekets möjligheter kan du enkelt redigera bakgrunder och ställa in färger för att uppnå önskad effekt. Upplev mångsidigheten och kraften hos Aspose.Drawing biblioteks API och revolutionera dina bildredigeringsmöjligheter idag.</p>
 
 <h3 style="margin-top:16px;">
 Bildformat som stöds:

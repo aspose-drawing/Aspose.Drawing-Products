@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing per .NET | Sostituzione System.Drawing.Common multipiattaforma 
 weight: 20
-url: /it/net/ 
+url: /it/net/
 description: Libreria grafica .NET per disegnare testo, geometrie e immagini, per sostituire direttamente il pacchetto System.Drawing.Common senza modificare il codice C# esistente.
 ---
 
@@ -61,7 +61,7 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
      Matrice
     </li>
     <li>
-     Globale e locale
+     Globalee e locale
     </li>
    </ul>
   </div>
@@ -128,7 +128,7 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Drawing per .NET supporta .NET Framework versione 2.0, .NET Standard 2.0 o successiva." >}}
+{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Drawing per .NET supporta .NET Framework versione 2.0, .NET StEard 2.0 o successiva." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Disegna linee, curve, spline e archi
+    <a href="lines/">Disegna linee, </a>
+    <a href="curves/">curve, </a>
+    <a href="spline/">spline, </a>
+    <a href="arcs/">archi, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Disegna forme come rettangolo, poligono, ellisse, ecc
+Disegna forme come 
+    <a href="rectangle/">rettangolo, </a>
+    <a href="polygon/">poligono, </a>
+    <a href="ellipse/">ellisse, </a>
+      ecc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Elaborare e disegnare percorsi grafici
+     Elabora e disegna 
+<a href="paths/">percorsi grafici, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Visualizza il testo con caratteri e stili diversi
+<a href="renderText/">Visualizza il testo con caratteri e stili diversi</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilizza stili e larghezze di penna diversi
+Usa una penna diversa 
+<a href="pen/widths/">larghezze, </a>
+      E 
+<a href="pen/stili/">stili</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilizza pennelli solidi, texture, sfumatura e tratteggio
+     Utilizzo 
+<a href="brush/solid/">solido, </a>
+struttura, 
+<a href="brush/gradient/">pendenza, </a> 
+e spazzole per portelli
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supporta la fusione alfa e l'anti-aliasing
+     Supporta 
+<a href="alphaBlending/">fusione alfa </a>
+E 
+<a href="antiAliasing/">antialiasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lavora con le regioni di clip
+<a href="clipping/">Lavora con le regioni di clip</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilizzare le trasformazioni del sistema di coordinate
+     Utilizza il sistema di coordinate 
+<a href="trasformazioni/matrix/">trasformazioni</a>
+
     </p>
    </div>
    
@@ -324,11 +344,11 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
      Disegna grafica vettoriale
     </h2>
     <p>
-     Aspose.Drawing per .NET consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. Ad esempio, ecco il codice per disegnare l'arco.
+     Aspose.Drawing per .NET consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzEo l'API. Ad esempio, ecco il codice per disegnare l'arco.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arco da disegno - C#
+      Arcoo da disegno - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

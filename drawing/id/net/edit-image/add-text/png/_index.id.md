@@ -15,7 +15,7 @@ keywords: Tambahkan teks to image, Tambahkan teks to PNG, Tambahkan teks to bitm
 {{% blocks/products/pf/agp/content h2="Cara Menambahkan Teks ke File Gambar PNG di C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Berikan sentuhan profesional pada gambar PNG Anda dengan menggabungkan penggunaan teks <a href="https://products.aspose.com/drawing/net">Aspose.Drawing untuk .NET</a> API. Alat serbaguna ini memungkinkan Anda menambahkan teks ke gambar dengan lancar, baik untuk membuat anotasi, memberi label, atau memberi tanda air. Dengan Aspose.Drawing API, Anda dapat dengan mudah menggambar teks ke gambar PNG menggunakan C#. Memanfaatkan kemampuan menggambar grafis kelas Bitmap dan raster untuk mencapai hasil yang tepat dan disesuaikan. Rasakan kenyamanan dan fleksibilitas menambahkan teks ke gambar PNG dengan Drawing API .NET, dan tingkatkan proyek pengeditan gambar Anda ke tingkat yang lebih tinggi. Membuka <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> manajer paket, dan cari <b>Aspose.Drawing</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
+Berikan sentuhan profesional pada gambar PNG Anda dengan menggabungkan penggunaan teks <a href="https://products.aspose.com/drawing/net">Aspose.Drawing untuk .NET</a> API. Alat serbaguna ini memungkinkan Anda menambahkan teks ke gambar dengan lancar, baik untuk membuat anotasi, memberi label, atau memberi tDana air. Dengan Aspose.Drawing API, Anda dapat dengan mudah menggambar teks ke gambar PNG menggunakan C#. Memanfaatkan kemampuan menggambar grafis kelas Bitmap dan raster untuk mencapai hasil yang tepat dan disesuaikan. Rasakan kenyamanan dan fleksibilitas menambahkan teks ke gambar PNG dengan Drawing API .NET, dan tingkatkan proyek pengeditan gambar Anda ke tingkat yang lebih tinggi. Membuka <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> manajer paket, dan cari <b>Aspose.Drawing</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 ```cs
@@ -69,7 +69,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Drawing untuk API .NET" %}}
 
-Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengandalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibandingkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
+Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengDanalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibDaningkan .NET StDanard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
 
 Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik vektor, termasuk garis, kurva, dan gambar, bersama dengan beragam elemen teks dalam berbagai font, ukuran, dan gaya. Proses rendering ini terjadi secara mulus pada gambar raster, mendukung beragam format file grafik yang umum digunakan.
 
@@ -104,7 +104,7 @@ File yang memiliki ekstensi .PNG mewakili file Gambar Bitmap yang digunakan untu
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/jpeg/" name="JPEG" description="Kelompok Pakar Fotografi Gabungan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/tiff/" name="TIFF" description="Format Gambar yang DitDanai" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

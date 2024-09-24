@@ -38,7 +38,7 @@ K vyzkoušení následujícího pracovního postupu ve svém vlastním prostřed
 
 + Vytvořte bitmapový objekt z obrazového souboru TIFF pomocí třídy `Bitmap`.
 + Vytvořte grafický objekt pomocí metody `Graphics.FromImage()`.
-+ Nakreslete ohraničení metodou `DrawRectangle()`.
++ Nakreslete ohraničení metodou `DrawObdélník()`.
 + Uložte vytvořenou bitmapu v obrazovém formátu TIFF.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ Aspose.Drawing pro .NET je podporován na všech hlavních operačních systéme
 
 {{% blocks/products/pf/agp/content h2="O Aspose.Drawing pro .NET API" %}}
 
-Aspose.Drawing, plně spravovaná, multiplatformní 2D grafická knihovna, vyniká v kreslení textu, geometrií a obrázků. Nabízí rozhraní API kompatibilní se System.Drawing, které bez námahy transformuje váš stávající kód, který se spoléhá na System.Drawing, na skutečně multiplatformní řešení. Aspose.Drawing, vyvinutý proti .NET Standard 2.0, najde uplatnění ve scénářích webu, mobilu, desktopu, cloudu a internetu věcí.
+Aspose.Drawing, plně spravovaná, multiplatformní 2D grafická knihovna, vyniká v kreslení textu, geometrií a obrázků. Nabízí rozhraní API kompatibilní se System.Drawing, které bez námahy transformuje váš stávající kód, který se spoléhá na System.Drawing, na skutečně multiplatformní řešení. Aspose.Drawing, vyvinutý proti .NET Staard 2.0, najde uplatnění ve scénářích webu, mobilu, desktopu, cloudu a internetu věcí.
 
 Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou grafiku, včetně čar, křivek a obrázků, spolu s různými textovými prvky v různých fontech, velikostech a stylech. Tento proces vykreslování probíhá hladce na rastrových obrázcích a podporuje širokou škálu běžně používaných formátů grafických souborů.
 

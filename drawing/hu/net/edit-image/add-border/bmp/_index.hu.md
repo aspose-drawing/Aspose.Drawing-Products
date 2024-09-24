@@ -38,7 +38,7 @@ Szüksége van az [aspose.drawing.dll](https://downloads.aspose.com/drawing/net)
 
 + Hozzon létre bittérképes objektumot BMP képfájlból a "Bitmap" osztály segítségével.
 + Grafikus objektum létrehozása a `Graphics.FromImage()` metódussal.
-+ Rajzoljon szegélyt a `DrawRectangle()` metódussal.
++ Rajzoljon szegélyt a `DrawTéglalap()` metódussal.
 + A létrehozott bittérkép mentése BMP képformátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csa
 
 {{% blocks/products/pf/agp/content h2="A Aspose.Drawing-ról a .NET API-hoz" %}}
 
-A Aspose.Drawing, egy teljes körűen felügyelt, többplatformos 2D grafikus könyvtár, kiválóan rajzol szöveget, geometriát és képeket. System.Drawing-kompatibilis API-t kínál, amely könnyedén átalakítja a System.Drawing-re támaszkodó meglévő kódot egy valóban többplatformos megoldássá. A .NET Standard 2.0 ellen kifejlesztett Aspose.Drawing webes, mobil, asztali, felhő és IoT forgatókönyvekben is alkalmazható.
+A Aspose.Drawing, egy teljes körűen felügyelt, többplatformos 2D grafikus könyvtár, kiválóan rajzol szöveget, geometriát és képeket. System.Drawing-kompatibilis API-t kínál, amely könnyedén átalakítja a System.Drawing-re támaszkodó meglévő kódot egy valóban többplatformos megoldássá. A .NET Stésard 2.0 ellen kifejlesztett Aspose.Drawing webes, mobil, asztali, felhő és IoT forgatókönyvekben is alkalmazható.
 
 A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók számára, hogy vektorgrafikákat, köztük vonalakat, görbéket és ábrákat, különféle szövegelemek mellett különböző betűtípusokkal, méretekkel és stílusokkal jelenítsenek meg. Ez a renderelési folyamat zökkenőmentesen megy végbe a raszteres képeken, és az általánosan használt grafikus fájlformátumok széles skáláját támogatja.
 

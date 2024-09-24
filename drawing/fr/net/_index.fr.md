@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing pour .NET | Remplacement multiplateforme du System.Drawing.Common 
 weight: 20
-url: /fr/net/ 
+url: /fr/net/
 description: Bibliothèque graphique .NET pour dessiner du texte, des géométries et des images, pour remplacer directement le package System.Drawing.Common sans modifier le code C# existant.
 ---
 
@@ -14,7 +14,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Le package Aspose.Drawing peut être utilisé pour remplacer directement la référence du package System.Drawing.Common dans votre projet - tout votre code existant utilisant l'API System.Drawing continuera à fonctionner, mais désormais sur n'importe quelle plate-forme prise en charge par .NET. La bibliothèque de dessins prend en charge le rendu de graphiques vectoriels tels que des lignes, des courbes et des figures, ainsi que du texte dans une variété de polices, de tailles et de styles sur des images raster. Les images peuvent être enregistrées dans tous les formats graphiques couramment utilisés, notamment BMP, PNG, JPEG, GIF et TIFF. Aspose.Drawing est une pure bibliothèque .NET et ne repose sur aucun moteur de rendu natif externe.
+ Le package Aspose.Drawing peut être utilisé pour remplacer directement la référence du package System.Drawing.Common dans votre projet - tout votre code existant utilisant l'API System.Drawing continuera à fonctionner, mais désormais sur n'importe quelle plate-forme prise en charge par .NET. La bibliothèque de dessins prend en charge le rendu de graphiques vectoriels tels que des lignes, des courbes et des figures, ainsi que du texte dans une variété de polices, de tailles et de modèles sur des images raster. Les images peuvent être enregistrées dans tous les formats graphiques couramment utilisés, notamment BMP, PNG, JPEG, GIF et TIFF. Aspose.Drawing est une pure bibliothèque .NET et ne repose sur aucun moteur de rendu natif externe.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -128,7 +128,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Le Aspose.Drawing pour .NET prend en charge le .NET Framework version 2.0, le .NET Standard 2.0 ou version ultérieure." >}}
+{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Le Aspose.Drawing pour .NET prend en charge le .NET Framework version 2.0, le .NET Stetard 2.0 ou version ultérieure." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dessinez des lignes, des courbes, des splines et des arcs
+    <a href="lines/">Tracez des lignes, </a>
+    <a href="curves/">les courbes, </a>
+    <a href="spline/">cannelures, </a>
+    <a href="arcs/">des arcs, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dessinez des formes comme un rectangle, un polygone, une ellipse, etc.
+Dessine des formes comme 
+    <a href="rectangle/">rectangle, </a>
+    <a href="polygon/">polygone, </a>
+    <a href="ellipse/">ellipse, </a>
+      etc.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traiter et dessiner des chemins graphiques
+     Traiter et dessiner 
+<a href="paths/">chemins graphiques, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Restituer le texte avec différentes polices et styles
+<a href="renderText/">Restituer le texte avec différentes polices et modèles</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilisez différentes largeurs et styles de stylo
+Utiliser un stylo différent 
+<a href="pen/widths/">largeurs, </a>
+      et 
+<a href="pen/modèles/">modèles</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilisez des pinceaux solides, de texture, de dégradé et de hachures
+     Utiliser 
+<a href="brush/solid/">solide, </a>
+texture, 
+<a href="brush/gradient/">pente, </a> 
+et brosses à hachures
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Prend en charge le mélange alpha et l'anticrénelage
+     Prise en charge 
+<a href="alphaBlending/">mélange alpha </a>
+et 
+<a href="antiAliasing/">anticrénelage</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Travailler avec des zones de découpage
+<a href="clipping/">Travailler avec des zones de découpage</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utiliser les transformations du système de coordonnées
+     Utiliser le système de coordonnées 
+<a href="transformations/matrix/">transformations</a>
+
     </p>
    </div>
    
@@ -324,7 +344,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
      Dessiner des graphiques vectoriels
     </h2>
     <p>
-     Aspose.Drawing pour .NET permet de dessiner différents graphiques vectoriels tels que des arcs, des splines cardinales, des splines de Bézier, des ellipses, des courbes fermées, des lignes et un certain nombre d'autres types. Seules quelques lignes de code sont nécessaires pour dessiner différents types de graphiques vectoriels à l'aide de l'API. Par exemple, voici le code pour dessiner un arc.
+     Aspose.Drawing pour .NET permet de dessiner différents graphiques vectoriels tels que des des arcs, des splines cardinales, des splines de Bézier, des ellipses, des courbes fermées, des lignes et un certain nombre d'autres types. Seules quelques lignes de code sont nécessaires pour dessiner différents types de graphiques vectoriels à l'aide de l'API. Par exemple, voici le code pour dessiner un arc.
     </p>
     <div class="codeblock" id="code">
      <h3>

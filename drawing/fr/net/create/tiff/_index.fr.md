@@ -14,9 +14,9 @@ keywords: create TIFF via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="Comment créer un fichier image TIFF à l'aide du C#" %}}
 
-Découvrez la simplicité de création de fichiers image TIFF avec le C#. Ce document fournit des informations et des conseils essentiels, que vous soyez un développeur chevronné ou débutant. Découvrez les étapes pour intégrer de manière transparente la création d’images TIFF dans vos projets et améliorer vos compétences en programmation. Afin de créer des fichiers TIFF, nous utiliserons la bibliothèque [Aspose.Drawing pour .NET](https://products.aspose.com/drawing/net) qui est une API de dessin graphique 2D riche en fonctionnalités, puissante et facile à utiliser pour C#. plate-forme. Ouvrez le gestionnaire de packages [NuGet](https://www.nuget.org/packages/aspose.drawing), recherchez **Aspose.Drawing** et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+Découvrez la simplicité de création de fichiers image TIFF avec le C#. Ce document fournit des informations et des conseils essentiels, que vous soyez un développeur chevronné ou débutant. Découvrez les étapes pour intégrer de manière transparente la création d’images TIFF dans vos projets et améliorer vos compétences en programmation. Afin de créer des fichiers TIFF, nous utiliserons la bibliothèque [Aspose.Drawing pour .NET](https://products.aspose.com/drawing/net) qui est une API de dessin graphique 2D riche en fonctionnalités, puissante et facile à utiliser pour C#. plate-forme. Ouvrez le gestionnaire de packages [NuGet](https://www.nuget.org/packages/aspose.drawing), recherchez **Aspose.Drawing** et installez. Vous pouvez également utiliser la commete suivante à partir de la console Package Manager.
 
-{{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commete de la console du gestionnaire de packages" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -67,9 +67,9 @@ Aspose.Drawing pour .NET est pris en charge sur tous les principaux systèmes d'
 
 {{% blocks/products/pf/agp/content h2="À propos de l'API Aspose.Drawing pour .NET" %}}
 
-Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Standard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
+Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Stetard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
 
-Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et styles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
+Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et modèles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
 
 {{% /blocks/products/pf/agp/content %}}
 

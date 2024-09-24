@@ -13,7 +13,7 @@ keywords: Voeg tekst toe in C#, Voeg tekst toe to image file, text on bitmap ima
 
 {{% blocks/products/pf/feature-page-section  h2="Voeg naadloos tekst toe aan afbeeldingen in de C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Transformeer uw afbeeldingen eenvoudig met de Aspose.Drawing grafische bibliotheek voor .NET door programmatisch tekst toe te voegen. Of u nu uw afbeeldingen wilt annoteren, van een watermerk voorzien of van ondertiteling wilt voorzien, met deze veelzijdige tool kunt u dit moeiteloos doen. Met de Aspose.Drawing kan dat <b>Voeg tekst toe</b> om afbeeldingen in de C# met precisie en gemak te bitmapen. De intuïtieve API en robuuste functionaliteit van de bibliotheek maken het eenvoudig om uw afbeeldingen precies zo aan te passen als u voor ogen heeft. Ervaar de kracht van onze grafische bibliotheek in de C# en ontgrendel vandaag nog nieuwe mogelijkheden voor uw beeldbewerkingsprojecten.</p>
+Transformeer uw afbeeldingen eenvoudig met de Aspose.Drawing grafische bibliotheek voor .NET door programmatisch tekst toe te voegen. Of u nu uw afbeeldingen wilt annoteren, van een watermerk voorzien of van ondertiteling wilt voorzien, met deze veelzijdige tool kunt u dit moeiteloos doen. Met de Aspose.Drawing kan dat <b>Voeg tekst toe</b> om afbeeldingen in de C# met precisie en gemak te bitmapen. De intuïtieve API en robuuste functionaliteit van de bibliotheek maken het eenvoudig om uw afbeeldingen precies zo aan te passen als u voor ogen heeft. Ervaar de kracht van onze grafische bibliotheek in de C# en ontgrendel vEnaag nog nieuwe mogelijkheden voor uw beeldbewerkingsprojecten.</p>
 
 <h3 style="margin-top:16px;">
 Ondersteunde beeldformaten:

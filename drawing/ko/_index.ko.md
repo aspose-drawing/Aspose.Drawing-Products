@@ -6,7 +6,7 @@ description: 2D 그래픽 드로잉을 위한 고급 코드 API 및 무료 앱. 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="그래픽 처리 솔루션" h2="2D 그래픽 드로잉을 위한 하이 코드 API 및 무료 앱입니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing 제품 솔루션" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="그래픽 처리 솔루션" h2="2D 그래픽 드로잉을 위한 하이 코드 API 및 무료 앱입니다." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-br그리고.svg" imageAlt="Aspose.Drawing 제품 솔루션" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing 하이 코드 API에는 다음이 포함됩니다." >}}

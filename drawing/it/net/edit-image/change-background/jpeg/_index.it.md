@@ -12,12 +12,12 @@ keywords: change image background, change JPEG background, change background via
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Come cambiare lo sfondo del file immagine JPEG utilizzando C#" %}}
+{{% blocks/products/pf/agp/content h2="Come cambiare lo sfondo del file immagine JPEG utilizzEo C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Scopri il potere della trasformazione mentre modifichi gli sfondi dei file di immagine della tua JPEG utilizzando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API. Sia che tu voglia rinfrescare l'aspetto estetico delle tue immagini o unirle con uno sfondo coerente, questo strumento versatile fornisce i mezzi per farlo senza problemi. Con la libreria Aspose.Drawing, la modifica degli sfondi delle immagini per i file JPEG tramite C# diventa un processo semplice. Sfrutta le capacità di questo strumento di grafica 2D per modificare gli sfondi con precisione ed efficienza, sfruttando la classe Bitmap e le funzioni di disegno della grafica raster. Sperimenta la flessibilità e l'efficienza dell'API di disegno .NET per la modifica in background ed eleva i tuoi file di immagine JPEG a nuovi livelli di eccellenza visiva. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.</p>
+Scopri il potere della trasformazione mentre modifichi gli sfondi dei file di immagine della tua JPEG utilizzEo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API. Sia che tu voglia rinfrescare l'aspetto estetico delle tue immagini o unirle con uno sfondo coerente, questo strumento versatile fornisce i mezzi per farlo senza problemi. Con la libreria Aspose.Drawing, la modifica degli sfondi delle immagini per i file JPEG tramite C# diventa un processo semplice. Sfrutta le capacità di questo strumento di grafica 2D per modificare gli sfondi con precisione ed efficienza, sfruttEo la classe Bitmap e le funzioni di disegno della grafica raster. Sperimenta la flessibilità e l'efficienza dell'API di disegno .NET per la modifica in background ed eleva i tuoi file di immagine JPEG a nuovi livelli di eccellenza visiva. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comEo dalla Console di gestione pacchetti.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="ComEo della console di Gestione pacchetti" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,7 +36,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un oggetto bitmap dal file immagine JPEG utilizzando la classe `Bitmap`.
++ Crea un oggetto bitmap dal file immagine JPEG utilizzEo la classe `Bitmap`.
 + Definisci i colori desiderati per cambiare lo sfondo dell'immagine.
 + Cambia il colore dei pixel della bitmap con il metodo `SetPixel()`.
 + Salva la bitmap modificata nel formato immagine JPEG.
@@ -68,16 +68,16 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Drawing per l'API .NET" %}}
 
-Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformando facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET Standard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
+Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformEo facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET StEard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
 
-Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportando un'ampia gamma di formati di file grafici comunemente utilizzati.
+Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportEo un'ampia gamma di formati di file grafici comunemente utilizzati.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Elabora JPEG tramite l'app online gratuita" sectionDescription="Crea immagini JPEG e aggiungi testo alle immagini visitando il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Elabora JPEG tramite l'app online gratuita" sectionDescription="Crea immagini JPEG e aggiungi testo alle immagini visitEo il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non è necessario scrivere alcun codice" >}}

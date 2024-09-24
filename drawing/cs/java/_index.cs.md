@@ -3,7 +3,7 @@ title: Aspose.Drawing pro Java | Multiplatformní grafická knihovna
 weight: 20
 url: /cs/java/ 
 description: Grafická knihovna Java pro kreslení textu, křivek, čar, obrázků a obrázků.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing křivky, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -409,9 +409,9 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Drawing Arc - Java
+      Drawing Oblouk - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-ČárasKřivkasShapes-DrawOblouk-DrawOblouk.java" >}}
     </div>
    </div>
   </div>

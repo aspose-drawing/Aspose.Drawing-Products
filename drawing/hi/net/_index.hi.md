@@ -1,7 +1,7 @@
 ---
 title: .NET के लिए Aspose.Drawing | क्रॉस-प्लेटफ़ॉर्म System.Drawing.Common प्रतिस्थापन 
 weight: 20
-url: /hi/net/ 
+url: /hi/net/
 description: मौजूदा C# कोड को बदले बिना सीधे System.Drawing.Common पैकेज को बदलने के लिए टेक्स्ट, ज्यामिति और छवियों को चित्रित करने के लिए .NET ग्राफिक लाइब्रेरी।
 ---
 
@@ -128,7 +128,7 @@ description: मौजूदा C# कोड को बदले बिना �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=".NET के लिए Aspose.Drawing .NET Framework संस्करण 2.0, .NET Standard 2.0 या बाद के संस्करण का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=".NET के लिए Aspose.Drawing .NET Framework संस्करण 2.0, .NET Stऔरard 2.0 या बाद के संस्करण का समर्थन करता है।" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: मौजूदा C# कोड को बदले बिना �
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     रेखाएँ, वक्र, स्प्लिन और आर्क बनाएँ
+    <a href="lines/">लाइन खींचना, </a>
+    <a href="curves/">वक्र, </a>
+    <a href="spline/">विभाजन, </a>
+    <a href="arcs/">चाप, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     आयत, बहुभुज, दीर्घवृत्त आदि आकृतियाँ बनाएँ
+जैसी आकृतियाँ बनाएं 
+    <a href="rectangle/">आयत, </a>
+    <a href="polygon/">बहुभुज, </a>
+    <a href="ellipse/">दीर्घवृत्त, </a>
+      वगैरह
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ग्राफ़िक्स पथों को संसाधित करें और बनाएं
+     प्रक्रिया करें और ड्रा करें 
+<a href="paths/">ग्राफ़िक पथ, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     विभिन्न फ़ॉन्ट और शैलियों के साथ टेक्स्ट प्रस्तुत करें
+<a href="renderText/">विभिन्न फ़ॉन्ट और शैलियों के साथ टेक्स्ट प्रस्तुत करें</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     विभिन्न पेन की चौड़ाई और शैलियों का उपयोग करें
+अलग-अलग पेन का प्रयोग करें 
+<a href="pen/widths/">चौड़ाई, </a>
+      और 
+<a href="pen/शैलियों/">शैलियों</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ठोस, बनावट, ढाल और हैच ब्रश का उपयोग करें
+     उपयोग 
+<a href="brush/solid/">ठोस, </a>
+बनावट, 
+<a href="brush/gradient/">ढाल, </a> 
+और हैच ब्रश
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     अल्फा ब्लेंडिंग और एंटी-अलियासिंग का समर्थन करता है
+     समर्थन 
+<a href="alphaBlending/">अल्फा सम्मिश्रण </a>
+और 
+<a href="antiAliasing/">उपघटन प्रतिरोधी</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     क्लिप क्षेत्रों के साथ कार्य करें
+<a href="clipping/">क्लिप क्षेत्रों के साथ कार्य करें</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     समन्वय प्रणाली परिवर्तनों का उपयोग करें
+     समन्वय प्रणाली का प्रयोग करें 
+<a href="परिवर्तनों/matrix/">परिवर्तनों</a>
+
     </p>
    </div>
    

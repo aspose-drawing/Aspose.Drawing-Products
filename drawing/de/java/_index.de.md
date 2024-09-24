@@ -3,7 +3,7 @@ title: Aspose.Drawing für Java | Plattformübergreifende Grafikbibliothek
 weight: 20
 url: /de/java/ 
 description: Java-Grafikbibliothek zum Zeichnen von Texten, Kurven, Linien, Figuren und Bildern.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing Kurven, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -333,7 +333,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="create/">Erstellen Sie Bitmaps von Grund auf</a> oder vorhandene Dateien laden
+     <a href="create/">Erstellen Sie Bitmaps von Grund auf</a> oder vorhUndene Dateien laden
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Zeichnen Sie Vektorgrafiken
     </h2>
     <p>
-     Aspose.Drawing für Java ermöglicht das Zeichnen verschiedener Vektorgrafiken wie Bögen, Kardinal-Spline, Bezier-Spline, Ellipsen, geschlossene Kurven, Linien und eine Reihe anderer Typen. Zum Zeichnen verschiedener Arten von Vektorgrafiken mithilfe der API waren nur wenige Codezeilen erforderlich. Hier ist beispielsweise der Code zum Zeichnen eines Bogens.
+     Aspose.Drawing für Java ermöglicht das Zeichnen verschiedener Vektorgrafiken wie Bögen, Kardinal-Spline, Bezier-Spline, Ellipsen, geschlossene Kurven, Linien und eine Reihe Underer Typen. Zum Zeichnen verschiedener Arten von Vektorgrafiken mithilfe der API waren nur wenige Codezeilen erforderlich. Hier ist beispielsweise der Code zum Zeichnen eines Bogens.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Zeichnungsbogen - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LiniesKurvesShapes-DrawBogen-DrawBogen.java" >}}
     </div>
    </div>
   </div>

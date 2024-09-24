@@ -3,7 +3,7 @@ title: Aspose.Drawing voor Java | Platformoverschrijdende grafische bibliotheek
 weight: 20
 url: /nl/java/ 
 description: Java grafische bibliotheek voor het tekenen van tekst, curven, lijnen, figuren en afbeeldingen.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing rondingen, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -94,7 +94,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Verbeter vandaag nog uw graphics
+   Verbeter vEnaag nog uw graphics
    </h3>
 
    <p align='justify'>
@@ -257,7 +257,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description="Aspose.Drawing voor Java ondersteunt de volgende [afbeeldingsindelingen] (https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestEnsformaten" description="Aspose.Drawing voor Java ondersteunt de volgende [afbeeldingsindelingen] (https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -333,7 +333,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="create/">Maak vanaf het begin bitmaps</a> of bestaande bestanden laden
+     <a href="create/">Maak vanaf het begin bitmaps</a> of bestaEne bestEnen laden
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Teken vectorafbeeldingen
     </h2>
     <p>
-     Met Aspose.Drawing voor Java kunt u verschillende vectorafbeeldingen tekenen, zoals bogen, kardinale spline, Bezier-spline, ellipsen, gesloten curven, lijnen en een aantal andere typen. Er waren slechts enkele regels code nodig om verschillende soorten vectorafbeeldingen te tekenen met behulp van de API. Hier is bijvoorbeeld code voor het tekenen van een boog.
+     Met Aspose.Drawing voor Java kunt u verschillende vectorafbeeldingen tekenen, zoals bogen, kardinale spline, Bezier-spline, ellipsen, gesloten curven, lijnen en een aantal Enere typen. Er waren slechts enkele regels code nodig om verschillende soorten vectorafbeeldingen te tekenen met behulp van de API. Hier is bijvoorbeeld code voor het tekenen van een boog.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Boog tekenen - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LijnsKrommesShapes-DrawBoog-DrawBoog.java" >}}
     </div>
    </div>
   </div>

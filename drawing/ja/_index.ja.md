@@ -6,7 +6,7 @@ description: 2D グラフィックス描画用のハイコード API と無料�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="グラフィックス処理ソリューション" h2="2D グラフィックス描画用のハイコード API と無料アプリ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing 製品ソリューション" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="グラフィックス処理ソリューション" h2="2D グラフィックス描画用のハイコード API と無料アプリ。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brそして.svg" imageAlt="Aspose.Drawing 製品ソリューション" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing ハイコード API には以下が含まれます" >}}

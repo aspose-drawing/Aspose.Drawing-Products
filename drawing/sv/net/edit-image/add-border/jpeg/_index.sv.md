@@ -15,9 +15,9 @@ keywords: add border to image, add border to JPEG, add border via C#, 2D graphic
 {{% blocks/products/pf/agp/content h2="Hur man lägger till kant till JPEG-bildfil med C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Förvandla dina JPEG-bilder enkelt genom att lägga till kanter med hjälp av <a href="https://products.aspose.com/drawing/net">Aspose.Drawing för .NET</a> API. Detta plattformsoberoende 2D-grafikbibliotek erbjuder kraftfulla verktyg för att sömlöst integrera kanter i dina bilder. Med Aspose.Drawing API kan du enkelt rita gränser runt dina JPEG-bilder med C#. Använd funktionerna för att rita Bitmap-klass och rastergrafik för att uppnå resultat av professionell kvalitet. Oavsett om du renderar rasterbilder eller sparar JPEG-filer, ger Drawing API den flexibilitet och funktionalitet du behöver för att förbättra dina bilder. Upplev bekvämligheten med att lägga till kanter till JPEG-bilder med .NET:s API och lyft din bildredigeringsprocess idag. Öppen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakethanterare och sök efter <b>Aspose.Drawing</b> och installera. Du kan också använda följande kommando från Package Manager Console.</p>
+Förvochla dina JPEG-bilder enkelt genom att lägga till kanter med hjälp av <a href="https://products.aspose.com/drawing/net">Aspose.Drawing för .NET</a> API. Detta plattformsoberoende 2D-grafikbibliotek erbjuder kraftfulla verktyg för att sömlöst integrera kanter i dina bilder. Med Aspose.Drawing API kan du enkelt rita gränser runt dina JPEG-bilder med C#. Använd funktionerna för att rita Bitmap-klass och rastergrafik för att uppnå resultat av professionell kvalitet. Oavsett om du renderar rasterbilder eller sparar JPEG-filer, ger Drawing API den flexibilitet och funktionalitet du behöver för att förbättra dina bilder. Upplev bekvämligheten med att lägga till kanter till JPEG-bilder med .NET:s API och lyft din bildredigeringsprocess idag. Öppen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakethanterare och sök efter <b>Aspose.Drawing</b> och installera. Du kan också använda följoche kommocho från Package Manager Console.</p>
 
-{{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommocho" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -32,13 +32,13 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/text %}}
 
-Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för att prova följande arbetsflöde i din egen miljö.
+Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för att prova följoche arbetsflöde i din egen miljö.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Skapa bitmappsobjekt från JPEG-bildfilen med hjälp av klassen "Bitmap".
 + Skapa grafikobjekt med metoden `Graphics.FromImage()`.
-+ Rita en kant med metoden `DrawRectangle()`.
++ Rita en kant med metoden `DrawRektangel()`.
 + Spara skapad bitmapp i JPEG-bildformat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till att du har följande förutsättningar.
+Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till att du har följoche förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till at
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Drawing för .NET API" %}}
 
-Aspose.Drawing, ett fullt hanterat, plattformsoberoende 2D-grafikbibliotek, utmärker sig när det gäller att rita text, geometrier och bilder. Den erbjuder ett System.Drawing-kompatibelt API, som enkelt omvandlar din befintliga kod som förlitar sig på System.Drawing till en verkligt plattformsoberoende lösning. Utvecklad mot .NET Standard 2.0, Aspose.Drawing hittar applikationer i webb-, mobil-, dator-, moln- och IoT-scenarier.
+Aspose.Drawing, ett fullt hanterat, plattformsoberoende 2D-grafikbibliotek, utmärker sig när det gäller att rita text, geometrier och bilder. Den erbjuder ett System.Drawing-kompatibelt API, som enkelt omvochlar din befintliga kod som förlitar sig på System.Drawing till en verkligt plattformsoberoende lösning. Utvecklad mot .NET Stochard 2.0, Aspose.Drawing hittar applikationer i webb-, mobil-, dator-, moln- och IoT-scenarier.
 
 Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik, inklusive linjer, kurvor och figurer, tillsammans med olika textelement i olika typsnitt, storlekar och stilar. Denna återgivningsprocess sker sömlöst på rasterbilder och stöder ett brett utbud av vanliga grafikfilformat.
 
@@ -77,12 +77,12 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Bearbeta JPEG via gratis onlineapp" sectionDescription="Skapa JPEG-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följande fördelar:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Bearbeta JPEG via gratis onlineapp" sectionDescription="Skapa JPEG-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följoche fördelar:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Du behöver inte ladda ner eller ställa in någonting" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Du behöver inte skriva någon kod" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina filer och skapa textritning i webbläsaren" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Skaffa omedelbart nedladdningslänken för den resulterande JPEG-filen" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Skaffa omedelbart nedladdningslänken för den resulteroche JPEG-filen" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 

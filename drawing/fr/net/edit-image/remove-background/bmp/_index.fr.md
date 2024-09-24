@@ -15,9 +15,9 @@ keywords: remove background from image, remove background from BMP, remove backg
 {{% blocks/products/pf/agp/content h2="Comment supprimer l'arrière-plan du fichier image BMP à l'aide du C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Dévoilez la puissance d’une retouche d’image précise avec <a href="https://products.aspose.com/drawing/net">Aspose.Drawing pour .NET</a> en éliminant sans effort les arrière-plans de vos fichiers image BMP. Que vous recherchiez une finition soignée ou que vous cherchiez à mettre en valeur votre sujet, cet outil dynamique vous permet de réaliser votre vision de manière transparente. Avec notre API .NET, la suppression des arrière-plans des images BMP devient un processus rationalisé. Utilisez les fonctionnalités robustes de notre bibliothèque de dessins pour éditer des bitmaps avec précision, en tirant parti de son API intuitive pour produire des résultats époustouflants. Découvrez l'efficacité et la précision de la suppression de l'arrière-plan avec le .NET et améliorez dès aujourd'hui les capacités d'édition d'images de votre BMP. Ouvrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestionnaire de paquets et recherchez <b>Aspose.Drawing</b> et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.</p>
+Dévoilez la puissance d’une retouche d’image précise avec <a href="https://products.aspose.com/drawing/net">Aspose.Drawing pour .NET</a> en éliminant sans effort les arrière-plans de vos fichiers image BMP. Que vous recherchiez une finition soignée ou que vous cherchiez à mettre en valeur votre sujet, cet outil dynamique vous permet de réaliser votre vision de manière transparente. Avec notre API .NET, la suppression des arrière-plans des images BMP devient un processus rationalisé. Utilisez les fonctionnalités robustes de notre bibliothèque de dessins pour éditer des bitmaps avec précision, en tirant parti de son API intuitive pour produire des résultats époustouflants. Découvrez l'efficacité et la précision de la suppression de l'arrière-plan avec le .NET et améliorez dès aujourd'hui les capacités d'édition d'images de votre BMP. Ouvrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestionnaire de paquets et recherchez <b>Aspose.Drawing</b> et installer. Vous pouvez également utiliser la commete suivante à partir de la console Package Manager.</p>
 
-{{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commete de la console du gestionnaire de packages" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -68,9 +68,9 @@ Aspose.Drawing pour .NET est pris en charge sur tous les principaux systèmes d'
 
 {{% blocks/products/pf/agp/content h2="À propos de l'API Aspose.Drawing pour .NET" %}}
 
-Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Standard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
+Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Stetard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
 
-Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et styles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
+Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et modèles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
 
 {{% /blocks/products/pf/agp/content %}}
 

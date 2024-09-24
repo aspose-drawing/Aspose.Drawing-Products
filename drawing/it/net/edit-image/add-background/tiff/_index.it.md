@@ -7,17 +7,17 @@ keywords: add background to image, add background to TIFF, add background via C#
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aggiungi sfondo al file immagine TIFF tramite C#" h2="Perfeziona le immagini TIFF con sfondi utilizzando l'API Drawing .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aggiungi sfondo al file immagine TIFF tramite C#" h2="Perfeziona le immagini TIFF con sfondi utilizzEo l'API Drawing .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Come aggiungere uno sfondo al file immagine TIFF utilizzando C#" %}}
+{{% blocks/products/pf/agp/content h2="Come aggiungere uno sfondo al file immagine TIFF utilizzEo C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Sblocca nuove possibilità creative per i file di immagine della tua TIFF incorporando perfettamente gli sfondi utilizzando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API. Che tu stia cercando di aggiungere profondità, contesto o interesse visivo alle tue immagini, questo versatile strumento ti consente di farlo senza sforzo. Con l'API Aspose.Drawing, l'aggiunta di sfondi alle immagini TIFF è intuitiva ed efficiente. Utilizza C# per disegnare sfondi sulle tue immagini, sfruttando la classe Bitmap e le funzionalità di disegno della grafica raster per risultati precisi e personalizzati. Sperimenta la flessibilità e la potenza di aggiungere sfondi alle immagini TIFF con la Aspose.Drawing e migliora i tuoi progetti di editing delle immagini senza sforzo. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.</p>
+Sblocca nuove possibilità creative per i file di immagine della tua TIFF incorporEo perfettamente gli sfondi utilizzEo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API. Che tu stia cercEo di aggiungere profondità, contesto o interesse visivo alle tue immagini, questo versatile strumento ti consente di farlo senza sforzo. Con l'API Aspose.Drawing, l'aggiunta di sfondi alle immagini TIFF è intuitiva ed efficiente. Utilizza C# per disegnare sfondi sulle tue immagini, sfruttEo la classe Bitmap e le funzionalità di disegno della grafica raster per risultati precisi e personalizzati. Sperimenta la flessibilità e la potenza di aggiungere sfondi alle immagini TIFF con la Aspose.Drawing e migliora i tuoi progetti di editing delle immagini senza sforzo. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comEo dalla Console di gestione pacchetti.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="ComEo della console di Gestione pacchetti" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,7 +36,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un oggetto bitmap dal file immagine TIFF utilizzando la classe `Bitmap`.
++ Crea un oggetto bitmap dal file immagine TIFF utilizzEo la classe `Bitmap`.
 + Definisci i colori desiderati per lo sfondo.
 + Imposta il colore dei pixel della bitmap con il metodo `SetPixel()`.
 + Salva la bitmap modificata nel formato immagine TIFF.
@@ -68,16 +68,16 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Drawing per l'API .NET" %}}
 
-Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformando facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET Standard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
+Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformEo facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET StEard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
 
-Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportando un'ampia gamma di formati di file grafici comunemente utilizzati.
+Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportEo un'ampia gamma di formati di file grafici comunemente utilizzati.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Elabora TIFF tramite l'app online gratuita" sectionDescription="Crea immagini TIFF e aggiungi testo alle immagini visitando il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Elabora TIFF tramite l'app online gratuita" sectionDescription="Crea immagini TIFF e aggiungi testo alle immagini visitEo il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non è necessario scrivere alcun codice" >}}

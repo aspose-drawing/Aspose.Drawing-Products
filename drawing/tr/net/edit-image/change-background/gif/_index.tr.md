@@ -7,7 +7,7 @@ keywords: change image background, change GIF background, change background via 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C# Aracılığıyla GIF Görüntüsünün Arka Planını Değiştirme" h2="GIF Görüntülerini Yeniden Canlandırın: .NET Çizim API'si ile Arka Planları Değiştirme" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C# Aracılığıyla GIF Görüntüsünün Arka Planını Değiştirme" h2="GIF Görüntülerini Yeniden CanlVeırın: .NET Çizim API'si ile Arka Planları Değiştirme" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET için" >}}
 
@@ -15,7 +15,7 @@ keywords: change image background, change GIF background, change background via 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak GIF Görüntü Dosyasının Arka Planını Değiştirme" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-kullanarak GIF görüntü dosyalarınızın arka planlarını değiştirirken dönüşümün gücünü keşfedin. <a href="https://products.aspose.com/drawing/net">.NET için Aspose.Drawing</a> API'dir. İster görsellerinizin estetik çekiciliğini yenilemek ister tutarlı bir arka planla birleştirmek isteyin, bu çok yönlü araç bunu kusursuz bir şekilde yapmanın yollarını sağlar. Aspose.Drawing kitaplığıyla, GIF dosyalarının görüntü arka planlarını C# aracılığıyla değiştirmek basit bir süreç haline gelir. Bitmap sınıfı ve taramalı grafik çizim işlevlerinden yararlanarak arka planları hassas ve verimli bir şekilde düzenlemek için bu 2B grafik aracının yeteneklerinden yararlanın. Arka planda düzenleme için .NET Çizim API'sinin esnekliğini ve verimliliğini deneyimleyin ve GIF görüntü dosyalarınızı görsel mükemmellikte yeni boyutlara yükseltin. Açık <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paket yöneticisini arayın ve <b>Aspose.Drawing</b> ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
+kullanarak GIF görüntü dosyalarınızın arka planlarını değiştirirken dönüşümün gücünü keşfedin. <a href="https://products.aspose.com/drawing/net">.NET için Aspose.Drawing</a> API'dir. İster görsellerinizin estetik çekiciliğini yenilemek ister tutarlı bir arka planla birleştirmek isteyin, bu çok yönlü araç bunu kusursuz bir şekilde yapmanın yollarını sağlar. Aspose.Drawing kitaplığıyla, GIF dosyalarının görüntü arka planlarını C# aracılığıyla değiştirmek basit bir süreç haline gelir. Bitmap sınıfı ve taramalı grafik çizim işlevlerinden yararlanarak arka planları hassas ve verimli bir şekilde düzenlemek için bu 2B grafik aracının yeteneklerinden yararlanın. Arka plVea düzenleme için .NET Çizim API'sinin esnekliğini ve verimliliğini deneyimleyin ve GIF görüntü dosyalarınızı görsel mükemmellikte yeni boyutlara yükseltin. Açık <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paket yöneticisini arayın ve <b>Aspose.Drawing</b> ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
 
 {{% blocks/products/pf/agp/code-block title="Paket Yönetici Konsolu Komutu" offSpacer="true" %}}
 ```cs
@@ -68,7 +68,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 
 {{% blocks/products/pf/agp/content h2=".NET API için Aspose.Drawing hakkında" %}}
 
-Tam olarak yönetilen, platformlar arası bir 2D grafik kitaplığı olan Aspose.Drawing, metin, geometri ve görüntü çizmede uzmandır. System.Drawing uyumlu bir API sunarak, System.Drawing'e dayanan mevcut kodunuzu zahmetsizce gerçek bir platformlar arası çözüme dönüştürür. .NET Standard 2.0'a göre geliştirilen Aspose.Drawing, web, mobil, masaüstü, bulut ve IoT senaryolarında uygulama alanı bulur.
+Tam olarak yönetilen, platformlar arası bir 2D grafik kitaplığı olan Aspose.Drawing, metin, geometri ve görüntü çizmede uzmVeır. System.Drawing uyumlu bir API sunarak, System.Drawing'e dayanan mevcut kodunuzu zahmetsizce gerçek bir platformlar arası çözüme dönüştürür. .NET StVeard 2.0'a göre geliştirilen Aspose.Drawing, web, mobil, masaüstü, bulut ve IoT senaryolarında uygulama alanı bulur.
 
 Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipleri, boyutlar ve stillerdeki çeşitli metin öğelerinin yanı sıra çizgiler, eğriler ve şekiller de dahil olmak üzere vektör grafiklerini oluşturma olanağı sağlar. Bu işleme işlemi, taramalı görüntülerde sorunsuz bir şekilde gerçekleşir ve yaygın olarak kullanılan çok çeşitli grafik dosyası formatlarını destekler.
 
@@ -97,7 +97,7 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Yeniden Boyutlandırma Formatları" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Yeniden BoyutlVeırma Formatları" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/bmp/" name="BMP" description="Bitmap Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/gif/" name="GIF" description="Grafik Değişim Formatı" >}}

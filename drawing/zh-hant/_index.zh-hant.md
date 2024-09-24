@@ -6,7 +6,7 @@ description: 用於 2D 圖形繪製的高程式碼 API 和免費應用程式。�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="圖形處理解決方案" h2="用於 2D 圖形繪製的高程式碼 API 和免費應用程式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing產品解決方案" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="圖形處理解決方案" h2="用於 2D 圖形繪製的高程式碼 API 和免費應用程式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-br和.svg" imageAlt="Aspose.Drawing產品解決方案" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing 高程式碼 API 包括" >}}

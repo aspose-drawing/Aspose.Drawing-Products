@@ -15,9 +15,9 @@ keywords: ajouter du texte to image, ajouter du texte to JPEG, ajouter du texte 
 {{% blocks/products/pf/agp/content h2="Comment ajouter du texte au fichier image du JPEG dans le C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Donnez à vos images JPEG une touche professionnelle en incorporant du texte à l'aide de <a href="https://products.aspose.com/drawing/net">Aspose.Drawing pour .NET</a> API. Cet outil polyvalent vous permet d'ajouter en toute transparence du texte à vos images, que vous annotiez, étiquetiez ou filigraniez. Avec l'API Aspose.Drawing, vous pouvez facilement dessiner du texte sur des images JPEG à l'aide du C#. Utilisez la classe Bitmap et les capacités de dessin de graphiques raster pour obtenir des résultats précis et personnalisés. Découvrez la commodité et la flexibilité de l'ajout de texte aux images du JPEG avec l'API de dessin du .NET et élevez vos projets d'édition d'images vers de nouveaux sommets. Ouvrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestionnaire de paquets et recherchez <b>Aspose.Drawing</b> et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.</p>
+Donnez à vos images JPEG une touche professionnelle en incorporant du texte à l'aide de <a href="https://products.aspose.com/drawing/net">Aspose.Drawing pour .NET</a> API. Cet outil polyvalent vous permet d'ajouter en toute transparence du texte à vos images, que vous annotiez, étiquetiez ou filigraniez. Avec l'API Aspose.Drawing, vous pouvez facilement dessiner du texte sur des images JPEG à l'aide du C#. Utilisez la classe Bitmap et les capacités de dessin de graphiques raster pour obtenir des résultats précis et personnalisés. Découvrez la commodité et la flexibilité de l'ajout de texte aux images du JPEG avec l'API de dessin du .NET et élevez vos projets d'édition d'images vers de nouveaux sommets. Ouvrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestionnaire de paquets et recherchez <b>Aspose.Drawing</b> et installer. Vous pouvez également utiliser la commete suivante à partir de la console Package Manager.</p>
 
-{{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commete de la console du gestionnaire de packages" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -69,9 +69,9 @@ Aspose.Drawing pour .NET est pris en charge sur tous les principaux systèmes d'
 
 {{% blocks/products/pf/agp/content h2="À propos de l'API Aspose.Drawing pour .NET" %}}
 
-Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Standard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
+Aspose.Drawing, une bibliothèque graphique 2D multiplateforme entièrement gérée, excelle dans le dessin de texte, de géométries et d'images. Il offre une API compatible System.Drawing, transformant sans effort votre code existant qui repose sur le System.Drawing en une solution véritablement multiplateforme. Développé sur le .NET Stetard 2.0, le Aspose.Drawing trouve des applications dans les scénarios Web, mobiles, de bureau, cloud et IoT.
 
-Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et styles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
+Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des graphiques vectoriels, notamment des lignes, des courbes et des figures, ainsi que divers éléments de texte dans différentes polices, tailles et modèles. Ce processus de rendu s'effectue de manière transparente sur les images raster, prenant en charge un large éventail de formats de fichiers graphiques couramment utilisés.
 
 {{% /blocks/products/pf/agp/content %}}
 

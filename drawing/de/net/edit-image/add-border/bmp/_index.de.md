@@ -2,7 +2,7 @@
 title: Fügen Sie über .NET einen Rahmen zur BMP-Bilddatei hinzu
 weight: 20
 url: /de/net/edit-image/add-border/bmp/
-description: Fügen Sie über .NET einen Rand zur BMP-Bilddatei hinzu.
+description: Fügen Sie über .NET einen RUnd zur BMP-Bilddatei hinzu.
 keywords: add border to image, add border to BMP, add border via C#, 2D graphics, drawing API, edit bitmap C#, Drawing für .NET, save bitmap, save BMP image, cross-platform 2D graphic library, Bitmap class, raster graphics drawing, draw border, rendering raster images, BMP image file
 ---
 
@@ -15,7 +15,7 @@ keywords: add border to image, add border to BMP, add border via C#, 2D graphics
 {{% blocks/products/pf/agp/content h2="So fügen Sie mit C# einen Rahmen zur BMP-Bilddatei hinzu" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Verwandeln Sie Ihre BMP-Bilder ganz einfach, indem Sie mit Rahmen hinzufügen <a href="https://products.aspose.com/drawing/net">Aspose.Drawing für .NET</a> API. Diese plattformübergreifende 2D-Grafikbibliothek bietet leistungsstarke Tools zur nahtlosen Integration von Rändern in Ihre Bilder. Mit der Aspose.Drawing-API können Sie mit C# mühelos Rahmen um Ihre BMP-Bilder zeichnen. Nutzen Sie die Zeichenfunktionen der Bitmap-Klasse und der Rastergrafik, um Ergebnisse in professioneller Qualität zu erzielen. Unabhängig davon, ob Sie Rasterbilder rendern oder BMP-Dateien speichern, bietet die Zeichnungs-API die Flexibilität und Funktionalität, die Sie zur Verbesserung Ihrer visuellen Darstellungen benötigen. Erleben Sie den Komfort des Hinzufügens von Rändern zu BMP-Bildern mit der .NET-API und verbessern Sie noch heute Ihren Bildbearbeitungsprozess. Offen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paketmanager und suchen Sie nach <b>Aspose.Drawing</b> und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.</p>
+VerwUndeln Sie Ihre BMP-Bilder ganz einfach, indem Sie mit Rahmen hinzufügen <a href="https://products.aspose.com/drawing/net">Aspose.Drawing für .NET</a> API. Diese plattformübergreifende 2D-Grafikbibliothek bietet leistungsstarke Tools zur nahtlosen Integration von Rändern in Ihre Bilder. Mit der Aspose.Drawing-API können Sie mit C# mühelos Rahmen um Ihre BMP-Bilder zeichnen. Nutzen Sie die Zeichenfunktionen der Bitmap-Klasse und der Rastergrafik, um Ergebnisse in professioneller Qualität zu erzielen. Unabhängig davon, ob Sie Rasterbilder rendern oder BMP-Dateien speichern, bietet die Zeichnungs-API die Flexibilität und Funktionalität, die Sie zur Verbesserung Ihrer visuellen Darstellungen benötigen. Erleben Sie den Komfort des Hinzufügens von Rändern zu BMP-Bildern mit der .NET-API und verbessern Sie noch heute Ihren Bildbearbeitungsprozess. Offen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paketmanager und suchen Sie nach <b>Aspose.Drawing</b> und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.</p>
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 ```cs
@@ -38,7 +38,7 @@ Sie benötigen die [aspose.drawing.dll](https://downloads.aspose.com/drawing/net
 
 + Erstellen Sie ein Bitmap-Objekt aus einer BMP-Bilddatei mit der Klasse „Bitmap“.
 + Erstellen Sie ein Grafikobjekt mit der Methode „Graphics.FromImage()“.
-+ Zeichnen Sie einen Rand mit der Methode „DrawRectangle()“.
++ Zeichnen Sie einen RUnd mit der Methode „DrawRechteck()“.
 + Speichern Sie die erstellte Bitmap im BMP-Bildformat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ Aspose.Drawing für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% blocks/products/pf/agp/content h2="Über Aspose.Drawing für .NET API" %}}
 
-Aspose.Drawing, eine vollständig verwaltete, plattformübergreifende 2D-Grafikbibliothek, zeichnet sich durch das Zeichnen von Text, Geometrien und Bildern aus. Es bietet eine System.Drawing-kompatible API und verwandelt Ihren vorhandenen Code, der auf System.Drawing basiert, mühelos in eine wirklich plattformübergreifende Lösung. Aspose.Drawing wurde auf Grundlage von .NET Standard 2.0 entwickelt und findet Anwendung in Web-, Mobil-, Desktop-, Cloud- und IoT-Szenarien.
+Aspose.Drawing, eine vollständig verwaltete, plattformübergreifende 2D-Grafikbibliothek, zeichnet sich durch das Zeichnen von Text, Geometrien und Bildern aus. Es bietet eine System.Drawing-kompatible API und verwUndelt Ihren vorhUndenen Code, der auf System.Drawing basiert, mühelos in eine wirklich plattformübergreifende Lösung. Aspose.Drawing wurde auf Grundlage von .NET StUndard 2.0 entwickelt und findet Anwendung in Web-, Mobil-, Desktop-, Cloud- und IoT-Szenarien.
 
 Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vektorgrafiken, einschließlich Linien, Kurven und Figuren, sowie verschiedener Textelemente in verschiedenen Schriftarten, Größen und Stilen. Dieser Rendern-Prozess erfolgt nahtlos auf Rasterbildern und unterstützt eine Vielzahl häufig verwendeter Grafikdateiformate.
 

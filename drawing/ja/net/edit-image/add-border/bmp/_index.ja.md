@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + `Bitmap`クラスを使用して、BMP画像ファイルからビットマップオブジェクトを作成します。
 + `Graphics.FromImage()` メソッドを使用してグラフィックス オブジェクトを作成します。
-+ `DrawRectangle()` メソッドで境界線を描画します。
++ `Draw矩形()` メソッドで境界線を描画します。
 + 作成したビットマップを BMP 画像形式で保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ Aspose.Drawing および .NET は、すべての主要なオペレーティン�
 
 {{% blocks/products/pf/agp/content h2="Aspose.Drawing用.NET APIについて" %}}
 
-Aspose.Drawing は、フルマネージドのクロスプラットフォーム 2D グラフィック ライブラリであり、テキスト、ジオメトリ、画像の描画に優れています。 System.Drawing 互換 API を提供し、System.Drawing に依存する既存のコードを真のクロスプラットフォーム ソリューションに簡単に変換します。 .NET Standard 2.0 をベースに開発された Aspose.Drawing は、Web、モバイル、デスクトップ、クラウド、IoT のシナリオに応用できます。
+Aspose.Drawing は、フルマネージドのクロスプラットフォーム 2D グラフィック ライブラリであり、テキスト、ジオメトリ、画像の描画に優れています。 System.Drawing 互換 API を提供し、System.Drawing に依存する既存のコードを真のクロスプラットフォーム ソリューションに簡単に変換します。 .NET Stそしてard 2.0 をベースに開発された Aspose.Drawing は、Web、モバイル、デスクトップ、クラウド、IoT のシナリオに応用できます。
 
 Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線、図形などのベクター グラフィックスを、さまざまなフォント、サイズ、スタイルの多様なテキスト要素とともにレンダリングできます。このレンダリング プロセスはラスター イメージ上でシームレスに実行され、一般的に使用されるさまざまなグラフィック ファイル形式をサポートします。
 

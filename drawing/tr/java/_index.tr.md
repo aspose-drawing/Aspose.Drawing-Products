@@ -3,7 +3,7 @@ title: Java için Aspose.Drawing | Platformlar Arası Grafik Kütüphanesi
 weight: 20
 url: /tr/java/ 
 description: Metin, eğri, çizgi, şekil ve görsel çizmek için Java grafik kütüphanesi.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing eğriler, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Vektör Grafikleri Çizin
     </h2>
     <p>
-     Java için Aspose.Drawing, yaylar, Kardinal Spline, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. örneğin burada yay çizmenin kodu var.
+     Java için Aspose.Drawing, yaylar, Kardinal Kamalı çizgi, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. örneğin burada yay çizmenin kodu var.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Ark Çizimi - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-AstarsEğrisShapes-DrawYay-DrawYay.java" >}}
     </div>
    </div>
   </div>

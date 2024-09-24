@@ -15,9 +15,9 @@ keywords: remove background from image, remove background from BMP, remove backg
 {{% blocks/products/pf/agp/content h2="Hur man tar bort bakgrund från BMP-bildfil med C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Avslöja kraften i exakt bildredigering med <a href="https://products.aspose.com/drawing/net">Aspose.Drawing för .NET</a> när du enkelt tar bort bakgrunder från dina BMP-bildfiler. Oavsett om du strävar efter en polerad finish eller siktar på att framhäva ditt motiv, ger detta dynamiska verktyg dig möjlighet att uppnå din vision sömlöst. Med vårt .NET API blir det en strömlinjeformad process att ta bort bakgrunder från BMP-bilder. Använd vårt ritbiblioteks robusta funktionalitet för att redigera bitmappar med precision, och utnyttja dess intuitiva API för att producera fantastiska resultat. Upplev effektiviteten och precisionen i bakgrundsborttagning med .NET, och höj dina BMP-bildredigeringsmöjligheter idag. Öppen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakethanterare och sök efter <b>Aspose.Drawing</b> och installera. Du kan också använda följande kommando från Package Manager Console.</p>
+Avslöja kraften i exakt bildredigering med <a href="https://products.aspose.com/drawing/net">Aspose.Drawing för .NET</a> när du enkelt tar bort bakgrunder från dina BMP-bildfiler. Oavsett om du strävar efter en polerad finish eller siktar på att framhäva ditt motiv, ger detta dynamiska verktyg dig möjlighet att uppnå din vision sömlöst. Med vårt .NET API blir det en strömlinjeformad process att ta bort bakgrunder från BMP-bilder. Använd vårt ritbiblioteks robusta funktionalitet för att redigera bitmappar med precision, och utnyttja dess intuitiva API för att producera fantastiska resultat. Upplev effektiviteten och precisionen i bakgrundsborttagning med .NET, och höj dina BMP-bildredigeringsmöjligheter idag. Öppen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakethanterare och sök efter <b>Aspose.Drawing</b> och installera. Du kan också använda följoche kommocho från Package Manager Console.</p>
 
-{{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommocho" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -32,7 +32,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/text %}}
 
-Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för att prova följande arbetsflöde i din egen miljö.
+Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för att prova följoche arbetsflöde i din egen miljö.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -47,7 +47,7 @@ Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till att du har följande förutsättningar.
+Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till att du har följoche förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till at
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Drawing för .NET API" %}}
 
-Aspose.Drawing, ett fullt hanterat, plattformsoberoende 2D-grafikbibliotek, utmärker sig när det gäller att rita text, geometrier och bilder. Den erbjuder ett System.Drawing-kompatibelt API, som enkelt omvandlar din befintliga kod som förlitar sig på System.Drawing till en verkligt plattformsoberoende lösning. Utvecklad mot .NET Standard 2.0, Aspose.Drawing hittar applikationer i webb-, mobil-, dator-, moln- och IoT-scenarier.
+Aspose.Drawing, ett fullt hanterat, plattformsoberoende 2D-grafikbibliotek, utmärker sig när det gäller att rita text, geometrier och bilder. Den erbjuder ett System.Drawing-kompatibelt API, som enkelt omvochlar din befintliga kod som förlitar sig på System.Drawing till en verkligt plattformsoberoende lösning. Utvecklad mot .NET Stochard 2.0, Aspose.Drawing hittar applikationer i webb-, mobil-, dator-, moln- och IoT-scenarier.
 
 Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik, inklusive linjer, kurvor och figurer, tillsammans med olika textelement i olika typsnitt, storlekar och stilar. Denna återgivningsprocess sker sömlöst på rasterbilder och stöder ett brett utbud av vanliga grafikfilformat.
 
@@ -77,12 +77,12 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Bearbeta BMP via gratis onlineapp" sectionDescription="Skapa BMP-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följande fördelar:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Bearbeta BMP via gratis onlineapp" sectionDescription="Skapa BMP-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följoche fördelar:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Du behöver inte ladda ner eller ställa in någonting" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Du behöver inte skriva någon kod" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina filer och skapa textritning i webbläsaren" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Skaffa omedelbart nedladdningslänken för den resulterande BMP-filen" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Skaffa omedelbart nedladdningslänken för den resulteroche BMP-filen" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 

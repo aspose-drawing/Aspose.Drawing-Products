@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing لـ .NET | استبدال System.Drawing.Common عبر الأنظمة الأساسية 
 weight: 20
-url: /ar/net/ 
+url: /ar/net/
 description: مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 ---
 
@@ -128,7 +128,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="يدعم Aspose.Drawing لـ .NET الإصدار 2.0 من .NET Framework أو .NET Standard 2.0 أو الأحدث." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="يدعم Aspose.Drawing لـ .NET الإصدار 2.0 من .NET Framework أو .NET Stوard 2.0 أو الأحدث." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     رسم الخطوط والمنحنيات والخطوط والأقواس
+    <a href="lines/">رسم خطوط, </a>
+    <a href="curves/">منحنيات, </a>
+    <a href="spline/">الخطوط, </a>
+    <a href="arcs/">أقواس, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ارسم أشكالًا مثل المستطيل والمضلع والقطع الناقص وما إلى ذلك
+رسم الأشكال مثل 
+    <a href="rectangle/">المستطيل، </a>
+    <a href="polygon/">مضلع, </a>
+    <a href="ellipse/">القطع الناقص، </a>
+      إلخ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     معالجة ورسم مسارات الرسومات
+     عملية ورسم 
+<a href="paths/">مسارات الرسومات, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     عرض النص بخطوط وأنماط مختلفة
+<a href="renderText/">عرض النص بخطوط وأنماط مختلفة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استخدم عروض وأنماط مختلفة للقلم
+استخدم قلمًا مختلفًا 
+<a href="pen/widths/">الاعراض, </a>
+      و 
+<a href="pen/الأنماط/">الأنماط</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استخدم الفرش الصلبة والملمس والتدرج والفقس
+     يستخدم 
+<a href="brush/solid/">صلب، </a>
+نَسِيج، 
+<a href="brush/gradient/">التدرج, </a> 
+وفرش يفقس
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     يدعم مزج ألفا ومكافحة التعرج
+     يدعم 
+<a href="alphaBlending/">مزج ألفا </a>
+و 
+<a href="antiAliasing/">مكافحة التعرج</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     العمل مع مناطق المقطع
+<a href="clipping/">العمل مع مناطق المقطع</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استخدم تحويلات نظام الإحداثيات
+     استخدام نظام الإحداثيات 
+<a href="التحولات/matrix/">التحولات</a>
+
     </p>
    </div>
    
@@ -324,7 +344,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
      رسم الرسومات المتجهة
     </h2>
     <p>
-     يسمح Aspose.Drawing لـ .NET برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal Spline، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
+     يسمح Aspose.Drawing لـ .NET برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal خدد، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
     </p>
     <div class="codeblock" id="code">
      <h3>

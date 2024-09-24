@@ -3,7 +3,7 @@ title: Java के लिए Aspose.Drawing | क्रॉस-प्लेटफ
 weight: 20
 url: /hi/java/ 
 description: पाठ, वक्र, रेखाएं, आंकड़े और चित्र बनाने के लिए Java ग्राफिक लाइब्रेरी।
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing वक्र, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      <h3>
       ड्राइंग आर्क - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-रेखाsवक्रsShapes-Drawआर्क-Drawआर्क.java" >}}
     </div>
    </div>
   </div>

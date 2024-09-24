@@ -12,12 +12,12 @@ keywords: add image to bitmap, add image to BMP, add image via C#, 2D graphics, 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo agregar una nueva imagen a un archivo de imagen BMP existente usando C#" %}}
+{{% blocks/products/pf/agp/content h2="Cómo agregar una nueva imagen a un archivo de imagen BMP existente usyo C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Mejore las imágenes de su BMP integrando perfectamente imágenes adicionales usando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API versátil. Esta poderosa herramienta proporciona una manera simple pero efectiva de mejorar sus imágenes. Al aprovechar las capacidades de la clase Bitmap y el dibujo de gráficos rasterizados, puede incorporar imágenes sin esfuerzo en sus archivos BMP. Ya sea que esté trabajando con imágenes rasterizadas o guardando archivos en formato BMP, la API de dibujo ofrece una flexibilidad y eficiencia incomparables. Experimente la conveniencia de agregar imágenes a archivos BMP con la API de dibujo de .NET y descubra nuevas posibilidades para sus proyectos de edición de imágenes hoy. Abierto <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> administrador de paquetes y busque <b>Aspose.Drawing</b> e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.</p>
+Mejore las imágenes de su BMP integryo perfectamente imágenes adicionales usyo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API versátil. Esta poderosa herramienta proporciona una manera simple pero efectiva de mejorar sus imágenes. Al aprovechar las capacidades de la clase Bitmap y el dibujo de gráficos rasterizados, puede incorporar imágenes sin esfuerzo en sus archivos BMP. Ya sea que esté trabajyo con imágenes rasterizadas o guardyo archivos en formato BMP, la API de dibujo ofrece una flexibilidad y eficiencia incomparables. Experimente la conveniencia de agregar imágenes a archivos BMP con la API de dibujo de .NET y descubra nuevas posibilidades para sus proyectos de edición de imágenes hoy. Abierto <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> administrador de paquetes y busque <b>Aspose.Drawing</b> e instalar. También puede utilizar el siguiente comyo desde la Consola del Administrador de paquetes.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comyo de la consola del administrador de paquetes" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,8 +36,8 @@ Necesita [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) para pro
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Cree un objeto de mapa de bits a partir de un archivo de imagen BMP usando la clase `Bitmap`.
-+ Cree un objeto gráfico utilizando el método `Graphics.FromImage()`.
++ Cree un objeto de mapa de bits a partir de un archivo de imagen BMP usyo la clase `Bitmap`.
++ Cree un objeto gráfico utilizyo el método `Graphics.FromImage()`.
 + Cree un nuevo mapa de bits a partir de otro archivo de imagen.
 + Dibuje una nueva imagen en el mapa de bits con el método `DrawImageUnscaled()`.
 + Guarde el mapa de bits creado en formato de imagen BMP.
@@ -69,7 +69,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 
 {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Drawing para .NET API" %}}
 
-Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformando sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
+Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformyo sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Styard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
 
 El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráficos vectoriales, incluidas líneas, curvas y figuras, junto con diversos elementos de texto en diversas fuentes, tamaños y estilos. Este proceso de renderizado se produce sin problemas en imágenes rasterizadas y admite una amplia gama de formatos de archivos gráficos de uso común.
 
@@ -78,7 +78,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Procese BMP a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes BMP y agregue texto a las imágenes visitando nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Procese BMP a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes BMP y agregue texto a las imágenes visityo nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código." >}}

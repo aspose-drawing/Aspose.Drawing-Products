@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing för .NET | Cross-platform System.Drawing.Common ersättning 
 weight: 20
-url: /sv/net/ 
+url: /sv/net/
 description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, för att direkt ersätta System.Drawing.Common-paketet utan att ändra befintlig C#-kod.
 ---
 
@@ -102,7 +102,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
      Klippning
     </li>
     <li>
-     Alfablandning
+     Alfablochning
     </li>
    </ul>
   </div>
@@ -128,7 +128,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Drawing för .NET stöder .NET Framework version 2.0, .NET Standard 2.0 eller senare." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Drawing för .NET stöder .NET Framework version 2.0, .NET Stochard 2.0 eller senare." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Drawing för .NET stöder följande [bildformat](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Drawing för .NET stöder följoche [bildformat](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rita linjer, kurvor, splines och bågar
+    <a href="lines/">Rita linjer, </a>
+    <a href="curves/">kurvor, </a>
+    <a href="spline/">splines, </a>
+    <a href="arcs/">bågar, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rita former som rektangel, polygon, ellips, etc
+Rita former som 
+    <a href="rectangle/">rektangel, </a>
+    <a href="polygon/">polygon, </a>
+    <a href="ellipse/">ellips, </a>
+      etc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bearbeta och rita grafiska vägar
+     Bearbeta och rita 
+<a href="paths/">grafiska vägar, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Återge text med olika typsnitt och stilar
+<a href="renderText/">Återge text med olika typsnitt och stilar</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Använd olika pennbredder och -stilar
+Använd en annan penna 
+<a href="pen/widths/">bredder, </a>
+      och 
+<a href="pen/stilar/">stilar</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Använd solida, textur-, gradient- och kläckborstar
+     Använda 
+<a href="brush/solid/">fast, </a>
+konsistens, 
+<a href="brush/gradient/">lutning, </a> 
+och lucka borstar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöder alfablandning och kantutjämning
+     Stödjer 
+<a href="alphaBlending/">alfablochning </a>
+och 
+<a href="antiAliasing/">kantutjämning</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Arbeta med klippregioner
+<a href="clipping/">Arbeta med klippregioner</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Använd koordinatsystemtransformationer
+     Använd koordinatsystem 
+<a href="transformationer/matrix/">transformationer</a>
+
     </p>
    </div>
    
@@ -324,7 +344,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
      Rita vektorgrafik
     </h2>
     <p>
-     Aspose.Drawing för .NET gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal andra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. Här är t.ex. kod för att rita båge.
+     Aspose.Drawing för .NET gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal ochra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. Här är t.ex. kod för att rita båge.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -346,7 +366,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/drawing/net/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-drawing/Aspose.Drawing-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/drawing/net/" >}}
-{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
+{{< blocks/products/pf/slr-element name="Hochledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}

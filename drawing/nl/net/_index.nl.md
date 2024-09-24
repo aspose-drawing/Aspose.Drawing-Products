@@ -1,8 +1,8 @@
 ---
 title: Aspose.Drawing voor .NET | Platformonafhankelijke System.Drawing.Common-vervanging 
 weight: 20
-url: /nl/net/ 
-description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
+url: /nl/net/
+description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaEne C#-code te wijzigen.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -14,7 +14,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Het Aspose.Drawing-pakket kan worden gebruikt om de System.Drawing.Common-pakketreferentie in uw project direct te vervangen - al uw bestaande code met behulp van de System.Drawing API blijft werken, maar nu op elk door .NET ondersteund platform. De tekenbibliotheek ondersteunt het renderen van vectorafbeeldingen zoals lijnen, curven en figuren, evenals tekst in verschillende lettertypen, formaten en stijlen op rasterafbeeldingen. Afbeeldingen kunnen worden opgeslagen in alle gangbare grafische formaten, waaronder BMP, PNG, JPEG, GIF en TIFF. Aspose.Drawing is een pure .NET-bibliotheek en is niet afhankelijk van een externe native rendering-engine.
+ Het Aspose.Drawing-pakket kan worden gebruikt om de System.Drawing.Common-pakketreferentie in uw project direct te vervangen - al uw bestaEne code met behulp van de System.Drawing API blijft werken, maar nu op elk door .NET ondersteund platform. De tekenbibliotheek ondersteunt het renderen van vectorafbeeldingen zoals lijnen, curven en figuren, evenals tekst in verschillende lettertypen, formaten en stijlen op rasterafbeeldingen. Afbeeldingen kunnen worden opgeslagen in alle gangbare grafische formaten, waaronder BMP, PNG, JPEG, GIF en TIFF. Aspose.Drawing is een pure .NET-bibliotheek en is niet afhankelijk van een externe native rendering-engine.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -128,7 +128,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Drawing voor .NET ondersteunt .NET Framework versie 2.0, .NET Standard 2.0 of hoger." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Drawing voor .NET ondersteunt .NET Framework versie 2.0, .NET StEnard 2.0 of hoger." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -169,7 +169,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description="Aspose.Drawing voor .NET ondersteunt de volgende [afbeeldingsindelingen] (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestEnsformaten" description="Aspose.Drawing voor .NET ondersteunt de volgende [afbeeldingsindelingen] (https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -245,77 +245,97 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10"><a href="create/">Maak vanaf het begin bitmaps</a>
-     of bestaande bestanden laden
+     of bestaEne bestEnen laden
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="edit-image/">Bewerk afbeelding</a>, afbeelding toevoegen, rand toevoegen, tekst toevoegen, achtergrond wijzigen of verwijderen
+     <a href="edit-image/">Bewerk afbeelding</a>, afbeelding toevoegen, rEn toevoegen, tekst toevoegen, achtergrond wijzigen of verwijderen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Teken lijnen, curven, splines en bogen
+    <a href="lines/">Teken lijnen, </a>
+    <a href="curves/">rondingen, </a>
+    <a href="spline/">spieën, </a>
+    <a href="arcs/">bogen, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Teken vormen zoals rechthoek, veelhoek, ellips, enz
+Teken vormen zoals 
+    <a href="rectangle/">rechthoek, </a>
+    <a href="polygon/">veelhoek, </a>
+    <a href="ellipse/">ellips, </a>
+      enz
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verwerk en teken grafische paden
+     Verwerken en tekenen 
+<a href="paths/">grafische paden, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geef tekst weer met verschillende lettertypen en stijlen
+<a href="renderText/">Geef tekst weer met verschillende lettertypen en stijlen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gebruik verschillende penbreedtes en -stijlen
+Gebruik een Enere pen 
+<a href="pen/widths/">breedtes, </a>
+      En 
+<a href="pen/stijlen/">stijlen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gebruik vaste penselen, textuur-, verloop- en arceerpenselen
+     Gebruik 
+<a href="brush/solid/">stevig, </a>
+textuur, 
+<a href="brush/gradient/">gradiënt, </a> 
+en broedborstels
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteunt alpha-blending en anti-aliasing
+     Ondersteunt 
+<a href="alphaBlending/">alfa-menging </a>
+En 
+<a href="antiAliasing/">anti-aliasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Werken met clipgebieden
+<a href="clipping/">Werken met clipgebieden</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gebruik coördinatensysteemtransformaties
+     Gebruik het coördinatensysteem 
+<a href="transformaties/matrix/">transformaties</a>
+
     </p>
    </div>
    
@@ -324,7 +344,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
      Teken vectorafbeeldingen
     </h2>
     <p>
-     Met Aspose.Drawing voor .NET kunt u verschillende vectorafbeeldingen tekenen, zoals bogen, kardinale spline, Bezier-spline, ellipsen, gesloten curven, lijnen en een aantal andere typen. Er waren slechts enkele regels code nodig om verschillende soorten vectorafbeeldingen te tekenen met behulp van de API. Hier is bijvoorbeeld code voor het tekenen van een boog.
+     Met Aspose.Drawing voor .NET kunt u verschillende vectorafbeeldingen tekenen, zoals bogen, kardinale spline, Bezier-spline, ellipsen, gesloten curven, lijnen en een aantal Enere typen. Er waren slechts enkele regels code nodig om verschillende soorten vectorafbeeldingen te tekenen met behulp van de API. Hier is bijvoorbeeld code voor het tekenen van een boog.
     </p>
     <div class="codeblock" id="code">
      <h3>

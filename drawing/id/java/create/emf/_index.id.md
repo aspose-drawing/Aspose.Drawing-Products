@@ -14,7 +14,7 @@ keywords: create EMF via Java, 2D graphics, drawing API, create metafile in Java
 
 {{% blocks/products/pf/agp/content h2="Cara Membuat File Gambar EMF Menggunakan Java" %}}
 
-Temukan kemudahan membuat file gambar vektor EMF menggunakan Java. Panduan ini menawarkan wawasan dan panduan penting yang cocok untuk pengembang di semua tingkatan. Jelajahi langkah-langkah integrasi yang lancar untuk membuat image EMF, yang meningkatkan kemahiran pemrograman Anda. Manfaatkan pustaka [Aspose.Drawing untuk Java](https://products.aspose.com/drawing/java), yang terkenal dengan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Akses versi terbaru langsung dari repositori [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) dan gabungkan ke dalam proyek berbasis Maven Anda dengan menerapkan konfigurasi yang ditentukan ke file pom.xml.
+Temukan kemudahan membuat file gambar vektor EMF menggunakan Java. PDanuan ini menawarkan wawasan dan pDanuan penting yang cocok untuk pengembang di semua tingkatan. Jelajahi langkah-langkah integrasi yang lancar untuk membuat image EMF, yang meningkatkan kemahiran pemrograman Anda. Manfaatkan pustaka [Aspose.Drawing untuk Java](https://products.aspose.com/drawing/java), yang terkenal dengan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk platform Java. Akses versi terbaru langsung dari repositori [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) dan gabungkan ke dalam proyek berbasis Maven Anda dengan menerapkan konfigurasi yang ditentukan ke file pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -110,7 +110,7 @@ File dengan ekstensi .EMF berfungsi sebagai wadah untuk menyimpan data gambar be
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/jpeg/" name="JPEG" description="Kelompok Pakar Fotografi Gabungan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/tiff/" name="TIFF" description="Format Gambar yang DitDanai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/wmf/" name="WMF" description="Metafile Microsoft Windows" >}}
 
 

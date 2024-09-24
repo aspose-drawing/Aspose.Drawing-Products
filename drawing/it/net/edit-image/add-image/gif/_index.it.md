@@ -12,12 +12,12 @@ keywords: add image to bitmap, add image to GIF, add image via C#, 2D graphics, 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Come aggiungere una nuova immagine a un file immagine GIF esistente utilizzando C#" %}}
+{{% blocks/products/pf/agp/content h2="Come aggiungere una nuova immagine a un file immagine GIF esistente utilizzEo C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Migliora le tue immagini GIF integrando perfettamente immagini aggiuntive utilizzando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API versatile. Questo potente strumento fornisce un modo semplice ma efficace per migliorare le tue immagini. Sfruttando le funzionalità della classe Bitmap e del disegno grafico raster, puoi incorporare facilmente immagini nei tuoi file GIF. Che tu stia lavorando con immagini raster o salvando file nel formato GIF, l'API di disegno offre flessibilità ed efficienza senza precedenti. Prova la comodità di aggiungere immagini ai file GIF con l'API di disegno di .NET e sblocca oggi stesso nuove possibilità per i tuoi progetti di modifica delle immagini. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.</p>
+Migliora le tue immagini GIF integrEo perfettamente immagini aggiuntive utilizzEo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API versatile. Questo potente strumento fornisce un modo semplice ma efficace per migliorare le tue immagini. SfruttEo le funzionalità della classe Bitmap e del disegno grafico raster, puoi incorporare facilmente immagini nei tuoi file GIF. Che tu stia lavorEo con immagini raster o salvEo file nel formato GIF, l'API di disegno offre flessibilità ed efficienza senza precedenti. Prova la comodità di aggiungere immagini ai file GIF con l'API di disegno di .NET e sblocca oggi stesso nuove possibilità per i tuoi progetti di modifica delle immagini. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comEo dalla Console di gestione pacchetti.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="ComEo della console di Gestione pacchetti" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,8 +36,8 @@ PM> Install-Package Aspose.Drawing
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un oggetto bitmap dal file immagine GIF utilizzando la classe "Bitmap".
-+ Crea un oggetto grafico utilizzando il metodo `Graphics.FromImage()`.
++ Crea un oggetto bitmap dal file immagine GIF utilizzEo la classe "Bitmap".
++ Crea un oggetto grafico utilizzEo il metodo `Graphics.FromImage()`.
 + Crea una nuova bitmap da un altro file immagine.
 + Disegna una nuova immagine sulla bitmap con il metodo `DrawImageUnscaled()`.
 + Salva la bitmap creata nel formato immagine GIF.
@@ -69,16 +69,16 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Drawing per l'API .NET" %}}
 
-Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformando facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET Standard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
+Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformEo facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET StEard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
 
-Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportando un'ampia gamma di formati di file grafici comunemente utilizzati.
+Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportEo un'ampia gamma di formati di file grafici comunemente utilizzati.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Elabora GIF tramite l'app online gratuita" sectionDescription="Crea immagini GIF e aggiungi testo alle immagini visitando il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Elabora GIF tramite l'app online gratuita" sectionDescription="Crea immagini GIF e aggiungi testo alle immagini visitEo il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non è necessario scrivere alcun codice" >}}

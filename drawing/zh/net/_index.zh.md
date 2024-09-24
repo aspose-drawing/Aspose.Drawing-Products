@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing 换 .NET |跨平台 System.Drawing.Common 替代品 
 weight: 20
-url: /zh/net/ 
+url: /zh/net/
 description: .NET图形库，用于绘制文本、几何图形和图像，可直接替换System.Drawing.Common软件包，无需更改现有C#代码。
 ---
 
@@ -128,7 +128,7 @@ description: .NET图形库，用于绘制文本、几何图形和图像，可直
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Drawing 换 .NET 支持 .NET Framework 版本 2.0、.NET Standard 2.0 或更高版本。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Drawing 换 .NET 支持 .NET Framework 版本 2.0、.NET St和ard 2.0 或更高版本。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: .NET图形库，用于绘制文本、几何图形和图像，可直
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     绘制直线、曲线、样条曲线和圆弧
+    <a href="lines/">画线， </a>
+    <a href="curves/">曲线， </a>
+    <a href="spline/">样条曲线， </a>
+    <a href="arcs/">弧线， </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     绘制矩形、多边形、椭圆形等形状
+绘制形状如 
+    <a href="rectangle/">长方形， </a>
+    <a href="polygon/">多边形, </a>
+    <a href="ellipse/">椭圆， </a>
+      ETC
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     处理和绘制图形路径
+     加工与绘制 
+<a href="paths/">图形路径， </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用不同的字体和样式渲染文本
+<a href="renderText/">使用不同的字体和样式渲染文本</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用不同的笔宽度和样式
+使用不同的笔 
+<a href="pen/widths/">宽度， </a>
+      和 
+<a href="pen/风格/">风格</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用实体、纹理、渐变和剖面线画笔
+     使用 
+<a href="brush/solid/">坚硬的， </a>
+质地， 
+<a href="brush/gradient/">坡度， </a> 
+和孵化刷
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     支持 Alpha 混合和抗锯齿
+     支持 
+<a href="alphaBlending/">阿尔法混合 </a>
+和 
+<a href="antiAliasing/">抗锯齿</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用剪辑区域
+<a href="clipping/">使用剪辑区域</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用坐标系变换
+     使用坐标系 
+<a href="转变/matrix/">转变</a>
+
     </p>
    </div>
    

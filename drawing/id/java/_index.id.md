@@ -3,7 +3,7 @@ title: Aspose.Drawing untuk Java | Perpustakaan Grafis Lintas Platform
 weight: 20
 url: /id/java/ 
 description: Pustaka grafis Java untuk menggambar teks, kurva, garis, gambar, dan gambar.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing kurva, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h2>
 
    <p align='justify'>
-   Memperkenalkan Aspose.Drawing untuk Java, perpustakaan gambar canggih yang memberdayakan pengembang untuk mencapai keunggulan grafis tak tertandingi dalam aplikasi mereka.
+   Memperkenalkan Aspose.Drawing untuk Java, perpustakaan gambar canggih yang memberdayakan pengembang untuk mencapai keunggulan grafis tak tertDaningi dalam aplikasi mereka.
    </p>
 </div>
 
@@ -214,7 +214,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Drawing untuk Java mendukung JDK 1.8 ke atas." >}}
+{{< blocks/products/pf/carousel-item h3="KemDanirian Platform" description="Aspose.Drawing untuk Java mendukung JDK 1.8 ke atas." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -382,7 +382,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mendukung pencampuran alfa dan anti-aliasing
+     Mendukung pencampuran alfa dan anti-alias
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Menggambar Grafik Vektor
     </h2>
     <p>
-     Aspose.Drawing untuk Java memungkinkan menggambar grafik vektor yang berbeda seperti busur, Spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
+     Aspose.Drawing untuk Java memungkinkan menggambar grafik vektor yang berbeda seperti busur, spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Menggambar Busur - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-GarissMelengkungsShapes-DrawBusur-DrawBusur.java" >}}
     </div>
    </div>
   </div>

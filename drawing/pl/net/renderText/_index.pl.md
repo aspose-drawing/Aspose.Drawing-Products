@@ -1,0 +1,100 @@
+---
+title: Utwórz plik obrazu tekstowego za pomocą .NET
+weight: 20
+url: /pl/net/renderText/
+description: Utwórz plik obrazu tekstowego za pomocą .NET.
+Keywords: create Text via C#, 2D graphics, drawing API, create bitmap C#, Drawing dla .NET, save bitmap, save Text image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Text image file
+---
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu tekstowego za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania, korzystając z plików obrazów tekstowych" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla .NET" >}}
+
+
+{{% blocks/products/pf/agp/content h2="Jak utworzyć plik obrazu tekstowego za pomocą C#" %}}
+
+Odkryj prostotę tworzenia plików obrazów tekstowych za pomocą C#. Ten dokument zawiera istotne informacje i wskazówki, niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz. Dowiedz się, jak bezproblemowo włączyć tworzenie obrazów tekstowych do swoich projektów i udoskonalić swoje umiejętności programowania. Do tworzenia plików tekstowych użyjemy biblioteki [Aspose.Drawing dla .NET](https://products.aspose.com/drawing/net), która jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do rysowania grafiki 2D dla C# platforma. Otwórz menedżera pakietów [NuGeta] (https://www.nuget.org/packages/aspose.drawing), seKrzywah dla **Aspose.Drawing** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+
+{{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
+```cs
+PM> Install-Package Aspose.Drawing
+```
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kroki tworzenia tekstu za pomocą C#" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+Aby wypróbować następujący przepływ pracy we własnym środowisku, potrzebujesz pliku [aspose.drawing.dll](https://downloads.aspose.com/drawing/net).
+
+{{% /blocks/products/pf/agp/text %}}
+
++ Utwórz obiekt bitmapowy za pomocą klasy Bitmap.
++ Utwórz obiekt graficzny za pomocą metody Graphics.FromImage().
++ Utwórz pędzel do tekstu.
++ Utwórz pióro do rysowania.
++ Utwórz czcionkę i ustaw styl czcionki.
++ Utwórz ciąg tekstowy.
++ Utwórz prostokąt do dekoracji.
++ Narysuj elementy.
++ Zapisz utworzoną bitmapę w formacie obrazu png.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
+
+{{% blocks/products/pf/agp/text %}}
+
+Aspose.Drawing dla .NET jest obsługiwany we wszystkich głównych systemach operacyjnych. Upewnij się tylko, że spełniasz następujące wymagania wstępne.
+
+{{% /blocks/products/pf/agp/text %}}
+
+- Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, aplikacją Windows, aplikacją internetową ASP.NET.
+- Środowisko programistyczne, takie jak Microsoft Visual Studio.
+- Aspose.Drawing dla .NET, o którym mowa w Twoim projekcie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="Utwórz plik obrazu tekstowego — C#" offSpacer="" %}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-RenderText.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+
+<!-- aboutfile Starts -->
+
+{{% blocks/products/pf/agp/content h2="Informacje o Aspose.Drawing dla .NET API" %}}
+
+Aspose.Drawing, w pełni zarządzana, wieloplatformowa biblioteka graficzna 2D, doskonale radzi sobie z rysowaniem tekstu, geometrii i obrazów. Oferuje interfejs API zgodny z System.Drawing, bez wysiłku przekształcając istniejący kod oparty na System.Drawing w prawdziwie wieloplatformowe rozwiązanie. Opracowany na podstawie .NET StIard 2.0, Aspose.Drawing znajduje zastosowanie w scenariuszach internetowych, mobilnych, stacjonarnych, w chmurze i IoT.
+
+Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki wektorowej, w tym linii, krzywych i figur, wraz z różnorodnymi elementami tekstowymi przy użyciu różnych czcionek, rozmiarów i stylów. Ten proces renderowania przebiega płynnie na obrazach rastrowych i obsługuje szeroką gamę powszechnie używanych formatów plików graficznych.
+
+{{% /blocks/products/pf/agp/content %}}
+
+
+{{< blocks/products/pf/agp/about-file-section >}}
+
+{{< blocks/products/pf/agp/demobox sectionTitle="Przetwarzaj tekst za pomocą bezpłatnej aplikacji online" sectionDescription="Twórz obrazy tekstowe i dodawaj tekst do obrazów, odwiedzając naszą [stronę internetową z demonstracjami na żywo](https://products.aspose.app/drawing). Wersja demonstracyjna na żywo ma następujące zalety:" >}}
+
+{{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
+{{< blocks/products/pf/agp/democard icon="fa-edit" text="Nie trzeba pisać żadnego kodu" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki i utwórz rysunek tekstowy w przeglądarce internetowej" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania wynikowego pliku tekstowego" >}}
+
+{{< /blocks/products/pf/agp/demobox >}}
+
+{{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -34,7 +34,7 @@ Das Bearbeiten von Bildern in C# ist dank der Aspose.Drawing-Grafikbibliothek f�
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="add-border/">Rand hinzufügen</a>
+    <p class="col-lg-10"><a href="add-border/">RUnd hinzufügen</a>
     </p>
    </div>
    <div class="col-lg-4">

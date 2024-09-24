@@ -2,18 +2,18 @@
 title: Aggiungi bordo all'immagine tramite .NET
 weight: 20
 url: /it/net/edit-image/add-border/
-description: Aggiunta di bordi alle immagini utilizzando la libreria grafica Aspose.Drawing per .NET (C#)
+description: Aggiunta di bordi alle immagini utilizzEo la libreria grafica Aspose.Drawing per .NET (C#)
 keywords: add border in C#, add border to image, edit images in C#, edit bitmap, graphic library per .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aggiungi bordo all'immagine utilizzando C#" h2="Migliora le tue immagini: aggiungi bordi con la libreria grafica Aspose.Drawing per .NET " logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aggiungi bordo all'immagine utilizzEo C#" h2="Migliora le tue immagini: aggiungi bordi con la libreria grafica Aspose.Drawing per .NET " logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Aggiungi bordi con facilità nella C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Aggiungi bordi alle tue immagini senza sforzo con la libreria grafica Aspose.Drawing per .NET. Questo potente strumento ti consente di creare bordi dall'aspetto professionale con solo poche righe di codice in C#. Grazie all'integrazione perfetta e alle funzionalità facili da usare, aggiungere bordi alle tue immagini non è mai stato così semplice. Che tu stia modificando bitmap o lavorando con altri formati di file, la libreria Aspose.Drawing pernisce gli strumenti necessari per migliorare le tue immagini. Sperimenta la comodità e l'efficienza della Aspose.Drawing nella C# e migliora oggi stesso il tuo processo di editing delle immagini.</p>
+Aggiungi bordi alle tue immagini senza sforzo con la libreria grafica Aspose.Drawing per .NET. Questo potente strumento ti consente di creare bordi dall'aspetto professionale con solo poche righe di codice in C#. Grazie all'integrazione perfetta e alle funzionalità facili da usare, aggiungere bordi alle tue immagini non è mai stato così semplice. Che tu stia modificEo bitmap o lavorEo con altri formati di file, la libreria Aspose.Drawing pernisce gli strumenti necessari per migliorare le tue immagini. Sperimenta la comodità e l'efficienza della Aspose.Drawing nella C# e migliora oggi stesso il tuo processo di editing delle immagini.</p>
 
 <h3 style="margin-top:16px;">
 Formati immagine supportati:

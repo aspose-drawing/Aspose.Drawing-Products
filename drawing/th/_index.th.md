@@ -6,7 +6,7 @@ description: High Code API และแอปฟรีสำหรับกา�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="โซลูชันการประมวลผลกราฟิก" h2="High Code API และแอปฟรีสำหรับการวาดภาพกราฟิก 2D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="โซลูชันผลิตภัณฑ์ Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="โซลูชันการประมวลผลกราฟิก" h2="High Code API และแอปฟรีสำหรับการวาดภาพกราฟิก 2D" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brและ.svg" imageAlt="โซลูชันผลิตภัณฑ์ Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code APIs รวมอยู่ด้วย" >}}

@@ -2,18 +2,18 @@
 title: Adicionar imagem a imagem via .NET
 weight: 20
 url: /pt/net/edit-image/add-image/
-description: Adicione imagem a bitmaps de imagem existentes usando a biblioteca gráfica Aspose.Drawing para .NET (C#)
-keywords: add image, add image to image, image to bitmap, add bitmap in C#, bitmap images in C#, 2D graphics, graphic library para .NET, image files, raster image, edit images, save image, adicionando imagens
+description: Adicione imagem a bitmaps de imagem existentes useo a biblioteca gráfica Aspose.Drawing para .NET (C#)
+keywords: add image, add image to image, image to bitmap, add bitmap in C#, bitmap images in C#, 2D graphics, graphic library para .NET, image files, raster image, edit images, save image, adicioneo imagens
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Adicionar imagem a imagem usando C#" h2="Atualize seus bitmaps: incorpore imagens com API .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Adicionar imagem a imagem useo C#" h2="Atualize seus bitmaps: incorpore imagens com API .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Adicionando imagens ao bitmap com a biblioteca Aspose.Drawing" %}}
+{{% blocks/products/pf/feature-page-section  h2="Adicioneo imagens ao bitmap com a biblioteca Aspose.Drawing" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Aumente suas habilidades de edição de imagens integrando perfeitamente imagens adicionais em bitmaps existentes usando a biblioteca gráfica Aspose.Drawing para .NET (C#). Esta ferramenta abrangente permite que você aprimore seus visuais sem esforço, seja refinando composições existentes ou criando composições totalmente novas. Independentemente do formato de imagem do arquivo de origem, você pode adicionar uma nova imagem de qualquer tipo compatível. Com sua API intuitiva e funcionalidade robusta, o Aspose.Drawing agiliza o processo de <b>adicionando imagens</b> para arquivos bitmap. Descubra a versatilidade e eficiência de nossa biblioteca gráfica na C# e abra hoje mesmo um mundo de possibilidades para seus projetos de edição de imagens.</p>
+Aumente suas habilidades de edição de imagens integreo perfeitamente imagens adicionais em bitmaps existentes useo a biblioteca gráfica Aspose.Drawing para .NET (C#). Esta ferramenta abrangente permite que você aprimore seus visuais sem esforço, seja refineo composições existentes ou crieo composições totalmente novas. Independentemente do formato de imagem do arquivo de origem, você pode adicionar uma nova imagem de qualquer tipo compatível. Com sua API intuitiva e funcionalidade robusta, o Aspose.Drawing agiliza o processo de <b>adicioneo imagens</b> para arquivos bitmap. Descubra a versatilidade e eficiência de nossa biblioteca gráfica na C# e abra hoje mesmo um mundo de possibilidades para seus projetos de edição de imagens.</p>
 
 <h3 style="margin-top:16px;">
 Formatos de imagem suportados:

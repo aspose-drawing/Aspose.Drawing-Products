@@ -6,7 +6,7 @@ description: APIs de alto código e aplicativos gratuitos para desenho gráfico 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solução de processamento gráfico" h2="APIs High Code e aplicativos gratuitos para desenho gráfico 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Solução de produto Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solução de processamento gráfico" h2="APIs High Code e aplicativos gratuitos para desenho gráfico 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-bre.svg" imageAlt="Solução de produto Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="APIs de alto código Aspose.Drawing incluem" >}}
@@ -34,7 +34,7 @@ Gere um meme a partir da sua foto em qualquer dispositivo.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
-Use fita métrica de tamanho real online.
+Usar fita métrica de tamanho real online.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="Ver todos os aplicativos sem código" >}}
@@ -49,7 +49,7 @@ Use fita métrica de tamanho real online.
 <p class="first">
  Já usamos o Aspose há algum tempo e não encontramos nenhum bug relacionado ao Aspose.
  <em>
-  Jac Goorden | Bicore, Holanda
+  Jac Goorden | Bicore, Holea
  </em>
 </p>
 
@@ -57,7 +57,7 @@ Use fita métrica de tamanho real online.
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total funciona muito bem quando temos arquivos e documentos grandes para trabalhar.
+ Aspose.Total funciona muito bem queo temos arquivos e documentos grees para trabalhar.
  <em>
   MiniTool® Software Ltd., Canadá
  </em>

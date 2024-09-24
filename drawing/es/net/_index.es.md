@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing para .NET | Reemplazo multiplataforma System.Drawing.Common 
 weight: 20
-url: /es/net/ 
+url: /es/net/
 description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágenes, para reemplazar directamente el paquete System.Drawing.Common sin cambiar el código C# existente.
 ---
 
@@ -14,7 +14,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con .NET. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca .NET pura y no depende de ningún motor de renderizado nativo externo.
+ El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionyo, pero ahora en cualquier plataforma compatible con .NET. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca .NET pura y no depende de ningún motor de renderizado nativo externo.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -128,7 +128,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Drawing para .NET admite .NET Framework versión 2.0, .NET Standard 2.0 o posterior." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de plataforma" description="Aspose.Drawing para .NET admite .NET Framework versión 2.0, .NET Styard 2.0 o posterior." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dibuja líneas, curvas, splines y arcos.
+    <a href="lines/">dibujar líneas, </a>
+    <a href="curves/">curvas, </a>
+    <a href="spline/">estrías, </a>
+    <a href="arcs/">arcos, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dibuja formas como rectángulo, polígono, elipse, etc.
+Dibuja formas como 
+    <a href="rectangle/">rectángulo, </a>
+    <a href="polygon/">polígono, </a>
+    <a href="ellipse/">elipse, </a>
+      etc.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Procesar y dibujar rutas de gráficos.
+     Procesar y dibujar 
+<a href="paths/">rutas de gráficos, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Renderizar texto con diferentes fuentes y estilos
+<a href="renderText/">Renderizar texto con diferentes fuentes y estilos</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilice diferentes anchos y estilos de lápiz
+Usa un bolígrafo diferente 
+<a href="pen/widths/">anchos, </a>
+      y 
+<a href="pen/estilos/">estilos</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilice pinceles sólidos, de textura, degradados y sombreados
+     Usar 
+<a href="brush/solid/">sólido, </a>
+textura, 
+<a href="brush/gradient/">gradiente, </a> 
+y pinceles de eclosión
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Admite combinación alfa y suavizado
+     Soportes 
+<a href="alphaBlending/">mezcla alfa </a>
+y 
+<a href="antiAliasing/">suavizado</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trabajar con regiones de clip
+<a href="clipping/">Trabajar con regiones de clip</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Usar transformaciones del sistema de coordenadas
+     Usar sistema de coordenadas 
+<a href="transformaciones/matrix/">transformaciones</a>
+
     </p>
    </div>
    
@@ -324,11 +344,11 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
      Dibujar gráficos vectoriales
     </h2>
     <p>
-     Aspose.Drawing para .NET permite dibujar diferentes gráficos vectoriales como arcos, Cardinal Spline, Bezier spline, elipses, curvas cerradas, líneas y muchos otros tipos. Solo se necesitan unas pocas líneas de código para dibujar diferentes tipos de gráficos vectoriales utilizando la API. Por ejemplo, aquí hay un código para dibujar un arco.
+     Aspose.Drawing para .NET permite dibujar diferentes gráficos vectoriales como arcos, Cardinal Ranura, Bezier spline, elipses, curvas cerradas, líneas y muchos otros tipos. Solo se necesitan unas pocas líneas de código para dibujar diferentes tipos de gráficos vectoriales utilizyo la API. Por ejemplo, aquí hay un código para dibujar un arco.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arco de dibujo - C#
+      Arcoo de dibujo - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

@@ -3,7 +3,7 @@ title: Aspose.Drawing dla Java | Wieloplatformowa biblioteka graficzna
 weight: 20
 url: /pl/java/ 
 description: Biblioteka graficzna Java do rysowania tekstu, krzywych, linii, figur i obrazów.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing krzywe, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -147,7 +147,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Matryca
     </li>
     <li>
-     Globalne i lokalne
+     Światowyne i lokalne
     </li>
    </ul>
   </div>
@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      <h3>
       Rysowanie łuku - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LiniasKrzywasShapes-DrawŁuk-DrawŁuk.java" >}}
     </div>
    </div>
   </div>

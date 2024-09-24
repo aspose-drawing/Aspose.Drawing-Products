@@ -14,7 +14,7 @@ keywords: create EMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="Cara Membuat File Gambar EMF Menggunakan C#" %}}
 
-Jelajahi kemudahan menghasilkan file gambar EMF menggunakan C#. Panduan ini menawarkan wawasan dan panduan penting, yang bermanfaat bagi pengembang senior dan pemula. Periksa langkah-langkah untuk dengan mudah mengintegrasikan pembuatan gambar EMF ke dalam proyek Anda, sehingga meningkatkan keterampilan pemrograman Anda. Untuk membuat file EMF, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), cari **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Jelajahi kemudahan menghasilkan file gambar EMF menggunakan C#. PDanuan ini menawarkan wawasan dan pDanuan penting, yang bermanfaat bagi pengembang senior dan pemula. Periksa langkah-langkah untuk dengan mudah mengintegrasikan pembuatan gambar EMF ke dalam proyek Anda, sehingga meningkatkan keterampilan pemrograman Anda. Untuk membuat file EMF, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), cari **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 ```cs
@@ -68,7 +68,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Drawing untuk API .NET" %}}
 
-Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengandalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibandingkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
+Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengDanalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibDaningkan .NET StDanard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
 
 Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik vektor, termasuk garis, kurva, dan gambar, bersama dengan beragam elemen teks dalam berbagai font, ukuran, dan gaya. Proses rendering ini terjadi secara mulus pada gambar raster, mendukung beragam format file grafik yang umum digunakan.
 
@@ -95,7 +95,7 @@ File dengan ekstensi EMF mewakili untuk menyimpan data gambar berformat vektor d
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/jpeg/" name="JPEG" description="Kelompok Pakar Fotografi Gabungan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/tiff/" name="TIFF" description="Format Gambar yang DitDanai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/wmf/" name="WMF" description="Metafile Microsoft Windows" >}}
 
 

@@ -1,7 +1,7 @@
 ---
 title: .NET용 Aspose.Drawing | 크로스 플랫폼 System.Drawing.Common 대체 
 weight: 20
-url: /ko/net/ 
+url: /ko/net/
 description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패키지를 직접 대체하기 위해 텍스트, 기하학 및 이미지를 그리기 위한 .NET 그래픽 라이브러리입니다.
 ---
 
@@ -128,7 +128,7 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description=".NET용 Aspose.Drawing은 .NET Framework 버전 2.0, .NET Standard 2.0 이상을 지원합니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description=".NET용 Aspose.Drawing은 .NET Framework 버전 2.0, .NET St그리고ard 2.0 이상을 지원합니다." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     선, 곡선, 스플라인 및 호 그리기
+    <a href="lines/">선 그리기, </a>
+    <a href="curves/">곡선, </a>
+    <a href="spline/">스플라인, </a>
+    <a href="arcs/">호, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     직사각형, 다각형, 타원 등과 같은 모양을 그립니다.
+다음과 같은 모양을 그립니다. 
+    <a href="rectangle/">구형, </a>
+    <a href="polygon/">다각형, </a>
+    <a href="ellipse/">타원, </a>
+      등
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     그래픽 경로 처리 및 그리기
+     처리 및 그리기 
+<a href="paths/">그래픽 경로, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     다양한 글꼴과 스타일로 텍스트 렌더링
+<a href="renderText/">다양한 글꼴과 스타일로 텍스트 렌더링</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     다양한 펜 너비와 스타일 사용
+다른 펜 사용 
+<a href="pen/widths/">너비, </a>
+      그리고 
+<a href="pen/스타일/">스타일</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     솔리드, 텍스처, 그라데이션 및 해치 브러시 사용
+     사용 
+<a href="brush/solid/">단단한, </a>
+조직, 
+<a href="brush/gradient/">구배, </a> 
+그리고 해치 브러쉬
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     알파 블렌딩 및 앤티앨리어싱 지원
+     지원 
+<a href="alphaBlending/">알파 블렌딩 </a>
+그리고 
+<a href="antiAliasing/">앤티앨리어싱</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     클립 영역 작업
+<a href="clipping/">클립 영역 작업</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     좌표계 변환 사용
+     좌표계 사용 
+<a href="변환/matrix/">변환</a>
+
     </p>
    </div>
    

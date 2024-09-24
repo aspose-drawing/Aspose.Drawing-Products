@@ -15,7 +15,7 @@ keywords: add image to bitmap, add image to TIFF, add image via C#, 2D graphics,
 {{% blocks/products/pf/agp/content h2="Cara Menambahkan Gambar Baru ke File Gambar TIFF yang Ada Menggunakan C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Sempurnakan gambar TIFF Anda dengan mengintegrasikan gambar tambahan secara mulus menggunakan <a href="https://products.aspose.com/drawing/net">Aspose.Drawing untuk .NET</a> API serbaguna. Alat canggih ini menyediakan cara sederhana namun efektif untuk menyempurnakan visual Anda. Dengan memanfaatkan kemampuan kelas Bitmap dan gambar grafik raster, Anda dapat dengan mudah memasukkan gambar ke dalam file TIFF Anda. Baik Anda bekerja dengan gambar raster atau menyimpan file dalam format TIFF, Drawing API menawarkan fleksibilitas dan efisiensi yang tak tertandingi. Rasakan kenyamanan menambahkan gambar ke file TIFF dengan Drawing API .NET, dan buka kemungkinan baru untuk proyek pengeditan gambar Anda hari ini. Membuka <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> manajer paket, dan cari <b>Aspose.Drawing</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
+Sempurnakan gambar TIFF Anda dengan mengintegrasikan gambar tambahan secara mulus menggunakan <a href="https://products.aspose.com/drawing/net">Aspose.Drawing untuk .NET</a> API serbaguna. Alat canggih ini menyediakan cara sederhana namun efektif untuk menyempurnakan visual Anda. Dengan memanfaatkan kemampuan kelas Bitmap dan gambar grafik raster, Anda dapat dengan mudah memasukkan gambar ke dalam file TIFF Anda. Baik Anda bekerja dengan gambar raster atau menyimpan file dalam format TIFF, Drawing API menawarkan fleksibilitas dan efisiensi yang tak tertDaningi. Rasakan kenyamanan menambahkan gambar ke file TIFF dengan Drawing API .NET, dan buka kemungkinan baru untuk proyek pengeditan gambar Anda hari ini. Membuka <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> manajer paket, dan cari <b>Aspose.Drawing</b> dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 ```cs
@@ -69,7 +69,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Drawing untuk API .NET" %}}
 
-Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengandalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibandingkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
+Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengDanalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibDaningkan .NET StDanard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
 
 Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik vektor, termasuk garis, kurva, dan gambar, bersama dengan beragam elemen teks dalam berbagai font, ukuran, dan gaya. Proses rendering ini terjadi secara mulus pada gambar raster, mendukung beragam format file grafik yang umum digunakan.
 
@@ -104,7 +104,7 @@ File yang memiliki ekstensi .TIFF mewakili file Gambar Bitmap yang digunakan unt
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-image/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-image/jpeg/" name="JPEG" description="Kelompok Pakar Fotografi Gabungan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-image/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-image/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-image/tiff/" name="TIFF" description="Format Gambar yang DitDanai" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

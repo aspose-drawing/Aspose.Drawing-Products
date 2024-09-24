@@ -38,7 +38,7 @@ Bạn cần có [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) �
 
 + Tạo đối tượng bitmap từ file ảnh PNG sử dụng lớp `Bitmap`.
 + Tạo đối tượng đồ họa bằng phương thức `Graphics.FromImage()`.
-+ Vẽ đường viền bằng phương thức `DrawRectangle()`.
++ Vẽ đường viền bằng phương thức `DrawHình chữ nhật()`.
 + Lưu bitmap đã tạo ở định dạng ảnh PNG.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,7 @@ Aspose.Drawing cho .NET được hỗ trợ trên tất cả các hệ điều h
 
 {{% blocks/products/pf/agp/content h2="Giới thiệu về Aspose.Drawing cho API .NET" %}}
 
-Aspose.Drawing, thư viện đồ họa 2D đa nền tảng, được quản lý hoàn toàn, vượt trội trong việc vẽ văn bản, hình học và hình ảnh. Nó cung cấp API tương thích System.Drawing, dễ dàng chuyển đổi mã hiện có của bạn dựa trên System.Drawing thành một giải pháp đa nền tảng thực sự. Được phát triển dựa trên .NET Standard 2.0, Aspose.Drawing tìm thấy ứng dụng trong các tình huống web, thiết bị di động, máy tính để bàn, đám mây và IoT.
+Aspose.Drawing, thư viện đồ họa 2D đa nền tảng, được quản lý hoàn toàn, vượt trội trong việc vẽ văn bản, hình học và hình ảnh. Nó cung cấp API tương thích System.Drawing, dễ dàng chuyển đổi mã hiện có của bạn dựa trên System.Drawing thành một giải pháp đa nền tảng thực sự. Được phát triển dựa trên .NET StVàard 2.0, Aspose.Drawing tìm thấy ứng dụng trong các tình huống web, thiết bị di động, máy tính để bàn, đám mây và IoT.
 
 Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ họa vector, bao gồm đường thẳng, đường cong và hình, bên cạnh các thành phần văn bản đa dạng với nhiều phông chữ, kích thước và kiểu dáng khác nhau. Quá trình kết xuất này diễn ra liền mạch trên hình ảnh raster, hỗ trợ nhiều định dạng tệp đồ họa thường được sử dụng.
 

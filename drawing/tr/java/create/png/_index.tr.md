@@ -14,7 +14,7 @@ keywords: create PNG via Java, 2D graphics, drawing API, create bitmap in Java, 
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak PNG Görüntü Dosyası Nasıl Oluşturulur" %}}
 
-Java ile PNG taramalı görüntü dosyaları oluşturmanın kolaylığını ortaya çıkarın. Bu kapsamlı belge, tüm yeterlilik seviyelerine hitap eden hayati bilgiler ve rehberlik sunar. PNG görüntü oluşturmayı projelere sorunsuz bir şekilde entegre etme ve süreçteki programlama yeteneklerini geliştirme konusunda uzmanlık kazanın. PNG dosyaları oluşturmak için, zengin özelliklere sahip, güçlü ve sezgisel 2D grafik çizim API'si ile tanınan [Aspose.Drawing için Java](https://products.aspose.com/drawing/java) kitaplığından yararlanın Java platformu için. En son sürüme doğrudan [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) deposundan erişin ve pom.xml dosyasına belirtilen yapılandırmaları uygulayarak bunu Maven tabanlı projelere dahil edin. xml dosyası.
+Java ile PNG taramalı görüntü dosyaları oluşturmanın kolaylığını ortaya çıkarın. Bu kapsamlı belge, tüm yeterlilik seviyelerine hitap eden hayati bilgiler ve rehberlik sunar. PNG görüntü oluşturmayı projelere sorunsuz bir şekilde entegre etme ve süreçteki programlama yeteneklerini geliştirme konusunda uzmanlık kazanın. PNG dosyaları oluşturmak için, zengin özelliklere sahip, güçlü ve sezgisel 2D grafik çizim API'si ile tanınan [Aspose.Drawing için Java](https://products.aspose.com/drawing/java) kitaplığından yararlanın Java platformu için. En son sürüme doğrudan [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) deposundan erişin ve pom.xml dosyasına belirtilen yapılVeırmaları uygulayarak bunu Maven tabanlı projelere dahil edin. xml dosyası.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -102,7 +102,7 @@ Aspose.Drawing, metin, geometri ve görüntü çizmek için tasarlanmış, tüm�
 
 {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Devamını oku" >}}
 
-.PNG uzantılı dosyalar, bitmap dijital görüntüleri depolamak için kap görevi gören raster Bitmap Görüntü dosyalarını belirtir. Bu görüntüler Microsoft Windows, Mac ve Linux dahil olmak üzere birden fazla platformda açılabilir. PNG dosya formatı, verilerin hem monokrom hem de renkli formatlarda iki boyutlu dijital görüntüler olarak depolanmasını destekleyerek renk derinliği yapılandırmalarında esneklik sunar.
+.PNG uzantılı dosyalar, bitmap dijital görüntüleri depolamak için kap görevi gören raster Bitmap Görüntü dosyalarını belirtir. Bu görüntüler Microsoft Windows, Mac ve Linux dahil olmak üzere birden fazla platformda açılabilir. PNG dosya formatı, verilerin hem monokrom hem de renkli formatlarda iki boyutlu dijital görüntüler olarak depolanmasını destekleyerek renk derinliği yapılVeırmalarında esneklik sunar.
 
 {{< /blocks/products/pf/agp/about-file-text >}}
 

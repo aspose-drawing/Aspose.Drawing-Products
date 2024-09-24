@@ -6,7 +6,7 @@ description: API de alto código y aplicaciones gratuitas para dibujo de gráfic
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solución de procesamiento de gráficos" h2="API de código alto y aplicaciones gratuitas para dibujo de gráficos 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Solución de producto Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solución de procesamiento de gráficos" h2="API de código alto y aplicaciones gratuitas para dibujo de gráficos 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-bry.svg" imageAlt="Solución de producto Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Las API de código alto de Aspose.Drawing incluyen" >}}
@@ -47,7 +47,7 @@ Utilice una cinta métrica de tamaño real en línea.
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Hemos estado usando Aspose durante bastante tiempo y no nos hemos encontrado con ningún error relacionado con Aspose.
+ Hemos estado usyo Aspose durante bastante tiempo y no nos hemos encontrado con ningún error relacionado con Aspose.
  <em>
   Jac Goorden | Bicore, Países Bajos
  </em>
@@ -57,7 +57,7 @@ Utilice una cinta métrica de tamaño real en línea.
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total funciona muy bien cuando tenemos archivos y documentos grandes en los que trabajar.
+ Aspose.Total funciona muy bien cuyo tenemos archivos y documentos gryes en los que trabajar.
  <em>
   MiniTool® Software Ltd., Canadá
  </em>

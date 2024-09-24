@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/content h2=".NET API용 Aspose.Drawing 정보" %}}
 
-완벽하게 관리되는 크로스 플랫폼 2D 그래픽 라이브러리인 Aspose.Drawing은 텍스트, 형상 및 이미지 그리기에 탁월합니다. System.Drawing 호환 API를 제공하여 System.Drawing에 의존하는 기존 코드를 진정한 크로스 플랫폼 솔루션으로 손쉽게 변환합니다. .NET Standard 2.0을 기반으로 개발된 Aspose.Drawing은 웹, 모바일, 데스크톱, 클라우드 및 IoT 시나리오에서 애플리케이션을 찾습니다.
+완벽하게 관리되는 크로스 플랫폼 2D 그래픽 라이브러리인 Aspose.Drawing은 텍스트, 형상 및 이미지 그리기에 탁월합니다. System.Drawing 호환 API를 제공하여 System.Drawing에 의존하는 기존 코드를 진정한 크로스 플랫폼 솔루션으로 손쉽게 변환합니다. .NET St그리고ard 2.0을 기반으로 개발된 Aspose.Drawing은 웹, 모바일, 데스크톱, 클라우드 및 IoT 시나리오에서 애플리케이션을 찾습니다.
 
 Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크기 및 스타일의 다양한 텍스트 요소와 함께 선, 곡선, 그림을 포함한 벡터 그래픽을 렌더링할 수 있습니다. 이 렌더링 프로세스는 래스터 이미지에서 원활하게 발생하며 일반적으로 사용되는 다양한 그래픽 파일 형식을 지원합니다.
 

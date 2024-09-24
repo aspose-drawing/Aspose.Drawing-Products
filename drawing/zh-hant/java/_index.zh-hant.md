@@ -3,7 +3,7 @@ title: Aspose.Drawing 換 Java |跨平台圖形庫
 weight: 20
 url: /zh-hant/java/ 
 description: Java 圖形庫用於繪製文字、曲線、直線、圖形和圖像。
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing 曲線， drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      <h3>
       畫弧 - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-線s曲線sShapes-Draw弧-Draw弧.java" >}}
     </div>
    </div>
   </div>

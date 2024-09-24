@@ -3,7 +3,7 @@ title: Aspose.Drawing per Java | Libreria grafica multipiattaforma
 weight: 20
 url: /it/java/ 
 description: Libreria grafica Java per disegnare testi, curve, linee, figure e immagini.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curve, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -147,7 +147,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Matrice
     </li>
     <li>
-     Globale e locale
+     Globalee e locale
     </li>
    </ul>
   </div>
@@ -375,14 +375,14 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilizza pennelli solidi, texture, sfumatura e tratteggio
+     Utilizza pennelli solidi, struttura, sfumatura e tratteggio
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supporta la fusione alfa e l'anti-aliasing
+     Supporta la fusione alfa e l'antialiasing
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Disegna grafica vettoriale
     </h2>
     <p>
-     Aspose.Drawing per Java consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. ad esempio ecco il codice per disegnare l'arco.
+     Aspose.Drawing per Java consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzEo l'API. ad esempio ecco il codice per disegnare l'arco.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arco da disegno - Java
+      Arcoo da disegno - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LineasCurvasShapes-DrawArco-DrawArco.java" >}}
     </div>
    </div>
   </div>

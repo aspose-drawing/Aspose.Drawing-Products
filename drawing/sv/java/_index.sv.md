@@ -3,11 +3,11 @@ title: Aspose.Drawing för Java | Grafiskt bibliotek över plattformar
 weight: 20
 url: /sv/java/ 
 description: Java grafiskt bibliotek för att rita text, kurvor, linjer, figurer och bilder.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing kurvor, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform Graphic Library för Java" h2="Aspose.Drawing implementerar ett lättanvänt omfattande ritnings-API, inklusive bildmanipulering, vektor- och textritning i fullständigt hanterad kod utan några externa beroenden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="för Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cross-platform Graphic Library för Java" h2="Aspose.Drawing implementerar ett lättanvänt omfattoche ritnings-API, inklusive bildmanipulering, vektor- och textritning i fullständigt hanterad kod utan några externa beroenden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="för Java" downloadUrl="https://downloads.aspose.com/drawing/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="för Java" >}}
 
@@ -42,7 +42,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </h3>
 
    <p align='justify'>
-   Stick ut genom att lägga till fängslande text till din grafik. Aspose.Drawing gör textmanipulering enkel och erbjuder olika typsnitt, storlekar och stilar. Oavsett om du föredrar ett modernt eller klassiskt utseende, erbjuder biblioteket verktygen för att förverkliga din vision.
+   Stick ut genom att lägga till fängsloche text till din grafik. Aspose.Drawing gör textmanipulering enkel och erbjuder olika typsnitt, storlekar och stilar. Oavsett om du föredrar ett modernt eller klassiskt utseende, erbjuder biblioteket verktygen för att förverkliga din vision.
    </p>
 </div>
 
@@ -80,7 +80,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    <b>Mångsidig vektorgrafik:</b> Från intrikata kurvor till djärva figurer, Aspose.Drawing tjänar alla vektorgrafikbehov, vilket låter din kreativitet flöda utan begränsningar.
    </li>
    <li>
-   <b>Berättande text:</b> Skapa fängslande berättelser med text som talar volym. Med ett omfattande utbud av typsnitt och stilar ser Aspose.Drawing till att din text är lika fängslande som din grafik.
+   <b>Berättoche text:</b> Skapa fängsloche berättelser med text som talar volym. Med ett omfattoche utbud av typsnitt och stilar ser Aspose.Drawing till att din text är lika fängsloche som din grafik.
    </li>
    <li>
    <b>Formatfrihet:</b> Aspose.Drawing stöder flera grafikformat, vilket ger friheten att spara och dela skapelser i ett format som passar din vision.
@@ -188,7 +188,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Klippning
     </li>
     <li>
-     Alfablandning
+     Alfablochning
     </li>
    </ul>
   </div>
@@ -257,7 +257,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Drawing för Java stöder följande [bildformat](https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Drawing för Java stöder följoche [bildformat](https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -382,7 +382,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöder alfablandning och kantutjämning
+     Stöder alfablochning och kantutjämning
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Rita vektorgrafik
     </h2>
     <p>
-     Aspose.Drawing för Java gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal andra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. t.ex. här är kod för att rita båge.
+     Aspose.Drawing för Java gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal ochra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. t.ex. här är kod för att rita båge.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Ritbåge - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinjesKurvasShapes-DrawBåge-DrawBåge.java" >}}
     </div>
    </div>
   </div>
@@ -427,7 +427,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/drawing/java/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-drawing/Aspose.Drawing-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/drawing/java" >}}
-{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Hochledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}

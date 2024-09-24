@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing pro .NET | Náhrada System.Drawing.Common pro více platforem 
 weight: 20
-url: /cs/net/ 
+url: /cs/net/
 description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků, která přímo nahrazuje balíček System.Drawing.Common bez změny stávajícího kódu C#.
 ---
 
@@ -128,7 +128,7 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Drawing pro .NET podporuje .NET Framework verze 2.0, .NET Standard 2.0 nebo novější." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Drawing pro .NET podporuje .NET Framework verze 2.0, .NET Staard 2.0 nebo novější." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kreslení čar, křivek, spline a oblouků
+    <a href="lines/">Kreslit čáry, </a>
+    <a href="curves/">křivky, </a>
+    <a href="spline/">spline, </a>
+    <a href="arcs/">oblouky, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nakreslete tvary jako obdélník, mnohoúhelník, elipsa atd
+Nakreslete tvary jako 
+    <a href="rectangle/">obdélník, </a>
+    <a href="polygon/">polygon, </a>
+    <a href="ellipse/">elipsa, </a>
+      atd
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zpracujte a nakreslete grafické cesty
+     Zpracovat a nakreslit 
+<a href="paths/">grafické cesty, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vykreslování textu pomocí různých písem a stylů
+<a href="renderText/">Vykreslování textu pomocí různých písem a stylů</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Použijte různé šířky a styly per
+Použijte jiné pero 
+<a href="pen/widths/">šířky, </a>
+      a 
+<a href="pen/styly/">styly</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Používejte pevné, texturové, přechodové a šrafovací štětce
+     Použití 
+<a href="brush/solid/">solidní, </a>
+textura, 
+<a href="brush/gradient/">gradient, </a> 
+a poklopové kartáče
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podporuje alfa blending a anti-aliasing
+     Podporuje 
+<a href="alphaBlending/">alfa míšení </a>
+a 
+<a href="antiAliasing/">anti-aliasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Práce s oblastmi klipů
+<a href="clipping/">Práce s oblastmi klipů</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Použijte transformace souřadnicového systému
+     Použijte souřadnicový systém 
+<a href="transformace/matrix/">transformace</a>
+
     </p>
    </div>
    
@@ -328,7 +348,7 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Drawing Arc - C#
+      Drawing Oblouk - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

@@ -14,7 +14,7 @@ keywords: create GIF via Java, 2D graphics, drawing API, create bitmap in Java, 
 
 {{% blocks/products/pf/agp/content h2="Cara Membuat File Gambar GIF Menggunakan Java" %}}
 
-Temukan kemudahan menghasilkan file gambar raster GIF dengan Java. Dokumen komprehensif ini menawarkan wawasan dan panduan penting, yang melayani semua tingkat kemahiran. Dapatkan keahlian dalam mengintegrasikan pembuatan gambar GIF ke dalam proyek dengan lancar, menyempurnakan kemampuan pemrograman dalam prosesnya. Untuk menghasilkan file GIF, manfaatkan pustaka [Aspose.Drawing untuk Java](https://products.aspose.com/drawing/java), yang terkenal dengan API gambar grafis 2D yang kaya fitur, kuat, dan intuitif untuk platform Java. Akses versi terbaru langsung dari repositori [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) dan gabungkan ke dalam proyek berbasis Maven dengan menerapkan konfigurasi tertentu ke pom. file xml.
+Temukan kemudahan menghasilkan file gambar raster GIF dengan Java. Dokumen komprehensif ini menawarkan wawasan dan pDanuan penting, yang melayani semua tingkat kemahiran. Dapatkan keahlian dalam mengintegrasikan pembuatan gambar GIF ke dalam proyek dengan lancar, menyempurnakan kemampuan pemrograman dalam prosesnya. Untuk menghasilkan file GIF, manfaatkan pustaka [Aspose.Drawing untuk Java](https://products.aspose.com/drawing/java), yang terkenal dengan API gambar grafis 2D yang kaya fitur, kuat, dan intuitif untuk platform Java. Akses versi terbaru langsung dari repositori [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) dan gabungkan ke dalam proyek berbasis Maven dengan menerapkan konfigurasi tertentu ke pom. file xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -118,7 +118,7 @@ File dengan ekstensi .GIF menunjukkan file Gambar Bitmap raster, yang berfungsi 
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/jpeg/" name="JPEG" description="Kelompok Pakar Fotografi Gabungan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/tiff/" name="TIFF" description="Format Gambar yang DitDanai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/java/create/wmf/" name="WMF" description="Metafile Microsoft Windows" >}}
 
 

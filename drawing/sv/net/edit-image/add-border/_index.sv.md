@@ -13,7 +13,7 @@ keywords: add border in C#, add border to image, edit images in C#, edit bitmap,
 
 {{% blocks/products/pf/feature-page-section  h2="Lägg till gränser enkelt i C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Lägg till ramar till dina bilder utan ansträngning med Aspose.Drawing grafiska bibliotek för .NET. Detta kraftfulla verktyg låter dig skapa gränser med ett professionellt utseende med bara några rader kod i C#. Med sömlös integration och lättanvända funktioner har det aldrig varit enklare att lägga till ramar till dina bilder. Oavsett om du redigerar bitmappar eller arbetar med andra filformat, erbjuder Aspose.Drawing-biblioteket de verktyg du behöver för att förbättra dina bilder. Upplev bekvämligheten och effektiviteten hos Aspose.Drawing i C# och lyft din bildredigeringsprocess idag.</p>
+Lägg till ramar till dina bilder utan ansträngning med Aspose.Drawing grafiska bibliotek för .NET. Detta kraftfulla verktyg låter dig skapa gränser med ett professionellt utseende med bara några rader kod i C#. Med sömlös integration och lättanvända funktioner har det aldrig varit enklare att lägga till ramar till dina bilder. Oavsett om du redigerar bitmappar eller arbetar med ochra filformat, erbjuder Aspose.Drawing-biblioteket de verktyg du behöver för att förbättra dina bilder. Upplev bekvämligheten och effektiviteten hos Aspose.Drawing i C# och lyft din bildredigeringsprocess idag.</p>
 
 <h3 style="margin-top:16px;">
 Bildformat som stöds:

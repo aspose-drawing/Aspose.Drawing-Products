@@ -1,8 +1,8 @@
 ---
-title: Creando mapas de bits en Java desde cero
+title: Creyo mapas de bits en Java desde cero
 weight: 20
 url: /es/java/create/
-description: Creación de mapas de bits desde cero utilizando la biblioteca gráfica Aspose.Drawing para Java
+description: Creación de mapas de bits desde cero utilizyo la biblioteca gráfica Aspose.Drawing para Java
 keywords: create bitmap in Java, create image file, bitmap images in Java, bitmap from scratch, graphic library para Java, generate images in Java
 ---
 
@@ -11,7 +11,7 @@ keywords: create bitmap in Java, create image file, bitmap images in Java, bitma
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cómo crear mapas de bits desde cero usando Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Cómo crear mapas de bits desde cero usyo Java" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
 En numerosas aplicaciones, la creación o manipulación de imágenes de mapa de bits es una necesidad fundamental. Aspose.Drawing, una biblioteca gráfica diseñada para Java, ofrece un conjunto de herramientas sólido para manejar sin problemas imágenes de mapa de bits. Con Aspose.Drawing, puede generar imágenes de mapa de bits de manera eficiente desde cero y mediante programación <b>Crear mapas de bits</b> en varios formatos de imagen.
 </p>

@@ -1,7 +1,7 @@
 ---
 title: .NET için Aspose.Drawing | Platformlar arası System.Drawing.Common değişimi 
 weight: 20
-url: /tr/net/ 
+url: /tr/net/
 description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini doğrudan değiştirmek için metin, geometri ve görüntü çizmeye yönelik .NET grafik kitaplığı.
 ---
 
@@ -128,7 +128,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description=".NET için Aspose.Drawing, .NET Framework sürüm 2.0, .NET Standard 2.0 veya üzerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description=".NET için Aspose.Drawing, .NET Framework sürüm 2.0, .NET StVeard 2.0 veya üzerini destekler." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Çizgiler, eğriler, eğriler ve yaylar çizme
+    <a href="lines/">Çizgiler çizin, </a>
+    <a href="curves/">eğriler, </a>
+    <a href="spline/">spline'lar, </a>
+    <a href="arcs/">yaylar, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dikdörtgen, çokgen, elips vb. gibi şekiller çizin
+Gibi şekiller çizin 
+    <a href="rectangle/">dikdörtgen, </a>
+    <a href="polygon/">çokgen, </a>
+    <a href="ellipse/">elips, </a>
+      vesaire
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Grafik yollarını işleyin ve çizin
+     İşleme ve çizim 
+<a href="paths/">grafik yolları, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Metni farklı yazı tipleri ve stillerle işleme
+<a href="renderText/">Metni farklı yazı tipleri ve stillerle işleme</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Farklı kalem genişlikleri ve stilleri kullanın
+Farklı kalem kullan 
+<a href="pen/widths/">genişlikler, </a>
+      Ve 
+<a href="pen/stiller/">stiller</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Katı, doku, degrade ve tarama fırçalarını kullanın
+     Kullanmak 
+<a href="brush/solid/">sağlam, </a>
+doku, 
+<a href="brush/gradient/">degrade, </a> 
+ve tarama fırçaları
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Alfa harmanlamayı ve kenar yumuşatmayı destekler
+     Destekler 
+<a href="alphaBlending/">alfa harmanlama </a>
+Ve 
+<a href="antiAliasing/">kenar yumuşatma</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Klip bölgeleriyle çalışma
+<a href="clipping/">Klip bölgeleriyle çalışma</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Koordinat sistemi dönüşümlerini kullanma
+     Koordinat sistemini kullan 
+<a href="dönüşümler/matrix/">dönüşümler</a>
+
     </p>
    </div>
    
@@ -324,7 +344,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
      Vektör Grafikleri Çizin
     </h2>
     <p>
-     .NET için Aspose.Drawing, yaylar, Kardinal Spline, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. Örneğin burada yay çizmenin kodu var.
+     .NET için Aspose.Drawing, yaylar, Kardinal Kamalı çizgi, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. Örneğin burada yay çizmenin kodu var.
     </p>
     <div class="codeblock" id="code">
      <h3>

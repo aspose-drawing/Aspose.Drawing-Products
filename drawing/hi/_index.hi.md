@@ -6,7 +6,7 @@ description: 2डी ग्राफिक्स ड्राइंग के �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="ग्राफ़िक्स प्रोसेसिंग समाधान" h2="2डी ग्राफिक्स ड्राइंग के लिए हाई कोड एपीआई और मुफ्त ऐप्स।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing उत्पाद समाधान" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="ग्राफ़िक्स प्रोसेसिंग समाधान" h2="2डी ग्राफिक्स ड्राइंग के लिए हाई कोड एपीआई और मुफ्त ऐप्स।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brऔर.svg" imageAlt="Aspose.Drawing उत्पाद समाधान" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing हाई कोड एपीआई शामिल हैं" >}}

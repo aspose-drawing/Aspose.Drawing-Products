@@ -128,7 +128,7 @@ description: मौजूदा C# कोड को बदले बिना �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=".NET के लिए Aspose.Drawing .NET Framework संस्करण 2.0, .NET Stऔरard 2.0 या बाद के संस्करण का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=".NET के लिए Aspose.Drawing .NET Framework संस्करण 2.0, .NET Standard 2.0 या बाद के संस्करण का समर्थन करता है।" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

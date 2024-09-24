@@ -68,7 +68,7 @@ PM> Install-Package Aspose.Drawing
 
 {{% blocks/products/pf/agp/content h2="关于 Aspose.Drawing 的 .NET API" %}}
 
-Aspose.Drawing 是一个完全托管的跨平台 2D 图形库，擅长绘制文本、几何图形和图像。它提供了 System.Drawing 兼容的 API，可以轻松地将依赖 System.Drawing 的现有代码转换为真正的跨平台解决方案。 Aspose.Drawing 针对 .NET St和ard 2.0 开发，可应用于 Web、移动、桌面、云和 IoT 场景。
+Aspose.Drawing 是一个完全托管的跨平台 2D 图形库，擅长绘制文本、几何图形和图像。它提供了 System.Drawing 兼容的 API，可以轻松地将依赖 System.Drawing 的现有代码转换为真正的跨平台解决方案。 Aspose.Drawing 针对 .NET Standard 2.0 开发，可应用于 Web、移动、桌面、云和 IoT 场景。
 
 Aspose.Drawing 中的绘图引擎使用户能够渲染矢量图形，包括直线、曲线和图形，以及各种字体、大小和样式的各种文本元素。此渲染过程在光栅图像上无缝进行，支持多种常用的图形文件格式。
 

@@ -128,7 +128,7 @@ description: ไลบรารีกราฟิก .NET สำหรับก�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="ความเป็นอิสระของแพลตฟอร์ม" description="Aspose.Drawing สำหรับ .NET รองรับ .NET Framework เวอร์ชัน 2.0, .NET Stและard 2.0 หรือใหม่กว่า" >}}
+{{< blocks/products/pf/carousel-item h3="ความเป็นอิสระของแพลตฟอร์ม" description="Aspose.Drawing สำหรับ .NET รองรับ .NET Framework เวอร์ชัน 2.0, .NET Standard 2.0 หรือใหม่กว่า" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -128,7 +128,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.Drawing .NET-hez támogatja a .NET Framework 2.0, .NET Stésard 2.0 vagy újabb verzióit." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.Drawing .NET-hez támogatja a .NET Framework 2.0, .NET Standard 2.0 vagy újabb verzióit." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

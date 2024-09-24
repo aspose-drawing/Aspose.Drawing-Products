@@ -128,7 +128,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Drawing για .NET υποστηρίζει .NET Framework έκδοση 2.0, .NET Stκαιard 2.0 ή νεότερη έκδοση." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Drawing για .NET υποστηρίζει .NET Framework έκδοση 2.0, .NET Standard 2.0 ή νεότερη έκδοση." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

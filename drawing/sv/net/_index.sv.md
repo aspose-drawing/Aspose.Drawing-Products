@@ -128,7 +128,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Drawing för .NET stöder .NET Framework version 2.0, .NET Stochard 2.0 eller senare." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Drawing för .NET stöder .NET Framework version 2.0, .NET Standard 2.0 eller senare." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -128,7 +128,7 @@ description: Графическая библиотека .NET для рисов�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Drawing для .NET поддерживает .NET Framework версии 2.0, .NET Stиard 2.0 или новее." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Drawing для .NET поддерживает .NET Framework версии 2.0, .NET Standard 2.0 или новее." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

@@ -128,7 +128,7 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description=".NET용 Aspose.Drawing은 .NET Framework 버전 2.0, .NET St그리고ard 2.0 이상을 지원합니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description=".NET용 Aspose.Drawing은 .NET Framework 버전 2.0, .NET Standard 2.0 이상을 지원합니다." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

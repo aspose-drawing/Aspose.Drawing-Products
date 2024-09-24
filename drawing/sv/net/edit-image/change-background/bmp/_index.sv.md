@@ -68,7 +68,7 @@ Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till at
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Drawing för .NET API" %}}
 
-Aspose.Drawing, ett fullt hanterat, plattformsoberoende 2D-grafikbibliotek, utmärker sig när det gäller att rita text, geometrier och bilder. Den erbjuder ett System.Drawing-kompatibelt API, som enkelt omvochlar din befintliga kod som förlitar sig på System.Drawing till en verkligt plattformsoberoende lösning. Utvecklad mot .NET Stochard 2.0, Aspose.Drawing hittar applikationer i webb-, mobil-, dator-, moln- och IoT-scenarier.
+Aspose.Drawing, ett fullt hanterat, plattformsoberoende 2D-grafikbibliotek, utmärker sig när det gäller att rita text, geometrier och bilder. Den erbjuder ett System.Drawing-kompatibelt API, som enkelt omvochlar din befintliga kod som förlitar sig på System.Drawing till en verkligt plattformsoberoende lösning. Utvecklad mot .NET Standard 2.0, Aspose.Drawing hittar applikationer i webb-, mobil-, dator-, moln- och IoT-scenarier.
 
 Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik, inklusive linjer, kurvor och figurer, tillsammans med olika textelement i olika typsnitt, storlekar och stilar. Denna återgivningsprocess sker sömlöst på rasterbilder och stöder ett brett utbud av vanliga grafikfilformat.
 

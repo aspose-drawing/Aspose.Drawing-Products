@@ -128,7 +128,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="يدعم Aspose.Drawing لـ .NET الإصدار 2.0 من .NET Framework أو .NET Stوard 2.0 أو الأحدث." >}}
+{{< blocks/products/pf/carousel-item h3="استقلال المنصة" description="يدعم Aspose.Drawing لـ .NET الإصدار 2.0 من .NET Framework أو .NET Standard 2.0 أو الأحدث." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

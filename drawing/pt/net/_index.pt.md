@@ -128,7 +128,7 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Drawing para .NET suporta .NET Framework versão 2.0, .NET Steard 2.0 ou posterior." >}}
+{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Drawing para .NET suporta .NET Framework versão 2.0, .NET Standard 2.0 ou posterior." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

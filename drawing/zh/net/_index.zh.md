@@ -128,7 +128,7 @@ description: .NET图形库，用于绘制文本、几何图形和图像，可直
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Drawing 换 .NET 支持 .NET Framework 版本 2.0、.NET St和ard 2.0 或更高版本。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Drawing 换 .NET 支持 .NET Framework 版本 2.0、.NET Standard 2.0 或更高版本。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

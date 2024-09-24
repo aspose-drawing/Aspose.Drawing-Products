@@ -128,7 +128,7 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Drawing cho .NET hỗ trợ .NET Framework phiên bản 2.0, .NET StVàard 2.0 trở lên." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Drawing cho .NET hỗ trợ .NET Framework phiên bản 2.0, .NET Standard 2.0 trở lên." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

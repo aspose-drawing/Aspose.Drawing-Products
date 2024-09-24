@@ -72,7 +72,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/content h2="Over Aspose.Drawing voor .NET-API" %}}
 
-Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaEne code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET StEnard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
+Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaEne code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
 
 Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestEnsformaten.
 

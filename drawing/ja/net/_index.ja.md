@@ -128,7 +128,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Drawing 用 .NET は、.NET Framework バージョン 2.0、.NET Stそしてard 2.0 以降をサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Drawing 用 .NET は、.NET Framework バージョン 2.0、.NET Standard 2.0 以降をサポートします。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

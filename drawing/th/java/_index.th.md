@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing เส�
      <h3>
       วาดอาร์ค - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-เส้นsเส้นโค้งsShapes-Drawอาร์ค-Drawอาร์ค.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

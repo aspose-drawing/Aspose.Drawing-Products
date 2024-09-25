@@ -14,7 +14,7 @@ Keywords: create Rektangel via C#, 2D graphics, drawing API, create bitmap C#, D
 
 {{% blocks/products/pf/agp/content h2="Hur man skapar en rektangelbildfil med hjälp av C#" %}}
 
-Upptäck enkelheten i att skapa rektangulära bildfiler med C#. Det här dokumentet ger viktiga insikter och vägledning, oavsett om du är en erfaren utvecklare eller precis har börjat. Lär dig stegen för att sömlöst integrera bildskapande av rektangel i dina projekt och förbättra dina programmeringsfärdigheter. För att skapa rektangelfiler använder vi biblioteket [Aspose.Drawing för .NET](https://products.aspose.com/drawing/net), som är ett funktionsrikt, kraftfullt och lättanvänt 2D-grafikritnings-API för C# plattform. Öppna [NuGet](https://www.nuget.org/packages/aspose.drawing) pakethanteraren, seKurvah för **Aspose.Drawing** och installera. Du kan också använda följande kommando från Package Manager Console.
+Upptäck enkelheten i att skapa rektangulära bildfiler med C#. Det här dokumentet ger viktiga insikter och vägledning, oavsett om du är en erfaren utvecklare eller precis har börjat. Lär dig stegen för att sömlöst integrera bildskapande av rektangel i dina projekt och förbättra dina programmeringsfärdigheter. För att skapa rektangelfiler använder vi biblioteket [Aspose.Drawing för .NET](https://products.aspose.com/drawing/net), som är ett funktionsrikt, kraftfullt och lättanvänt 2D-grafikritnings-API för C# plattform. Öppna [NuGet](https://www.nuget.org/packages/aspose.drawing) pakethanteraren, seCurveh för **Aspose.Drawing** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 ```cs

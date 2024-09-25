@@ -58,7 +58,7 @@ Aspose.Drawing および .NET は、すべての主要なオペレーティン�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="スプライン イメージ ファイルの作成 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawスプライン.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="アーク" description="アーク ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲線" description="曲線 ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="ライン" description="ラインポータブルネットワークグラフィックス画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="スプライン" description="スプライン ポータブル ネットワーク グラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="ラインポータブルネットワークグラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Spline ポータブル ネットワーク グラフィックス画像" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

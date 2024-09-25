@@ -14,7 +14,7 @@ keywords: create Linje via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="Hur man skapar en linjebildsfil med C#" %}}
 
-Upptäck enkelheten i att skapa Linje-bildfiler med C#. Det här dokumentet ger viktiga insikter och vägledning, oavsett om du är en erfaren utvecklare eller precis har börjat. Lär dig stegen för att sömlöst integrera Linje-bildskapande i dina projekt och förbättra dina programmeringsfärdigheter. För att skapa linjefiler använder vi biblioteket [Aspose.Drawing för .NET](https://products.aspose.com/drawing/net), som är ett funktionsrikt, kraftfullt och lättanvänt 2D-grafikritnings-API för C# plattform. Öppna [NuGet](https://www.nuget.org/packages/aspose.drawing) pakethanteraren, sök efter **Aspose.Drawing** och installera. Du kan också använda följande kommando från Package Manager Console.
+Upptäck enkelheten i att skapa Line-bildfiler med C#. Det här dokumentet ger viktiga insikter och vägledning, oavsett om du är en erfaren utvecklare eller precis har börjat. Lär dig stegen för att sömlöst integrera Line-bildskapande i dina projekt och förbättra dina programmeringsfärdigheter. För att skapa linjefiler använder vi biblioteket [Aspose.Drawing för .NET](https://products.aspose.com/drawing/net), som är ett funktionsrikt, kraftfullt och lättanvänt 2D-grafikritnings-API för C# plattform. Öppna [NuGet](https://www.nuget.org/packages/aspose.drawing) pakethanteraren, sök efter **Aspose.Drawing** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till at
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Skapa linjebildsfil - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLinje.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Process Linje via gratis onlineapp" sectionDescription="Skapa Linje-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följande fördelar:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Process Linje via gratis onlineapp" sectionDescription="Skapa Line-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följande fördelar:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Du behöver inte ladda ner eller ställa in någonting" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Du behöver inte skriva någon kod" >}}
@@ -93,9 +93,9 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra former som stöds" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Båge" description="Båge Bärbar nätverksgrafik Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Kurva" description="Kurva Bärbar nätverksgrafik Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linje" description="Linje Bärbar nätverksgrafik Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Bärbar nätverksgrafik Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Bärbar nätverksgrafik Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Bärbar nätverksgrafik Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

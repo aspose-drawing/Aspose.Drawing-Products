@@ -7,7 +7,7 @@ keywords: create Дуга via C#, 2D graphics, drawing API, create bitmap C#, Dr
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения Дуги с помощью C#." h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений Дуга." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения Дуги с помощью C#." h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений Arc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="для .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing для .NET поддерживается во всех основ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Создать файл изображения дуги — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawЛиния.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Нет необходимости писать какой-либо код" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите свои файлы и создайте текстовый рисунок в веб-браузере." >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получите ссылку для скачивания полученного файла Дуга." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получите ссылку для скачивания полученного файла Arc." >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые формы" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Дуга" description="Изображение портативной сетевой графики Дуга" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Изгиб" description="Изображение портативной сетевой графики Изгиб" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Линия" description="Линия Портативная сетевая графика Изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Изображение портативной сетевой графики Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Изображение портативной сетевой графики Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Линия Портативная сетевая графика Изображение" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

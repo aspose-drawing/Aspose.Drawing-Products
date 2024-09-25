@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="스플라인 이미지 파일 생성 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw운형자.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 모양" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="호" description="호 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="곡선" description="곡선 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="선" description="라인 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="운형자" description="스플라인 휴대용 네트워크 그래픽 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="라인 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="스플라인 휴대용 네트워크 그래픽 그림" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

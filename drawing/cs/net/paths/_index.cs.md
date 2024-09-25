@@ -14,7 +14,7 @@ Keywords: create Path via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit soubor obrázku cesty pomocí C#" %}}
 
-Objevte jednoduchost vytváření obrazových souborů Path pomocí C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se kroky k bezproblémovému začlenění vytváření obrazů Path do vašich projektů a zdokonalte své programovací dovednosti. K vytvoření souborů Path použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seKřivkah pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Objevte jednoduchost vytváření obrazových souborů Path pomocí C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se kroky k bezproblémovému začlenění vytváření obrazů Path do vašich projektů a zdokonalte své programovací dovednosti. K vytvoření souborů Path použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 ```cs

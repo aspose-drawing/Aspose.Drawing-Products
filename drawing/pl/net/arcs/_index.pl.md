@@ -7,7 +7,7 @@ keywords: create Łuk via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu Łuk za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania za pomocą plików obrazów Łuk" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu Łuk za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania za pomocą plików obrazów Arc" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing dla .NET jest obsługiwany we wszystkich głównych systemach ope
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Utwórz plik obrazu łuku — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLinia.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nie trzeba pisać żadnego kodu" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki i utwórz rysunek tekstowy w przeglądarce internetowej" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Łuk" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Arc" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane kształty" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Łuk" description="Obraz grafiki sieciowej Łuk Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Krzywa" description="Obraz graficzny Krzywa Portable Network" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linia" description="Linia Przenośna Grafika Sieciowa Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Obraz grafiki sieciowej Łuk Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Obraz graficzny Krzywa Portable Network" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Przenośna Grafika Sieciowa Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

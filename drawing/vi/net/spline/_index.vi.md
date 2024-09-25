@@ -7,14 +7,14 @@ keywords: create đường cong via C#, 2D graphics, drawing API, create bitmap 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Tạo file ảnh đường cong qua C#" h2="Xây dựng các ứng dụng .NET tùy chỉnh của bạn để vẽ bằng các tệp hình ảnh đường cong" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="cho .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tạo file ảnh đường cong qua C#" h2="Xây dựng các ứng dụng .NET tùy chỉnh của bạn để vẽ bằng các tệp hình ảnh Spline" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="cho .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="cho .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Cách tạo file ảnh đường cong bằng C#" %}}
 
-Khám phá sự đơn giản của việc tạo file ảnh đường cong với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh đường cong vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo tệp đường cong, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là thư viện API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), tìm kiếm **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Khám phá sự đơn giản của việc tạo file ảnh đường cong với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh đường cong vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo tệp Spline, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là thư viện API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), tìm kiếm **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing cho .NET được hỗ trợ trên tất cả các hệ điều h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tạo File Ảnh đường cong - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawđường cong.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 
 {{< blocks/products/pf/agp/other-supported-section title="Các hình dạng được hỗ trợ khác" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="vòng cung" description="Hình ảnh đồ họa mạng di động vòng cung" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Đường cong" description="Hình ảnh đồ họa mạng di động Đường cong" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Đường kẻ" description="Hình ảnh đồ họa mạng di động Đường kẻ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="đường cong" description="Hình ảnh đồ họa mạng di động đường cong" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Hình ảnh đồ họa mạng di động Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Hình ảnh đồ họa mạng di động Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Hình ảnh đồ họa mạng di động Line" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Hình ảnh đồ họa mạng di động Spline" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

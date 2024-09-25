@@ -1,20 +1,20 @@
 ---
-title: .NET経由で曲線画像ファイルを作成
+title: .NET経由でCurve画像ファイルを作成
 weight: 20
 url: /ja/net/curves/
-description: .NET経由で曲線画像ファイルを作成します。
+description: .NET経由でCurve画像ファイルを作成します。
 Keywords: create 曲線 via C#, 2D graphics, drawing API, create bitmap C#, Drawing .NET用, save bitmap, save 曲線 image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, 曲線 image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C#経由で曲線画像ファイルを作成" h2="曲線 イメージ ファイルを使用して描画するためのカスタム .NET アプリケーションを構築する" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C#経由でCurve画像ファイルを作成" h2="Curve イメージ ファイルを使用して描画するためのカスタム .NET アプリケーションを構築する" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET用" >}}
 
 
 {{% blocks/products/pf/agp/content h2="C#を使用して曲線画像ファイルを作成する方法" %}}
 
-C# でカーブ イメージ ファイルを簡単に作成できることを実感してください。このドキュメントは、経験豊富な開発者でも、初心者でも、重要な洞察とガイダンスを提供します。曲線イメージの作成をプロジェクトにシームレスに組み込む手順を学び、プログラミング スキルを向上させます。カーブ ファイルを作成するには、[Aspose.Drawing用.NET用](https://products.aspose.com/drawing/net) ライブラリを使用します。これは、C# 用の機能豊富で強力で使いやすい 2D グラフィックス描画 API です。プラットフォーム。 [NuGet](https://www.nuget.org/packages/aspose.drawing) パッケージ マネージャー、se曲線h for **Aspose.Drawing** を開いてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+C# でカーブ イメージ ファイルを簡単に作成できることを実感してください。このドキュメントは、経験豊富な開発者でも、初心者でも、重要な洞察とガイダンスを提供します。曲線イメージの作成をプロジェクトにシームレスに組み込む手順を学び、プログラミング スキルを向上させます。カーブ ファイルを作成するには、[Aspose.Drawing用.NET用](https://products.aspose.com/drawing/net) ライブラリを使用します。これは、C# 用の機能豊富で強力で使いやすい 2D グラフィックス描画 API です。プラットフォーム。 [NuGet](https://www.nuget.org/packages/aspose.drawing) パッケージ マネージャー、seCurveh for **Aspose.Drawing** を開いてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing および .NET は、すべての主要なオペレーティン�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="曲線画像ファイルの作成 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw曲線.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="無料オンラインアプリによるプロセスカーブ" sectionDescription="[ライブ デモ Web サイト](https://products.aspose.app/drawing) にアクセスして、曲線 画像を作成したり、画像にテキストを追加したりできます。 ライブ デモには、次の利点があります。" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="無料オンラインアプリによるプロセスカーブ" sectionDescription="[ライブ デモ Web サイト](https://products.aspose.app/drawing) にアクセスして、Curve 画像を作成したり、画像にテキストを追加したりできます。 ライブ デモには、次の利点があります。" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="何もダウンロードしたり設定したりする必要はありません" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません" >}}
@@ -93,9 +93,9 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="アーク" description="アーク ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲線" description="曲線 ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="ライン" description="ラインポータブルネットワークグラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="ラインポータブルネットワークグラフィックス画像" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

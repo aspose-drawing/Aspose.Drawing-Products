@@ -14,7 +14,7 @@ Keywords: create Anti aliasing via C#, 2D graphics, drawing API, create bitmap C
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 创建抗锯齿图像文件" %}}
 
-了解使用 C# 创建抗锯齿图像文件的简单性。无论您是经验丰富的开发人员还是新手，本文档都提供了重要的见解和指导。了解将抗锯齿图像创建无缝合并到您的项目中的步骤并增强您的编程技能。为了创建抗锯齿文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 2D 图形绘制 API，用于C#平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器、se曲线h for **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
+了解使用 C# 创建抗锯齿图像文件的简单性。无论您是经验丰富的开发人员还是新手，本文档都提供了重要的见解和指导。了解将抗锯齿图像创建无缝合并到您的项目中的步骤并增强您的编程技能。为了创建抗锯齿文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 2D 图形绘制 API，用于C#平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器、seCurveh for **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 ```cs

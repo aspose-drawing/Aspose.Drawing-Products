@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing đườ
      Vẽ đồ họa vector
     </h2>
     <p>
-     Aspose.Drawing cho Java cho phép vẽ đồ họa vector khác nhau như cung tròn, Cardinal đường cong, Bezier spline, elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. ví dụ đây là mã để vẽ vòng cung.
+     Aspose.Drawing cho Java cho phép vẽ đồ họa vector khác nhau như cung tròn, Cardinal Spline, Bezier spline, elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. ví dụ đây là mã để vẽ vòng cung.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Vẽ vòng cung - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-Đường kẻsĐường congsShapes-Drawvòng cung-Drawvòng cung.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

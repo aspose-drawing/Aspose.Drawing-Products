@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="建立樣條線影像檔案 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw樣條線.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ Aspose.Drawing 中的繪圖引擎使用戶能夠渲染向量圖形，包括直�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的形狀" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="弧" description="弧可攜式網路圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲線" description="曲線便攜式網路圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="線" description="線路便攜式網路圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="樣條線" description="樣條便攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc可攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="曲線便攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="線路便攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="樣條便攜式網路圖形圖片" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

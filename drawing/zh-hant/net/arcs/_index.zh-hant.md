@@ -1,13 +1,13 @@
 ---
-title: 透過.NET建立弧映像文件
+title: 透過.NET建立Arc映像文件
 weight: 20
 url: /zh-hant/net/arcs/
-description: 透過.NET建立弧映像檔。
+description: 透過.NET建立Arc映像檔。
 keywords: create 弧 via C#, 2D graphics, drawing API, create bitmap C#, Drawing 適用於 .NET, save bitmap, save 弧 image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, 弧 image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="透過C#建立弧映像文件" h2="建立您的自訂 .NET 應用程式以使用 弧 映像檔進行繪圖" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="適用於 .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="透過C#建立Arc映像文件" h2="建立您的自訂 .NET 應用程式以使用 弧 映像檔進行繪圖" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="適用於 .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="適用於 .NET" >}}
 
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="建立弧形圖像檔案 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw線.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing 中的繪圖引擎使用戶能夠渲染向量圖形，包括直�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的形狀" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="弧" description="弧可攜式網路圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲線" description="曲線便攜式網路圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="線" description="線路便攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc可攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="曲線便攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="線路便攜式網路圖形圖片" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

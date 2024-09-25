@@ -344,7 +344,7 @@ and
      Vẽ đồ họa vector
     </h2>
     <p>
-     Aspose.Drawing cho .NET cho phép vẽ các đồ họa vector khác nhau như đường cong, Cardinal đường cong, Bezier spline, elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. Ví dụ: đây là mã để vẽ vòng cung.
+     Aspose.Drawing cho .NET cho phép vẽ các đồ họa vector khác nhau như đường cong, Cardinal Spline, Bezier spline, elip, đường cong khép kín, đường thẳng và một số kiểu khác. Chỉ cần vài dòng mã để vẽ các loại đồ họa vector khác nhau bằng API. Ví dụ: đây là mã để vẽ vòng cung.
     </p>
     <div class="codeblock" id="code">
      <h3>

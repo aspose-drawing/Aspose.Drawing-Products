@@ -344,7 +344,7 @@ and
      Vektör Grafikleri Çizin
     </h2>
     <p>
-     .NET için Aspose.Drawing, yaylar, Kardinal Kamalı çizgi, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. Örneğin burada yay çizmenin kodu var.
+     .NET için Aspose.Drawing, yaylar, Kardinal Spline, Bezier spline, elipsler, kapalı eğriler, çizgiler ve diğer birçok tür gibi farklı vektör grafiklerinin çizilmesine olanak tanır. API'yi kullanarak farklı türde vektör grafikleri çizmek için yalnızca birkaç satır kod gerekir. Örneğin burada yay çizmenin kodu var.
     </p>
     <div class="codeblock" id="code">
      <h3>

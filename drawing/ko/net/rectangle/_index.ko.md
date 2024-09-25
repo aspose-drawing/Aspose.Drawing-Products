@@ -14,7 +14,7 @@ Keywords: create 구형 via C#, 2D graphics, drawing API, create bitmap C#, Draw
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 직사각형 이미지 파일을 만드는 방법" %}}
 
-C#를 사용하여 직사각형 이미지 파일을 만드는 단순성을 경험해 보세요. 이 문서는 숙련된 개발자이든 이제 막 시작하는 개발자이든 관계없이 필수적인 통찰력과 지침을 제공합니다. 직사각형 이미지 생성을 프로젝트에 원활하게 통합하고 프로그래밍 기술을 향상시키는 단계를 알아보세요. 구형 파일을 생성하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 C#용 2D 그래픽 드로잉 API인 [.NET용 Aspose.Drawing](https://products.aspose.com/raw/net) 라이브러리를 사용합니다. 플랫폼. **Aspose.Drawing**용 [NuGet](https://www.nuget.org/packages/aspose.드로잉) 패키지 관리자인 se곡선h를 열고 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+C#를 사용하여 직사각형 이미지 파일을 만드는 단순성을 경험해 보세요. 이 문서는 숙련된 개발자이든 이제 막 시작하는 개발자이든 관계없이 필수적인 통찰력과 지침을 제공합니다. 직사각형 이미지 생성을 프로젝트에 원활하게 통합하고 프로그래밍 기술을 향상시키는 단계를 알아보세요. 구형 파일을 생성하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 C#용 2D 그래픽 드로잉 API인 [.NET용 Aspose.Drawing](https://products.aspose.com/raw/net) 라이브러리를 사용합니다. 플랫폼. **Aspose.Drawing**용 [NuGet](https://www.nuget.org/packages/aspose.드로잉) 패키지 관리자인 seCurveh를 열고 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 ```cs

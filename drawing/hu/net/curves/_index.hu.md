@@ -14,7 +14,7 @@ Keywords: create Görbe via C#, 2D graphics, drawing API, create bitmap C#, Draw
 
 {{% blocks/products/pf/agp/content h2="Görbe képfájl létrehozása a C# segítségével" %}}
 
-Fedezze fel a Görbe képfájlok létrehozásának egyszerűségét a C# segítségével. Ez a dokumentum alapvető betekintést és útmutatást nyújt, akár tapasztalt fejlesztő, akár most kezdő. Tanulja meg azokat a lépéseket, amelyekkel zökkenőmentesen építheti be a Görbe képalkotást projektjeibe, és fejlesztheti programozási készségeit. A Görbe fájlok létrehozásához a [Aspose.Drawing .NET-hez](https://products.aspose.com/drawing/net) könyvtárat használjuk, amely funkciókban gazdag, hatékony és könnyen használható 2D grafikus rajz API C#-hez. platformon. Nyissa meg a [NuGet](https://www.nuget.org/packages/aspose.drawing) csomagkezelőt, a seGörbeh for **Aspose.Drawing** eszközt, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+Fedezze fel a Görbe képfájlok létrehozásának egyszerűségét a C# segítségével. Ez a dokumentum alapvető betekintést és útmutatást nyújt, akár tapasztalt fejlesztő, akár most kezdő. Tanulja meg azokat a lépéseket, amelyekkel zökkenőmentesen építheti be a Görbe képalkotást projektjeibe, és fejlesztheti programozási készségeit. A Görbe fájlok létrehozásához a [Aspose.Drawing .NET-hez](https://products.aspose.com/drawing/net) könyvtárat használjuk, amely funkciókban gazdag, hatékony és könnyen használható 2D grafikus rajz API C#-hez. platformon. Nyissa meg a [NuGet](https://www.nuget.org/packages/aspose.drawing) csomagkezelőt, a seCurveh for **Aspose.Drawing** eszközt, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Görbe képfájl létrehozása - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawGörbe.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott formák" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Ív" description="Ív hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Görbe" description="Görbe hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Vonal" description="Vonal hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line hordozható hálózati grafikus kép" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

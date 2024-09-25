@@ -58,7 +58,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Lijnafbeeldingsbestand maken - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLijn.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Lijn-bestand" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Line-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde vormen" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Boog" description="Boog Portable Network Grafisch beeld" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Kromme" description="Kromme draagbare netwerkafbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Lijn" description="Lijn draagbare netwerk grafische afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Portable Network Grafisch beeld" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve draagbare netwerkafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Lijn draagbare netwerk grafische afbeelding" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

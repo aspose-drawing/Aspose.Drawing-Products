@@ -409,9 +409,9 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curve, 
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arcoo da disegno - Java
+      Arco da disegno - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LineasCurvasShapes-DrawArco-DrawArco.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

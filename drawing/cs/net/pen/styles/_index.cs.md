@@ -14,7 +14,7 @@ Keywords: create Pen via C#, 2D graphics, drawing API, create bitmap C#, Drawing
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit soubor obrázku pera pomocí C#" %}}
 
-Objevte jednoduchost vytváření obrazových souborů pera se C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se, jak plynule začlenit vytváření obrázků perem do svých projektů a zlepšit své programovací dovednosti. Abychom mohli vytvářet soubory per, použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seKřivkah pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Objevte jednoduchost vytváření obrazových souborů pera se C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se, jak plynule začlenit vytváření obrázků perem do svých projektů a zlepšit své programovací dovednosti. Abychom mohli vytvářet soubory per, použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 ```cs

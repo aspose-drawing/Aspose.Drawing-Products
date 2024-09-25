@@ -14,7 +14,7 @@ Keywords: create 曲线 via C#, 2D graphics, drawing API, create bitmap C#, Draw
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 创建曲线图像文件" %}}
 
-发现使用 C# 创建曲线图像文件的简单性。无论您是经验丰富的开发人员还是新手，本文档都提供了重要的见解和指导。了解将曲线图像创建无缝融入您的项目并增强您的编程技能的步骤。为了创建曲线文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 C# 2D 图形绘制 API平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器、se曲线h for **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
+发现使用 C# 创建曲线图像文件的简单性。无论您是经验丰富的开发人员还是新手，本文档都提供了重要的见解和指导。了解将曲线图像创建无缝融入您的项目并增强您的编程技能的步骤。为了创建曲线文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 C# 2D 图形绘制 API平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器、seCurveh for **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="创建曲线图像文件 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw曲线.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing 中的绘图引擎使用户能够渲染矢量图形，包括直�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="弧" description="弧便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲线" description="曲线便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="线" description="线路便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="曲线便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="线路便携式网络图形图片" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

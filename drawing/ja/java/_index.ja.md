@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 曲線�
      <h3>
       円弧の描画 - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-ラインs曲線sShapes-Drawアーク-Drawアーク.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

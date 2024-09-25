@@ -93,9 +93,9 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované tvary" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Oblouk" description="Obrázek přenosné síťové grafiky Oblouk" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Křivka" description="Obrázek přenosné síťové grafiky Křivka" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Čára" description="Obrázek čárové přenosné síťové grafiky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Obrázek přenosné síťové grafiky Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Obrázek přenosné síťové grafiky Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Obrázek čárové přenosné síťové grafiky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Obrázek přenosné síťové grafiky Spline" >}}
 
 

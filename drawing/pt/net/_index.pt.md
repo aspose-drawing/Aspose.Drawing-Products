@@ -348,7 +348,7 @@ and
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arcoo de Desenho - C#
+      Arco de Desenho - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

@@ -14,7 +14,7 @@ Keywords: create Brush via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="C#を使用したソリッドブラシ画像ファイルの作成方法" %}}
 
-C# でブラシ イメージ ファイルを簡単に作成できることを実感してください。このドキュメントは、経験豊富な開発者でも、初心者でも、重要な洞察とガイダンスを提供します。ブラシ イメージの作成をプロジェクトにシームレスに組み込む手順を学び、プログラミング スキルを向上させます。ブラシ ファイルを作成するには、[Aspose.Drawing用.NET用](https://products.aspose.com/drawing/net) ライブラリを使用します。これは、C# 用の機能豊富で強力で使いやすい 2D グラフィック描画 API です。プラットフォーム。 [NuGet](https://www.nuget.org/packages/aspose.drawing) パッケージ マネージャー、se曲線h for **Aspose.Drawing** を開いてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+C# でブラシ イメージ ファイルを簡単に作成できることを実感してください。このドキュメントは、経験豊富な開発者でも、初心者でも、重要な洞察とガイダンスを提供します。ブラシ イメージの作成をプロジェクトにシームレスに組み込む手順を学び、プログラミング スキルを向上させます。ブラシ ファイルを作成するには、[Aspose.Drawing用.NET用](https://products.aspose.com/drawing/net) ライブラリを使用します。これは、C# 用の機能豊富で強力で使いやすい 2D グラフィック描画 API です。プラットフォーム。 [NuGet](https://www.nuget.org/packages/aspose.drawing) パッケージ マネージャー、seCurveh for **Aspose.Drawing** を開いてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 ```cs

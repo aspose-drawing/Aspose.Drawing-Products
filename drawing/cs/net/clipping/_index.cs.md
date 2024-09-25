@@ -14,7 +14,7 @@ Keywords: create Výstřižek via C#, 2D graphics, drawing API, create bitmap C#
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit soubor ořezového obrázku pomocí C#" %}}
 
-Objevte jednoduchost vytváření souborů ořezových obrázků pomocí C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se, jak plynule začlenit vytváření obrázků Výstřižek do svých projektů a zlepšit své programovací dovednosti. K vytvoření souborů Výstřižek použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seKřivkah pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Objevte jednoduchost vytváření souborů ořezových obrázků pomocí C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se, jak plynule začlenit vytváření obrázků Výstřižek do svých projektů a zlepšit své programovací dovednosti. K vytvoření souborů Výstřižek použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 ```cs

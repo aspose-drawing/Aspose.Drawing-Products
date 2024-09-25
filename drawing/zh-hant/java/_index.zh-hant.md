@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 曲線�
      <h3>
       畫弧 - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-線s曲線sShapes-Draw弧-Draw弧.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

@@ -7,14 +7,14 @@ Keywords: create 곡선 via C#, 2D graphics, drawing API, create bitmap C#, Draw
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 곡선 이미지 파일 생성" h2="곡선 이미지 파일로 그리기 위한 맞춤형 .NET 애플리케이션 구축" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET의 경우" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 곡선 이미지 파일 생성" h2="Curve 이미지 파일로 그리기 위한 맞춤형 .NET 애플리케이션 구축" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET의 경우" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET의 경우" >}}
 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 곡선 이미지 파일을 만드는 방법" %}}
 
-C#로 곡선 이미지 파일을 생성하는 간편함을 경험해보세요. 이 문서는 숙련된 개발자이든 이제 막 시작하는 개발자이든 관계없이 필수적인 통찰력과 지침을 제공합니다. 곡선 이미지 생성을 프로젝트에 원활하게 통합하고 프로그래밍 기술을 향상시키는 단계를 알아보세요. 곡선 파일을 생성하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 C#용 2D 그래픽 드로잉 API인 [.NET용 Aspose.Drawing](https://products.aspose.com/raw/net) 라이브러리를 사용합니다. 플랫폼. **Aspose.Drawing**용 [NuGet](https://www.nuget.org/packages/aspose.드로잉) 패키지 관리자인 se곡선h를 열고 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+C#로 곡선 이미지 파일을 생성하는 간편함을 경험해보세요. 이 문서는 숙련된 개발자이든 이제 막 시작하는 개발자이든 관계없이 필수적인 통찰력과 지침을 제공합니다. 곡선 이미지 생성을 프로젝트에 원활하게 통합하고 프로그래밍 기술을 향상시키는 단계를 알아보세요. 곡선 파일을 생성하기 위해 기능이 풍부하고 강력하며 사용하기 쉬운 C#용 2D 그래픽 드로잉 API인 [.NET용 Aspose.Drawing](https://products.aspose.com/raw/net) 라이브러리를 사용합니다. 플랫폼. **Aspose.Drawing**용 [NuGet](https://www.nuget.org/packages/aspose.드로잉) 패키지 관리자인 seCurveh를 열고 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="곡선 이미지 파일 생성 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw곡선.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 모양" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="호" description="호 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="곡선" description="곡선 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="선" description="라인 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="라인 휴대용 네트워크 그래픽 사진" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

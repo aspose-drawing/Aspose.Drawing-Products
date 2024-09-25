@@ -14,7 +14,7 @@ Keywords: create 剪裁 via C#, 2D graphics, drawing API, create bitmap C#, Draw
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 建立剪貼影像文件" %}}
 
-發現使用 C# 建立剪貼影像檔案的簡單性。無論您是經驗豐富的開發人員還是新手，本文檔都提供了重要的見解和指導。了解將剪切影像創建無縫合併到您的專案中的步驟並增強您的程式設計技能。為了建立剪輯文件，我們將使用 [Aspose.Drawing 換 .NET](https://products.aspose.com/drawing/net) 函式庫，這是一個功能豐富、強大且易於使用的 C# 2D 圖形繪製 API平台。開啟 [努格特](https://www.nuget.org/packages/aspose.drawing) 套件管理器、se曲線h for **Aspose.Drawing** 並安裝。您也可以從套件管理器控制台使用以下命令。
+發現使用 C# 建立剪貼影像檔案的簡單性。無論您是經驗豐富的開發人員還是新手，本文檔都提供了重要的見解和指導。了解將剪切影像創建無縫合併到您的專案中的步驟並增強您的程式設計技能。為了建立剪輯文件，我們將使用 [Aspose.Drawing 換 .NET](https://products.aspose.com/drawing/net) 函式庫，這是一個功能豐富、強大且易於使用的 C# 2D 圖形繪製 API平台。開啟 [努格特](https://www.nuget.org/packages/aspose.drawing) 套件管理器、seCurveh for **Aspose.Drawing** 並安裝。您也可以從套件管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="套件管理器控制台命令" offSpacer="true" %}}
 ```cs

@@ -7,7 +7,7 @@ keywords: create อาร์ค via C#, 2D graphics, drawing API, create bitmap
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="สร้างไฟล์ภาพ อาร์ค ด้วย C#" h2="สร้างแอปพลิเคชัน .NET ที่คุณกำหนดเองสำหรับการวาดภาพด้วยไฟล์ภาพ อาร์ค" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับ .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="สร้างไฟล์ภาพ อาร์ค ด้วย C#" h2="สร้างแอปพลิเคชัน .NET ที่คุณกำหนดเองสำหรับการวาดภาพด้วยไฟล์ภาพ Arc" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับ .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="สำหรับ .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing สำหรับ .NET รองรับระบบปฏิ�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="สร้างไฟล์ภาพ อาร์ค - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawเส้น.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing ไลบรารีกราฟิก 2D ข้ามแพล�
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปร่างที่รองรับอื่นๆ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="อาร์ค" description="รูปภาพกราฟิกเครือข่าย อาร์ค Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="เส้นโค้ง" description="รูปภาพกราฟิกเครือข่ายแบบพกพา เส้นโค้ง" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="เส้น" description="รูปภาพกราฟิกเครือข่ายแบบพกพาแบบเส้น" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="รูปภาพกราฟิกเครือข่าย อาร์ค Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="รูปภาพกราฟิกเครือข่ายแบบพกพา Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="รูปภาพกราฟิกเครือข่ายแบบพกพาแบบเส้น" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

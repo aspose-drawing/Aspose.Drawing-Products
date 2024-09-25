@@ -7,14 +7,14 @@ keywords: create Busur via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Buat file gambar Busur melalui C#" h2="Bangun aplikasi .NET khusus Anda untuk menggambar dengan file gambar Busur" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="untuk .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Buat file gambar Busur melalui C#" h2="Bangun aplikasi .NET khusus Anda untuk menggambar dengan file gambar Arc" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="untuk .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="untuk .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Cara Membuat File Gambar Busur Menggunakan C#" %}}
 
-Temukan kesederhanaan membuat file gambar Busur dengan C#. Dokumen ini memberikan wawasan dan panduan penting, baik Anda seorang pengembang berpengalaman atau baru memulai. Pelajari langkah-langkah untuk menggabungkan pembuatan gambar Busur dengan lancar ke dalam proyek Anda dan meningkatkan keterampilan pemrograman Anda. Untuk membuat file Busur, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), cari **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Temukan kesederhanaan membuat file gambar Busur dengan C#. Dokumen ini memberikan wawasan dan panduan penting, baik Anda seorang pengembang berpengalaman atau baru memulai. Pelajari langkah-langkah untuk menggabungkan pembuatan gambar Busur dengan lancar ke dalam proyek Anda dan meningkatkan keterampilan pemrograman Anda. Untuk membuat file Arc, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), cari **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Buat File Gambar Busur - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawGaris.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik ve
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Proses Busur melalui Aplikasi Online Gratis" sectionDescription="Buat gambar Busur, serta tambahkan teks ke gambar dengan mengunjungi [situs web Demo Langsung](https://products.aspose.app/drawing) Demo langsung memiliki manfaat berikut:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Proses Busur melalui Aplikasi Online Gratis" sectionDescription="Buat gambar Arc, serta tambahkan teks ke gambar dengan mengunjungi [situs web Demo Langsung](https://products.aspose.app/drawing) Demo langsung memiliki manfaat berikut:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Tidak perlu menulis kode apa pun" >}}
@@ -93,9 +93,9 @@ Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik ve
 
 {{< blocks/products/pf/agp/other-supported-section title="Bentuk lain yang didukung" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Busur" description="Gambar Grafik Jaringan Portabel Busur" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Melengkung" description="Gambar Grafik Jaringan Portabel Melengkung" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Garis" description="Gambar Grafik Jaringan Portabel Garis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Gambar Grafik Jaringan Portabel Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Gambar Grafik Jaringan Portabel Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Gambar Grafik Jaringan Portabel Garis" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -58,7 +58,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Çizgi Görüntü Dosyası Oluştur - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawAstar.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Şekiller" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Yay" description="Yay Taşınabilir Ağ Grafikleri Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Eğri" description="Eğri Taşınabilir Ağ Grafikleri Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Astar" description="Hat Taşınabilir Ağ Grafiği Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Hat Taşınabilir Ağ Grafiği Resmi" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

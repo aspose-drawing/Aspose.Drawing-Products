@@ -93,9 +93,9 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Formen" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Bogen" description="Bogen Tragbare Netzwerkgrafiken-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Kurve" description="Kurve Tragbare Netzwerkgrafiken-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linie" description="Linie Tragbare Netzwerkgrafiken-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Tragbare Netzwerkgrafiken-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Tragbare Netzwerkgrafiken-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Tragbare Netzwerkgrafiken-Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Spline Tragbare Netzwerkgrafiken-Bild" >}}
 
 

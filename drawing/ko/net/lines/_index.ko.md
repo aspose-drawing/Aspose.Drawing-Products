@@ -7,7 +7,7 @@ keywords: create 선 via C#, 2D graphics, drawing API, create bitmap C#, Drawing
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 라인 이미지 파일 생성" h2="선 이미지 파일로 그리기 위한 맞춤형 .NET 애플리케이션 구축" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET의 경우" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 라인 이미지 파일 생성" h2="Line 이미지 파일로 그리기 위한 맞춤형 .NET 애플리케이션 구축" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET의 경우" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET의 경우" >}}
 
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="라인 이미지 파일 생성 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw선.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 모양" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="호" description="호 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="곡선" description="곡선 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="선" description="라인 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="라인 휴대용 네트워크 그래픽 사진" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

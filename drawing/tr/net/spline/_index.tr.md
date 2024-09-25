@@ -7,7 +7,7 @@ keywords: create Kamalı çizgi via C#, 2D graphics, drawing API, create bitmap 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C# aracılığıyla Kamalı çizgi görüntü dosyası oluşturun" h2="Kamalı çizgi görüntü dosyalarıyla çizim yapmak için özel .NET uygulamalarınızı oluşturun" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C# aracılığıyla Kamalı çizgi görüntü dosyası oluşturun" h2="Spline görüntü dosyalarıyla çizim yapmak için özel .NET uygulamalarınızı oluşturun" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET için" >}}
 
@@ -57,8 +57,8 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Kamalı çizgi Görüntü Dosyası Oluşturun - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawKamalı çizgi.cs" >}}
+{{% blocks/products/pf/agp/code-block title="Spline Görüntü Dosyası Oluşturun - C#" offSpacer="" %}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Ücretsiz Çevrimiçi Uygulamayla Kamalı çizgi'ı İşleyin" sectionDescription="[Canlı Demolar web sitemizi](https://products.aspose.app/drawing) ziyaret ederek Kamalı çizgi görselleri oluşturun ve görsellere metin ekleyin. Canlı demo aşağıdaki avantajlara sahiptir:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Ücretsiz Çevrimiçi Uygulamayla Spline'ı İşleyin" sectionDescription="[Canlı Demolar web sitemizi](https://products.aspose.app/drawing) ziyaret ederek Kamalı çizgi görselleri oluşturun ve görsellere metin ekleyin. Canlı demo aşağıdaki avantajlara sahiptir:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Herhangi bir kod yazmaya gerek yok" >}}
@@ -93,10 +93,10 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Şekiller" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Yay" description="Yay Taşınabilir Ağ Grafikleri Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Eğri" description="Eğri Taşınabilir Ağ Grafikleri Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Astar" description="Hat Taşınabilir Ağ Grafiği Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Kamalı çizgi" description="Kamalı çizgi Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Hat Taşınabilir Ağ Grafiği Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Spline Taşınabilir Ağ Grafikleri Resmi" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -93,9 +93,9 @@ O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráfi
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras formas suportadas" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arco" description="Imagem gráfica de rede portátil Arco" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curva" description="Imagem gráfica de rede portátil Curva" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linha" description="Imagem gráfica de rede portátil de linha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Imagem gráfica de rede portátil Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Imagem gráfica de rede portátil Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Imagem gráfica de rede portátil de linha" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Imagem gráfica de rede portátil Spline" >}}
 
 

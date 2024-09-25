@@ -58,7 +58,7 @@ A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vonalképfájl létrehozása - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawVonal.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott formák" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Ív" description="Ív hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Görbe" description="Görbe hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Vonal" description="Vonal hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line hordozható hálózati grafikus kép" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

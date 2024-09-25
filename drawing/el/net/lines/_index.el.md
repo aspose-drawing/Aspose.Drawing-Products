@@ -7,14 +7,14 @@ keywords: create Γραμμή via C#, 2D graphics, drawing API, create bitmap C#
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο εικόνας Γραμμή μέσω C#" h2="Δημιουργήστε τις προσαρμοσμένες εφαρμογές .NET για σχέδιο με αρχεία εικόνας Γραμμή" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο εικόνας Γραμμή μέσω C#" h2="Δημιουργήστε τις προσαρμοσμένες εφαρμογές .NET για σχέδιο με αρχεία εικόνας Line" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="για .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Πώς να δημιουργήσετε ένα αρχείο εικόνας γραμμής χρησιμοποιώντας το C#" %}}
 
-Ανακαλύψτε την απλότητα της δημιουργίας αρχείων εικόνας Γραμμή με το C#. Αυτό το έγγραφο παρέχει βασικές πληροφορίες και καθοδήγηση, είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε. Μάθετε τα βήματα για να ενσωματώσετε απρόσκοπτα τη δημιουργία εικόνας Γραμμή στα έργα σας και να βελτιώσετε τις προγραμματιστικές σας δεξιότητες. Προκειμένου να δημιουργήσουμε αρχεία Γραμμή, θα χρησιμοποιήσουμε τη βιβλιοθήκη [Aspose.Drawing για .NET](https://products.aspose.com/drawing/net) που είναι μια πλούσια σε χαρακτηριστικά, ισχυρό και εύχρηστο API σχεδίασης γραφικών 2D για το C# πλατφόρμα. Ανοίξτε τη διαχείριση πακέτων [NuGet](https://www.nuget.org/packages/aspose.drawing), αναζητήστε **Aspose.Drawing** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Ανακαλύψτε την απλότητα της δημιουργίας αρχείων εικόνας Γραμμή με το C#. Αυτό το έγγραφο παρέχει βασικές πληροφορίες και καθοδήγηση, είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε. Μάθετε τα βήματα για να ενσωματώσετε απρόσκοπτα τη δημιουργία εικόνας Γραμμή στα έργα σας και να βελτιώσετε τις προγραμματιστικές σας δεξιότητες. Προκειμένου να δημιουργήσουμε αρχεία Line, θα χρησιμοποιήσουμε τη βιβλιοθήκη [Aspose.Drawing για .NET](https://products.aspose.com/drawing/net) που είναι μια πλούσια σε χαρακτηριστικά, ισχυρό και εύχρηστο API σχεδίασης γραφικών 2D για το C# πλατφόρμα. Ανοίξτε τη διαχείριση πακέτων [NuGet](https://www.nuget.org/packages/aspose.drawing), αναζητήστε **Aspose.Drawing** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Δημιουργία αρχείου εικόνας γραμμής - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawΓραμμή.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ PM> Install-Package Aspose.Drawing
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλα υποστηριζόμενα σχήματα" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Τόξο" description="Τόξο Φορητά γραφικά δικτύου Εικόνα" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Καμπύλη" description="Καμπύλη Φορητά γραφικά δικτύου Εικόνα" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Γραμμή" description="Γραμμή φορητή εικόνα γραφικών δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Φορητά γραφικά δικτύου Εικόνα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Φορητά γραφικά δικτύου Εικόνα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Γραμμή φορητή εικόνα γραφικών δικτύου" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

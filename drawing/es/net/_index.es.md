@@ -344,11 +344,11 @@ and
      Dibujar gráficos vectoriales
     </h2>
     <p>
-     Aspose.Drawing para .NET permite dibujar diferentes gráficos vectoriales como arcos, Cardinal Ranura, Bezier spline, elipses, curvas cerradas, líneas y muchos otros tipos. Solo se necesitan unas pocas líneas de código para dibujar diferentes tipos de gráficos vectoriales utilizando la API. Por ejemplo, aquí hay un código para dibujar un arco.
+     Aspose.Drawing para .NET permite dibujar diferentes gráficos vectoriales como arcos, Cardinal Spline, Bezier spline, elipses, curvas cerradas, líneas y muchos otros tipos. Solo se necesitan unas pocas líneas de código para dibujar diferentes tipos de gráficos vectoriales utilizando la API. Por ejemplo, aquí hay un código para dibujar un arco.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arcoo de dibujo - C#
+      Arco de dibujo - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

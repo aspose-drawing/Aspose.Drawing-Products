@@ -93,9 +93,9 @@ Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rende
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre forme supportate" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arco" description="Immagine grafica di rete portatile Arco" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curva" description="Immagine grafica di rete portatile Curva" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linea" description="Immagine di grafica di rete portatile di linea" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Immagine grafica di rete portatile Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Immagine grafica di rete portatile Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Immagine di grafica di rete portatile di linea" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Immagine grafica di rete portatile spline" >}}
 
 

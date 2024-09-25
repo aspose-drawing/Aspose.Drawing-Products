@@ -7,14 +7,14 @@ Keywords: create Křivka via C#, 2D graphics, drawing API, create bitmap C#, Dra
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor obrázku Křivka pomocí C#" h2="Sestavte si své vlastní aplikace .NET pro kreslení pomocí obrazových souborů Křivka" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pro .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor obrázku Křivka pomocí C#" h2="Sestavte si své vlastní aplikace .NET pro kreslení pomocí obrazových souborů Curve" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pro .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pro .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit zakřivený obrazový soubor pomocí C#" %}}
 
-Objevte jednoduchost vytváření obrazových souborů Křivka s C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se, jak plynule začlenit vytváření obrázků Křivka do svých projektů a zlepšit své programovací dovednosti. K vytvoření souborů Křivka použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seKřivkah pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Objevte jednoduchost vytváření obrazových souborů Křivka s C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se, jak plynule začlenit vytváření obrázků Křivka do svých projektů a zlepšit své programovací dovednosti. K vytvoření souborů Křivka použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing pro .NET je podporován na všech hlavních operačních systéme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Křivka Image File - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawKřivka.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory a vytvořit textovou kresbu ve webovém prohlížeči" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru Křivka" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru Curve" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované tvary" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Oblouk" description="Obrázek přenosné síťové grafiky Oblouk" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Křivka" description="Obrázek přenosné síťové grafiky Křivka" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Čára" description="Obrázek čárové přenosné síťové grafiky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Obrázek přenosné síťové grafiky Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Obrázek přenosné síťové grafiky Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Obrázek čárové přenosné síťové grafiky" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

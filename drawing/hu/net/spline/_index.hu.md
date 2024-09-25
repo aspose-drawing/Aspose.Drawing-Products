@@ -93,9 +93,9 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott formák" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Ív" description="Ív hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Görbe" description="Görbe hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Vonal" description="Vonal hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line hordozható hálózati grafikus kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Spline hordozható hálózati grafikus kép" >}}
 
 

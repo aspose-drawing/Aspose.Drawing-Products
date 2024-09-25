@@ -1,13 +1,13 @@
 ---
-title: .NET経由でアーク画像ファイルを作成
+title: .NET経由でArc画像ファイルを作成
 weight: 20
 url: /ja/net/arcs/
-description: .NET経由でアーク画像ファイルを作成します。
+description: .NET経由でArc画像ファイルを作成します。
 keywords: create アーク via C#, 2D graphics, drawing API, create bitmap C#, Drawing .NET用, save bitmap, save アーク image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, アーク image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C#経由でアーク画像ファイルを作成" h2="アーク イメージ ファイルを使用して描画するためのカスタム .NET アプリケーションを構築する" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C#経由でArc画像ファイルを作成" h2="Arc イメージ ファイルを使用して描画するためのカスタム .NET アプリケーションを構築する" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET用" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing および .NET は、すべての主要なオペレーティン�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="アークイメージファイルの作成 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawライン.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="無料オンラインアプリ経由でアークを処理" sectionDescription="[ライブ デモ Web サイト](https://products.aspose.app/drawing) にアクセスして、アーク 画像を作成したり、画像にテキストを追加したりできます。 ライブ デモには、次の利点があります。" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="無料オンラインアプリ経由でアークを処理" sectionDescription="[ライブ デモ Web サイト](https://products.aspose.app/drawing) にアクセスして、Arc 画像を作成したり、画像にテキストを追加したりできます。 ライブ デモには、次の利点があります。" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="何もダウンロードしたり設定したりする必要はありません" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません" >}}
@@ -93,9 +93,9 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="アーク" description="アーク ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲線" description="曲線 ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="ライン" description="ラインポータブルネットワークグラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="ラインポータブルネットワークグラフィックス画像" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

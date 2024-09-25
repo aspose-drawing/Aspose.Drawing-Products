@@ -93,9 +93,9 @@ PM> Install-Package Aspose.Drawing
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλα υποστηριζόμενα σχήματα" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Τόξο" description="Τόξο Φορητά γραφικά δικτύου Εικόνα" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Καμπύλη" description="Καμπύλη Φορητά γραφικά δικτύου Εικόνα" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Γραμμή" description="Γραμμή φορητή εικόνα γραφικών δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Φορητά γραφικά δικτύου Εικόνα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Φορητά γραφικά δικτύου Εικόνα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Γραμμή φορητή εικόνα γραφικών δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Εικόνα γραφικών φορητού δικτύου Spline" >}}
 
 

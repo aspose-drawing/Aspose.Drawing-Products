@@ -14,7 +14,7 @@ Keywords: create Text via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="Hoe u een tekstbeeldbestand kunt maken met de C#" %}}
 
-Ontdek de eenvoud van het maken van tekstafbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van tekstafbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om tekstbestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seKrommeh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Ontdek de eenvoud van het maken van tekstafbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van tekstafbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om tekstbestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs

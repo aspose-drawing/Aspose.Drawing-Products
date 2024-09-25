@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing kurva, 
      <h3>
       Menggambar Busur - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-GarissMelengkungsShapes-DrawBusur-DrawBusur.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

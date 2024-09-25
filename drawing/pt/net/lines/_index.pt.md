@@ -7,7 +7,7 @@ keywords: create Linha via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Criar arquivo de imagem de linha via C#" h2="Crie seus aplicativos .NET personalizados para desenhar com arquivos de imagem Linha" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Criar arquivo de imagem de linha via C#" h2="Crie seus aplicativos .NET personalizados para desenhar com arquivos de imagem Line" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing para .NET é compatível com todos os principais sistemas operaci
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Criar arquivo de imagem de linha - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLinha.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráfi
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras formas suportadas" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arco" description="Imagem gráfica de rede portátil Arco" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curva" description="Imagem gráfica de rede portátil Curva" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linha" description="Imagem gráfica de rede portátil de linha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Imagem gráfica de rede portátil Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Imagem gráfica de rede portátil Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Imagem gráfica de rede portátil de linha" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

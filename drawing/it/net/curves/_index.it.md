@@ -7,14 +7,14 @@ Keywords: create Curva via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Crea un file immagine curva tramite C#" h2="Crea le tue applicazioni .NET personalizzate per disegnare con i file immagine Curva" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Crea un file immagine curva tramite C#" h2="Crea le tue applicazioni .NET personalizzate per disegnare con i file immagine Curve" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Come creare un file immagine curva utilizzando C#" %}}
 
-Scopri la semplicità di creare file immagine Curva con C#. Questo documento fornisce approfondimenti e indicazioni essenziali, sia che tu sia uno sviluppatore esperto o che tu abbia appena iniziato. Impara i passaggi per incorporare perfettamente la creazione di immagini Curva nei tuoi progetti e migliorare le tue capacità di programmazione. Per creare file Curva, utilizzeremo la libreria [Aspose.Drawing per .NET](https://products.aspose.com/drawing/net), un'API di disegno grafico 2D ricca di funzionalità, potente e facile da usare per C# piattaforma. Apri il gestore pacchetti [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurvah per **Aspose.Drawing** e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+Scopri la semplicità di creare file immagine Curva con C#. Questo documento fornisce approfondimenti e indicazioni essenziali, sia che tu sia uno sviluppatore esperto o che tu abbia appena iniziato. Impara i passaggi per incorporare perfettamente la creazione di immagini Curva nei tuoi progetti e migliorare le tue capacità di programmazione. Per creare file Curve, utilizzeremo la libreria [Aspose.Drawing per .NET](https://products.aspose.com/drawing/net), un'API di disegno grafico 2D ricca di funzionalità, potente e facile da usare per C# piattaforma. Apri il gestore pacchetti [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh per **Aspose.Drawing** e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Crea file immagine curva - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurva.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rende
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre forme supportate" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arco" description="Immagine grafica di rete portatile Arco" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curva" description="Immagine grafica di rete portatile Curva" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linea" description="Immagine di grafica di rete portatile di linea" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Immagine grafica di rete portatile Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Immagine grafica di rete portatile Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Immagine di grafica di rete portatile di linea" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

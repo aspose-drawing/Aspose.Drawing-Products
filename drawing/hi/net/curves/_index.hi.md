@@ -14,7 +14,7 @@ Keywords: create वक्र via C#, 2D graphics, drawing API, create bitmap C#
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके कर्व इमेज फ़ाइल कैसे बनाएं" %}}
 
-C# के साथ कर्व छवि फ़ाइलें बनाने की सरलता की खोज करें। यह दस्तावेज़ आवश्यक अंतर्दृष्टि और मार्गदर्शन प्रदान करता है, चाहे आप एक अनुभवी डेवलपर हों या अभी शुरुआत कर रहे हों। अपनी परियोजनाओं में कर्व छवि निर्माण को सहजता से शामिल करने और अपने प्रोग्रामिंग कौशल को बढ़ाने के चरणों को जानें। कर्व फ़ाइलें बनाने के लिए, हम [.NET के लिए Aspose.Drawing](https://products.aspose.com/drawing/net) लाइब्रेरी का उपयोग करेंगे जो C# के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान 2D ग्राफिक्स ड्राइंग एपीआई है। प्लैटफ़ॉर्म। [नुगेट](https://www.nuget.org/packages/aspose.drawing) पैकेज मैनेजर खोलें, **Aspose.Drawing** के लिए seवक्रh और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+C# के साथ कर्व छवि फ़ाइलें बनाने की सरलता की खोज करें। यह दस्तावेज़ आवश्यक अंतर्दृष्टि और मार्गदर्शन प्रदान करता है, चाहे आप एक अनुभवी डेवलपर हों या अभी शुरुआत कर रहे हों। अपनी परियोजनाओं में कर्व छवि निर्माण को सहजता से शामिल करने और अपने प्रोग्रामिंग कौशल को बढ़ाने के चरणों को जानें। कर्व फ़ाइलें बनाने के लिए, हम [.NET के लिए Aspose.Drawing](https://products.aspose.com/drawing/net) लाइब्रेरी का उपयोग करेंगे जो C# के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान 2D ग्राफिक्स ड्राइंग एपीआई है। प्लैटफ़ॉर्म। [नुगेट](https://www.nuget.org/packages/aspose.drawing) पैकेज मैनेजर खोलें, **Aspose.Drawing** के लिए seCurveh और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="पैकेज मैनेजर कंसोल कमांड" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="वक्र छवि फ़ाइल बनाएँ - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawवक्र.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing के भीतर ड्राइंग इंजन उपय�
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित आकृतियाँ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="आर्क" description="आर्क पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="वक्र" description="कर्व पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="रेखा" description="लाइन पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="आर्क पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="कर्व पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="लाइन पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

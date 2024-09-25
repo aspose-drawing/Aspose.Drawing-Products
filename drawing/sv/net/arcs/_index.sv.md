@@ -1,20 +1,20 @@
 ---
-title: Skapa Båge-bildfil via .NET
+title: Skapa Arc-bildfil via .NET
 weight: 20
 url: /sv/net/arcs/
-description: Skapa Båge-bildfil via .NET.
+description: Skapa Arc-bildfil via .NET.
 keywords: create Båge via C#, 2D graphics, drawing API, create bitmap C#, Drawing för .NET, save bitmap, save Båge image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Båge image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Skapa Båge-bildfil via C#" h2="Bygg dina anpassade .NET-applikationer för att rita med Båge-bildfiler" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="för .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Skapa Arc-bildfil via C#" h2="Bygg dina anpassade .NET-applikationer för att rita med Arc-bildfiler" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="för .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="för .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Hur man skapar Båge Image File med C#" %}}
 
-Upptäck enkelheten i att skapa Båge-bildfiler med C#. Det här dokumentet ger viktiga insikter och vägledning, oavsett om du är en erfaren utvecklare eller precis har börjat. Lär dig stegen för att sömlöst integrera Båge-bildskapande i dina projekt och förbättra dina programmeringsfärdigheter. För att skapa Båge-filer kommer vi att använda biblioteket [Aspose.Drawing för .NET](https://products.aspose.com/drawing/net), som är ett funktionsrikt, kraftfullt och lättanvänt 2D-grafikritnings-API för C# plattform. Öppna [NuGet](https://www.nuget.org/packages/aspose.drawing) pakethanteraren, sök efter **Aspose.Drawing** och installera. Du kan också använda följande kommando från Package Manager Console.
+Upptäck enkelheten i att skapa Arc-bildfiler med C#. Det här dokumentet ger viktiga insikter och vägledning, oavsett om du är en erfaren utvecklare eller precis har börjat. Lär dig stegen för att sömlöst integrera Arc-bildskapande i dina projekt och förbättra dina programmeringsfärdigheter. För att skapa Arc-filer kommer vi att använda biblioteket [Aspose.Drawing för .NET](https://products.aspose.com/drawing/net), som är ett funktionsrikt, kraftfullt och lättanvänt 2D-grafikritnings-API för C# plattform. Öppna [NuGet](https://www.nuget.org/packages/aspose.drawing) pakethanteraren, sök efter **Aspose.Drawing** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till at
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Skapa Båge Image File - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLinje.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,12 +77,12 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Process Båge via gratis onlineapp" sectionDescription="Skapa Båge-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följande fördelar:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Process Båge via gratis onlineapp" sectionDescription="Skapa Arc-bilder, samt lägg till text till bilder genom att besöka vår [Live Demos-webbplats](https://products.aspose.app/drawing) Livedemon har följande fördelar:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Du behöver inte ladda ner eller ställa in någonting" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Du behöver inte skriva någon kod" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina filer och skapa textritning i webbläsaren" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Skaffa omedelbart nedladdningslänken för den resulterande Båge-filen" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Skaffa omedelbart nedladdningslänken för den resulterande Arc-filen" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra former som stöds" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Båge" description="Båge Bärbar nätverksgrafik Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Kurva" description="Kurva Bärbar nätverksgrafik Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linje" description="Linje Bärbar nätverksgrafik Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Bärbar nätverksgrafik Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Bärbar nätverksgrafik Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Bärbar nätverksgrafik Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

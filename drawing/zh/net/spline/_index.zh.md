@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="创建样条线图像文件 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw样条线.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ Aspose.Drawing 中的绘图引擎使用户能够渲染矢量图形，包括直�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="弧" description="弧便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="曲线" description="曲线便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="线" description="线路便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="样条线" description="样条便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="曲线便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="线路便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="样条便携式网络图形图片" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

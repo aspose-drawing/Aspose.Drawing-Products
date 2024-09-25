@@ -14,7 +14,7 @@ Keywords: create Cắt via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="Cách tạo file ảnh cắt bằng C#" %}}
 
-Khám phá sự đơn giản của việc tạo các tập tin hình ảnh Cắt với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh Cắt vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo các tệp Cắt, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là một API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), seĐường congh cho **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Khám phá sự đơn giản của việc tạo các tập tin hình ảnh Cắt với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh Cắt vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo các tệp Cắt, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là một API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh cho **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 ```cs

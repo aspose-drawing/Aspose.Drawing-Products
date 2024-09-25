@@ -14,7 +14,7 @@ Keywords: create Path via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="Cara Membuat File Gambar Jalur Menggunakan C#" %}}
 
-Temukan kesederhanaan membuat file gambar Path dengan C#. Dokumen ini memberikan wawasan dan panduan penting, baik Anda seorang pengembang berpengalaman atau baru memulai. Pelajari langkah-langkah untuk menggabungkan pembuatan gambar Path dengan lancar ke dalam proyek Anda dan tingkatkan keterampilan pemrograman Anda. Untuk membuat file Path, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), seMelengkungh untuk **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Temukan kesederhanaan membuat file gambar Path dengan C#. Dokumen ini memberikan wawasan dan panduan penting, baik Anda seorang pengembang berpengalaman atau baru memulai. Pelajari langkah-langkah untuk menggabungkan pembuatan gambar Path dengan lancar ke dalam proyek Anda dan tingkatkan keterampilan pemrograman Anda. Untuk membuat file Path, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh untuk **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 ```cs

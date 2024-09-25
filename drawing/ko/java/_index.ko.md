@@ -411,7 +411,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 곡선,
      <h3>
       호 그리기 - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-선s곡선sShapes-Draw호-Draw호.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

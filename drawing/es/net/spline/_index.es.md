@@ -7,14 +7,14 @@ keywords: create Ranura via C#, 2D graphics, drawing API, create bitmap C#, Draw
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Cree un archivo de imagen Ranura a través de C#" h2="Cree sus aplicaciones .NET personalizadas para dibujar con archivos de imagen Ranura" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cree un archivo de imagen Ranura a través de C#" h2="Cree sus aplicaciones .NET personalizadas para dibujar con archivos de imagen Spline" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen spline usando C#" %}}
 
-Descubra la simplicidad de crear archivos de imágenes Ranura con C#. Este documento proporciona información y orientación esenciales, ya sea que sea un desarrollador experimentado o recién esté comenzando. Conozca los pasos para incorporar perfectamente la creación de imágenes Ranura en sus proyectos y mejorar sus habilidades de programación. Para crear archivos Ranura, usaremos la biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que es una API de dibujo de gráficos 2D potente, fácil de usar y rica en funciones para C#. plataforma. Abra el administrador de paquetes [NuGet](https://www.nuget.org/packages/aspose.drawing), busque **Aspose.Drawing** e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+Descubra la simplicidad de crear archivos de imágenes Ranura con C#. Este documento proporciona información y orientación esenciales, ya sea que sea un desarrollador experimentado o recién esté comenzando. Conozca los pasos para incorporar perfectamente la creación de imágenes Ranura en sus proyectos y mejorar sus habilidades de programación. Para crear archivos Spline, usaremos la biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que es una API de dibujo de gráficos 2D potente, fácil de usar y rica en funciones para C#. plataforma. Abra el administrador de paquetes [NuGet](https://www.nuget.org/packages/aspose.drawing), busque **Aspose.Drawing** e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Crear archivo de imagen spline - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRanura.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras formas admitidas" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arco" description="Imagen de gráficos de red portátiles Arco" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curva" description="Imagen de gráficos de red portátiles curvos" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Línea" description="Imagen de gráficos de red portátiles de línea" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Ranura" description="Imagen de gráficos de red portátiles Ranura" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Imagen de gráficos de red portátiles Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Imagen de gráficos de red portátiles curvos" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Imagen de gráficos de red portátiles de línea" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Imagen de gráficos de red portátiles Spline" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

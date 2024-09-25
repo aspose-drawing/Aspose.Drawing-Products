@@ -58,7 +58,7 @@ Aspose.Drawing dla .NET jest obsługiwany we wszystkich głównych systemach ope
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Utwórz plik obrazu linii — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLinia.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nie trzeba pisać żadnego kodu" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki i utwórz rysunek tekstowy w przeglądarce internetowej" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Linia" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Line" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane kształty" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Łuk" description="Obraz grafiki sieciowej Łuk Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Krzywa" description="Obraz graficzny Krzywa Portable Network" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linia" description="Linia Przenośna Grafika Sieciowa Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Obraz grafiki sieciowej Łuk Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Obraz graficzny Krzywa Portable Network" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Przenośna Grafika Sieciowa Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

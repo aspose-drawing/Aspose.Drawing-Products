@@ -14,7 +14,7 @@ keywords: create Đường kẻ via C#, 2D graphics, drawing API, create bitmap 
 
 {{% blocks/products/pf/agp/content h2="Cách tạo file ảnh dòng bằng C#" %}}
 
-Khám phá sự đơn giản của việc tạo tập tin hình ảnh Đường kẻ với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh Đường vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo tệp Đường kẻ, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là thư viện API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), tìm kiếm **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Khám phá sự đơn giản của việc tạo tập tin hình ảnh Đường kẻ với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh Đường vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo tệp Line, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là thư viện API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), tìm kiếm **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing cho .NET được hỗ trợ trên tất cả các hệ điều h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tạo File Hình Dòng - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawĐường kẻ.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 
 {{< blocks/products/pf/agp/other-supported-section title="Các hình dạng được hỗ trợ khác" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="vòng cung" description="Hình ảnh đồ họa mạng di động vòng cung" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Đường cong" description="Hình ảnh đồ họa mạng di động Đường cong" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Đường kẻ" description="Hình ảnh đồ họa mạng di động Đường kẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Hình ảnh đồ họa mạng di động Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Hình ảnh đồ họa mạng di động Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Hình ảnh đồ họa mạng di động Line" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

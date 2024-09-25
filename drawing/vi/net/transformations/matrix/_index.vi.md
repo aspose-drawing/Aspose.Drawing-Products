@@ -14,7 +14,7 @@ Keywords: Transform via C#, 2D graphics, drawing API, create bitmap C#, Drawing 
 
 {{% blocks/products/pf/agp/content h2="Cách tạo file ảnh biến đổi ma trận bằng C#" %}}
 
-Khám phá sự đơn giản của các tập tin hình ảnh chuyển đổi ma trận với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch quá trình tạo hình ảnh hòa trộn Alpha vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo các tệp trộn Alpha, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là một API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng dành cho Nền tảng C#. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), seĐường congh cho **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Khám phá sự đơn giản của các tập tin hình ảnh chuyển đổi ma trận với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch quá trình tạo hình ảnh hòa trộn Alpha vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo các tệp trộn Alpha, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là một API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng dành cho Nền tảng C#. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh cho **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 ```cs

@@ -94,8 +94,8 @@ Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des g
 {{< blocks/products/pf/agp/other-supported-section title="Autres formes prises en charge" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Image graphique de réseau portable Arc" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Courbe" description="Image graphique réseau portable Courbe" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Doubler" description="Image graphique de réseau portable en ligne" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Image graphique réseau portable Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Image graphique de réseau portable en ligne" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="Image graphique de réseau portable Spline" >}}
 
 

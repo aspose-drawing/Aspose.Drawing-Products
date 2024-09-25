@@ -14,7 +14,7 @@ Keywords: Transform via C#, 2D graphics, drawing API, create bitmap C#, Drawing 
 
 {{% blocks/products/pf/agp/content h2="如何使用C#制作全局变换图像文件" %}}
 
-发现使用 C# 全局转换图像文件的简单性。无论您是经验丰富的开发人员还是新手，本文档都提供了重要的见解和指导。了解将 Alpha 混合图像创建无缝融入您的项目并增强您的编程技能的步骤。为了创建 Alpha 混合文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 2D 图形绘制 API C#平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器、se曲线h for **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
+发现使用 C# 全局转换图像文件的简单性。无论您是经验丰富的开发人员还是新手，本文档都提供了重要的见解和指导。了解将 Alpha 混合图像创建无缝融入您的项目并增强您的编程技能的步骤。为了创建 Alpha 混合文件，我们将使用 [Aspose.Drawing 换 .NET](https://products.aspose.com/drawing/net) 库，这是一个功能丰富、强大且易于使用的 2D 图形绘制 API C#平台。打开 [努格特](https://www.nuget.org/packages/aspose.drawing) 包管理器、seCurveh for **Aspose.Drawing** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 ```cs

@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="स्प्लाइन छवि फ़ाइल बनाएँ - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawपट्टी.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawSpline.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,10 +93,10 @@ Aspose.Drawing के भीतर ड्राइंग इंजन उपय�
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित आकृतियाँ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="आर्क" description="आर्क पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="वक्र" description="कर्व पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="रेखा" description="लाइन पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="पट्टी" description="स्प्लाइन पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="आर्क पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="कर्व पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="लाइन पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/spline/" name="Spline" description="स्प्लाइन पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -7,7 +7,7 @@ keywords: create Linie via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine Linienbilddatei über C#" h2="Erstellen Sie Ihre benutzerdefinierten .NET-Anwendungen zum Zeichnen mit Linie-Bilddateien" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="für .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine Linienbilddatei über C#" h2="Erstellen Sie Ihre benutzerdefinierten .NET-Anwendungen zum Zeichnen mit Line-Bilddateien" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="für .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="für .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Linienbilddatei erstellen – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLinie.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawLine.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Es ist nicht nötig, Code zu schreiben" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre Dateien hoch und erstellen Sie eine Textzeichnung im Webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Linie-Datei" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Line-Datei" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Formen" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Bogen" description="Bogen Tragbare Netzwerkgrafiken-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Kurve" description="Kurve Tragbare Netzwerkgrafiken-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linie" description="Linie Tragbare Netzwerkgrafiken-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Tragbare Netzwerkgrafiken-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Tragbare Netzwerkgrafiken-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Tragbare Netzwerkgrafiken-Bild" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

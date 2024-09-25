@@ -7,14 +7,14 @@ Keywords: create Eğri via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C# aracılığıyla Eğri görüntü dosyası oluşturun" h2="Eğri görüntü dosyalarıyla çizim yapmak için özel .NET uygulamalarınızı oluşturun" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C# aracılığıyla Eğri görüntü dosyası oluşturun" h2="Curve görüntü dosyalarıyla çizim yapmak için özel .NET uygulamalarınızı oluşturun" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET için" >}}
 
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak Eğri Görüntü Dosyası Nasıl Oluşturulur" %}}
 
-C# ile Eğri görüntü dosyaları oluşturmanın basitliğini keşfedin. Bu belge, ister deneyimli bir geliştirici olun ister yeni başlıyor olun, temel bilgiler ve rehberlik sağlar. Eğri görüntüsü oluşturmayı projelerinize sorunsuz bir şekilde dahil etmek ve programlama becerilerinizi geliştirmek için gerekli adımları öğrenin. Eğri dosyaları oluşturmak amacıyla, C# için zengin özelliklere sahip, güçlü ve kullanımı kolay bir 2D grafik çizim API'si olan [.NET için Aspose.Drawing](https://products.aspose.com/drawing/net) kitaplığını kullanacağız. platformu. **Aspose.Drawing** için [NuGet](https://www.nuget.org/packages/aspose.drawing) paket yöneticisini, seEğrih'i açın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+C# ile Eğri görüntü dosyaları oluşturmanın basitliğini keşfedin. Bu belge, ister deneyimli bir geliştirici olun ister yeni başlıyor olun, temel bilgiler ve rehberlik sağlar. Eğri görüntüsü oluşturmayı projelerinize sorunsuz bir şekilde dahil etmek ve programlama becerilerinizi geliştirmek için gerekli adımları öğrenin. Eğri dosyaları oluşturmak amacıyla, C# için zengin özelliklere sahip, güçlü ve kullanımı kolay bir 2D grafik çizim API'si olan [.NET için Aspose.Drawing](https://products.aspose.com/drawing/net) kitaplığını kullanacağız. platformu. **Aspose.Drawing** için [NuGet](https://www.nuget.org/packages/aspose.drawing) paket yöneticisini, seCurveh'i açın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yönetici Konsolu Komutu" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Eğri Görüntü Dosyası Oluşturun - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEğri.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Şekiller" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Yay" description="Yay Taşınabilir Ağ Grafikleri Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Eğri" description="Eğri Taşınabilir Ağ Grafikleri Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Astar" description="Hat Taşınabilir Ağ Grafiği Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Arc Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Curve Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Hat Taşınabilir Ağ Grafiği Resmi" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

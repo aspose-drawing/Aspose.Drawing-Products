@@ -14,7 +14,7 @@ Keywords: create Text via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit textový obrazový soubor pomocí C#" %}}
 
-Objevte jednoduchost vytváření textových obrazových souborů pomocí C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se kroky k bezproblémovému začlenění tvorby textových obrázků do vašich projektů a zdokonalte své programovací dovednosti. K vytvoření textových souborů použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seKřivkah pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+Objevte jednoduchost vytváření textových obrazových souborů pomocí C#. Tento dokument poskytuje základní statistiky a pokyny, ať už jste zkušený vývojář nebo teprve začínáte. Naučte se kroky k bezproblémovému začlenění tvorby textových obrázků do vašich projektů a zdokonalte své programovací dovednosti. K vytvoření textových souborů použijeme knihovnu [Aspose.Drawing pro .NET](https://products.aspose.com/drawing/net), což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro kreslení 2D grafiky pro C#. platforma. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh pro **Aspose.Drawing** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 ```cs

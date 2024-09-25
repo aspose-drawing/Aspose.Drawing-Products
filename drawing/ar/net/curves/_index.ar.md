@@ -14,7 +14,7 @@ Keywords: create منحنى via C#, 2D graphics, drawing API, create bitmap C#, 
 
 {{% blocks/products/pf/agp/content h2="كيفية إنشاء ملف صورة منحنى باستخدام C#" %}}
 
-اكتشف بساطة إنشاء ملفات الصور المنحنية باستخدام C#. يوفر هذا المستند رؤى وإرشادات أساسية، سواء كنت مطورًا متمرسًا أو بدأت للتو. تعرف على الخطوات اللازمة لدمج إنشاء الصور المنحنية بسلاسة في مشاريعك وتعزيز مهاراتك في البرمجة. من أجل إنشاء ملفات منحنى، سنستخدم مكتبة [Aspose.Drawing لـ .NET](https://products.aspose.com/drawing/net) وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لرسم الرسومات ثنائية الأبعاد لـ C# منصة. افتح مدير الحزم [نوجيت](https://www.nuget.org/packages/aspose.drawing)، ثم حدد seمنحنىh لـ **Aspose.Drawing** وقم بالتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+اكتشف بساطة إنشاء ملفات الصور المنحنية باستخدام C#. يوفر هذا المستند رؤى وإرشادات أساسية، سواء كنت مطورًا متمرسًا أو بدأت للتو. تعرف على الخطوات اللازمة لدمج إنشاء الصور المنحنية بسلاسة في مشاريعك وتعزيز مهاراتك في البرمجة. من أجل إنشاء ملفات Curve، سنستخدم مكتبة [Aspose.Drawing لـ .NET](https://products.aspose.com/drawing/net) وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لرسم الرسومات ثنائية الأبعاد لـ C# منصة. افتح مدير الحزم [نوجيت](https://www.nuget.org/packages/aspose.drawing)، ثم حدد seCurveh لـ **Aspose.Drawing** وقم بالتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="إنشاء ملف صورة منحنى - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawمنحنى.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing، مكتبة رسومية ثنائية الأبعاد مُدار�
 
 {{< blocks/products/pf/agp/other-supported-section title="الأشكال الأخرى المدعومة" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="قوس" description="قوس صورة رسومات الشبكة المحمولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="منحنى" description="منحنى صورة رسومات الشبكة المحمولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="خط" description="خط صورة رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="قوس صورة رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="منحنى صورة رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="خط صورة رسومات الشبكة المحمولة" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

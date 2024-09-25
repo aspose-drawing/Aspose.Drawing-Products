@@ -7,14 +7,14 @@ Keywords: create Krzywa via C#, 2D graphics, drawing API, create bitmap C#, Draw
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu Krzywa za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania, korzystając z plików obrazów Krzywa" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu Krzywa za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania, korzystając z plików obrazów Curve" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Jak utworzyć plik obrazu krzywej za pomocą C#" %}}
 
-Odkryj prostotę tworzenia plików obrazów Krzywa za pomocą C#. Ten dokument zawiera istotne informacje i wskazówki, niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz. Poznaj kroki, które pozwolą Ci bezproblemowo włączyć tworzenie obrazów Krzywa do swoich projektów i udoskonalić swoje umiejętności programowania. Do tworzenia plików Krzywa użyjemy biblioteki [Aspose.Drawing dla .NET](https://products.aspose.com/drawing/net), która jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do rysowania grafiki 2D dla C# platforma. Otwórz menedżera pakietów [NuGeta] (https://www.nuget.org/packages/aspose.drawing), seKrzywah dla **Aspose.Drawing** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+Odkryj prostotę tworzenia plików obrazów Krzywa za pomocą C#. Ten dokument zawiera istotne informacje i wskazówki, niezależnie od tego, czy jesteś doświadczonym programistą, czy dopiero zaczynasz. Poznaj kroki, które pozwolą Ci bezproblemowo włączyć tworzenie obrazów Krzywa do swoich projektów i udoskonalić swoje umiejętności programowania. Do tworzenia plików Krzywa użyjemy biblioteki [Aspose.Drawing dla .NET](https://products.aspose.com/drawing/net), która jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do rysowania grafiki 2D dla C# platforma. Otwórz menedżera pakietów [NuGeta] (https://www.nuget.org/packages/aspose.drawing), seCurveh dla **Aspose.Drawing** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing dla .NET jest obsługiwany we wszystkich głównych systemach ope
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Utwórz plik obrazu krzywej — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawKrzywa.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nie trzeba pisać żadnego kodu" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki i utwórz rysunek tekstowy w przeglądarce internetowej" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Krzywa" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Curve" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane kształty" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Łuk" description="Obraz grafiki sieciowej Łuk Portable" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Krzywa" description="Obraz graficzny Krzywa Portable Network" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Linia" description="Linia Przenośna Grafika Sieciowa Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Obraz grafiki sieciowej Łuk Portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Obraz graficzny Krzywa Portable Network" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Line Przenośna Grafika Sieciowa Picture" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

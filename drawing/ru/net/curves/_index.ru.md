@@ -7,14 +7,14 @@ Keywords: create Изгиб via C#, 2D graphics, drawing API, create bitmap C#, 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения кривой через C#" h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений Изгиб." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения кривой через C#" h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений Curve." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="для .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Как создать файл изображения кривой с помощью C#" %}}
 
-Откройте для себя простоту создания файлов изображений Изгиб с помощью C#. В этом документе представлены важные сведения и рекомендации независимо от того, являетесь ли вы опытным разработчиком или только начинаете. Узнайте, как легко включить создание изображений Изгиб в свои проекты и улучшить свои навыки программирования. Для создания файлов кривых мы будем использовать библиотеку [Aspose.Drawing для .NET](https://products.aspose.com/drawing/net), которая представляет собой многофункциональный, мощный и простой в использовании API для рисования 2D-графики для C#. платформа. Откройте менеджер пакетов [NuGet](https://www.nuget.org/packages/aspose.drawing), seИзгибh для **Aspose.Drawing** и установите его. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Откройте для себя простоту создания файлов изображений Изгиб с помощью C#. В этом документе представлены важные сведения и рекомендации независимо от того, являетесь ли вы опытным разработчиком или только начинаете. Узнайте, как легко включить создание изображений Изгиб в свои проекты и улучшить свои навыки программирования. Для создания файлов кривых мы будем использовать библиотеку [Aspose.Drawing для .NET](https://products.aspose.com/drawing/net), которая представляет собой многофункциональный, мощный и простой в использовании API для рисования 2D-графики для C#. платформа. Откройте менеджер пакетов [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh для **Aspose.Drawing** и установите его. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Консольная команда диспетчера пакетов" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing для .NET поддерживается во всех основ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Создать файл изображения кривой — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawИзгиб.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawCurve.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Нет необходимости писать какой-либо код" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите свои файлы и создайте текстовый рисунок в веб-браузере." >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получите ссылку для скачивания полученного файла Изгиб." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получите ссылку для скачивания полученного файла Curve." >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые формы" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Дуга" description="Изображение портативной сетевой графики Дуга" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Изгиб" description="Изображение портативной сетевой графики Изгиб" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Линия" description="Линия Портативная сетевая графика Изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/arcs/" name="Arc" description="Изображение портативной сетевой графики Arc" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/curves/" name="Curve" description="Изображение портативной сетевой графики Curve" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/lines/" name="Line" description="Линия Портативная сетевая графика Изображение" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -405,13 +405,13 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing منح�
      رسم الرسومات المتجهة
     </h2>
     <p>
-     يسمح Aspose.Drawing لـ Java برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal خدد، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
+     يسمح Aspose.Drawing لـ Java برسم رسومات متجهة مختلفة مثل الأقواس، وCardinal Spline، وBezier spline، والأشكال الناقصية، والمنحنيات المغلقة، والخطوط وعدد من الأنواع الأخرى. لا يلزم سوى بضعة أسطر من التعليمات البرمجية لرسم أنواع مختلفة من الرسومات المتجهة باستخدام واجهة برمجة التطبيقات (API). على سبيل المثال هنا رمز لرسم القوس.
     </p>
     <div class="codeblock" id="code">
      <h3>
       رسم القوس - Java
      </h3>
-     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-خطsمنحنىsShapes-Drawقوس-Drawقوس.java" >}}
+     {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>
    </div>
   </div>

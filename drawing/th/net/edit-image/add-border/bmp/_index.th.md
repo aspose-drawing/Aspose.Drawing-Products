@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + สร้างวัตถุบิตแมปจากไฟล์รูปภาพ BMP โดยใช้คลาส 'Bitmap'
 + สร้างวัตถุกราฟิกโดยใช้วิธี `Graphics.FromImage()`
-+ วาดเส้นขอบด้วยวิธี `Drawสี่เหลี่ยมผืนผ้า()`
++ วาดเส้นขอบด้วยวิธี `DrawRectangle()`
 + บันทึกบิตแมปที่สร้างในรูปแบบภาพ BMP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

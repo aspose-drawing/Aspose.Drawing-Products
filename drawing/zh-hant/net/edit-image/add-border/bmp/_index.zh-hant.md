@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + 使用「Bitmap」類別從 BMP 影像檔案建立點陣圖物件。
 + 使用「Graphics.FromImage()」方法建立圖形物件。
-+ 使用「Draw長方形()」方法繪製邊框。
++ 使用「DrawRectangle()」方法繪製邊框。
 + 以 BMP 影像格式儲存所建立的點陣圖。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

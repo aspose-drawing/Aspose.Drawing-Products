@@ -38,7 +38,7 @@ K vyzkoušení následujícího pracovního postupu ve svém vlastním prostřed
 
 + Vytvořte bitmapový objekt z obrazového souboru JPEG pomocí třídy `Bitmap`.
 + Vytvořte grafický objekt pomocí metody `Graphics.FromImage()`.
-+ Nakreslete ohraničení metodou `DrawObdélník()`.
++ Nakreslete ohraničení metodou `DrawRectangle()`.
 + Uložte vytvořenou bitmapu v obrazovém formátu JPEG.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

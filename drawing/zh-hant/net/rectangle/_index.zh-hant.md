@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="建立矩形圖像檔案 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw長方形.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -94,7 +94,7 @@ Aspose.Drawing 中的繪圖引擎使用戶能夠渲染向量圖形，包括直�
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的形狀" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="橢圓形便攜式網頁圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="長方形" description="矩形可攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="矩形可攜式網路圖形圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="多邊形手提網路圖形圖片" >}}
 
 

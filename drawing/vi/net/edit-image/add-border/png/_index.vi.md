@@ -38,7 +38,7 @@ Bạn cần có [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) �
 
 + Tạo đối tượng bitmap từ file ảnh PNG sử dụng lớp `Bitmap`.
 + Tạo đối tượng đồ họa bằng phương thức `Graphics.FromImage()`.
-+ Vẽ đường viền bằng phương thức `DrawHình chữ nhật()`.
++ Vẽ đường viền bằng phương thức `DrawRectangle()`.
 + Lưu bitmap đã tạo ở định dạng ảnh PNG.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

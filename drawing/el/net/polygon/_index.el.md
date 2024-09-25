@@ -94,7 +94,7 @@ PM> Install-Package Aspose.Drawing
 {{< blocks/products/pf/agp/other-supported-section title="Άλλα υποστηριζόμενα σχήματα" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Εικόνα γραφικών φορητού δικτύου Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Ορθογώνιο παραλληλόγραμμο" description="Ορθογώνιο παραλληλόγραμμο Φορητά γραφικά δικτύου Εικόνα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rectangle Φορητά γραφικά δικτύου Εικόνα" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Εικόνα γραφικών φορητού δικτύου Polygon" >}}
 
 

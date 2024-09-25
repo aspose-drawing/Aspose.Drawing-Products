@@ -58,7 +58,7 @@ Aspose.Drawing pro .NET je podporován na všech hlavních operačních systéme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vytvořit soubor obdélníkového obrázku – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawObdélník.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -94,7 +94,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované tvary" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Obrázek přenosné síťové grafiky Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Obdélník" description="Obdélník přenosná síťová grafika obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Obdélník přenosná síťová grafika obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Obrázek přenosné síťové grafiky polygonu" >}}
 
 

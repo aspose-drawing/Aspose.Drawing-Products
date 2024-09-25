@@ -58,7 +58,7 @@ Aspose.Drawing für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Erstellen Sie eine rechteckige Bilddatei – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRechteck.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -94,7 +94,7 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Formen" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse Tragbare Netzwerkgrafiken-Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rechteck" description="Rechteckiges tragbares Netzwerkgrafikbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rechteckiges tragbares Netzwerkgrafikbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon Tragbare Netzwerkgrafiken-Bild" >}}
 
 

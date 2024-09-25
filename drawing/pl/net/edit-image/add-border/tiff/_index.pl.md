@@ -38,7 +38,7 @@ Aby wypróbować następujący przepływ pracy we własnym środowisku, potrzebu
 
 + Utwórz obiekt bitmapowy z pliku obrazu TIFF przy użyciu klasy `Bitmap`.
 + Utwórz obiekt graficzny za pomocą metody `Graphics.FromImage()`.
-+ Narysuj obramowanie metodą `DrawProstokąt()`.
++ Narysuj obramowanie metodą `DrawRectangle()`.
 + Zapisz utworzoną bitmapę w formacie obrazu TIFF.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -38,7 +38,7 @@ Du behöver [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) för 
 
 + Skapa bitmappsobjekt från PNG-bildfilen med hjälp av klassen "Bitmap".
 + Skapa grafikobjekt med metoden `Graphics.FromImage()`.
-+ Rita en kant med metoden `DrawRektangel()`.
++ Rita en kant med metoden `DrawRectangle()`.
 + Spara skapad bitmapp i PNG-bildformat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

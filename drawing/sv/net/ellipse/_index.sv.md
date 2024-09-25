@@ -94,7 +94,7 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 {{< blocks/products/pf/agp/other-supported-section title="Andra former som stöds" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse Bärbar nätverksgrafik Bild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rektangel" description="Rektangel Bärbar nätverksgrafik Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rectangle Bärbar nätverksgrafik Bild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon Bärbar nätverksgrafik Bild" >}}
 
 

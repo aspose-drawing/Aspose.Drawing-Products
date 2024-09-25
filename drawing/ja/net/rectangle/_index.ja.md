@@ -2,12 +2,12 @@
 title: .NET経由で長方形画像ファイルを作成
 weight: 20
 url: /ja/net/rectangle/
-description: .NET経由で矩形画像ファイルを作成します。
+description: .NET経由でRectangle画像ファイルを作成します。
 Keywords: create 矩形 via C#, 2D graphics, drawing API, create bitmap C#, Drawing .NET用, save bitmap, save 矩形 image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, 矩形 image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C#経由で長方形画像ファイルを作成" h2="矩形 イメージ ファイルを使用して描画するためのカスタム .NET アプリケーションを構築する" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C#経由で長方形画像ファイルを作成" h2="Rectangle イメージ ファイルを使用して描画するためのカスタム .NET アプリケーションを構築する" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET用" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET用" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing および .NET は、すべての主要なオペレーティン�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="長方形画像ファイルの作成 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw矩形.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -94,7 +94,7 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている形状" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse ポータブル ネットワーク グラフィックスの画像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="矩形" description="長方形のポータブル ネットワーク グラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="長方形のポータブル ネットワーク グラフィックス画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon ポータブル ネットワーク グラフィックス画像" >}}
 
 

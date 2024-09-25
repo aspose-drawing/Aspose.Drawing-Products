@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + إنشاء كائن نقطي من ملف صورة PNG باستخدام فئة "Bitmap".
 + إنشاء كائن رسومي باستخدام طريقة `Graphics.FromImage()`.
-+ رسم الحدود باستخدام طريقة `Drawالمستطيل()`.
++ رسم الحدود باستخدام طريقة `DrawRectangle()`.
 + حفظ الصورة النقطية التي تم إنشاؤها بتنسيق صورة PNG.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

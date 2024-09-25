@@ -94,7 +94,7 @@ Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rende
 {{< blocks/products/pf/agp/other-supported-section title="Altre forme supportate" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Immagine grafica di rete portatile Ellisse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rettangolo" description="Immagine rettangolare di grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Immagine rettangolare di grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Immagine grafica di rete portatile poligonale" >}}
 
 

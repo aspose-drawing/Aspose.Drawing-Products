@@ -7,14 +7,14 @@ Keywords: create Ορθογώνιο παραλληλόγραμμο via C#, 2D gr
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο εικόνας Ορθογώνιο παραλληλόγραμμο μέσω C#" h2="Δημιουργήστε τις προσαρμοσμένες σας εφαρμογές .NET για σχέδιο με αρχεία εικόνας Ορθογώνιο παραλληλόγραμμο" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο εικόνας Ορθογώνιο παραλληλόγραμμο μέσω C#" h2="Δημιουργήστε τις προσαρμοσμένες σας εφαρμογές .NET για σχέδιο με αρχεία εικόνας Rectangle" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="για .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Πώς να δημιουργήσετε ένα αρχείο εικόνας ορθογώνιο χρησιμοποιώντας το C#" %}}
 
-Ανακαλύψτε την απλότητα της δημιουργίας αρχείων εικόνας Ορθογώνιο παραλληλόγραμμο με το C#. Αυτό το έγγραφο παρέχει βασικές πληροφορίες και καθοδήγηση, είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε. Μάθετε τα βήματα για να ενσωματώσετε απρόσκοπτα τη δημιουργία εικόνας Ορθογώνιο παραλληλόγραμμο στα έργα σας και να βελτιώσετε τις προγραμματιστικές σας δεξιότητες. Για να δημιουργήσουμε αρχεία Ορθογώνιο παραλληλόγραμμο, θα χρησιμοποιήσουμε τη βιβλιοθήκη [Aspose.Drawing για .NET](https://products.aspose.com/drawing/net) που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη API σχεδίασης γραφικών 2D για το C# πλατφόρμα. Ανοίξτε τη διαχείριση πακέτων [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh για **Aspose.Drawing** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Ανακαλύψτε την απλότητα της δημιουργίας αρχείων εικόνας Ορθογώνιο παραλληλόγραμμο με το C#. Αυτό το έγγραφο παρέχει βασικές πληροφορίες και καθοδήγηση, είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε. Μάθετε τα βήματα για να ενσωματώσετε απρόσκοπτα τη δημιουργία εικόνας Ορθογώνιο παραλληλόγραμμο στα έργα σας και να βελτιώσετε τις προγραμματιστικές σας δεξιότητες. Για να δημιουργήσουμε αρχεία Rectangle, θα χρησιμοποιήσουμε τη βιβλιοθήκη [Aspose.Drawing για .NET](https://products.aspose.com/drawing/net) που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη API σχεδίασης γραφικών 2D για το C# πλατφόρμα. Ανοίξτε τη διαχείριση πακέτων [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh για **Aspose.Drawing** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Δημιουργία αρχείου εικόνας ορθογώνιου - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawΟρθογώνιο παραλληλόγραμμο.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ PM> Install-Package Aspose.Drawing
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Επεξεργαστείτε το Ορθογώνιο παραλληλόγραμμο μέσω της δωρεάν διαδικτυακής εφαρμογής" sectionDescription="Δημιουργήστε εικόνες Ορθογώνιο παραλληλόγραμμο, καθώς και προσθέστε κείμενο σε εικόνες επισκεπτόμενοι τον [ιστότοπό μας Live Demos](https://products.aspose.app/drawing) Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Επεξεργαστείτε το Ορθογώνιο παραλληλόγραμμο μέσω της δωρεάν διαδικτυακής εφαρμογής" sectionDescription="Δημιουργήστε εικόνες Rectangle, καθώς και προσθέστε κείμενο σε εικόνες επισκεπτόμενοι τον [ιστότοπό μας Live Demos](https://products.aspose.app/drawing) Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Δεν χρειάζεται να γράψετε κανέναν κώδικα" >}}
@@ -94,7 +94,7 @@ PM> Install-Package Aspose.Drawing
 {{< blocks/products/pf/agp/other-supported-section title="Άλλα υποστηριζόμενα σχήματα" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Εικόνα γραφικών φορητού δικτύου Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Ορθογώνιο παραλληλόγραμμο" description="Ορθογώνιο παραλληλόγραμμο Φορητά γραφικά δικτύου Εικόνα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rectangle Φορητά γραφικά δικτύου Εικόνα" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Εικόνα γραφικών φορητού δικτύου Polygon" >}}
 
 

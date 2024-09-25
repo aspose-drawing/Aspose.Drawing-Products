@@ -94,7 +94,7 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane kształty" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Obraz grafiki przenośnej sieci Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Prostokąt" description="Prostokątny obraz grafiki przenośnej sieci" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Prostokątny obraz grafiki przenośnej sieci" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Obraz grafiki wielokątnej przenośnej sieci" >}}
 
 

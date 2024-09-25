@@ -38,7 +38,7 @@ Você precisa do [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) 
 
 + Crie um objeto bitmap a partir do arquivo de imagem TIFF usando a classe `Bitmap`.
 + Crie objetos gráficos usando o método `Graphics.FromImage()`.
-+ Desenhe borda com o método `DrawRetângulo()`.
++ Desenhe borda com o método `DrawRectangle()`.
 + Salve o bitmap criado no formato de imagem TIFF.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

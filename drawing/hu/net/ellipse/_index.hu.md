@@ -94,7 +94,7 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott formák" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Téglalap" description="Téglalap alakú hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Téglalap alakú hordozható hálózati grafikus kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon hordozható hálózati grafikus kép" >}}
 
 

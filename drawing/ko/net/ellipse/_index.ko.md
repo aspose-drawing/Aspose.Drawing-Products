@@ -94,7 +94,7 @@ Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크�
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 모양" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="구형" description="직사각형 휴대용 네트워크 그래픽 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="직사각형 휴대용 네트워크 그래픽 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="다각형 휴대용 네트워크 그래픽 그림" >}}
 
 

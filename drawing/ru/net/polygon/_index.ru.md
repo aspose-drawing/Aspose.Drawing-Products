@@ -94,7 +94,7 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые формы" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Изображение портативной сетевой графики Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Прямоугольник" description="Прямоугольное изображение портативной сетевой графики" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Прямоугольное изображение портативной сетевой графики" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Изображение портативной сетевой графики Polygon" >}}
 
 

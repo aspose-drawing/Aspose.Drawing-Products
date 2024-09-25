@@ -58,7 +58,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Maak een rechthoekig afbeeldingsbestand - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRechthoek.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -94,7 +94,7 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde vormen" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse draagbare netwerk grafische afbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rechthoek" description="Rechthoek draagbare netwerk grafische afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rechthoek draagbare netwerk grafische afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Veelhoek draagbaar netwerk grafisch beeld" >}}
 
 

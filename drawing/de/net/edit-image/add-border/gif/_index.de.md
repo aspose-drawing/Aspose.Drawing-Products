@@ -38,7 +38,7 @@ Sie benötigen die [aspose.drawing.dll](https://downloads.aspose.com/drawing/net
 
 + Erstellen Sie ein Bitmap-Objekt aus einer GIF-Bilddatei mit der Klasse „Bitmap“.
 + Erstellen Sie ein Grafikobjekt mit der Methode „Graphics.FromImage()“.
-+ Zeichnen Sie einen Rand mit der Methode „DrawRechteck()“.
++ Zeichnen Sie einen Rand mit der Methode „DrawRectangle()“.
 + Speichern Sie die erstellte Bitmap im GIF-Bildformat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

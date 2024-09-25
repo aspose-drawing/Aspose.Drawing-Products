@@ -38,7 +38,7 @@ Necesita [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) para pro
 
 + Cree un objeto de mapa de bits a partir de un archivo de imagen TIFF usando la clase `Bitmap`.
 + Cree un objeto gráfico utilizando el método `Graphics.FromImage()`.
-+ Dibujar borde con el método `DrawRectángulo()`.
++ Dibujar borde con el método `DrawRectangle()`.
 + Guarde el mapa de bits creado en formato de imagen TIFF.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

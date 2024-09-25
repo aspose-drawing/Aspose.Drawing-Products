@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + `Bitmap`クラスを使用して、GIF画像ファイルからビットマップオブジェクトを作成します。
 + `Graphics.FromImage()` メソッドを使用してグラフィックス オブジェクトを作成します。
-+ `Draw矩形()` メソッドで境界線を描画します。
++ `DrawRectangle()` メソッドで境界線を描画します。
 + 作成したビットマップを GIF 画像形式で保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

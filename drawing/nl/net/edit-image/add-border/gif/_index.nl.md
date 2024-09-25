@@ -38,7 +38,7 @@ U hebt de [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) nodig o
 
 + Maak een bitmapobject van het GIF-afbeeldingsbestand met behulp van de klasse `Bitmap`.
 + Maak een grafisch object met de methode `Graphics.FromImage()`.
-+ Teken een rand met de methode `DrawRechthoek()`.
++ Teken een rand met de methode `DrawRectangle()`.
 + Bewaar gemaakte bitmap in GIF-beeldformaat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

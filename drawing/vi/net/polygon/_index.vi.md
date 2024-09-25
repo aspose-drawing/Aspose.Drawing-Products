@@ -94,7 +94,7 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 {{< blocks/products/pf/agp/other-supported-section title="Các hình dạng được hỗ trợ khác" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Hình ảnh đồ họa mạng di động Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Hình chữ nhật" description="Hình ảnh đồ họa mạng di động hình chữ nhật" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Hình ảnh đồ họa mạng di động hình chữ nhật" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Hình ảnh đồ họa mạng di động đa giác" >}}
 
 

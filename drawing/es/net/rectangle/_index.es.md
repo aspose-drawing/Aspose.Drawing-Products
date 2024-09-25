@@ -58,7 +58,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Crear archivo de imagen rectangular - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectángulo.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawRectangle.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -94,7 +94,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 {{< blocks/products/pf/agp/other-supported-section title="Otras formas admitidas" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Imagen de gráficos de red portátiles Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectángulo" description="Imagen de gráficos de red portátiles rectangulares" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Imagen de gráficos de red portátiles rectangulares" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Imagen de gráficos de red portátiles de polígono" >}}
 
 

@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + Crea un oggetto bitmap dal file immagine JPEG utilizzando la classe "Bitmap".
 + Crea un oggetto grafico utilizzando il metodo `Graphics.FromImage()`.
-+ Disegna il bordo con il metodo `DrawRettangolo()`.
++ Disegna il bordo con il metodo `DrawRectangle()`.
 + Salva la bitmap creata nel formato immagine JPEG.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

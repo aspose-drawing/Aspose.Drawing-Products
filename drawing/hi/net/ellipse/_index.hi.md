@@ -94,7 +94,7 @@ Aspose.Drawing के भीतर ड्राइंग इंजन उपय�
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित आकृतियाँ" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="एलिप्से पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="आयत" description="आयत पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="आयत पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="बहुभुज पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 
 

@@ -38,7 +38,7 @@ Anda memerlukan [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) u
 
 + Buat objek bitmap dari file gambar TIFF menggunakan kelas `Bitmap`.
 + Buat objek grafik menggunakan metode `Graphics.FromImage()`.
-+ Gambar batas dengan metode `DrawPersegi panjang()`.
++ Gambar batas dengan metode `DrawRectangle()`.
 + Simpan bitmap yang dibuat dalam format gambar TIFF.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

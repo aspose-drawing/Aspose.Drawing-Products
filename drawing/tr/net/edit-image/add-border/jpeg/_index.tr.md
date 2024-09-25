@@ -38,7 +38,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 
 + 'Bitmap' sınıfını kullanarak JPEG görüntü dosyasından bitmap nesnesi oluşturun.
 + 'Graphics.FromImage()' yöntemini kullanarak grafik nesnesi oluşturun.
-+ 'DrawDikdörtgen()' yöntemiyle kenarlık çizin.
++ 'DrawRectangle()' yöntemiyle kenarlık çizin.
 + Oluşturulan bitmap'i JPEG görüntü formatında kaydedin.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

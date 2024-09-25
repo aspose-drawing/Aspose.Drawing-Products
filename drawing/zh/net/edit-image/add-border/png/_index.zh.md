@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + 使用“Bitmap”类从 PNG 图像文件创建位图对象。
 + 使用“Graphics.FromImage()”方法创建图形对象。
-+ 使用“Draw长方形()”方法绘制边框。
++ 使用“DrawRectangle()”方法绘制边框。
 + 以 PNG 图像格式保存创建的位图。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

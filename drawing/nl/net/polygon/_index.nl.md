@@ -94,7 +94,7 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde vormen" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse draagbare netwerk grafische afbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rechthoek" description="Rechthoek draagbare netwerk grafische afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Rechthoek draagbare netwerk grafische afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Veelhoek draagbaar netwerk grafisch beeld" >}}
 
 

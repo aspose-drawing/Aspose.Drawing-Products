@@ -94,7 +94,7 @@ O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráfi
 {{< blocks/products/pf/agp/other-supported-section title="Outras formas suportadas" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Imagem gráfica de rede portátil Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Retângulo" description="Imagem gráfica de rede portátil retangular" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Imagem gráfica de rede portátil retangular" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Imagem gráfica de rede portátil Polygon" >}}
 
 

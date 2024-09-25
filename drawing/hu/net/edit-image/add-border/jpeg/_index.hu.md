@@ -38,7 +38,7 @@ Szüksége van az [aspose.drawing.dll](https://downloads.aspose.com/drawing/net)
 
 + Hozzon létre bittérképes objektumot JPEG képfájlból a "Bitmap" osztály segítségével.
 + Grafikus objektum létrehozása a `Graphics.FromImage()` metódussal.
-+ Rajzoljon szegélyt a `DrawTéglalap()` metódussal.
++ Rajzoljon szegélyt a `DrawRectangle()` metódussal.
 + A létrehozott bittérkép mentése JPEG képformátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

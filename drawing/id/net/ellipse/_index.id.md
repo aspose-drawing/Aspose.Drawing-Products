@@ -94,7 +94,7 @@ Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik ve
 {{< blocks/products/pf/agp/other-supported-section title="Bentuk lain yang didukung" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Gambar Grafik Jaringan Portabel Ellipse" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Persegi panjang" description="Gambar Grafik Jaringan Portabel Persegi Panjang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Gambar Grafik Jaringan Portabel Persegi Panjang" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Gambar Grafik Jaringan Portabel Polygon" >}}
 
 

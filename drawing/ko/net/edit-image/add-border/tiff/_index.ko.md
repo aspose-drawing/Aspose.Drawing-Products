@@ -38,7 +38,7 @@ PM> Install-Package Aspose.Drawing
 
 + `Bitmap` 클래스를 사용하여 TIFF 이미지 파일에서 비트맵 개체를 만듭니다.
 + `Graphics.FromImage()` 메소드를 사용하여 그래픽 객체를 생성합니다.
-+ `Draw구형()` 메소드를 사용하여 테두리를 그립니다.
++ `DrawRectangle()` 메소드를 사용하여 테두리를 그립니다.
 + 생성된 비트맵을 TIFF 이미지 형식으로 저장합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

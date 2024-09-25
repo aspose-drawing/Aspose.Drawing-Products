@@ -318,7 +318,7 @@ description: मौजूदा C# कोड को बदले बिना �
     <p class="col-lg-10">
      समर्थन 
 <a href="alphaBlending/">अल्फा सम्मिश्रण </a>
-और 
+and 
 <a href="antiAliasing/">उपघटन प्रतिरोधी</a>
     </p>
    </div>

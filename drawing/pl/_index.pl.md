@@ -6,7 +6,7 @@ description: Interfejsy API High Code i bezpłatne aplikacje do rysowania grafik
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozwiązanie do przetwarzania grafiki" h2="Interfejsy API High Code i bezpłatne aplikacje do rysowania grafiki 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brI.svg" imageAlt="Rozwiązanie produktowe Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozwiązanie do przetwarzania grafiki" h2="Interfejsy API High Code i bezpłatne aplikacje do rysowania grafiki 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Rozwiązanie produktowe Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Zawiera interfejsy API wysokiego kodu Aspose.Drawing" >}}
@@ -49,7 +49,7 @@ Użyj rzeczywistej miarki rozmiaru online.
 <p class="first">
  Używamy Aspose już od dłuższego czasu i nie napotkaliśmy ani jednego błędu związanego z Aspose.
  <em>
-  Jac Gooden | Bicore, HolIia
+  Jac Gooden | Bicore, Holandia
  </em>
 </p>
 

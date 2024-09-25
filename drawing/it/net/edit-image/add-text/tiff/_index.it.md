@@ -2,12 +2,12 @@
 title: Aggiungi testo a TIFF tramite .NET
 weight: 20
 url: /it/net/edit-image/add-text/tiff/
-description: Aggiungi testo al file immagine TIFF utilizzEo la libreria grafica .NET
+description: Aggiungi testo al file immagine TIFF utilizzando la libreria grafica .NET
 keywords: Aggiungi testo to image, Aggiungi testo to TIFF, Aggiungi testo to bitmap, Aggiungi testo via C#, 2D graphics, drawing API, edit bitmap C#, Drawing per .NET, save bitmap, save TIFF image, cross-platform 2D graphic library, Bitmap class, raster graphics drawing, draw text, rendering raster images, TIFF image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aggiungi testo ai file immagine TIFF utilizzEo C#" h2="Migliora le tue immagini TIFF: aggiunta di testo con l'API di disegno .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aggiungi testo ai file immagine TIFF utilizzando C#" h2="Migliora le tue immagini TIFF: aggiunta di testo con l'API di disegno .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
@@ -15,9 +15,9 @@ keywords: Aggiungi testo to image, Aggiungi testo to TIFF, Aggiungi testo to bit
 {{% blocks/products/pf/agp/content h2="Come aggiungere testo al file immagine TIFF in C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Dai alle tue immagini TIFF un tocco professionale incorporEo testo utilizzEo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API. Questo strumento versatile ti consente di aggiungere facilmente testo alle tue immagini, sia che tu stia annotEo, etichettEo o aggiungendo filigrana. Con l'API Aspose.Drawing, puoi facilmente disegnare testo sulle immagini TIFF utilizzEo C#. Utilizza la classe Bitmap e le funzionalità di disegno della grafica raster per ottenere risultati precisi e personalizzati. Prova la comodità e la flessibilità di aggiungere testo alle immagini TIFF con l'API di disegno di .NET ed eleva i tuoi progetti di modifica delle immagini a nuovi livelli. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comEo dalla Console di gestione pacchetti.</p>
+Dai alle tue immagini TIFF un tocco professionale incorporando testo utilizzando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing per .NET</a> API. Questo strumento versatile ti consente di aggiungere facilmente testo alle tue immagini, sia che tu stia annotando, etichettando o aggiungendo filigrana. Con l'API Aspose.Drawing, puoi facilmente disegnare testo sulle immagini TIFF utilizzando C#. Utilizza la classe Bitmap e le funzionalità di disegno della grafica raster per ottenere risultati precisi e personalizzati. Prova la comodità e la flessibilità di aggiungere testo alle immagini TIFF con l'API di disegno di .NET ed eleva i tuoi progetti di modifica delle immagini a nuovi livelli. Aprire <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gestore pacchetti e cercare <b>Aspose.Drawing</b> e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.</p>
 
-{{% blocks/products/pf/agp/code-block title="ComEo della console di Gestione pacchetti" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,10 +36,10 @@ PM> Install-Package Aspose.Drawing
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un oggetto bitmap dal file immagine TIFF utilizzEo la classe `Bitmap`.
-+ Crea un oggetto grafico utilizzEo il metodo `Graphics.FromImage()`.
++ Crea un oggetto bitmap dal file immagine TIFF utilizzando la classe `Bitmap`.
++ Crea un oggetto grafico utilizzando il metodo `Graphics.FromImage()`.
 + Definire il formato della stringa di testo e le proprietà di allineamento.
-+ Disegna il testo con il metodo `DrawString()` utilizzEo il carattere, il colore e le coordinate del testo desiderati.
++ Disegna il testo con il metodo `DrawString()` utilizzando il carattere, il colore e le coordinate del testo desiderati.
 + Salva la bitmap creata nel formato immagine TIFF.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -69,16 +69,16 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/content h2="Informazioni su Aspose.Drawing per l'API .NET" %}}
 
-Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformEo facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET Standard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
+Aspose.Drawing, una libreria grafica 2D multipiattaforma completamente gestita, eccelle nel disegno di testo, geometrie e immagini. Offre un'API compatibile con System.Drawing, trasformando facilmente il codice esistente che si basa su System.Drawing in una soluzione veramente multipiattaforma. Sviluppato rispetto a .NET Standard 2.0, Aspose.Drawing trova applicazione in scenari web, mobili, desktop, cloud e IoT.
 
-Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportEo un'ampia gamma di formati di file grafici comunemente utilizzati.
+Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rendering di grafica vettoriale, comprese linee, curve e figure, insieme a diversi elementi di testo in vari caratteri, dimensioni e stili. Questo processo di rendering avviene senza soluzione di continuità sulle immagini raster, supportando un'ampia gamma di formati di file grafici comunemente utilizzati.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Elabora TIFF tramite l'app online gratuita" sectionDescription="Crea immagini TIFF e aggiungi testo alle immagini visitEo il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Elabora TIFF tramite l'app online gratuita" sectionDescription="Crea immagini TIFF e aggiungi testo alle immagini visitando il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non è necessario scrivere alcun codice" >}}

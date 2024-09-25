@@ -7,14 +7,14 @@ keywords: create WMF via Java, 2D graphics, drawing API, create metafile in Java
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Utilice Java para crear archivos de imagen WMF" h2="Mejore las capacidades de sus aplicaciones Java manejyo archivos de imágenes vectoriales WMF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Utilice Java para crear archivos de imagen WMF" h2="Mejore las capacidades de sus aplicaciones Java manejando archivos de imágenes vectoriales WMF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen WMF usyo Java" %}}
+{{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen WMF usando Java" %}}
 
-Descubra la facilidad de crear archivos de imágenes vectoriales WMF utilizyo Java. Esta guía ofrece información y orientación esenciales adecuadas para desarrolladores de todos los niveles. Explore los pasos de integración perfecta para crear imágenes WMF y mejorar su competencia en programación. Utilice la biblioteca [Aspose.Drawing para Java](https://products.aspose.com/drawing/java), reconocida por su API de dibujo de gráficos 2D potente, fácil de usar y rica en funciones para la plataforma Java. Acceda a la última versión directamente desde el repositorio [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) e incorpórelo a su proyecto basado en Maven aplicyo las configuraciones especificadas al archivo pom.xml.
+Descubra la facilidad de crear archivos de imágenes vectoriales WMF utilizando Java. Esta guía ofrece información y orientación esenciales adecuadas para desarrolladores de todos los niveles. Explore los pasos de integración perfecta para crear imágenes WMF y mejorar su competencia en programación. Utilice la biblioteca [Aspose.Drawing para Java](https://products.aspose.com/drawing/java), reconocida por su API de dibujo de gráficos 2D potente, fácil de usar y rica en funciones para la plataforma Java. Acceda a la última versión directamente desde el repositorio [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) e incorpórelo a su proyecto basado en Maven aplicando las configuraciones especificadas al archivo pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -55,8 +55,8 @@ Necesita [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/
 {{% /blocks/products/pf/agp/text %}}
 
 + Crear objeto de vapor de memoria.
-+ Crear un objeto metarchivo usyo la clase Metafile.
-+ Crear objeto de gráficos usyo el método Graphics.FromImage().
++ Crear un objeto metarchivo usando la clase Metafile.
++ Crear objeto de gráficos usando el método Graphics.FromImage().
 + Dibujar elementos gráficos.
 + Escribir datos en formato de archivo WMF.
 

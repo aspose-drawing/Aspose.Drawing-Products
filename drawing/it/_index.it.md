@@ -6,7 +6,7 @@ description: API High Code e app gratuite per il disegno grafico 2D. PossibilitÃ
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Soluzione di elaborazione grafica" h2="API High Code e app gratuite per il disegno grafico 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brE.svg" imageAlt="Soluzione del prodotto Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Soluzione di elaborazione grafica" h2="API High Code e app gratuite per il disegno grafico 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Soluzione del prodotto Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Le API Aspose.Drawing High Code includono" >}}
@@ -57,7 +57,7 @@ Utilizza il metro a nastro delle dimensioni reali online.
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total funziona alla grEe quEo abbiamo file e documenti di grEi dimensioni su cui lavorare.
+ Aspose.Total funziona alla grande quando abbiamo file e documenti di grandi dimensioni su cui lavorare.
  <em>
   MiniToolÂ® Software Ltd., Canada
  </em>

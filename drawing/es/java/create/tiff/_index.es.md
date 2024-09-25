@@ -7,14 +7,14 @@ keywords: create TIFF via Java, 2D graphics, drawing API, create bitmap in Java,
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Genere archivos de imagen TIFF usyo Java" h2="Mejore sus aplicaciones Java con la capacidad de crear y manipular archivos de imágenes rasterizadas TIFF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Genere archivos de imagen TIFF usando Java" h2="Mejore sus aplicaciones Java con la capacidad de crear y manipular archivos de imágenes rasterizadas TIFF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen TIFF usyo Java" %}}
+{{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen TIFF usando Java" %}}
 
-Descubra la facilidad de generar archivos de imágenes rasterizadas TIFF con Java. Este documento completo ofrece información y orientación vitales, atendiendo a todos los niveles de competencia. Obtenga experiencia en la integración perfecta de la creación de imágenes TIFF en proyectos, refinyo las habilidades de programación en el proceso. Para producir archivos TIFF, aproveche la biblioteca [Aspose.Drawing para Java](https://products.aspose.com/drawing/java), aclamada por su API de dibujo de gráficos 2D intuitiva, potente y rica en funciones para la plataforma Java. Acceda a la última versión directamente desde el repositorio [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) e incorpórela en proyectos basados ​​en Maven aplicyo configuraciones específicas al pom. archivo xml.
+Descubra la facilidad de generar archivos de imágenes rasterizadas TIFF con Java. Este documento completo ofrece información y orientación vitales, atendiendo a todos los niveles de competencia. Obtenga experiencia en la integración perfecta de la creación de imágenes TIFF en proyectos, refinando las habilidades de programación en el proceso. Para producir archivos TIFF, aproveche la biblioteca [Aspose.Drawing para Java](https://products.aspose.com/drawing/java), aclamada por su API de dibujo de gráficos 2D intuitiva, potente y rica en funciones para la plataforma Java. Acceda a la última versión directamente desde el repositorio [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) e incorpórela en proyectos basados ​​en Maven aplicando configuraciones específicas al pom. archivo xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -54,8 +54,8 @@ Necesita [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crear un objeto de mapa de bits usyo la clase Bitmap.
-+ Crear objeto de gráficos usyo el método Graphics.FromImage().
++ Crear un objeto de mapa de bits usando la clase Bitmap.
++ Crear objeto de gráficos usando el método Graphics.FromImage().
 + Dibujar elementos gráficos.
 + Guarde el mapa de bits creado en formato de imagen TIFF.
 
@@ -91,7 +91,7 @@ Aspose.Drawing es una biblioteca de gráficos 2D multiplataforma totalmente admi
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Procese TIFF a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes TIFF y agregue texto a las imágenes visityo nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Procese TIFF a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes TIFF y agregue texto a las imágenes visitando nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código." >}}

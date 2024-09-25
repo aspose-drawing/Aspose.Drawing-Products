@@ -6,7 +6,7 @@ description: API Kode Tinggi dan Aplikasi Gratis untuk menggambar grafis 2D. Kem
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solusi Pemrosesan Grafis" h2="API Kode Tinggi dan aplikasi gratis untuk menggambar grafis 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brDan.svg" imageAlt="Solusi Produk Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solusi Pemrosesan Grafis" h2="API Kode Tinggi dan aplikasi gratis untuk menggambar grafis 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Solusi Produk Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Termasuk API Kode Tinggi Aspose.Drawing" >}}
@@ -49,7 +49,7 @@ Gunakan pita pengukur ukuran sebenarnya secara online.
 <p class="first">
  Kami telah menggunakan Aspose selama beberapa waktu sekarang, dan kami belum menemukan satu pun bug terkait Aspose.
  <em>
-  Jac Goorden | Bicore, BelDana
+  Jac Goorden | Bicore, Belanda
  </em>
 </p>
 

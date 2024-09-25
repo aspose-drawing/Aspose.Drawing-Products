@@ -12,7 +12,7 @@ keywords: add image to bitmap, add image to TIFF, add image via C#, 2D graphics,
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="für .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="So fügen Sie mit C# ein neues Bild zu einer vorhUndenen TIFF-Bilddatei hinzu" %}}
+{{% blocks/products/pf/agp/content h2="So fügen Sie mit C# ein neues Bild zu einer vorhandenen TIFF-Bilddatei hinzu" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
 Werten Sie Ihre TIFF-Bilder auf, indem Sie zusätzliche Bilder nahtlos integrieren <a href="https://products.aspose.com/drawing/net">Aspose.Drawing für .NET</a> vielseitige API. Dieses leistungsstarke Tool bietet eine einfache, aber effektive Möglichkeit, Ihre visuellen Elemente zu verbessern. Durch die Nutzung der Funktionen der Bitmap-Klasse und der Rastergrafikzeichnung können Sie Bilder mühelos in Ihre TIFF-Dateien integrieren. Ganz gleich, ob Sie mit Rasterbildern arbeiten oder Dateien im TIFF-Format speichern, die Drawing API bietet beispiellose Flexibilität und Effizienz. Erleben Sie den Komfort des Hinzufügens von Bildern zu TIFF-Dateien mit der Zeichnungs-API des .NET und erschließen Sie noch heute neue Möglichkeiten für Ihre Bildbearbeitungsprojekte. Offen <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paketmanager und suchen Sie nach <b>Aspose.Drawing</b> und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.</p>
@@ -38,7 +38,7 @@ Sie benötigen die [aspose.drawing.dll](https://downloads.aspose.com/drawing/net
 
 + Erstellen Sie ein Bitmap-Objekt aus einer TIFF-Bilddatei mit der Klasse „Bitmap“.
 + Erstellen Sie ein Grafikobjekt mit der Methode „Graphics.FromImage()“.
-+ Erstellen Sie eine neue Bitmap aus einer Underen Bilddatei.
++ Erstellen Sie eine neue Bitmap aus einer anderen Bilddatei.
 + Zeichnen Sie mit der Methode „DrawImageUnscaled()“ ein neues Bild auf die Bitmap.
 + Speichern Sie die erstellte Bitmap im TIFF-Bildformat.
 
@@ -69,7 +69,7 @@ Aspose.Drawing für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% blocks/products/pf/agp/content h2="Über Aspose.Drawing für .NET API" %}}
 
-Aspose.Drawing, eine vollständig verwaltete, plattformübergreifende 2D-Grafikbibliothek, zeichnet sich durch das Zeichnen von Text, Geometrien und Bildern aus. Es bietet eine System.Drawing-kompatible API und verwUndelt Ihren vorhUndenen Code, der auf System.Drawing basiert, mühelos in eine wirklich plattformübergreifende Lösung. Aspose.Drawing wurde auf Grundlage von .NET Standard 2.0 entwickelt und findet Anwendung in Web-, Mobil-, Desktop-, Cloud- und IoT-Szenarien.
+Aspose.Drawing, eine vollständig verwaltete, plattformübergreifende 2D-Grafikbibliothek, zeichnet sich durch das Zeichnen von Text, Geometrien und Bildern aus. Es bietet eine System.Drawing-kompatible API und verwandelt Ihren vorhandenen Code, der auf System.Drawing basiert, mühelos in eine wirklich plattformübergreifende Lösung. Aspose.Drawing wurde auf Grundlage von .NET Standard 2.0 entwickelt und findet Anwendung in Web-, Mobil-, Desktop-, Cloud- und IoT-Szenarien.
 
 Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vektorgrafiken, einschließlich Linien, Kurven und Figuren, sowie verschiedener Textelemente in verschiedenen Schriftarten, Größen und Stilen. Dieser Rendern-Prozess erfolgt nahtlos auf Rasterbildern und unterstützt eine Vielzahl häufig verwendeter Grafikdateiformate.
 

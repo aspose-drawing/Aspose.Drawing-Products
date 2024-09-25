@@ -7,17 +7,17 @@ keywords: add border to image, add border to GIF, add border via C#, 2D graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Adicionar borda ao arquivo de imagem GIF via C#" h2="Aprimore imagens GIF com bordas useo a API de desenho .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Adicionar borda ao arquivo de imagem GIF via C#" h2="Aprimore imagens GIF com bordas usando a API de desenho .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Como adicionar borda ao arquivo de imagem GIF useo C#" %}}
+{{% blocks/products/pf/agp/content h2="Como adicionar borda ao arquivo de imagem GIF usando C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Transforme suas imagens GIF com facilidade adicioneo bordas useo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API. Esta biblioteca gráfica 2D multiplataforma oferece ferramentas poderosas para integrar bordas perfeitamente às suas imagens. Com a API Aspose.Drawing, você pode desenhar bordas facilmente em torno de suas imagens GIF useo C#. Utilize a classe Bitmap e os recursos de desenho gráfico raster para obter resultados de qualidade profissional. Esteja você renderizeo imagens raster ou salveo arquivos GIF, a API de desenho oferece a flexibilidade e a funcionalidade necessárias para aprimorar seus recursos visuais. Experimente a conveniência de adicionar bordas às imagens GIF com a API do .NET e eleve seu processo de edição de imagens hoje mesmo. Abrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gerenciador de pacotes e procure por <b>Aspose.Drawing</b> e instale. Você também pode usar o seguinte comeo do Console do Gerenciador de Pacotes.</p>
+Transforme suas imagens GIF com facilidade adicionando bordas usando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API. Esta biblioteca gráfica 2D multiplataforma oferece ferramentas poderosas para integrar bordas perfeitamente às suas imagens. Com a API Aspose.Drawing, você pode desenhar bordas facilmente em torno de suas imagens GIF usando C#. Utilize a classe Bitmap e os recursos de desenho gráfico raster para obter resultados de qualidade profissional. Esteja você renderizando imagens raster ou salvando arquivos GIF, a API de desenho oferece a flexibilidade e a funcionalidade necessárias para aprimorar seus recursos visuais. Experimente a conveniência de adicionar bordas às imagens GIF com a API do .NET e eleve seu processo de edição de imagens hoje mesmo. Abrir <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> gerenciador de pacotes e procure por <b>Aspose.Drawing</b> e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comeo do console do gerenciador de pacotes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,8 +36,8 @@ Você precisa do [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crie um objeto bitmap a partir do arquivo de imagem GIF useo a classe `Bitmap`.
-+ Crie objetos gráficos useo o método `Graphics.FromImage()`.
++ Crie um objeto bitmap a partir do arquivo de imagem GIF usando a classe `Bitmap`.
++ Crie objetos gráficos usando o método `Graphics.FromImage()`.
 + Desenhe borda com o método `DrawRetângulo()`.
 + Salve o bitmap criado no formato de imagem GIF.
 
@@ -68,16 +68,16 @@ Aspose.Drawing para .NET é compatível com todos os principais sistemas operaci
 
 {{% blocks/products/pf/agp/content h2="Sobre Aspose.Drawing para API .NET" %}}
 
-Aspose.Drawing, uma biblioteca gráfica 2D multiplataforma totalmente gerenciada, é excelente no desenho de texto, geometrias e imagens. Ele oferece uma API compatível com System.Drawing, transformeo facilmente seu código existente que depende do System.Drawing em uma solução verdadeiramente multiplataforma. Desenvolvido com base no .NET Standard 2.0, o Aspose.Drawing encontra aplicação em cenários web, móveis, desktop, nuvem e IoT.
+Aspose.Drawing, uma biblioteca gráfica 2D multiplataforma totalmente gerenciada, é excelente no desenho de texto, geometrias e imagens. Ele oferece uma API compatível com System.Drawing, transformando facilmente seu código existente que depende do System.Drawing em uma solução verdadeiramente multiplataforma. Desenvolvido com base no .NET Standard 2.0, o Aspose.Drawing encontra aplicação em cenários web, móveis, desktop, nuvem e IoT.
 
-O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráficos vetoriais, incluindo linhas, curvas e figuras, juntamente com diversos elementos de texto em diversas fontes, tamanhos e estilos. Esse processo de renderização ocorre perfeitamente em imagens raster, suporteo uma ampla variedade de formatos de arquivos gráficos comumente usados.
+O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráficos vetoriais, incluindo linhas, curvas e figuras, juntamente com diversos elementos de texto em diversas fontes, tamanhos e estilos. Esse processo de renderização ocorre perfeitamente em imagens raster, suportando uma ampla variedade de formatos de arquivos gráficos comumente usados.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Processe GIF via aplicativo online gratuito" sectionDescription="Crie imagens GIF e adicione texto às imagens visiteo nosso [site de demonstrações ao vivo](https://products.aspose.app/drawing) A demonstração ao vivo tem os seguintes benefícios:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Processe GIF via aplicativo online gratuito" sectionDescription="Crie imagens GIF e adicione texto às imagens visitando nosso [site de demonstrações ao vivo](https://products.aspose.app/drawing) A demonstração ao vivo tem os seguintes benefícios:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Não há necessidade de baixar ou configurar nada" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Não há necessidade de escrever nenhum código" >}}

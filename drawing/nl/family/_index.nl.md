@@ -2,7 +2,7 @@
 title: 2D-tekening-API
 weight: 10
 url: /nl/family
-description: 2D Graphics Library om vectorafbeeldingen weer te geven, tekst weer te geven en tekenresultaten op te slaan in veelgebruikte grafische bestEnsformaten
+description: 2D Graphics Library om vectorafbeeldingen weer te geven, tekst weer te geven en tekenresultaten op te slaan in veelgebruikte grafische bestandsformaten
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -12,7 +12,7 @@ description: 2D Graphics Library om vectorafbeeldingen weer te geven, tekst weer
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API's omvatten" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing voor" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="/drawing/nl/net/" >}}
-.NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaEne C#-code te wijzigen.
+.NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing voor" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="/drawing/java/" >}}

@@ -12,12 +12,12 @@ keywords: change image background, change TIFF background, change background via
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo cambiar el fondo del archivo de imagen TIFF usyo C#" %}}
+{{% blocks/products/pf/agp/content h2="Cómo cambiar el fondo del archivo de imagen TIFF usando C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Descubra el poder de la transformación mientras modifica los fondos de sus archivos de imagen TIFF usyo el <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API. Ya sea que busque renovar el atractivo estético de sus imágenes o unificarlas con un fondo consistente, esta herramienta versátil proporciona los medios para hacerlo sin problemas. Con la biblioteca Aspose.Drawing, cambiar los fondos de las imágenes para archivos TIFF a través de C# se convierte en un proceso sencillo. Aproveche las capacidades de esta herramienta de gráficos 2D para editar fondos con precisión y eficiencia, aprovechyo la clase Bitmap y las funciones de dibujo de gráficos rasterizados. Experimente la flexibilidad y eficiencia de la API de dibujo .NET para la edición en segundo plano y eleve sus archivos de imagen TIFF a nuevas alturas de excelencia visual. Abierto <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> administrador de paquetes y busque <b>Aspose.Drawing</b> e instalar. También puede utilizar el siguiente comyo desde la Consola del Administrador de paquetes.</p>
+Descubra el poder de la transformación mientras modifica los fondos de sus archivos de imagen TIFF usando el <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API. Ya sea que busque renovar el atractivo estético de sus imágenes o unificarlas con un fondo consistente, esta herramienta versátil proporciona los medios para hacerlo sin problemas. Con la biblioteca Aspose.Drawing, cambiar los fondos de las imágenes para archivos TIFF a través de C# se convierte en un proceso sencillo. Aproveche las capacidades de esta herramienta de gráficos 2D para editar fondos con precisión y eficiencia, aprovechando la clase Bitmap y las funciones de dibujo de gráficos rasterizados. Experimente la flexibilidad y eficiencia de la API de dibujo .NET para la edición en segundo plano y eleve sus archivos de imagen TIFF a nuevas alturas de excelencia visual. Abierto <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> administrador de paquetes y busque <b>Aspose.Drawing</b> e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comyo de la consola del administrador de paquetes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,7 +36,7 @@ Necesita [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) para pro
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Cree un objeto de mapa de bits a partir del archivo de imagen TIFF usyo la clase `Bitmap`.
++ Cree un objeto de mapa de bits a partir del archivo de imagen TIFF usando la clase `Bitmap`.
 + Defina los colores deseados para cambiar el fondo de la imagen.
 + Cambie el color del píxel del mapa de bits con el método `SetPixel()`.
 + Guarde el mapa de bits editado en formato de imagen TIFF.
@@ -68,7 +68,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 
 {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Drawing para .NET API" %}}
 
-Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformyo sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
+Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformando sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
 
 El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráficos vectoriales, incluidas líneas, curvas y figuras, junto con diversos elementos de texto en diversas fuentes, tamaños y estilos. Este proceso de renderizado se produce sin problemas en imágenes rasterizadas y admite una amplia gama de formatos de archivos gráficos de uso común.
 
@@ -77,7 +77,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Procese TIFF a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes TIFF y agregue texto a las imágenes visityo nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Procese TIFF a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes TIFF y agregue texto a las imágenes visitando nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código." >}}

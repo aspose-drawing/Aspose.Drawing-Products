@@ -6,7 +6,7 @@ description: High Code API-k és ingyenes alkalmazások 2D grafikus rajzoláshoz
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Grafikus feldolgozási megoldás" h2="High Code API-k és ingyenes alkalmazások 2D grafikus rajzoláshoz." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brés.svg" imageAlt="Aspose.Drawing termékmegoldás" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Grafikus feldolgozási megoldás" h2="High Code API-k és ingyenes alkalmazások 2D grafikus rajzoláshoz." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing termékmegoldás" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API-k tartalmazzák" >}}
@@ -49,7 +49,7 @@ Használjon valós méretű mérőszalagot online.
 <p class="first">
  Az Aspose-t már jó ideje használjuk, és egyetlen Aspose-hoz kapcsolódó hibába sem futottunk bele.
  <em>
-  Jac Gorden | Bicore, Hollésia
+  Jac Gorden | Bicore, Hollandia
  </em>
 </p>
 

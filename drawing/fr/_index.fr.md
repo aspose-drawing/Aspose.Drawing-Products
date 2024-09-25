@@ -6,7 +6,7 @@ description: API High Code et applications gratuites pour le dessin graphique 2D
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Solution de traitement graphique" h2="API High Code et applications gratuites pour le dessin graphique 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-bret.svg" imageAlt="Solution produit Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Solution de traitement graphique" h2="API High Code et applications gratuites pour le dessin graphique 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Solution produit Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API High Code du Aspose.Drawing incluent" >}}

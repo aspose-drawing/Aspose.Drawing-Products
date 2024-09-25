@@ -318,7 +318,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
     <p class="col-lg-10">
      支援 
 <a href="alphaBlending/">阿爾法混合 </a>
-和 
+and 
 <a href="antiAliasing/">抗鋸齒</a>
     </p>
    </div>

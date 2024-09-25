@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas,
    </h2>
 
    <p align='justify'>
-   Apresenteo o Aspose.Drawing para Java, uma biblioteca de desenho de última geração que capacita os desenvolvedores a alcançar excelência gráfica incomparável em seus aplicativos.
+   Apresentando o Aspose.Drawing para Java, uma biblioteca de desenho de última geração que capacita os desenvolvedores a alcançar excelência gráfica incomparável em seus aplicativos.
    </p>
 </div>
 
@@ -32,7 +32,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas,
    </h3>
 
    <p align='justify'>
-   O Aspose.Drawing oferece um conjunto robusto de recursos, renderizeo gráficos vetoriais perfeitamente. Crie linhas, curvas, figuras e muito mais com facilidade. Quer você seja um desenvolvedor experiente ou iniciante, a interface amigável da biblioteca garante um processo de design tranquilo.
+   O Aspose.Drawing oferece um conjunto robusto de recursos, renderizando gráficos vetoriais perfeitamente. Crie linhas, curvas, figuras e muito mais com facilidade. Quer você seja um desenvolvedor experiente ou iniciante, a interface amigável da biblioteca garante um processo de design tranquilo.
    </p>
 </div>
 
@@ -42,7 +42,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas,
    </h3>
 
    <p align='justify'>
-   Destaque-se adicioneo texto cativante aos seus gráficos. O Aspose.Drawing facilita a manipulação de texto, oferecendo diversas fontes, tamanhos e estilos. Quer você prefira um visual moderno ou clássico, a biblioteca oferece as ferramentas para dar vida à sua visão.
+   Destaque-se adicionando texto cativante aos seus gráficos. O Aspose.Drawing facilita a manipulação de texto, oferecendo diversas fontes, tamanhos e estilos. Quer você prefira um visual moderno ou clássico, a biblioteca oferece as ferramentas para dar vida à sua visão.
    </p>
 </div>
 
@@ -62,7 +62,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas,
    </h3>
 
    <p align='justify'>
-   Diga adeus às dependências externas. Aspose.Drawing é uma biblioteca Java pura, elimineo a necessidade de mecanismos de renderização nativos externos. Desfrute de uma experiência de desenvolvimento tranquila, projetada para se alinhar perfeitamente aos seus projetos Java.
+   Diga adeus às dependências externas. Aspose.Drawing é uma biblioteca Java pura, eliminando a necessidade de mecanismos de renderização nativos externos. Desfrute de uma experiência de desenvolvimento tranquila, projetada para se alinhar perfeitamente aos seus projetos Java.
    </p>
 </div>
 
@@ -83,7 +83,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas,
    <b>Texto para contar histórias:</b> Crie histórias atraentes com textos que falam por si. Com uma ampla variedade de fontes e estilos, o Aspose.Drawing garante que seu texto seja tão cativante quanto seus gráficos.
    </li>
    <li>
-   <b>Liberdade de formato:</b> A Aspose.Drawing suporta vários formatos gráficos, proporcioneo a liberdade de salvar e compartilhar criações em um formato adequado à sua visão.
+   <b>Liberdade de formato:</b> A Aspose.Drawing suporta vários formatos gráficos, proporcionando a liberdade de salvar e compartilhar criações em um formato adequado à sua visão.
    </li>
    <li>
    <b>Java nativo:</b> Aproveite a simplicidade e a eficiência de uma biblioteca nativa do Java. Chega de dependências ou complicações externas – apenas pura magia do Java.
@@ -405,7 +405,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas,
      Desenhar gráficos vetoriais
     </h2>
     <p>
-     Aspose.Drawing para Java permite desenhar diferentes gráficos vetoriais, como arcos, Cardinal Spline, Bezier spline, elipses, curvas fechadas, linhas e vários outros tipos. Apenas algumas linhas de código são necessárias para desenhar diferentes tipos de gráficos vetoriais useo a API. por exemplo, aqui está o código para desenhar arco.
+     Aspose.Drawing para Java permite desenhar diferentes gráficos vetoriais, como arcos, Cardinal Spline, Bezier spline, elipses, curvas fechadas, linhas e vários outros tipos. Apenas algumas linhas de código são necessárias para desenhar diferentes tipos de gráficos vetoriais usando a API. por exemplo, aqui está o código para desenhar arco.
     </p>
     <div class="codeblock" id="code">
      <h3>

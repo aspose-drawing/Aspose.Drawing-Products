@@ -318,7 +318,7 @@ a poklopové kartáče
     <p class="col-lg-10">
      Podporuje 
 <a href="alphaBlending/">alfa míšení </a>
-a 
+and 
 <a href="antiAliasing/">anti-aliasing</a>
     </p>
    </div>

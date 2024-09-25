@@ -6,7 +6,7 @@ description: 用于 2D 图形绘制的高代码 API 和免费应用程序。能�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="图形处理解决方案" h2="用于 2D 图形绘制的高代码 API 和免费应用程序。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-br和.svg" imageAlt="Aspose.Drawing产品解决方案" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="图形处理解决方案" h2="用于 2D 图形绘制的高代码 API 和免费应用程序。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing产品解决方案" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing 高代码 API 包括" >}}

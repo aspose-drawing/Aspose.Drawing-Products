@@ -318,7 +318,7 @@ struktúra,
     <p class="col-lg-10">
      Támogatja 
 <a href="alphaBlending/">alfa keverés </a>
-és 
+and 
 <a href="antiAliasing/">élsimítás</a>
     </p>
    </div>

@@ -13,7 +13,7 @@ keywords: Tambahkan teks in C#, Tambahkan teks to image file, text on bitmap ima
 
 {{% blocks/products/pf/feature-page-section  h2="Tambahkan Teks ke Gambar dengan Mulus di C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Ubah gambar Anda dengan mudah menggunakan pustaka grafis Aspose.Drawing untuk .NET dengan menambahkan teks secara terprogram. Baik Anda ingin memberi anotasi, memberi tDana air, atau memberi teks pada gambar Anda, alat serbaguna ini memberdayakan Anda untuk melakukannya dengan mudah. Dengan Aspose.Drawing, Anda bisa <b>Tambahkan teks</b> untuk gambar bitmap di C# dengan presisi dan mudah. API perpustakaan yang intuitif dan fungsionalitas yang kuat memudahkan penyesuaian gambar Anda persis seperti yang Anda bayangkan. Rasakan kekuatan perpustakaan grafis kami di C#, dan buka kemungkinan baru untuk proyek pengeditan gambar Anda hari ini.</p>
+Ubah gambar Anda dengan mudah menggunakan pustaka grafis Aspose.Drawing untuk .NET dengan menambahkan teks secara terprogram. Baik Anda ingin memberi anotasi, memberi tanda air, atau memberi teks pada gambar Anda, alat serbaguna ini memberdayakan Anda untuk melakukannya dengan mudah. Dengan Aspose.Drawing, Anda bisa <b>Tambahkan teks</b> untuk gambar bitmap di C# dengan presisi dan mudah. API perpustakaan yang intuitif dan fungsionalitas yang kuat memudahkan penyesuaian gambar Anda persis seperti yang Anda bayangkan. Rasakan kekuatan perpustakaan grafis kami di C#, dan buka kemungkinan baru untuk proyek pengeditan gambar Anda hari ini.</p>
 
 <h3 style="margin-top:16px;">
 Format Gambar yang Didukung:

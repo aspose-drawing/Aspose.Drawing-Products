@@ -333,7 +333,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing Kurven,
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="create/">Erstellen Sie Bitmaps von Grund auf</a> oder vorhUndene Dateien laden
+     <a href="create/">Erstellen Sie Bitmaps von Grund auf</a> oder vorhandene Dateien laden
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,7 +405,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing Kurven,
      Zeichnen Sie Vektorgrafiken
     </h2>
     <p>
-     Aspose.Drawing für Java ermöglicht das Zeichnen verschiedener Vektorgrafiken wie Bögen, Kardinal-Spline, Bezier-Spline, Ellipsen, geschlossene Kurven, Linien und eine Reihe Underer Typen. Zum Zeichnen verschiedener Arten von Vektorgrafiken mithilfe der API waren nur wenige Codezeilen erforderlich. Hier ist beispielsweise der Code zum Zeichnen eines Bogens.
+     Aspose.Drawing für Java ermöglicht das Zeichnen verschiedener Vektorgrafiken wie Bögen, Kardinal-Spline, Bezier-Spline, Ellipsen, geschlossene Kurven, Linien und eine Reihe anderer Typen. Zum Zeichnen verschiedener Arten von Vektorgrafiken mithilfe der API waren nur wenige Codezeilen erforderlich. Hier ist beispielsweise der Code zum Zeichnen eines Bogens.
     </p>
     <div class="codeblock" id="code">
      <h3>

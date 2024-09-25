@@ -318,7 +318,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
     <p class="col-lg-10">
      サポート 
 <a href="alphaBlending/">アルファブレンディング </a>
-そして 
+and 
 <a href="antiAliasing/">アンチエイリアシング</a>
     </p>
    </div>

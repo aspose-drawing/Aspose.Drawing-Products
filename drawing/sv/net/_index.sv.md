@@ -102,7 +102,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
      Klippning
     </li>
     <li>
-     Alfablochning
+     Alfablandning
     </li>
    </ul>
   </div>
@@ -169,7 +169,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Drawing för .NET stöder följoche [bildformat](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Drawing för .NET stöder följande [bildformat](https://docs.aspose.com/drawing/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -317,8 +317,8 @@ och lucka borstar
     </em>
     <p class="col-lg-10">
      Stödjer 
-<a href="alphaBlending/">alfablochning </a>
-och 
+<a href="alphaBlending/">alfablandning </a>
+and 
 <a href="antiAliasing/">kantutjämning</a>
     </p>
    </div>
@@ -344,7 +344,7 @@ och
      Rita vektorgrafik
     </h2>
     <p>
-     Aspose.Drawing för .NET gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal ochra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. Här är t.ex. kod för att rita båge.
+     Aspose.Drawing för .NET gör det möjligt att rita olika vektorgrafik såsom bågar, Cardinal Spline, Bezier spline, ellipser, slutna kurvor, linjer och ett antal andra typer. Endast några rader kod behövs för att rita olika typer av vektorgrafik med hjälp av API. Här är t.ex. kod för att rita båge.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -366,7 +366,7 @@ och
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/drawing/net/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-drawing/Aspose.Drawing-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/drawing/net/" >}}
-{{< blocks/products/pf/slr-element name="Hochledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
+{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}

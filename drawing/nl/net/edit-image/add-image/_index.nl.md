@@ -2,7 +2,7 @@
 title: Voeg afbeelding aan afbeelding toe via de .NET
 weight: 20
 url: /nl/net/edit-image/add-image/
-description: Voeg een afbeelding toe aan bestaEne afbeeldingsbitmaps met behulp van de Aspose.Drawing grafische bibliotheek voor .NET (C#)
+description: Voeg een afbeelding toe aan bestaande afbeeldingsbitmaps met behulp van de Aspose.Drawing grafische bibliotheek voor .NET (C#)
 keywords: add image, add image to image, image to bitmap, add bitmap in C#, bitmap images in C#, 2D graphics, graphic library voor .NET, image files, raster image, edit images, save image, afbeeldingen toevoegen
 ---
 
@@ -13,7 +13,7 @@ keywords: add image, add image to image, image to bitmap, add bitmap in C#, bitm
 
 {{% blocks/products/pf/feature-page-section  h2="Afbeeldingen toevoegen aan bitmap met de Aspose.Drawing-bibliotheek" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Vergroot uw vaardigheden op het gebied van beeldbewerking door extra afbeeldingen naadloos te integreren in bestaEne bitmaps met behulp van de Aspose.Drawing grafische bibliotheek voor .NET (C#). Met deze uitgebreide tool kunt u uw beelden moeiteloos verbeteren, of u nu bestaEne composities verfijnt of geheel nieuwe composities maakt. Ongeacht de afbeeldingsindeling van het bronbestEn kunt u een nieuwe afbeelding van elk ondersteund type toevoegen. Met zijn intuïtieve API en robuuste functionaliteit stroomlijnt de Aspose.Drawing het proces van <b>afbeeldingen toevoegen</b> naar bitmapbestEnen. Ontdek de veelzijdigheid en efficiëntie van onze grafische bibliotheek in de C# en open vEnaag nog een wereld aan mogelijkheden voor uw beeldbewerkingsprojecten.</p>
+Vergroot uw vaardigheden op het gebied van beeldbewerking door extra afbeeldingen naadloos te integreren in bestaande bitmaps met behulp van de Aspose.Drawing grafische bibliotheek voor .NET (C#). Met deze uitgebreide tool kunt u uw beelden moeiteloos verbeteren, of u nu bestaande composities verfijnt of geheel nieuwe composities maakt. Ongeacht de afbeeldingsindeling van het bronbestand kunt u een nieuwe afbeelding van elk ondersteund type toevoegen. Met zijn intuïtieve API en robuuste functionaliteit stroomlijnt de Aspose.Drawing het proces van <b>afbeeldingen toevoegen</b> naar bitmapbestanden. Ontdek de veelzijdigheid en efficiëntie van onze grafische bibliotheek in de C# en open vandaag nog een wereld aan mogelijkheden voor uw beeldbewerkingsprojecten.</p>
 
 <h3 style="margin-top:16px;">
 Ondersteunde beeldformaten:

@@ -318,7 +318,7 @@ i szczotki kreskowe
     <p class="col-lg-10">
      Obsługuje 
 <a href="alphaBlending/">mieszanie alfa </a>
-I 
+and 
 <a href="antiAliasing/">antyaliasing</a>
     </p>
    </div>

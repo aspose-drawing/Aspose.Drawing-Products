@@ -2,18 +2,18 @@
 title: Adicionar texto à imagem via .NET
 weight: 20
 url: /pt/net/edit-image/add-text/
-description: Adicioneo texto a imagens useo a biblioteca gráfica Aspose.Drawing para .NET (C#)
+description: Adicionando texto a imagens usando a biblioteca gráfica Aspose.Drawing para .NET (C#)
 keywords: Adicione texto in C#, Adicione texto to image file, text on bitmap images in C#, text to image, graphic library para .NET, raster images, edit image, save image, 2D graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Adicione texto à imagem useo C#" h2="Aprimore suas imagens: adicioneo texto com Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Adicione texto à imagem usando C#" h2="Aprimore suas imagens: adicionando texto com Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Adicione texto a imagens perfeitamente no C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Transforme suas imagens com facilidade useo a biblioteca gráfica Aspose.Drawing para .NET adicioneo texto programaticamente. Esteja você procureo fazer anotações, marcas d'água ou legendas em suas imagens, esta ferramenta versátil permite que você faça isso sem esforço. Com o Aspose.Drawing, você pode <b>Adicione texto</b> para imagens bitmap no C# com precisão e facilidade. A API intuitiva da biblioteca e a funcionalidade robusta simplificam a personalização de suas imagens exatamente como você imagina. Experimente o poder da nossa biblioteca gráfica no C# e descubra novas possibilidades para seus projetos de edição de imagens hoje mesmo.</p>
+Transforme suas imagens com facilidade usando a biblioteca gráfica Aspose.Drawing para .NET adicionando texto programaticamente. Esteja você procurando fazer anotações, marcas d'água ou legendas em suas imagens, esta ferramenta versátil permite que você faça isso sem esforço. Com o Aspose.Drawing, você pode <b>Adicione texto</b> para imagens bitmap no C# com precisão e facilidade. A API intuitiva da biblioteca e a funcionalidade robusta simplificam a personalização de suas imagens exatamente como você imagina. Experimente o poder da nossa biblioteca gráfica no C# e descubra novas possibilidades para seus projetos de edição de imagens hoje mesmo.</p>
 
 <h3 style="margin-top:16px;">
 Formatos de imagem suportados:

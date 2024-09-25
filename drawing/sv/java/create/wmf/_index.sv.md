@@ -50,7 +50,7 @@ Upptäck hur enkelt det är att skapa WMF vektorbildfiler med Java. Den här gui
 
 {{% blocks/products/pf/agp/text %}}
 
-Du behöver [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/java/) för att prova följoche arbetsflöde i din egen miljö.
+Du behöver [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawing/java/) för att prova följande arbetsflöde i din egen miljö.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -66,7 +66,7 @@ Du behöver [aspose-drawing-version-jdk18.jar](https://releases.aspose.com/drawi
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Drawing för Java stöds på alla större operativsystem. Se bara till att du har följoche förutsättningar.
+Aspose.Drawing för Java stöds på alla större operativsystem. Se bara till att du har följande förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ Aspose.Drawing för Java stöds på alla större operativsystem. Se bara till at
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Drawing för Java API" %}}
 
-Aspose.Drawing fungerar som ett fullt hanterat, plattformsoberoende 2D-grafiskt bibliotek, vilket underlättar skapochet av text, geometrier och bilder. Dess plattformsoberoende Java-kompatibla API möjliggör enkel integration mellan olika operativsystem med Java installerad. Konstruerad mot Java 8, Aspose.Drawing hittar applikationer i webb-, mobil-, skrivbords- och molnmiljöer. Ritmotorn ger användare möjlighet att återge vektorgrafik, omfattoche linjer, kurvor och figurer, tillsammans med text i flera teckensnitt, storlekar och stilar på vektor- eller rasterbilder i vanliga grafikfilformat. Denna renderingsförmåga, integrerad i Aspose.Drawing, främjar sömlös integration och kompatibilitet med ett brett utbud av vanliga grafikfilformat.
+Aspose.Drawing fungerar som ett fullt hanterat, plattformsoberoende 2D-grafiskt bibliotek, vilket underlättar skapandet av text, geometrier och bilder. Dess plattformsoberoende Java-kompatibla API möjliggör enkel integration mellan olika operativsystem med Java installerad. Konstruerad mot Java 8, Aspose.Drawing hittar applikationer i webb-, mobil-, skrivbords- och molnmiljöer. Ritmotorn ger användare möjlighet att återge vektorgrafik, omfattande linjer, kurvor och figurer, tillsammans med text i flera teckensnitt, storlekar och stilar på vektor- eller rasterbilder i vanliga grafikfilformat. Denna renderingsförmåga, integrerad i Aspose.Drawing, främjar sömlös integration och kompatibilitet med ett brett utbud av vanliga grafikfilformat.
 
 {{% /blocks/products/pf/agp/content %}}
 

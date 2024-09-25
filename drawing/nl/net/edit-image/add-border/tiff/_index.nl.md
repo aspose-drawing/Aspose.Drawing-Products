@@ -1,21 +1,21 @@
 ---
-title: REn toevoegen aan TIFF-afbeeldingsbestEn via .NET
+title: Rand toevoegen aan TIFF-afbeeldingsbestand via .NET
 weight: 20
 url: /nl/net/edit-image/add-border/tiff/
-description: REn toevoegen aan TIFF-afbeeldingsbestEn via .NET.
+description: Rand toevoegen aan TIFF-afbeeldingsbestand via .NET.
 keywords: add border to image, add border to TIFF, add border via C#, 2D graphics, drawing API, edit bitmap C#, Drawing voor .NET, save bitmap, save TIFF image, cross-platform 2D graphic library, Bitmap class, raster graphics drawing, draw border, rendering raster images, TIFF image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="REn toevoegen aan TIFF-afbeeldingsbestEn via C#" h2="Verbeter TIFF-afbeeldingen met rEnen met behulp van de .NET Teken-API" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rand toevoegen aan TIFF-afbeeldingsbestand via C#" h2="Verbeter TIFF-afbeeldingen met randen met behulp van de .NET Teken-API" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="REn toevoegen aan TIFF-afbeeldingsbestEn met C#" %}}
+{{% blocks/products/pf/agp/content h2="Rand toevoegen aan TIFF-afbeeldingsbestand met C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Transformeer uw TIFF-afbeeldingen eenvoudig door rEnen toe te voegen met behulp van <a href="https://products.aspose.com/drawing/net">Aspose.Drawing voor .NET</a> API. Deze platformonafhankelijke grafische 2D-bibliotheek biedt krachtige tools om rEnen naadloos in uw afbeeldingen te integreren. Met de Aspose.Drawing API kunt u met C# moeiteloos rEnen rond uw TIFF-afbeeldingen tekenen. Maak gebruik van de Bitmap-klasse en de tekenmogelijkheden voor rasterafbeeldingen om resultaten van professionele kwaliteit te bereiken. Of u nu rasterafbeeldingen rendert of TIFF-bestEnen opslaat, de Drawing API biedt de flexibiliteit en functionaliteit die u nodig heeft om uw beelden te verbeteren. Ervaar het gemak van het toevoegen van rEnen aan TIFF-afbeeldingen met de .NET-API en verbeter vEnaag nog uw beeldbewerkingsproces. Open <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakketbeheerder en zoek naar <b>Aspose.Drawing</b> en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.</p>
+Transformeer uw TIFF-afbeeldingen eenvoudig door randen toe te voegen met behulp van <a href="https://products.aspose.com/drawing/net">Aspose.Drawing voor .NET</a> API. Deze platformonafhankelijke grafische 2D-bibliotheek biedt krachtige tools om randen naadloos in uw afbeeldingen te integreren. Met de Aspose.Drawing API kunt u met C# moeiteloos randen rond uw TIFF-afbeeldingen tekenen. Maak gebruik van de Bitmap-klasse en de tekenmogelijkheden voor rasterafbeeldingen om resultaten van professionele kwaliteit te bereiken. Of u nu rasterafbeeldingen rendert of TIFF-bestanden opslaat, de Drawing API biedt de flexibiliteit en functionaliteit die u nodig heeft om uw beelden te verbeteren. Ervaar het gemak van het toevoegen van randen aan TIFF-afbeeldingen met de .NET-API en verbeter vandaag nog uw beeldbewerkingsproces. Open <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakketbeheerder en zoek naar <b>Aspose.Drawing</b> en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -28,7 +28,7 @@ PM> Install-Package Aspose.Drawing
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Stappen om een ​​rEn toe te voegen aan de TIFF-afbeelding via de C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Stappen om een ​​rand toe te voegen aan de TIFF-afbeelding via de C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -36,9 +36,9 @@ U hebt de [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) nodig o
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Maak een bitmapobject van het TIFF-afbeeldingsbestEn met behulp van de klasse `Bitmap`.
++ Maak een bitmapobject van het TIFF-afbeeldingsbestand met behulp van de klasse `Bitmap`.
 + Maak een grafisch object met de methode `Graphics.FromImage()`.
-+ Teken een rEn met de methode `DrawRechthoek()`.
++ Teken een rand met de methode `DrawRechthoek()`.
 + Bewaar gemaakte bitmap in TIFF-beeldformaat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -57,7 +57,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="REn toevoegen aan TIFF-afbeeldingsbestEn - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Rand toevoegen aan TIFF-afbeeldingsbestand - C#" offSpacer="" %}}
 {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Edit-Image-File-Add-Border-TIFF.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -68,9 +68,9 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/content h2="Over Aspose.Drawing voor .NET-API" %}}
 
-Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaEne code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
+Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaande code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
 
-Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestEnsformaten.
+Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestandsformaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -81,14 +81,14 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
-{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestEnen en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende TIFF-bestEn" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende TIFF-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="BestEnsformaat" readMoreFormat="Lees verder" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 
-BestEnen met de extensie .TIFF vertegenwoordigen bitmapafbeeldingsbestEnen die worden gebruikt om digitale bitmapafbeeldingen op te slaan. Dit afbeeldingsformaat heeft tot doel het bestEn op meerdere platforms te openen, zoals Microsoft Windows, Mac en Linux. Het TIFF-bestEnsformaat kan gegevens opslaan als tweedimensionale digitale afbeeldingen in zowel zwart-wit als kleurformaat met verschillende kleurdieptes.
+Bestanden met de extensie .TIFF vertegenwoordigen bitmapafbeeldingsbestanden die worden gebruikt om digitale bitmapafbeeldingen op te slaan. Dit afbeeldingsformaat heeft tot doel het bestand op meerdere platforms te openen, zoals Microsoft Windows, Mac en Linux. Het TIFF-bestandsformaat kan gegevens opslaan als tweedimensionale digitale afbeeldingen in zowel zwart-wit als kleurformaat met verschillende kleurdieptes.
 
 {{< /blocks/products/pf/agp/about-file-text >}}
 

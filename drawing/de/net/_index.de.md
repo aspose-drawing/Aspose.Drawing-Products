@@ -2,7 +2,7 @@
 title: Aspose.Drawing für .NET | Plattformübergreifender System.Drawing.Common-Ersatz 
 weight: 20
 url: /de/net/
-description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern, um das System.Drawing.Common-Paket direkt zu ersetzen, ohne den vorhUndenen C#-Code zu ändern.
+description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern, um das System.Drawing.Common-Paket direkt zu ersetzen, ohne den vorhandenen C#-Code zu ändern.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -14,7 +14,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- Das Aspose.Drawing-Paket kann verwendet werden, um die System.Drawing.Common-Paketreferenz in Ihrem Projekt direkt zu ersetzen. Ihr gesamter vorhUndener Code, der die System.Drawing-API verwendet, funktioniert weiterhin, jetzt jedoch auf jeder von .NET unterstützten Plattform. Die Zeichnungsbibliothek unterstützt das Rendern von Vektorgrafiken wie Linien, Kurven und Figuren sowie von Text in verschiedenen Schriftarten, Größen und Stilen auf Rasterbildern. Bilder können in allen gängigen Grafikformaten gespeichert werden, einschließlich BMP, PNG, JPEG, GIF und TIFF. Aspose.Drawing ist eine reine .NET-Bibliothek und ist nicht auf eine externe native Rendern-Engine angewiesen.
+ Das Aspose.Drawing-Paket kann verwendet werden, um die System.Drawing.Common-Paketreferenz in Ihrem Projekt direkt zu ersetzen. Ihr gesamter vorhandener Code, der die System.Drawing-API verwendet, funktioniert weiterhin, jetzt jedoch auf jeder von .NET unterstützten Plattform. Die Zeichnungsbibliothek unterstützt das Rendern von Vektorgrafiken wie Linien, Kurven und Figuren sowie von Text in verschiedenen Schriftarten, Größen und Stilen auf Rasterbildern. Bilder können in allen gängigen Grafikformaten gespeichert werden, einschließlich BMP, PNG, JPEG, GIF und TIFF. Aspose.Drawing ist eine reine .NET-Bibliothek und ist nicht auf eine externe native Rendern-Engine angewiesen.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -245,7 +245,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10"><a href="create/">Erstellen Sie Bitmaps von Grund auf</a>
-     oder vorhUndene Dateien laden
+     oder vorhandene Dateien laden
     </p>
    </div>
    <div class="col-lg-4">
@@ -318,7 +318,7 @@ und Lukenbürsten
     <p class="col-lg-10">
      Unterstützt 
 <a href="alphaBlending/">Alpha-Mischung </a>
-Und 
+and 
 <a href="antiAliasing/">Anti-Aliasing</a>
     </p>
    </div>
@@ -344,7 +344,7 @@ Und
      Zeichnen Sie Vektorgrafiken
     </h2>
     <p>
-     Aspose.Drawing für .NET ermöglicht das Zeichnen verschiedener Vektorgrafiken wie Bögen, Kardinal-Spline, Bezier-Spline, Ellipsen, geschlossene Kurven, Linien und eine Reihe Underer Typen. Zum Zeichnen verschiedener Arten von Vektorgrafiken mithilfe der API waren nur wenige Codezeilen erforderlich. Hier ist zum Beispiel Code zum Zeichnen eines Bogens.
+     Aspose.Drawing für .NET ermöglicht das Zeichnen verschiedener Vektorgrafiken wie Bögen, Kardinal-Spline, Bezier-Spline, Ellipsen, geschlossene Kurven, Linien und eine Reihe anderer Typen. Zum Zeichnen verschiedener Arten von Vektorgrafiken mithilfe der API waren nur wenige Codezeilen erforderlich. Hier ist zum Beispiel Code zum Zeichnen eines Bogens.
     </p>
     <div class="codeblock" id="code">
      <h3>

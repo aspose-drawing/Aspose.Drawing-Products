@@ -1,19 +1,19 @@
 ---
-title: Creyo mapas de bits desde cero a través de .NET
+title: Creando mapas de bits desde cero a través de .NET
 weight: 20
 url: /es/net/create/
-description: Creación de mapas de bits desde cero utilizyo la biblioteca gráfica Aspose.Drawing para .NET (C#)
+description: Creación de mapas de bits desde cero utilizando la biblioteca gráfica Aspose.Drawing para .NET (C#)
 keywords: create bitmap in C#, create image file, bitmap images in C#, bitmap from scratch, graphic library para .NET, generate images
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Creyo mapas de bits desde cero" h2="Creación de imágenes de mapa de bits en C# con Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Creando mapas de bits desde cero" h2="Creación de imágenes de mapa de bits en C# con Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
-{{% blocks/products/pf/feature-page-section  h2="Cómo crear mapas de bits desde cero usyo C#" %}}
+{{% blocks/products/pf/feature-page-section  h2="Cómo crear mapas de bits desde cero usando C#" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Crear o trabajar con imágenes de mapa de bits es un requisito fundamental en diversas aplicaciones. Ya sea que necesite generar imágenes dinámicamente o manipular las existentes, la biblioteca gráfica Aspose.Drawing para .NET proporciona un potente conjunto de herramientas para trabajar con imágenes de mapa de bits en C#. Crear un mapa de bits desde cero es un proceso sencillo con Aspose.Drawing. Usyo Aspose.Drawing puedes fácilmente <b>Crear mapas de bits</b> para diferentes formatos de imagen mediante programación.
+Crear o trabajar con imágenes de mapa de bits es un requisito fundamental en diversas aplicaciones. Ya sea que necesite generar imágenes dinámicamente o manipular las existentes, la biblioteca gráfica Aspose.Drawing para .NET proporciona un potente conjunto de herramientas para trabajar con imágenes de mapa de bits en C#. Crear un mapa de bits desde cero es un proceso sencillo con Aspose.Drawing. Usando Aspose.Drawing puedes fácilmente <b>Crear mapas de bits</b> para diferentes formatos de imagen mediante programación.
 </p>
 
 <h3 style="margin-top:16px;">

@@ -318,7 +318,7 @@ description: .NET图形库，用于绘制文本、几何图形和图像，可直
     <p class="col-lg-10">
      支持 
 <a href="alphaBlending/">阿尔法混合 </a>
-和 
+and 
 <a href="antiAliasing/">抗锯齿</a>
     </p>
    </div>

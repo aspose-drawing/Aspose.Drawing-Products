@@ -26,13 +26,13 @@ Ondersteunde beeldformaten:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		    <div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		        <div class='col-md-3 other-converter remove-lp remove-rp'><a href="bmp/" style="padding:15px;">Maak een BMP-afbeeldingsbestEn</a></div>
-                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="emf/" style="padding:15px;">Maak een EMF-afbeeldingsbestEn</a></div>
-                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="gif/" style="padding:15px;">Maak een GIF-afbeeldingsbestEn</a></div>
-                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="jpeg/" style="padding:15px;">Maak een JPEG-afbeeldingsbestEn</a></div>
-                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="png/" style="padding:15px;">Maak een PNG-afbeeldingsbestEn</a></div>
-                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="tiff/" style="padding:15px;">Maak een TIFF-afbeeldingsbestEn</a></div>
-                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="wmf/" style="padding:15px;">Maak een WMF-afbeeldingsbestEn</a></div>
+		        <div class='col-md-3 other-converter remove-lp remove-rp'><a href="bmp/" style="padding:15px;">Maak een BMP-afbeeldingsbestand</a></div>
+                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="emf/" style="padding:15px;">Maak een EMF-afbeeldingsbestand</a></div>
+                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="gif/" style="padding:15px;">Maak een GIF-afbeeldingsbestand</a></div>
+                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="jpeg/" style="padding:15px;">Maak een JPEG-afbeeldingsbestand</a></div>
+                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="png/" style="padding:15px;">Maak een PNG-afbeeldingsbestand</a></div>
+                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="tiff/" style="padding:15px;">Maak een TIFF-afbeeldingsbestand</a></div>
+                <div class='col-md-3 other-converter remove-lp remove-rp'><a href="wmf/" style="padding:15px;">Maak een WMF-afbeeldingsbestand</a></div>
             </div>
         </div>
     </div>

@@ -318,7 +318,7 @@ description: Графическая библиотека .NET для рисов�
     <p class="col-lg-10">
      Поддерживает 
 <a href="alphaBlending/">альфа-смешение </a>
-и 
+and 
 <a href="antiAliasing/">сглаживание</a>
     </p>
    </div>

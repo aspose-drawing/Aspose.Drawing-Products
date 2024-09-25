@@ -7,17 +7,17 @@ keywords: add border to image, add border to TIFF, add border via C#, 2D graphic
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Agregar borde al archivo de imagen TIFF a través de C#" h2="Mejore las imágenes TIFF con bordes usyo la API de dibujo .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Agregar borde al archivo de imagen TIFF a través de C#" h2="Mejore las imágenes TIFF con bordes usando la API de dibujo .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo agregar un borde a un archivo de imagen TIFF usyo C#" %}}
+{{% blocks/products/pf/agp/content h2="Cómo agregar un borde a un archivo de imagen TIFF usando C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Transforme sus imágenes TIFF con facilidad agregyo bordes usyo <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API. Esta biblioteca de gráficos 2D multiplataforma ofrece potentes herramientas para integrar perfectamente los bordes en sus imágenes. Con la API Aspose.Drawing, puede dibujar bordes alrededor de sus imágenes TIFF sin esfuerzo usyo C#. Utilice la clase Bitmap y las capacidades de dibujo de gráficos rasterizados para lograr resultados de calidad profesional. Ya sea que esté renderizyo imágenes rasterizadas o guardyo archivos TIFF, la API de dibujo proporciona la flexibilidad y funcionalidad que necesita para mejorar sus imágenes. Experimente la conveniencia de agregar bordes a las imágenes TIFF con la API de .NET y mejore su proceso de edición de imágenes hoy. Abierto <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> administrador de paquetes y busque <b>Aspose.Drawing</b> e instalar. También puede utilizar el siguiente comyo desde la Consola del Administrador de paquetes.</p>
+Transforme sus imágenes TIFF con facilidad agregando bordes usando <a href="https://products.aspose.com/drawing/net">Aspose.Drawing para .NET</a> API. Esta biblioteca de gráficos 2D multiplataforma ofrece potentes herramientas para integrar perfectamente los bordes en sus imágenes. Con la API Aspose.Drawing, puede dibujar bordes alrededor de sus imágenes TIFF sin esfuerzo usando C#. Utilice la clase Bitmap y las capacidades de dibujo de gráficos rasterizados para lograr resultados de calidad profesional. Ya sea que esté renderizando imágenes rasterizadas o guardando archivos TIFF, la API de dibujo proporciona la flexibilidad y funcionalidad que necesita para mejorar sus imágenes. Experimente la conveniencia de agregar bordes a las imágenes TIFF con la API de .NET y mejore su proceso de edición de imágenes hoy. Abierto <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> administrador de paquetes y busque <b>Aspose.Drawing</b> e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.</p>
 
-{{% blocks/products/pf/agp/code-block title="Comyo de la consola del administrador de paquetes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,8 +36,8 @@ Necesita [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) para pro
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Cree un objeto de mapa de bits a partir de un archivo de imagen TIFF usyo la clase `Bitmap`.
-+ Cree un objeto gráfico utilizyo el método `Graphics.FromImage()`.
++ Cree un objeto de mapa de bits a partir de un archivo de imagen TIFF usando la clase `Bitmap`.
++ Cree un objeto gráfico utilizando el método `Graphics.FromImage()`.
 + Dibujar borde con el método `DrawRectángulo()`.
 + Guarde el mapa de bits creado en formato de imagen TIFF.
 
@@ -68,7 +68,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 
 {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Drawing para .NET API" %}}
 
-Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformyo sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
+Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformando sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
 
 El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráficos vectoriales, incluidas líneas, curvas y figuras, junto con diversos elementos de texto en diversas fuentes, tamaños y estilos. Este proceso de renderizado se produce sin problemas en imágenes rasterizadas y admite una amplia gama de formatos de archivos gráficos de uso común.
 
@@ -77,7 +77,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Procese TIFF a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes TIFF y agregue texto a las imágenes visityo nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Procese TIFF a través de la aplicación gratuita en línea" sectionDescription="Cree imágenes TIFF y agregue texto a las imágenes visitando nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código." >}}

@@ -6,7 +6,7 @@ description: High Code API a bezplatné aplikace pro kreslení 2D grafiky. Schop
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Řešení pro zpracování grafiky" h2="High Code API a bezplatné aplikace pro kreslení 2D grafiky." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-bra.svg" imageAlt="Řešení produktu Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Řešení pro zpracování grafiky" h2="High Code API a bezplatné aplikace pro kreslení 2D grafiky." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Řešení produktu Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API zahrnuje" >}}

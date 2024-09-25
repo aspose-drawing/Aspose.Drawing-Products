@@ -68,7 +68,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 
 {{% blocks/products/pf/agp/content h2=".NET API için Aspose.Drawing hakkında" %}}
 
-Tam olarak yönetilen, platformlar arası bir 2D grafik kitaplığı olan Aspose.Drawing, metin, geometri ve görüntü çizmede uzmVeır. System.Drawing uyumlu bir API sunarak, System.Drawing'e dayanan mevcut kodunuzu zahmetsizce gerçek bir platformlar arası çözüme dönüştürür. .NET Standard 2.0'a göre geliştirilen Aspose.Drawing, web, mobil, masaüstü, bulut ve IoT senaryolarında uygulama alanı bulur.
+Tam olarak yönetilen, platformlar arası bir 2D grafik kitaplığı olan Aspose.Drawing, metin, geometri ve görüntü çizmede uzmandır. System.Drawing uyumlu bir API sunarak, System.Drawing'e dayanan mevcut kodunuzu zahmetsizce gerçek bir platformlar arası çözüme dönüştürür. .NET Standard 2.0'a göre geliştirilen Aspose.Drawing, web, mobil, masaüstü, bulut ve IoT senaryolarında uygulama alanı bulur.
 
 Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipleri, boyutlar ve stillerdeki çeşitli metin öğelerinin yanı sıra çizgiler, eğriler ve şekiller de dahil olmak üzere vektör grafiklerini oluşturma olanağı sağlar. Bu işleme işlemi, taramalı görüntülerde sorunsuz bir şekilde gerçekleşir ve yaygın olarak kullanılan çok çeşitli grafik dosyası formatlarını destekler.
 
@@ -88,7 +88,7 @@ EMF uzantılı dosyalar, vektör ve bitmap formatındaki görüntü verilerinin 
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Yeniden BoyutlVeırma Formatları" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Yeniden Boyutlandırma Formatları" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/bmp/" name="BMP" description="Bitmap Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/emf/" name="EMF" description="Geliştirilmiş Meta Dosyası Formatı" >}}

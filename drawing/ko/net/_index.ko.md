@@ -318,7 +318,7 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
     <p class="col-lg-10">
      지원 
 <a href="alphaBlending/">알파 블렌딩 </a>
-그리고 
+and 
 <a href="antiAliasing/">앤티앨리어싱</a>
     </p>
    </div>

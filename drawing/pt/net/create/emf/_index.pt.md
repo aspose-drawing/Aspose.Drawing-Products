@@ -12,11 +12,11 @@ keywords: create EMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Como criar arquivo de imagem EMF useo C#" %}}
+{{% blocks/products/pf/agp/content h2="Como criar arquivo de imagem EMF usando C#" %}}
 
-Explore a facilidade de gerar arquivos de imagem EMF useo o C#. Este guia oferece insights e orientações vitais, servindo tanto para desenvolvedores seniores quanto para iniciantes. Confira as etapas para integrar facilmente a criação de imagens EMF em seus projetos, eleveo suas habilidades de programação. Para criar arquivos EMF, usaremos a biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que é uma API de desenho gráfico 2D rica em recursos, poderosa e fácil de usar para C# plataforma. Abra o gerenciador de pacotes [NuGet](https://www.nuget.org/packages/aspose.drawing), pesquise **Aspose.Drawing** e instale. Você também pode usar o seguinte comeo do Console do Gerenciador de Pacotes.
+Explore a facilidade de gerar arquivos de imagem EMF usando o C#. Este guia oferece insights e orientações vitais, servindo tanto para desenvolvedores seniores quanto para iniciantes. Confira as etapas para integrar facilmente a criação de imagens EMF em seus projetos, elevando suas habilidades de programação. Para criar arquivos EMF, usaremos a biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que é uma API de desenho gráfico 2D rica em recursos, poderosa e fácil de usar para C# plataforma. Abra o gerenciador de pacotes [NuGet](https://www.nuget.org/packages/aspose.drawing), pesquise **Aspose.Drawing** e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
-{{% blocks/products/pf/agp/code-block title="Comeo do console do gerenciador de pacotes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -36,8 +36,8 @@ Você precisa do [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) 
 {{% /blocks/products/pf/agp/text %}}
 
 + Criar objeto Steam de memória.
-+ Crie objeto metarquivo useo a classe Metafile.
-+ Crie objetos gráficos useo o método Graphics.FromImage().
++ Crie objeto metarquivo usando a classe Metafile.
++ Crie objetos gráficos usando o método Graphics.FromImage().
 + Desenhe elementos gráficos.
 + Grave dados no formato de arquivo EMF.
 
@@ -68,9 +68,9 @@ Aspose.Drawing para .NET é compatível com todos os principais sistemas operaci
 
 {{% blocks/products/pf/agp/content h2="Sobre Aspose.Drawing para API .NET" %}}
 
-Aspose.Drawing, uma biblioteca gráfica 2D multiplataforma totalmente gerenciada, é excelente no desenho de texto, geometrias e imagens. Ele oferece uma API compatível com System.Drawing, transformeo facilmente seu código existente que depende do System.Drawing em uma solução verdadeiramente multiplataforma. Desenvolvido com base no .NET Standard 2.0, o Aspose.Drawing encontra aplicação em cenários web, móveis, desktop, nuvem e IoT.
+Aspose.Drawing, uma biblioteca gráfica 2D multiplataforma totalmente gerenciada, é excelente no desenho de texto, geometrias e imagens. Ele oferece uma API compatível com System.Drawing, transformando facilmente seu código existente que depende do System.Drawing em uma solução verdadeiramente multiplataforma. Desenvolvido com base no .NET Standard 2.0, o Aspose.Drawing encontra aplicação em cenários web, móveis, desktop, nuvem e IoT.
 
-O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráficos vetoriais, incluindo linhas, curvas e figuras, juntamente com diversos elementos de texto em diversas fontes, tamanhos e estilos. Esse processo de renderização ocorre perfeitamente em imagens raster, suporteo uma ampla variedade de formatos de arquivos gráficos comumente usados.
+O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráficos vetoriais, incluindo linhas, curvas e figuras, juntamente com diversos elementos de texto em diversas fontes, tamanhos e estilos. Esse processo de renderização ocorre perfeitamente em imagens raster, suportando uma ampla variedade de formatos de arquivos gráficos comumente usados.
 
 {{% /blocks/products/pf/agp/content %}}
 

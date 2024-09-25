@@ -14,7 +14,7 @@ Keywords: create Persegi panjang via C#, 2D graphics, drawing API, create bitmap
 
 {{% blocks/products/pf/agp/content h2="Cara Membuat File Gambar Persegi Panjang Menggunakan C#" %}}
 
-Temukan kesederhanaan membuat file gambar Persegi panjang dengan C#. Dokumen ini memberikan wawasan dan pDanuan penting, baik Anda seorang pengembang berpengalaman atau baru memulai. Pelajari langkah-langkah untuk menggabungkan pembuatan gambar Persegi panjang dengan lancar ke dalam proyek Anda dan tingkatkan keterampilan pemrograman Anda. Untuk membuat file Persegi panjang, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), seMelengkungh untuk **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Temukan kesederhanaan membuat file gambar Persegi panjang dengan C#. Dokumen ini memberikan wawasan dan panduan penting, baik Anda seorang pengembang berpengalaman atau baru memulai. Pelajari langkah-langkah untuk menggabungkan pembuatan gambar Persegi panjang dengan lancar ke dalam proyek Anda dan tingkatkan keterampilan pemrograman Anda. Untuk membuat file Persegi panjang, kami akan menggunakan pustaka [Aspose.Drawing untuk .NET](https://products.aspose.com/drawing/net) yang merupakan API gambar grafis 2D yang kaya fitur, kuat, dan mudah digunakan untuk C# platform. Buka manajer paket [NuGet](https://www.nuget.org/packages/aspose.drawing), seMelengkungh untuk **Aspose.Drawing** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 ```cs
@@ -68,7 +68,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Drawing untuk API .NET" %}}
 
-Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengDanalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibDaningkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
+Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengandalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibandingkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
 
 Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik vektor, termasuk garis, kurva, dan gambar, bersama dengan beragam elemen teks dalam berbagai font, ukuran, dan gaya. Proses rendering ini terjadi secara mulus pada gambar raster, mendukung beragam format file grafik yang umum digunakan.
 

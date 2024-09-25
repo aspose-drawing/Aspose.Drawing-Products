@@ -6,7 +6,7 @@ description: 2D grafik çizimi için Yüksek Kod API'leri ve Ücretsiz Uygulamal
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Grafik İşleme Çözümü" h2="2D grafik çizimi için Yüksek Kod API'leri ve ücretsiz uygulamalar." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brVe.svg" imageAlt="Aspose.Drawing Ürün Çözümü" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Grafik İşleme Çözümü" h2="2D grafik çizimi için Yüksek Kod API'leri ve ücretsiz uygulamalar." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing Ürün Çözümü" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing Yüksek Kod API'leri şunları içerir:" >}}
@@ -34,7 +34,7 @@ Herhangi bir cihazdaki resminizden bir meme oluşturun.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
-Çevrimiçi olarak gerçek boyuttaki ölçüm bVeını kullanın.
+Çevrimiçi olarak gerçek boyuttaki ölçüm bandını kullanın.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="Tüm Kodsuz Uygulamaları Görüntüle" >}}
@@ -49,7 +49,7 @@ Herhangi bir cihazdaki resminizden bir meme oluşturun.
 <p class="first">
  Aspose'u uzun süredir kullanıyoruz ve Aspose ile ilgili tek bir hatayla karşılaşmadık.
  <em>
-  Jac Goorden | Bicore, HollVea
+  Jac Goorden | Bicore, Hollanda
  </em>
 </p>
 

@@ -6,7 +6,7 @@ description: API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Giải pháp xử lý đồ họa" h2="API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brVà.svg" imageAlt="Giải pháp sản phẩm Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Giải pháp xử lý đồ họa" h2="API mã cao và ứng dụng miễn phí để vẽ đồ họa 2D." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Giải pháp sản phẩm Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="API mã cao Aspose.Drawing bao gồm" >}}

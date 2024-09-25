@@ -318,7 +318,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
     <p class="col-lg-10">
      Υποστηρίζει 
 <a href="alphaBlending/">ανάμειξη άλφα </a>
-και 
+and 
 <a href="antiAliasing/">αντι-αλλοίωση</a>
     </p>
    </div>

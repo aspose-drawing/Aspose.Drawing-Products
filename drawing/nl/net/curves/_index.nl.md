@@ -1,20 +1,20 @@
 ---
-title: Maak een Kromme-afbeeldingsbestEn via de .NET
+title: Maak een Kromme-afbeeldingsbestand via de .NET
 weight: 20
 url: /nl/net/curves/
-description: Maak een Kromme-afbeeldingsbestEn via de .NET.
+description: Maak een Kromme-afbeeldingsbestand via de .NET.
 Keywords: create Kromme via C#, 2D graphics, drawing API, create bitmap C#, Drawing voor .NET, save bitmap, save Kromme image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Kromme image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Maak een Kromme-afbeeldingsbestEn via de C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Kromme-afbeeldingsbestEnen" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Maak een Kromme-afbeeldingsbestand via de C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Kromme-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Hoe u een curve-afbeeldingsbestEn kunt maken met de C#" %}}
+{{% blocks/products/pf/agp/content h2="Hoe u een curve-afbeeldingsbestand kunt maken met de C#" %}}
 
-Ontdek de eenvoud van het maken van Kromme-afbeeldingsbestEnen met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Kromme-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Kromme-bestEnen te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seKrommeh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Ontdek de eenvoud van het maken van Kromme-afbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Kromme-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Kromme-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seKrommeh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -57,7 +57,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Kromme-afbeeldingsbestEn maken - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Kromme-afbeeldingsbestand maken - C#" offSpacer="" %}}
 {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawKromme.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -68,9 +68,9 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/content h2="Over Aspose.Drawing voor .NET-API" %}}
 
-Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaEne code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
+Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaande code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
 
-Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestEnsformaten.
+Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestandsformaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -81,8 +81,8 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
-{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestEnen en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Kromme-bestEn" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Kromme-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 

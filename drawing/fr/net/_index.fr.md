@@ -318,7 +318,7 @@ et brosses à hachures
     <p class="col-lg-10">
      Prise en charge 
 <a href="alphaBlending/">mélange alpha </a>
-et 
+and 
 <a href="antiAliasing/">anticrénelage</a>
     </p>
    </div>

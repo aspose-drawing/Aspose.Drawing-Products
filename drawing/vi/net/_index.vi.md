@@ -318,7 +318,7 @@ và bàn chải nở
     <p class="col-lg-10">
      Hỗ trợ 
 <a href="alphaBlending/">pha trộn alpha </a>
-Và 
+and 
 <a href="antiAliasing/">khử răng cưa</a>
     </p>
    </div>

@@ -128,7 +128,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="KemDanirian Platform" description="Aspose.Drawing untuk .NET mendukung .NET Framework versi 2.0, .NET Standard 2.0 atau lebih baru." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Drawing untuk .NET mendukung .NET Framework versi 2.0, .NET Standard 2.0 atau lebih baru." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -318,7 +318,7 @@ dan kuas palka
     <p class="col-lg-10">
      Mendukung 
 <a href="alphaBlending/">pencampuran alfa </a>
-Dan 
+and 
 <a href="antiAliasing/">anti-alias</a>
     </p>
    </div>

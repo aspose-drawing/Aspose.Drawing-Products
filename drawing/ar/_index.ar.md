@@ -6,7 +6,7 @@ description: واجهات برمجة التطبيقات ذات الكود الع
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="حل معالجة الرسومات" h2="واجهات برمجة تطبيقات High Code وتطبيقات مجانية لرسم الرسومات ثنائية الأبعاد." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brو.svg" imageAlt="حل المنتج Aspose.Drawing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="حل معالجة الرسومات" h2="واجهات برمجة تطبيقات High Code وتطبيقات مجانية لرسم الرسومات ثنائية الأبعاد." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="حل المنتج Aspose.Drawing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="تتضمن واجهات برمجة التطبيقات ذات الكود العالي Aspose.Drawing" >}}

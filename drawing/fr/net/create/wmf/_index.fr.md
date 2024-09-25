@@ -14,9 +14,9 @@ keywords: create WMF via C#, 2D graphics, drawing API, create metafile C#, Drawi
 
 {{% blocks/products/pf/agp/content h2="Comment créer un fichier image WMF à l'aide du C#" %}}
 
-Découvrez la facilité de génération de fichiers image WMF à l'aide du C#. Ce guide offre des informations et des conseils essentiels, destinés aussi bien aux développeurs expérimentés qu'aux débutants. Consultez les étapes pour intégrer sans effort la création d’images WMF dans vos projets, élevant ainsi vos compétences en programmation. Afin de créer des fichiers WMF, nous utiliserons la bibliothèque [Aspose.Drawing pour .NET](https://products.aspose.com/drawing/net) qui est une API de dessin graphique 2D riche en fonctionnalités, puissante et facile à utiliser pour C#. plate-forme. Ouvrez le gestionnaire de packages [NuGet](https://www.nuget.org/packages/aspose.drawing), recherchez **Aspose.Drawing** et installez. Vous pouvez également utiliser la commete suivante à partir de la console Package Manager.
+Découvrez la facilité de génération de fichiers image WMF à l'aide du C#. Ce guide offre des informations et des conseils essentiels, destinés aussi bien aux développeurs expérimentés qu'aux débutants. Consultez les étapes pour intégrer sans effort la création d’images WMF dans vos projets, élevant ainsi vos compétences en programmation. Afin de créer des fichiers WMF, nous utiliserons la bibliothèque [Aspose.Drawing pour .NET](https://products.aspose.com/drawing/net) qui est une API de dessin graphique 2D riche en fonctionnalités, puissante et facile à utiliser pour C#. plate-forme. Ouvrez le gestionnaire de packages [NuGet](https://www.nuget.org/packages/aspose.drawing), recherchez **Aspose.Drawing** et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
-{{% blocks/products/pf/agp/code-block title="Commete de la console du gestionnaire de packages" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```

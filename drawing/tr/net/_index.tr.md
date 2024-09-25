@@ -318,7 +318,7 @@ ve tarama fırçaları
     <p class="col-lg-10">
      Destekler 
 <a href="alphaBlending/">alfa harmanlama </a>
-Ve 
+and 
 <a href="antiAliasing/">kenar yumuşatma</a>
     </p>
    </div>

@@ -2,18 +2,18 @@
 title: Adicionar plano de fundo à imagem via .NET
 weight: 20
 url: /pt/net/edit-image/add-background/
-description: Adicioneo plano de fundo às imagens useo a biblioteca gráfica Aspose.Drawing para .NET (C#)
+description: Adicionando plano de fundo às imagens usando a biblioteca gráfica Aspose.Drawing para .NET (C#)
 keywords: add background in C#, add background to image, add background to bitmap, graphic library para .NET, edit images, edit background, drawing API
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Adicionar plano de fundo à imagem useo C#" h2="Melhore suas imagens: adicioneo fundos com Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Adicionar plano de fundo à imagem usando C#" h2="Melhore suas imagens: adicionando fundos com Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Adicione perfeitamente o fundo da imagem no C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Aumente seus recursos de edição de imagens com a biblioteca gráfica Aspose.Drawing para .NET, integreo planos de fundo perfeitamente. Quer seu objetivo seja enriquecer o apelo visual de suas imagens ou estabelecer uma estética coesa, esta ferramenta versátil permite que você faça isso sem esforço. Com o Aspose.Drawing, você pode <b>adicionar fundos</b> para imagens bitmap no C# com precisão e facilidade. A API intuitiva da biblioteca e a funcionalidade robusta agilizam o processo de personalização, permitindo que você obtenha os efeitos visuais desejados. Experimente o potencial transformador da API Aspose.Drawing e desbloqueie possibilidades infinitas para seus esforços de edição de imagens hoje mesmo.</p>
+Aumente seus recursos de edição de imagens com a biblioteca gráfica Aspose.Drawing para .NET, integrando planos de fundo perfeitamente. Quer seu objetivo seja enriquecer o apelo visual de suas imagens ou estabelecer uma estética coesa, esta ferramenta versátil permite que você faça isso sem esforço. Com o Aspose.Drawing, você pode <b>adicionar fundos</b> para imagens bitmap no C# com precisão e facilidade. A API intuitiva da biblioteca e a funcionalidade robusta agilizam o processo de personalização, permitindo que você obtenha os efeitos visuais desejados. Experimente o potencial transformador da API Aspose.Drawing e desbloqueie possibilidades infinitas para seus esforços de edição de imagens hoje mesmo.</p>
 
 <h3 style="margin-top:16px;">
 Formatos de imagem suportados:

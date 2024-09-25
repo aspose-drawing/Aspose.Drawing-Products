@@ -318,7 +318,7 @@ e spazzole per portelli
     <p class="col-lg-10">
      Supporta 
 <a href="alphaBlending/">fusione alfa </a>
-E 
+and 
 <a href="antiAliasing/">antialiasing</a>
     </p>
    </div>
@@ -344,7 +344,7 @@ E
      Disegna grafica vettoriale
     </h2>
     <p>
-     Aspose.Drawing per .NET consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzEo l'API. Ad esempio, ecco il codice per disegnare l'arco.
+     Aspose.Drawing per .NET consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. Ad esempio, ecco il codice per disegnare l'arco.
     </p>
     <div class="codeblock" id="code">
      <h3>

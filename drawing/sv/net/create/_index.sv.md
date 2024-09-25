@@ -13,7 +13,7 @@ keywords: create bitmap in C#, create image file, bitmap images in C#, bitmap fr
 
 {{% blocks/products/pf/feature-page-section  h2="Hur man skapar bitmappar från grunden med C#" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Att skapa eller arbeta med bitmappsbilder är ett grundläggoche krav i olika applikationer. Oavsett om du behöver generera bilder dynamiskt eller manipulera befintliga, tillhochahåller Aspose.Drawing grafiska bibliotek för .NET en kraftfull verktygslåda för att arbeta med bitmappsbilder i C#. Att skapa en bitmapp från grunden är en enkel process med Aspose.Drawing. Med Aspose.Drawing kan du enkelt <b>Skapa bitmappar</b> för olika bildformat programmatiskt.
+Att skapa eller arbeta med bitmappsbilder är ett grundläggande krav i olika applikationer. Oavsett om du behöver generera bilder dynamiskt eller manipulera befintliga, tillhandahåller Aspose.Drawing grafiska bibliotek för .NET en kraftfull verktygslåda för att arbeta med bitmappsbilder i C#. Att skapa en bitmapp från grunden är en enkel process med Aspose.Drawing. Med Aspose.Drawing kan du enkelt <b>Skapa bitmappar</b> för olika bildformat programmatiskt.
 </p>
 
 <h3 style="margin-top:16px;">

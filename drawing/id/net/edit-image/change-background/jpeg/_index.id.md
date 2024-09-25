@@ -68,7 +68,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 
 {{% blocks/products/pf/agp/content h2="Tentang Aspose.Drawing untuk API .NET" %}}
 
-Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengDanalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibDaningkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
+Aspose.Drawing, perpustakaan grafis 2D lintas platform yang dikelola sepenuhnya, unggul dalam menggambar teks, geometri, dan gambar. Ia menawarkan API yang kompatibel dengan System.Drawing, dengan mudah mengubah kode Anda yang ada yang mengandalkan System.Drawing menjadi solusi lintas platform yang sesungguhnya. Dikembangkan dibandingkan .NET Standard 2.0, Aspose.Drawing dapat diterapkan dalam skenario web, seluler, desktop, cloud, dan IoT.
 
 Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik vektor, termasuk garis, kurva, dan gambar, bersama dengan beragam elemen teks dalam berbagai font, ukuran, dan gaya. Proses rendering ini terjadi secara mulus pada gambar raster, mendukung beragam format file grafik yang umum digunakan.
 
@@ -103,7 +103,7 @@ File yang memiliki ekstensi .JPEG mewakili file Gambar Bitmap yang digunakan unt
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/gif/" name="GIF" description="Format Pertukaran Grafis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/jpeg/" name="JPEG" description="Kelompok Pakar Fotografi Gabungan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/png/" name="PNG" description="Grafik Jaringan Portabel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/tiff/" name="TIFF" description="Format Gambar yang DitDanai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/change-background/tiff/" name="TIFF" description="Format Gambar yang Ditandai" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -6,13 +6,13 @@ description: High Code API's en gratis apps voor grafische 2D-tekeningen. Mogeli
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Grafische verwerkingsoplossing" h2="High Code API's en gratis apps voor 2D grafische tekeningen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brEn.svg" imageAlt="Aspose.Drawing-productoplossing" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Grafische verwerkingsoplossing" h2="High Code API's en gratis apps voor 2D grafische tekeningen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-brand.svg" imageAlt="Aspose.Drawing-productoplossing" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Drawing High Code API's omvatten" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing voor" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg" productLink="https://products.aspose.com/drawing/nl/net/" >}}
-.NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaEne C#-code te wijzigen.
+.NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing voor" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-java.svg" productLink="https://products.aspose.com/drawing/java/" >}}
@@ -49,7 +49,7 @@ Gebruik online meetlint op ware grootte.
 <p class="first">
  We gebruiken Aspose al geruime tijd en we zijn nog geen enkele Aspose-gerelateerde bug tegengekomen.
  <em>
-  Jac Goorden | Bicore, NetherlEns
+  Jac Goorden | Bicore, Netherlands
  </em>
 </p>
 
@@ -57,7 +57,7 @@ Gebruik online meetlint op ware grootte.
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose.Total werkt prima als we grote bestEnen en documenten hebben om aan te werken.
+ Aspose.Total werkt prima als we grote bestanden en documenten hebben om aan te werken.
  <em>
   MiniTool® Software Ltd., Canada
  </em>

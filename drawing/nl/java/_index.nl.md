@@ -94,7 +94,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing ronding
 
 <div class="col-lg-12">
    <h3 class="h3title">
-   Verbeter vEnaag nog uw graphics
+   Verbeter vandaag nog uw graphics
    </h3>
 
    <p align='justify'>
@@ -257,7 +257,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing ronding
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestEnsformaten" description="Aspose.Drawing voor Java ondersteunt de volgende [afbeeldingsindelingen] (https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description="Aspose.Drawing voor Java ondersteunt de volgende [afbeeldingsindelingen] (https://docs.aspose.com/drawing/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -333,7 +333,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing ronding
     <em class="fa fa-repeat ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="create/">Maak vanaf het begin bitmaps</a> of bestaEne bestEnen laden
+     <a href="create/">Maak vanaf het begin bitmaps</a> of bestaande bestanden laden
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,7 +405,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing ronding
      Teken vectorafbeeldingen
     </h2>
     <p>
-     Met Aspose.Drawing voor Java kunt u verschillende vectorafbeeldingen tekenen, zoals bogen, kardinale spline, Bezier-spline, ellipsen, gesloten curven, lijnen en een aantal Enere typen. Er waren slechts enkele regels code nodig om verschillende soorten vectorafbeeldingen te tekenen met behulp van de API. Hier is bijvoorbeeld code voor het tekenen van een boog.
+     Met Aspose.Drawing voor Java kunt u verschillende vectorafbeeldingen tekenen, zoals bogen, kardinale spline, Bezier-spline, ellipsen, gesloten curven, lijnen en een aantal andere typen. Er waren slechts enkele regels code nodig om verschillende soorten vectorafbeeldingen te tekenen met behulp van de API. Hier is bijvoorbeeld code voor het tekenen van een boog.
     </p>
     <div class="codeblock" id="code">
      <h3>

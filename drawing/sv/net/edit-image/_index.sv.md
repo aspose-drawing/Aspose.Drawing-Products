@@ -84,7 +84,7 @@ Att redigera bilder i C# har blivit otroligt användarvänligt tack vare Aspose.
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/drawing/net/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-drawing/Aspose.Drawing-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API-referenser" href="https://reference.aspose.com/drawing/net/" >}}
-{{< blocks/products/pf/slr-element name="Hochledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
+{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/@Aspose.Drawing2dgraphics-cs8ez" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}

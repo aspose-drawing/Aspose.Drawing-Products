@@ -2,7 +2,7 @@
 title: Afbeelding bewerken via .NET
 weight: 20
 url: /nl/net/edit-image/
-description: Afbeeldingen bewerken met de grafische bibliotheek van de Aspose.Drawing voor .NET (C#) om afbeeldingsrEnen en tekst toe te voegen en de achtergrond te wijzigen of te verwijderen
+description: Afbeeldingen bewerken met de grafische bibliotheek van de Aspose.Drawing voor .NET (C#) om afbeeldingsranden en tekst toe te voegen en de achtergrond te wijzigen of te verwijderen
 keywords: edit image in C#, edit image file, bitmap images in C#, graphic library voor .NET, add image, add border, Voeg tekst toe, add background, change background, remove background
 ---
 
@@ -15,7 +15,7 @@ keywords: edit image in C#, edit image file, bitmap images in C#, graphic librar
 
 {{% blocks/products/pf/feature-page-section  h2="Vereenvoudig beeldbewerking in de C# met de Aspose.Drawing" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;" id="overview" name="overview">
-Het bewerken van afbeeldingen in de C# is ongelooflijk gebruiksvriendelijk geworden dankzij de grafische bibliotheek van de Aspose.Drawing voor de .NET. Met deze krachtige tool kunt u moeiteloos rEnen en tekst toevoegen en achtergronden manipuleren voor afbeeldingen in populaire bestEnsformaten zoals BMP, GIF, JPEG, PNG en TIFF met slechts een paar regels code. De bibliotheek manipuleert naadloos bitmapafbeeldingen, waardoor u uw beelden eenvoudig tot in de perfectie kunt verbeteren. Of u nu stijlvolle rEnen toevoegt, tekst als bijschrift of watermerk over elkaar legt, of achtergronden moeiteloos wijzigt of verwijdert: u kunt met gemak resultaten van professionele kwaliteit bereiken. Met de grafische bibliotheek van de Aspose.Drawing voor de .NET wordt beeldbewerking in de C# een fluitje van een cent, waardoor u moeiteloos verbluffende beelden kunt creëren.</p>
+Het bewerken van afbeeldingen in de C# is ongelooflijk gebruiksvriendelijk geworden dankzij de grafische bibliotheek van de Aspose.Drawing voor de .NET. Met deze krachtige tool kunt u moeiteloos randen en tekst toevoegen en achtergronden manipuleren voor afbeeldingen in populaire bestandsformaten zoals BMP, GIF, JPEG, PNG en TIFF met slechts een paar regels code. De bibliotheek manipuleert naadloos bitmapafbeeldingen, waardoor u uw beelden eenvoudig tot in de perfectie kunt verbeteren. Of u nu stijlvolle randen toevoegt, tekst als bijschrift of watermerk over elkaar legt, of achtergronden moeiteloos wijzigt of verwijdert: u kunt met gemak resultaten van professionele kwaliteit bereiken. Met de grafische bibliotheek van de Aspose.Drawing voor de .NET wordt beeldbewerking in de C# een fluitje van een cent, waardoor u moeiteloos verbluffende beelden kunt creëren.</p>
 
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
@@ -34,7 +34,7 @@ Het bewerken van afbeeldingen in de C# is ongelooflijk gebruiksvriendelijk gewor
    <div class="col-lg-4">
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="add-border/">REn toevoegen</a>
+    <p class="col-lg-10"><a href="add-border/">Rand toevoegen</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -62,7 +62,7 @@ Het bewerken van afbeeldingen in de C# is ongelooflijk gebruiksvriendelijk gewor
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     <a href="change-background/">VerEner de achtergrond</a>
+     <a href="change-background/">Verander de achtergrond</a>
     </p>
    </div>
    <div class="col-lg-4">

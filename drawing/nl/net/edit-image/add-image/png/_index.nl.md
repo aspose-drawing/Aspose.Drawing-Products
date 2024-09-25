@@ -1,5 +1,5 @@
 ---
-title: Voeg afbeelding toe aan PNG-afbeeldingsbestEn via .NET
+title: Voeg afbeelding toe aan PNG-afbeeldingsbestand via .NET
 weight: 20
 url: /nl/net/edit-image/add-image/png/
 description: Voeg afbeelding toe aan PNG-afbeeldingsbitmap via .NET.
@@ -12,10 +12,10 @@ keywords: add image to bitmap, add image to PNG, add image via C#, 2D graphics, 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Een nieuwe afbeelding toevoegen aan een bestaEn PNG-afbeeldingsbestEn met behulp van de C#" %}}
+{{% blocks/products/pf/agp/content h2="Een nieuwe afbeelding toevoegen aan een bestaand PNG-afbeeldingsbestand met behulp van de C#" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Verbeter uw PNG-afbeeldingen door naadloos extra afbeeldingen te integreren met behulp van <a href="https://products.aspose.com/drawing/net">Aspose.Drawing voor .NET</a> veelzijdige API. Deze krachtige tool biedt een eenvoudige maar effectieve manier om uw beelden te verbeteren. Door gebruik te maken van de mogelijkheden van de klasse Bitmap en rasterafbeeldingen, kunt u moeiteloos afbeeldingen in uw PNG-bestEnen opnemen. Of u nu met rasterafbeeldingen werkt of bestEnen opslaat in het PNG-formaat, de Drawing API biedt ongeëvenaarde flexibiliteit en efficiëntie. Ervaar het gemak van het toevoegen van afbeeldingen aan PNG-bestEnen met de Drawing API van de .NET en ontgrendel vEnaag nog nieuwe mogelijkheden voor uw beeldbewerkingsprojecten. Open <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakketbeheerder en zoek naar <b>Aspose.Drawing</b> en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.</p>
+Verbeter uw PNG-afbeeldingen door naadloos extra afbeeldingen te integreren met behulp van <a href="https://products.aspose.com/drawing/net">Aspose.Drawing voor .NET</a> veelzijdige API. Deze krachtige tool biedt een eenvoudige maar effectieve manier om uw beelden te verbeteren. Door gebruik te maken van de mogelijkheden van de klasse Bitmap en rasterafbeeldingen, kunt u moeiteloos afbeeldingen in uw PNG-bestanden opnemen. Of u nu met rasterafbeeldingen werkt of bestanden opslaat in het PNG-formaat, de Drawing API biedt ongeëvenaarde flexibiliteit en efficiëntie. Ervaar het gemak van het toevoegen van afbeeldingen aan PNG-bestanden met de Drawing API van de .NET en ontgrendel vandaag nog nieuwe mogelijkheden voor uw beeldbewerkingsprojecten. Open <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> pakketbeheerder en zoek naar <b>Aspose.Drawing</b> en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -36,9 +36,9 @@ U hebt de [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) nodig o
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Maak een bitmapobject van het PNG-afbeeldingsbestEn met behulp van de klasse `Bitmap`.
++ Maak een bitmapobject van het PNG-afbeeldingsbestand met behulp van de klasse `Bitmap`.
 + Maak een grafisch object met de methode `Graphics.FromImage()`.
-+ Maak een nieuwe bitmap van een Ener afbeeldingsbestEn.
++ Maak een nieuwe bitmap van een ander afbeeldingsbestand.
 + Teken een nieuwe afbeelding op de bitmap met de methode `DrawImageUnscaled()`.
 + Bewaar de gemaakte bitmap in PNG-afbeeldingsformaat.
 
@@ -58,7 +58,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Afbeelding toevoegen aan PNG-afbeeldingsbestEn - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Afbeelding toevoegen aan PNG-afbeeldingsbestand - C#" offSpacer="" %}}
 {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Edit-Image-File-Add-Image-PNG.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -69,9 +69,9 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/content h2="Over Aspose.Drawing voor .NET-API" %}}
 
-Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaEne code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
+Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaande code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
 
-Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestEnsformaten.
+Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestandsformaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -82,14 +82,14 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
-{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestEnen en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende PNG-bestEn" >}}
+{{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende PNG-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="BestEnsformaat" readMoreFormat="Lees verder" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 
-BestEnen met de extensie .PNG vertegenwoordigen bitmapafbeeldingsbestEnen die worden gebruikt om digitale bitmapafbeeldingen op te slaan. Dit afbeeldingsformaat heeft tot doel het bestEn op meerdere platforms te openen, zoals Microsoft Windows, Mac en Linux. Het PNG-bestEnsformaat kan gegevens opslaan als tweedimensionale digitale afbeeldingen in zowel zwart-wit als kleurformaat met verschillende kleurdieptes.
+Bestanden met de extensie .PNG vertegenwoordigen bitmapafbeeldingsbestanden die worden gebruikt om digitale bitmapafbeeldingen op te slaan. Dit afbeeldingsformaat heeft tot doel het bestand op meerdere platforms te openen, zoals Microsoft Windows, Mac en Linux. Het PNG-bestandsformaat kan gegevens opslaan als tweedimensionale digitale afbeeldingen in zowel zwart-wit als kleurformaat met verschillende kleurdieptes.
 
 {{< /blocks/products/pf/agp/about-file-text >}}
 

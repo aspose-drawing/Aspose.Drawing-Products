@@ -2,18 +2,18 @@
 title: Alterar o plano de fundo da imagem via .NET
 weight: 20
 url: /pt/net/edit-image/change-background/
-description: Altereo o fundo das imagens useo a biblioteca gráfica Aspose.Drawing para .NET (C#)
+description: Alterando o fundo das imagens usando a biblioteca gráfica Aspose.Drawing para .NET (C#)
 keywords: change background in C#, change image background, change images in C#, graphic library para .NET, edit images, edit background, set color
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Alterar o plano de fundo da imagem useo C#" h2="Renove suas imagens: altereo planos de fundo com Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Alterar o plano de fundo da imagem usando C#" h2="Renove suas imagens: alterando planos de fundo com Aspose.Drawing para .NET" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 {{% blocks/products/pf/feature-page-section  h2="Alteração de plano de fundo simplificada no C#" %}}
 <p align="justify" style="text-indent:50px;font-size:15px;">
-Transforme a estética da sua imagem com facilidade useo a biblioteca gráfica Aspose.Drawing para .NET para modificar planos de fundo. Esteja você com o objetivo de atualizar o apelo visual de suas imagens ou criar um tema coeso, esta ferramenta dinâmica permite que você faça isso perfeitamente. Com Aspose.Drawing, <b>altereo o fundo da imagem</b> no C# é simples e eficiente. Aproveiteo os recursos da biblioteca gráfica, você pode editar fundos e definir cores sem esforço para obter o efeito desejado. Experimente a versatilidade e o poder da API da biblioteca Aspose.Drawing e revolucione hoje mesmo seus recursos de edição de imagens.</p>
+Transforme a estética da sua imagem com facilidade usando a biblioteca gráfica Aspose.Drawing para .NET para modificar planos de fundo. Esteja você com o objetivo de atualizar o apelo visual de suas imagens ou criar um tema coeso, esta ferramenta dinâmica permite que você faça isso perfeitamente. Com Aspose.Drawing, <b>alterando o fundo da imagem</b> no C# é simples e eficiente. Aproveitando os recursos da biblioteca gráfica, você pode editar fundos e definir cores sem esforço para obter o efeito desejado. Experimente a versatilidade e o poder da API da biblioteca Aspose.Drawing e revolucione hoje mesmo seus recursos de edição de imagens.</p>
 
 <h3 style="margin-top:16px;">
 Formatos de imagem suportados:

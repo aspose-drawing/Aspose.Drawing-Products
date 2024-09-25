@@ -7,14 +7,14 @@ keywords: create JPEG via Java, 2D graphics, drawing API, create bitmap in Java,
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Genera file di immagine JPEG utilizzEo Java" h2="Potenzia le tue applicazioni Java con la capacità di creare e manipolare file di immagini raster JPEG" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="per Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Genera file di immagine JPEG utilizzando Java" h2="Potenzia le tue applicazioni Java con la capacità di creare e manipolare file di immagini raster JPEG" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="per Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per Java" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Come creare un file immagine JPEG utilizzEo Java" %}}
+{{% blocks/products/pf/agp/content h2="Come creare un file immagine JPEG utilizzando Java" %}}
 
-Scopri la facilità di generare file di immagini raster JPEG con Java. Questo documento completo offre spunti e indicazioni vitali, adatti a tutti i livelli di competenza. Acquisisci esperienza nell'integrazione perfetta della creazione di immagini JPEG nei progetti, affinEo le capacità di programmazione nel processo. Per produrre file JPEG, sfrutta la libreria [Aspose.Drawing per Java](https://products.aspose.com/drawing/java), acclamata per la sua API di disegno grafico 2D ricca di funzionalità, potente e intuitiva per la piattaforma Java. Accedi alla versione più recente direttamente dal repository [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) e incorporala nei progetti basati su Maven applicEo le configurazioni specificate al pom. xml.
+Scopri la facilità di generare file di immagini raster JPEG con Java. Questo documento completo offre spunti e indicazioni vitali, adatti a tutti i livelli di competenza. Acquisisci esperienza nell'integrazione perfetta della creazione di immagini JPEG nei progetti, affinando le capacità di programmazione nel processo. Per produrre file JPEG, sfrutta la libreria [Aspose.Drawing per Java](https://products.aspose.com/drawing/java), acclamata per la sua API di disegno grafico 2D ricca di funzionalità, potente e intuitiva per la piattaforma Java. Accedi alla versione più recente direttamente dal repository [Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-drawing/) e incorporala nei progetti basati su Maven applicando le configurazioni specificate al pom. xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -54,8 +54,8 @@ Scopri la facilità di generare file di immagini raster JPEG con Java. Questo do
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crea un oggetto bitmap utilizzEo la classe Bitmap.
-+ Crea un oggetto grafico utilizzEo il metodo Graphics.FromImage().
++ Crea un oggetto bitmap utilizzando la classe Bitmap.
++ Crea un oggetto grafico utilizzando il metodo Graphics.FromImage().
 + Disegna elementi grafici.
 + Salva la bitmap creata nel formato immagine JPEG.
 
@@ -91,7 +91,7 @@ Aspose.Drawing è una libreria grafica 2D multipiattaforma completamente gestita
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Elabora JPEG tramite l'app online gratuita" sectionDescription="Crea immagini JPEG e aggiungi testo alle immagini visitEo il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Elabora JPEG tramite l'app online gratuita" sectionDescription="Crea immagini JPEG e aggiungi testo alle immagini visitando il nostro [sito web delle demo live](https://products.aspose.app/drawing). La demo live presenta i seguenti vantaggi:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Non è necessario scrivere alcun codice" >}}

@@ -14,9 +14,9 @@ Keywords: create Path via C#, 2D graphics, drawing API, create bitmap C#, Drawin
 
 {{% blocks/products/pf/agp/content h2="Comment créer un fichier image de chemin à l'aide du C#" %}}
 
-Découvrez la simplicité de création de fichiers image Path avec le C#. Ce document fournit des informations et des conseils essentiels, que vous soyez un développeur chevronné ou débutant. Découvrez les étapes pour intégrer de manière transparente la création d’images Path dans vos projets et améliorer vos compétences en programmation. Afin de créer des fichiers Path, nous utiliserons la bibliothèque [Aspose.Drawing pour .NET](https://products.aspose.com/drawing/net) qui est une API de dessin graphique 2D riche en fonctionnalités, puissante et facile à utiliser pour C#. plate-forme. Ouvrez le gestionnaire de packages [NuGet](https://www.nuget.org/packages/aspose.drawing), seCourbeh pour **Aspose.Drawing** et installez. Vous pouvez également utiliser la commete suivante à partir de la console Package Manager.
+Découvrez la simplicité de création de fichiers image Path avec le C#. Ce document fournit des informations et des conseils essentiels, que vous soyez un développeur chevronné ou débutant. Découvrez les étapes pour intégrer de manière transparente la création d’images Path dans vos projets et améliorer vos compétences en programmation. Afin de créer des fichiers Path, nous utiliserons la bibliothèque [Aspose.Drawing pour .NET](https://products.aspose.com/drawing/net) qui est une API de dessin graphique 2D riche en fonctionnalités, puissante et facile à utiliser pour C#. plate-forme. Ouvrez le gestionnaire de packages [NuGet](https://www.nuget.org/packages/aspose.drawing), seCourbeh pour **Aspose.Drawing** et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
-{{% blocks/products/pf/agp/code-block title="Commete de la console du gestionnaire de packages" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```

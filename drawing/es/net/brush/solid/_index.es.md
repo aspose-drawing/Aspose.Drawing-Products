@@ -12,11 +12,11 @@ Keywords: create Brush via C#, 2D graphics, drawing API, create bitmap C#, Drawi
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen de pincel sólido usyo C#" %}}
+{{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen de pincel sólido usando C#" %}}
 
-Descubra la simplicidad de crear archivos de imágenes Brush con C#. Este documento proporciona información y orientación esenciales, ya sea que sea un desarrollador experimentado o recién esté comenzyo. Conozca los pasos para incorporar perfectamente la creación de imágenes con Brush en sus proyectos y mejorar sus habilidades de programación. Para crear archivos Brush, usaremos la biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que es una API de dibujo de gráficos 2D rica en funciones, potente y fácil de usar para C#. plataforma. Abra el administrador de paquetes [NuGet](https://www.nuget.org/packages/aspose.drawing), seleccioneCurvah para **Aspose.Drawing** e instálelo. También puede utilizar el siguiente comyo desde la Consola del Administrador de paquetes.
+Descubra la simplicidad de crear archivos de imágenes Brush con C#. Este documento proporciona información y orientación esenciales, ya sea que sea un desarrollador experimentado o recién esté comenzando. Conozca los pasos para incorporar perfectamente la creación de imágenes con Brush en sus proyectos y mejorar sus habilidades de programación. Para crear archivos Brush, usaremos la biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que es una API de dibujo de gráficos 2D rica en funciones, potente y fácil de usar para C#. plataforma. Abra el administrador de paquetes [NuGet](https://www.nuget.org/packages/aspose.drawing), seleccioneCurvah para **Aspose.Drawing** e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
-{{% blocks/products/pf/agp/code-block title="Comyo de la consola del administrador de paquetes" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 ```cs
 PM> Install-Package Aspose.Drawing
 ```
@@ -35,8 +35,8 @@ Necesita [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) para pro
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Crear un objeto de mapa de bits usyo la clase Bitmap.
-+ Crear objeto de gráficos usyo el método Graphics.FromImage().
++ Crear un objeto de mapa de bits usando la clase Bitmap.
++ Crear objeto de gráficos usando el método Graphics.FromImage().
 + Crea un pincel con color.
 + Dibujar elementos gráficos de curvas.
 + Guarde el mapa de bits creado en formato de imagen png.
@@ -68,7 +68,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 
 {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Drawing para .NET API" %}}
 
-Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformyo sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
+Aspose.Drawing, una biblioteca de gráficos 2D multiplataforma totalmente administrada, destaca en el dibujo de texto, geometrías e imágenes. Ofrece una API compatible con System.Drawing, transformando sin esfuerzo su código existente que depende de System.Drawing en una solución verdaderamente multiplataforma. Desarrollado contra .NET Standard 2.0, Aspose.Drawing encuentra aplicaciones en escenarios web, móviles, de escritorio, en la nube y de IoT.
 
 El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráficos vectoriales, incluidas líneas, curvas y figuras, junto con diversos elementos de texto en diversas fuentes, tamaños y estilos. Este proceso de renderizado se produce sin problemas en imágenes rasterizadas y admite una amplia gama de formatos de archivos gráficos de uso común.
 
@@ -77,7 +77,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Procese el pincel a través de la aplicación en línea gratuita" sectionDescription="Cree imágenes de Brush y agregue texto a las imágenes visityo nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Procese el pincel a través de la aplicación en línea gratuita" sectionDescription="Cree imágenes de Brush y agregue texto a las imágenes visitando nuestro [sitio web de demostraciones en vivo] (https://products.aspose.app/drawing). La demostración en vivo tiene los siguientes beneficios:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="No es necesario escribir ningún código." >}}

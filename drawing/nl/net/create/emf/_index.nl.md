@@ -1,20 +1,20 @@
 ---
-title: Maak een EMF-afbeeldingsbestEn via de .NET
+title: Maak een EMF-afbeeldingsbestand via de .NET
 weight: 20
 url: /nl/net/create/emf/
-description: Maak een EMF-afbeeldingsbestEn via de .NET.
+description: Maak een EMF-afbeeldingsbestand via de .NET.
 keywords: create EMF via C#, 2D graphics, drawing API, create metafile C#, Drawing voor .NET, save EMF image file, cross-platform 2D graphic library, Metafile class, vector graphics drawing, draw line, EMF image file, Graphics file formats
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Maak een EMF-afbeeldingsbestEn via C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met EMF-afbeeldingsbestEnen" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Maak een EMF-afbeeldingsbestand via C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met EMF-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
-{{% blocks/products/pf/agp/content h2="Hoe u een EMF-afbeeldingsbestEn kunt maken met de C#" %}}
+{{% blocks/products/pf/agp/content h2="Hoe u een EMF-afbeeldingsbestand kunt maken met de C#" %}}
 
-Ontdek het gemak van het genereren van EMF-afbeeldingsbestEnen met C#. Deze gids biedt essentiële inzichten en begeleiding, zowel voor senior ontwikkelaars als voor beginners. Bekijk de stappen om het maken van EMF-images moeiteloos in uw projecten te integreren, waardoor uw programmeervaardigheden naar een hoger niveau worden getild. Om EMF-bestEnen te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheer, zoek naar **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Ontdek het gemak van het genereren van EMF-afbeeldingsbestanden met C#. Deze gids biedt essentiële inzichten en begeleiding, zowel voor senior ontwikkelaars als voor beginners. Bekijk de stappen om het maken van EMF-images moeiteloos in uw projecten te integreren, waardoor uw programmeervaardigheden naar een hoger niveau worden getild. Om EMF-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheer, zoek naar **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -36,10 +36,10 @@ U hebt de [aspose.drawing.dll](https://downloads.aspose.com/drawing/net) nodig o
 {{% /blocks/products/pf/agp/text %}}
 
 + Maak een Memory Steam-object.
-+ Maak een metabestEnobject met behulp van de Metafile-klasse.
++ Maak een metabestandobject met behulp van de Metafile-klasse.
 + Maak een grafisch object met de Graphics.FromImage() methode.
 + Teken grafische elementen.
-+ Schrijf gegevens naar EMF-bestEnsformaat.
++ Schrijf gegevens naar EMF-bestandsformaat.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -57,7 +57,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Maak een EMF-afbeeldingsbestEn - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Maak een EMF-afbeeldingsbestand - C#" offSpacer="" %}}
 {{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Create-EMF-Image-File.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -68,18 +68,18 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/content h2="Over Aspose.Drawing voor .NET-API" %}}
 
-Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaEne code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
+Aspose.Drawing, een volledig beheerde, platformonafhankelijke grafische 2D-bibliotheek, blinkt uit in het tekenen van tekst, geometrieën en afbeeldingen. Het biedt een System.Drawing-compatibele API, waardoor uw bestaande code die afhankelijk is van System.Drawing moeiteloos wordt omgezet in een werkelijk platformonafhankelijke oplossing. De Aspose.Drawing is ontwikkeld op basis van de .NET Standard 2.0 en vindt toepassing in web-, mobiele, desktop-, cloud- en IoT-scenario's.
 
-Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestEnsformaten.
+Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen weergeven, waaronder lijnen, curven en figuren, naast diverse tekstelementen in verschillende lettertypen, formaten en stijlen. Dit weergaveproces vindt naadloos plaats op rasterafbeeldingen en ondersteunt een breed scala aan veelgebruikte grafische bestandsformaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Wat is" whatIsFormat2="BestEnsformaat" readMoreFormat="Lees verder" >}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 
-BestEnen met de EMF-extensie zijn bedoeld voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om preciezer te zijn: de EMF behoort tot de vectorbestEnsindelingscategorie van grafische bestEnsindelingen die apparaatonafhankelijk is.
+Bestanden met de EMF-extensie zijn bedoeld voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om preciezer te zijn: de EMF behoort tot de vectorbestandsindelingscategorie van grafische bestandsindelingen die apparaatonafhankelijk is.
 
 {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -91,12 +91,12 @@ BestEnen met de EMF-extensie zijn bedoeld voor het opslaan van zowel vector- als
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde formaatformaten" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/bmp/" name="BMP" description="Bitmapafbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/emf/" name="EMF" description="Verbeterd metabestEnsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/emf/" name="EMF" description="Verbeterd metabestandsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/gif/" name="GIF" description="Grafisch uitwisselingsformaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/jpeg/" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/png/" name="PNG" description="Draagbare netwerkgrafieken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/tiff/" name="TIFF" description="Getagd beeldformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/wmf/" name="WMF" description="Microsoft Windows-metabestEn" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/create/wmf/" name="WMF" description="Microsoft Windows-metabestand" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

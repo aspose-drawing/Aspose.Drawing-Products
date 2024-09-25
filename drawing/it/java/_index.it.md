@@ -405,7 +405,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curve, 
      Disegna grafica vettoriale
     </h2>
     <p>
-     Aspose.Drawing per Java consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzEo l'API. ad esempio ecco il codice per disegnare l'arco.
+     Aspose.Drawing per Java consente di disegnare diversi grafici vettoriali come archi, spline cardinali, spline di Bezier, ellissi, curve chiuse, linee e una serie di altri tipi. Sono necessarie solo poche righe di codice per disegnare diversi tipi di grafica vettoriale utilizzando l'API. ad esempio ecco il codice per disegnare l'arco.
     </p>
     <div class="codeblock" id="code">
      <h3>

@@ -318,7 +318,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
     <p class="col-lg-10">
      يدعم 
 <a href="alphaBlending/">مزج ألفا </a>
-و 
+and 
 <a href="antiAliasing/">مكافحة التعرج</a>
     </p>
    </div>

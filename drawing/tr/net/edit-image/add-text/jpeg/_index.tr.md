@@ -15,7 +15,7 @@ keywords: yazı ekle to image, yazı ekle to JPEG, yazı ekle to bitmap, yazı e
 {{% blocks/products/pf/agp/content h2="C#'de JPEG Görüntü Dosyasına Metin Ekleme" %}}
 
 <p align="justify" style="text-indent:50px;font-size:15px;">
-kullanarak metin ekleyerek JPEG görüntülerinize profesyonel bir dokunuş kazVeırın. <a href="https://products.aspose.com/drawing/net">.NET için Aspose.Drawing</a> API'dir. Bu çok yönlü araç, ister açıklama ekleyin, ister etiketleyin, ister filigran ekleyin, resimlerinize sorunsuz bir şekilde metin eklemenizi sağlar. Aspose.Drawing API ile C#'ü kullanarak JPEG görüntülerinin üzerine kolayca metin çizebilirsiniz. Kesin ve özelleştirilmiş sonuçlar elde etmek için Bitmap sınıfını ve raster grafik çizim yeteneklerini kullanın. .NET'in Çizim API'si ile JPEG görüntülerine metin eklemenin rahatlığını ve esnekliğini yaşayın ve görüntü düzenleme projelerinizi yeni boyutlara yükseltin. Açık <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paket yöneticisini arayın ve <b>Aspose.Drawing</b> ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
+kullanarak metin ekleyerek JPEG görüntülerinize profesyonel bir dokunuş kazandırın. <a href="https://products.aspose.com/drawing/net">.NET için Aspose.Drawing</a> API'dir. Bu çok yönlü araç, ister açıklama ekleyin, ister etiketleyin, ister filigran ekleyin, resimlerinize sorunsuz bir şekilde metin eklemenizi sağlar. Aspose.Drawing API ile C#'ü kullanarak JPEG görüntülerinin üzerine kolayca metin çizebilirsiniz. Kesin ve özelleştirilmiş sonuçlar elde etmek için Bitmap sınıfını ve raster grafik çizim yeteneklerini kullanın. .NET'in Çizim API'si ile JPEG görüntülerine metin eklemenin rahatlığını ve esnekliğini yaşayın ve görüntü düzenleme projelerinizi yeni boyutlara yükseltin. Açık <a href="https://www.nuget.org/packages/aspose.drawing">NuGet</a> Paket yöneticisini arayın ve <b>Aspose.Drawing</b> ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
 
 {{% blocks/products/pf/agp/code-block title="Paket Yönetici Konsolu Komutu" offSpacer="true" %}}
 ```cs
@@ -69,7 +69,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 
 {{% blocks/products/pf/agp/content h2=".NET API için Aspose.Drawing hakkında" %}}
 
-Tam olarak yönetilen, platformlar arası bir 2D grafik kitaplığı olan Aspose.Drawing, metin, geometri ve görüntü çizmede uzmVeır. System.Drawing uyumlu bir API sunarak, System.Drawing'e dayanan mevcut kodunuzu zahmetsizce gerçek bir platformlar arası çözüme dönüştürür. .NET Standard 2.0'a göre geliştirilen Aspose.Drawing, web, mobil, masaüstü, bulut ve IoT senaryolarında uygulama alanı bulur.
+Tam olarak yönetilen, platformlar arası bir 2D grafik kitaplığı olan Aspose.Drawing, metin, geometri ve görüntü çizmede uzmandır. System.Drawing uyumlu bir API sunarak, System.Drawing'e dayanan mevcut kodunuzu zahmetsizce gerçek bir platformlar arası çözüme dönüştürür. .NET Standard 2.0'a göre geliştirilen Aspose.Drawing, web, mobil, masaüstü, bulut ve IoT senaryolarında uygulama alanı bulur.
 
 Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipleri, boyutlar ve stillerdeki çeşitli metin öğelerinin yanı sıra çizgiler, eğriler ve şekiller de dahil olmak üzere vektör grafiklerini oluşturma olanağı sağlar. Bu işleme işlemi, taramalı görüntülerde sorunsuz bir şekilde gerçekleşir ve yaygın olarak kullanılan çok çeşitli grafik dosyası formatlarını destekler.
 
@@ -98,7 +98,7 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Yeniden BoyutlVeırma Formatları" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Yeniden Boyutlandırma Formatları" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/bmp/" name="BMP" description="Bitmap Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/drawing/net/edit-image/add-text/gif/" name="GIF" description="Grafik Değişim Formatı" >}}

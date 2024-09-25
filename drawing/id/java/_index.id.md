@@ -22,7 +22,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing kurva, 
    </h2>
 
    <p align='justify'>
-   Memperkenalkan Aspose.Drawing untuk Java, perpustakaan gambar canggih yang memberdayakan pengembang untuk mencapai keunggulan grafis tak tertDaningi dalam aplikasi mereka.
+   Memperkenalkan Aspose.Drawing untuk Java, perpustakaan gambar canggih yang memberdayakan pengembang untuk mencapai keunggulan grafis tak tertandingi dalam aplikasi mereka.
    </p>
 </div>
 
@@ -214,7 +214,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing kurva, 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="KemDanirian Platform" description="Aspose.Drawing untuk Java mendukung JDK 1.8 ke atas." >}}
+{{< blocks/products/pf/carousel-item h3="Kemandirian Platform" description="Aspose.Drawing untuk Java mendukung JDK 1.8 ke atas." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

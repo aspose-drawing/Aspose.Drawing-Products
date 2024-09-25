@@ -318,7 +318,7 @@ description: ไลบรารีกราฟิก .NET สำหรับก�
     <p class="col-lg-10">
      รองรับ 
 <a href="alphaBlending/">การผสมอัลฟ่า </a>
-และ 
+and 
 <a href="antiAliasing/">ต่อต้านนามแฝง</a>
     </p>
    </div>

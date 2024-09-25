@@ -14,7 +14,7 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- O pacote Aspose.Drawing pode ser usado para substituir diretamente a referência do pacote System.Drawing.Common em seu projeto - todo o seu código existente useo a API System.Drawing continuará funcioneo, mas agora em qualquer plataforma compatível com .NET. A biblioteca de desenho oferece suporte à renderização de gráficos vetoriais, como linhas, curvas e figuras, bem como texto em uma variedade de fontes, tamanhos e estilos em imagens rasterizadas. As imagens podem ser salvas em todos os formatos gráficos comumente usados, incluindo BMP, PNG, JPEG, GIF e TIFF. Aspose.Drawing é uma biblioteca .NET pura e não depende de nenhum mecanismo de renderização nativo externo.
+ O pacote Aspose.Drawing pode ser usado para substituir diretamente a referência do pacote System.Drawing.Common em seu projeto - todo o seu código existente usando a API System.Drawing continuará funcionando, mas agora em qualquer plataforma compatível com .NET. A biblioteca de desenho oferece suporte à renderização de gráficos vetoriais, como linhas, curvas e figuras, bem como texto em uma variedade de fontes, tamanhos e estilos em imagens rasterizadas. As imagens podem ser salvas em todos os formatos gráficos comumente usados, incluindo BMP, PNG, JPEG, GIF e TIFF. Aspose.Drawing é uma biblioteca .NET pura e não depende de nenhum mecanismo de renderização nativo externo.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -151,7 +151,7 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="desenheo APIs de manipulação" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
+  <img width="70" height="75" alt="desenhando APIs de manipulação" src="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/aspose_drawing-for-net.svg"/>
   <header>
    Aspose.Drawing
   </header>
@@ -318,7 +318,7 @@ e escovas de hachura
     <p class="col-lg-10">
      Suporta 
 <a href="alphaBlending/">mistura alfa </a>
-e 
+and 
 <a href="antiAliasing/">suavização de serrilhado</a>
     </p>
    </div>
@@ -344,7 +344,7 @@ e
      Desenhar gráficos vetoriais
     </h2>
     <p>
-     Aspose.Drawing para .NET permite desenhar diferentes gráficos vetoriais, como arcos, Cardinal Spline, Bezier spline, elipses, curvas fechadas, linhas e vários outros tipos. Apenas algumas linhas de código são necessárias para desenhar diferentes tipos de gráficos vetoriais useo a API. Por exemplo, aqui está o código para desenhar arco.
+     Aspose.Drawing para .NET permite desenhar diferentes gráficos vetoriais, como arcos, Cardinal Spline, Bezier spline, elipses, curvas fechadas, linhas e vários outros tipos. Apenas algumas linhas de código são necessárias para desenhar diferentes tipos de gráficos vetoriais usando a API. Por exemplo, aqui está o código para desenhar arco.
     </p>
     <div class="codeblock" id="code">
      <h3>

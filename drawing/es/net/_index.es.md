@@ -14,7 +14,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify">
- El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionyo, pero ahora en cualquier plataforma compatible con .NET. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca .NET pura y no depende de ningún motor de renderizado nativo externo.
+ El paquete Aspose.Drawing se puede utilizar para reemplazar directamente la referencia del paquete System.Drawing.Common en su proyecto; todo el código existente que utiliza la API System.Drawing seguirá funcionando, pero ahora en cualquier plataforma compatible con .NET. La biblioteca de dibujo admite la representación de gráficos vectoriales como líneas, curvas y figuras, así como texto en una variedad de fuentes, tamaños y estilos en imágenes rasterizadas. Las imágenes se pueden guardar en todos los formatos gráficos utilizados habitualmente, incluidos BMP, PNG, JPEG, GIF y TIFF. Aspose.Drawing es una biblioteca .NET pura y no depende de ningún motor de renderizado nativo externo.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -318,7 +318,7 @@ y pinceles de eclosión
     <p class="col-lg-10">
      Soportes 
 <a href="alphaBlending/">mezcla alfa </a>
-y 
+and 
 <a href="antiAliasing/">suavizado</a>
     </p>
    </div>
@@ -344,7 +344,7 @@ y
      Dibujar gráficos vectoriales
     </h2>
     <p>
-     Aspose.Drawing para .NET permite dibujar diferentes gráficos vectoriales como arcos, Cardinal Ranura, Bezier spline, elipses, curvas cerradas, líneas y muchos otros tipos. Solo se necesitan unas pocas líneas de código para dibujar diferentes tipos de gráficos vectoriales utilizyo la API. Por ejemplo, aquí hay un código para dibujar un arco.
+     Aspose.Drawing para .NET permite dibujar diferentes gráficos vectoriales como arcos, Cardinal Ranura, Bezier spline, elipses, curvas cerradas, líneas y muchos otros tipos. Solo se necesitan unas pocas líneas de código para dibujar diferentes tipos de gráficos vectoriales utilizando la API. Por ejemplo, aquí hay un código para dibujar un arco.
     </p>
     <div class="codeblock" id="code">
      <h3>

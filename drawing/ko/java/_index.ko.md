@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 곡선,
      안티 앨리어싱
     </li>
     <li>
-     깎는
+     Clipping
     </li>
     <li>
      알파 블렌딩

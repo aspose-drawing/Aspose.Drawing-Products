@@ -7,14 +7,14 @@ Keywords: create Απόκομμα via C#, 2D graphics, drawing API, create bitma
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργία αρχείου εικόνας Απόκομμα μέσω C#" h2="Δημιουργήστε τις προσαρμοσμένες εφαρμογές .NET για σχέδιο με αρχεία εικόνας Απόκομμα" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Δημιουργία αρχείου εικόνας Απόκομμα μέσω C#" h2="Δημιουργήστε τις προσαρμοσμένες εφαρμογές .NET για σχέδιο με αρχεία εικόνας Clipping" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="για .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="για .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Πώς να δημιουργήσετε ένα αρχείο αποκοπής εικόνας χρησιμοποιώντας το C#" %}}
 
-Ανακαλύψτε την απλότητα της δημιουργίας αρχείων εικόνας Απόκομμα με το C#. Αυτό το έγγραφο παρέχει βασικές πληροφορίες και καθοδήγηση, είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε. Μάθετε τα βήματα για να ενσωματώσετε απρόσκοπτα τη δημιουργία Απόκομμα εικόνας στα έργα σας και να βελτιώσετε τις προγραμματιστικές σας δεξιότητες. Για να δημιουργήσουμε αρχεία Απόκομμα, θα χρησιμοποιήσουμε τη βιβλιοθήκη [Aspose.Drawing για .NET](https://products.aspose.com/drawing/net) που είναι μια πλούσια σε χαρακτηριστικά, ισχυρό και εύχρηστο API σχεδίασης γραφικών 2D για το C# πλατφόρμα. Ανοίξτε τη διαχείριση πακέτων [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh για **Aspose.Drawing** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Ανακαλύψτε την απλότητα της δημιουργίας αρχείων εικόνας Απόκομμα με το C#. Αυτό το έγγραφο παρέχει βασικές πληροφορίες και καθοδήγηση, είτε είστε έμπειρος προγραμματιστής είτε μόλις ξεκινάτε. Μάθετε τα βήματα για να ενσωματώσετε απρόσκοπτα τη δημιουργία Απόκομμα εικόνας στα έργα σας και να βελτιώσετε τις προγραμματιστικές σας δεξιότητες. Για να δημιουργήσουμε αρχεία Clipping, θα χρησιμοποιήσουμε τη βιβλιοθήκη [Aspose.Drawing για .NET](https://products.aspose.com/drawing/net) που είναι μια πλούσια σε χαρακτηριστικά, ισχυρό και εύχρηστο API σχεδίασης γραφικών 2D για το C# πλατφόρμα. Ανοίξτε τη διαχείριση πακέτων [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh για **Aspose.Drawing** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 ```cs
@@ -63,7 +63,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Δημιουργία αρχείου αποκοπής εικόνας - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawΑπόκομμα.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawClipping.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

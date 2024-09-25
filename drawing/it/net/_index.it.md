@@ -99,7 +99,7 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
      Anti aliasing
     </li>
     <li>
-     Ritaglio
+     Clipping
     </li>
     <li>
      Miscelazione alfa

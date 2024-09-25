@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing वक�
      उपघटन प्रतिरोधी
     </li>
     <li>
-     कतरन
+     Clipping
     </li>
     <li>
      अल्फ़ा सम्मिश्रण

@@ -93,7 +93,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras formas admitidas" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elipse" description="Imagen de gráficos de red portátiles Elipse" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Imagen de gráficos de red portátiles Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectángulo" description="Imagen de gráficos de red portátiles rectangulares" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polígono" description="Imagen de gráficos de red portátiles de polígono" >}}
 

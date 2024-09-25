@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing Kurven,
      Kantenglättung
     </li>
     <li>
-     Ausschnitt
+     Clipping
     </li>
     <li>
      Alpha-Mischung

@@ -63,7 +63,7 @@ Aspose.Drawing pro .NET je podporován na všech hlavních operačních systéme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vytvořit soubor s ořezovým obrázkem – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawVýstřižek.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawClipping.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -87,7 +87,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory a vytvořit textovou kresbu ve webovém prohlížeči" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru Výstřižek" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru Clipping" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 

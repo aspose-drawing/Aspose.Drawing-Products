@@ -1,20 +1,20 @@
 ---
-title: Erstellen Sie eine Ausschnitt-Bilddatei über .NET
+title: Erstellen Sie eine Clipping-Bilddatei über .NET
 weight: 20
 url: /de/net/clipping/
-description: Erstellen Sie eine Ausschnitt-Bilddatei über .NET.
+description: Erstellen Sie eine Clipping-Bilddatei über .NET.
 Keywords: create Ausschnitt via C#, 2D graphics, drawing API, create bitmap C#, Drawing für .NET, save bitmap, save Ausschnitt image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Ausschnitt image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine Ausschnitt-Bilddatei über C#" h2="Erstellen Sie Ihre benutzerdefinierten .NET-Anwendungen zum Zeichnen mit Ausschnitt-Bilddateien" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="für .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Erstellen Sie eine Clipping-Bilddatei über C#" h2="Erstellen Sie Ihre benutzerdefinierten .NET-Anwendungen zum Zeichnen mit Clipping-Bilddateien" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="für .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="für .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="So erstellen Sie eine Bildausschnittdatei mit der C#" %}}
 
-Entdecken Sie die Einfachheit der Erstellung von Ausschnitt-Bilddateien mit C#. Dieses Dokument bietet wichtige Einblicke und Anleitungen, unabhängig davon, ob Sie ein erfahrener Entwickler sind oder gerade erst anfangen. Lernen Sie die Schritte kennen, mit denen Sie die Erstellung von Ausschnitt-Bildern nahtlos in Ihre Projekte integrieren und Ihre Programmierkenntnisse verbessern können. Um Ausschnitt-Dateien zu erstellen, verwenden wir die Bibliothek [Aspose.Drawing für .NET](https://products.aspose.com/drawing/net), eine funktionsreiche, leistungsstarke und benutzerfreundliche 2D-Grafikzeichnungs-API für C# Plattform. Öffnen Sie den Paketmanager [NuGet](https://www.nuget.org/packages/aspose.drawing), securveh für **Aspose.Drawing** und installieren Sie ihn. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+Entdecken Sie die Einfachheit der Erstellung von Clipping-Bilddateien mit C#. Dieses Dokument bietet wichtige Einblicke und Anleitungen, unabhängig davon, ob Sie ein erfahrener Entwickler sind oder gerade erst anfangen. Lernen Sie die Schritte kennen, mit denen Sie die Erstellung von Clipping-Bildern nahtlos in Ihre Projekte integrieren und Ihre Programmierkenntnisse verbessern können. Um Clipping-Dateien zu erstellen, verwenden wir die Bibliothek [Aspose.Drawing für .NET](https://products.aspose.com/drawing/net), eine funktionsreiche, leistungsstarke und benutzerfreundliche 2D-Grafikzeichnungs-API für C# Plattform. Öffnen Sie den Paketmanager [NuGet](https://www.nuget.org/packages/aspose.drawing), securveh für **Aspose.Drawing** und installieren Sie ihn. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 ```cs
@@ -63,7 +63,7 @@ Aspose.Drawing für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ausschnittsbilddatei erstellen – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawAusschnitt.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawClipping.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,12 +82,12 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Prozess-Ausschnitt über die kostenlose Online-App" sectionDescription="Erstellen Sie Ausschnitt-Bilder und fügen Sie Text zu Bildern hinzu, indem Sie unsere [Live-Demos-Website] (https://products.aspose.app/drawing) besuchen. Die Live-Demo bietet die folgenden Vorteile:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Prozess-Clipping über die kostenlose Online-App" sectionDescription="Erstellen Sie Clipping-Bilder und fügen Sie Text zu Bildern hinzu, indem Sie unsere [Live-Demos-Website] (https://products.aspose.app/drawing) besuchen. Die Live-Demo bietet die folgenden Vorteile:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Es ist nicht nötig, Code zu schreiben" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre Dateien hoch und erstellen Sie eine Textzeichnung im Webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Ausschnitt-Datei" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Clipping-Datei" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 

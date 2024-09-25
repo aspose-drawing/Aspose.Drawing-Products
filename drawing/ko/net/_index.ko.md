@@ -99,7 +99,7 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
      안티 앨리어싱
     </li>
     <li>
-     깎는
+     Clipping
     </li>
     <li>
      알파 블렌딩

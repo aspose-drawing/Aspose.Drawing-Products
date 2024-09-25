@@ -93,7 +93,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované tvary" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elipsa" description="Obrázek přenosné síťové grafiky Elipsa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Obrázek přenosné síťové grafiky Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Obdélník" description="Obdélník přenosná síťová grafika obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Obrázek přenosné síťové grafiky polygonu" >}}
 

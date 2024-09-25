@@ -93,7 +93,7 @@ Aspose.Drawing، مكتبة رسومية ثنائية الأبعاد مُدار�
 
 {{< blocks/products/pf/agp/other-supported-section title="الأشكال الأخرى المدعومة" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="القطع الناقص" description="القطع الناقص صورة رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="القطع الناقص صورة رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="المستطيل" description="مستطيل صورة رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="مضلع" description="صورة رسومات الشبكة المحمولة المضلع" >}}
 

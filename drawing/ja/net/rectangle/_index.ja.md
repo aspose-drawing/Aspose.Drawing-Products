@@ -93,7 +93,7 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="楕円" description="楕円 ポータブル ネットワーク グラフィックスの画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse ポータブル ネットワーク グラフィックスの画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="矩形" description="長方形のポータブル ネットワーク グラフィックス画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="ポリゴン" description="ポリゴン ポータブル ネットワーク グラフィックス画像" >}}
 

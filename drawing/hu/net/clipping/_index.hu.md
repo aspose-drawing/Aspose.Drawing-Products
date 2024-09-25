@@ -63,7 +63,7 @@ A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vágóképfájl létrehozása – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawDarabka.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawClipping.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

@@ -58,7 +58,7 @@ A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Hozzon létre ellipszis képfájlt - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipszis.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Az Ellipszis feldolgozása ingyenes online alkalmazáson keresztül" sectionDescription="Hozzon létre Ellipszis-képeket, valamint adjon hozzá szöveget a képekhez [Élő bemutatók webhelyén](https://products.aspose.app/drawing) Az élő bemutató a következő előnyökkel jár:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Az Ellipszis feldolgozása ingyenes online alkalmazáson keresztül" sectionDescription="Hozzon létre Ellipse-képeket, valamint adjon hozzá szöveget a képekhez [Élő bemutatók webhelyén](https://products.aspose.app/drawing) Az élő bemutató a következő előnyökkel jár:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nem kell letölteni vagy beállítani semmit" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nem kell kódot írni" >}}
@@ -93,7 +93,7 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott formák" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipszis" description="Ellipszis hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse hordozható hálózati grafikus kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Téglalap" description="Téglalap alakú hordozható hálózati grafikus kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Poligon" description="Poligon hordozható hálózati grafikus kép" >}}
 

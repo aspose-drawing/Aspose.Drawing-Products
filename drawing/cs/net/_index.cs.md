@@ -99,7 +99,7 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
      Anti aliasing
     </li>
     <li>
-     Výstřižek
+     Clipping
     </li>
     <li>
      Alfa míchání

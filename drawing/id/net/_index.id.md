@@ -99,7 +99,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
      Antialiasing
     </li>
     <li>
-     Guntingan
+     Clipping
     </li>
     <li>
      Pencampuran alfa

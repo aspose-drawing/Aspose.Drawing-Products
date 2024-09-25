@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing görbé
      Antialiasing
     </li>
     <li>
-     Darabka
+     Clipping
     </li>
     <li>
      Alfa keverés

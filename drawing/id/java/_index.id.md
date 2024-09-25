@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing kurva, 
      Antialiasing
     </li>
     <li>
-     Guntingan
+     Clipping
     </li>
     <li>
      Pencampuran alfa

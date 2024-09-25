@@ -7,7 +7,7 @@ Keywords: create Elipsa via C#, 2D graphics, drawing API, create bitmap C#, Draw
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor obrázku Elipsa pomocí C#" h2="Sestavte si své vlastní aplikace .NET pro kreslení pomocí obrazových souborů Elipsa" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pro .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor obrázku Elipsa pomocí C#" h2="Sestavte si své vlastní aplikace .NET pro kreslení pomocí obrazových souborů Ellipse" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="pro .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="pro .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing pro .NET je podporován na všech hlavních operačních systéme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Vytvořit soubor obrázku elipsy - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawElipsa.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Není třeba psát žádný kód" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory a vytvořit textovou kresbu ve webovém prohlížeči" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru Elipsa" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě získejte odkaz ke stažení výsledného souboru Ellipse" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,7 +93,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované tvary" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elipsa" description="Obrázek přenosné síťové grafiky Elipsa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Obrázek přenosné síťové grafiky Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Obdélník" description="Obdélník přenosná síťová grafika obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Obrázek přenosné síťové grafiky polygonu" >}}
 

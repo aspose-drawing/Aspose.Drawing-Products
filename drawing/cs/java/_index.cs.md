@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing křivky
      Anti aliasing
     </li>
     <li>
-     Výstřižek
+     Clipping
     </li>
     <li>
      Alfa míchání

@@ -99,7 +99,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
      Anti crénelage
     </li>
     <li>
-     Coupure
+     Clipping
     </li>
     <li>
      Mélange alpha

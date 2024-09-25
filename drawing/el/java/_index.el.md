@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing καμ�
      Αντιολισθητική
     </li>
     <li>
-     Απόκομμα
+     Clipping
     </li>
     <li>
      Άλφα ανάμειξη

@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing منح�
      الحواف
     </li>
     <li>
-     لقطة
+     Clipping
     </li>
     <li>
      مزج ألفا

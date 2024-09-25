@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curve, 
      Anti aliasing
     </li>
     <li>
-     Ritaglio
+     Clipping
     </li>
     <li>
      Miscelazione alfa

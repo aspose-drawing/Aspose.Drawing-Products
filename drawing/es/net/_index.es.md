@@ -99,7 +99,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
      Antialiasing
     </li>
     <li>
-     Recorte
+     Clipping
     </li>
     <li>
      Mezcla alfa

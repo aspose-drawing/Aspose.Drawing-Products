@@ -99,7 +99,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
      Antialiasing
     </li>
     <li>
-     Darabka
+     Clipping
     </li>
     <li>
      Alfa keverés

@@ -7,14 +7,14 @@ Keywords: create القطع الناقص via C#, 2D graphics, drawing API, creat
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف صورة القطع الناقص عبر C#" h2="أنشئ تطبيقات .NET المخصصة للرسم باستخدام ملفات صور القطع الناقص" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="ل .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف صورة القطع الناقص عبر C#" h2="أنشئ تطبيقات .NET المخصصة للرسم باستخدام ملفات صور Ellipse" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="ل .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="ل .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="كيفية إنشاء ملف صورة القطع الناقص باستخدام C#" %}}
 
-اكتشف بساطة إنشاء ملفات صور القطع الناقص باستخدام C#. يوفر هذا المستند رؤى وإرشادات أساسية، سواء كنت مطورًا متمرسًا أو بدأت للتو. تعرف على الخطوات اللازمة لدمج إنشاء صور القطع الناقص بسلاسة في مشاريعك وتعزيز مهاراتك في البرمجة. لإنشاء ملفات القطع الناقص، سنستخدم مكتبة [Aspose.Drawing لـ .NET](https://products.aspose.com/drawing/net) وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لرسم الرسومات ثنائية الأبعاد لـ C# منصة. افتح مدير الحزم [نوجيت](https://www.nuget.org/packages/aspose.drawing)، ثم حدد seCurveh لـ **Aspose.Drawing** وقم بالتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+اكتشف بساطة إنشاء ملفات صور القطع الناقص باستخدام C#. يوفر هذا المستند رؤى وإرشادات أساسية، سواء كنت مطورًا متمرسًا أو بدأت للتو. تعرف على الخطوات اللازمة لدمج إنشاء صور القطع الناقص بسلاسة في مشاريعك وتعزيز مهاراتك في البرمجة. لإنشاء ملفات Ellipse، سنستخدم مكتبة [Aspose.Drawing لـ .NET](https://products.aspose.com/drawing/net) وهي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لرسم الرسومات ثنائية الأبعاد لـ C# منصة. افتح مدير الحزم [نوجيت](https://www.nuget.org/packages/aspose.drawing)، ثم حدد seCurveh لـ **Aspose.Drawing** وقم بالتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="إنشاء ملف صورة القطع الناقص - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawالقطع الناقص.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,7 +77,7 @@ Aspose.Drawing، مكتبة رسومية ثنائية الأبعاد مُدار�
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="معالجة القطع الناقص عبر التطبيق المجاني عبر الإنترنت" sectionDescription="قم بإنشاء صور القطع الناقص، بالإضافة إلى إضافة نص إلى الصور من خلال زيارة [موقع العروض التوضيحية المباشرة] (https://products.aspose.app/drawing). يتمتع العرض التجريبي المباشر بالمزايا التالية:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="معالجة القطع الناقص عبر التطبيق المجاني عبر الإنترنت" sectionDescription="قم بإنشاء صور Ellipse، بالإضافة إلى إضافة نص إلى الصور من خلال زيارة [موقع العروض التوضيحية المباشرة] (https://products.aspose.app/drawing). يتمتع العرض التجريبي المباشر بالمزايا التالية:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="لا حاجة لكتابة أي رمز" >}}
@@ -93,7 +93,7 @@ Aspose.Drawing، مكتبة رسومية ثنائية الأبعاد مُدار�
 
 {{< blocks/products/pf/agp/other-supported-section title="الأشكال الأخرى المدعومة" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="القطع الناقص" description="القطع الناقص صورة رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="القطع الناقص صورة رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="المستطيل" description="مستطيل صورة رسومات الشبكة المحمولة" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="مضلع" description="صورة رسومات الشبكة المحمولة المضلع" >}}
 

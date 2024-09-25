@@ -99,7 +99,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
      Kantenglättung
     </li>
     <li>
-     Ausschnitt
+     Clipping
     </li>
     <li>
      Alpha-Mischung

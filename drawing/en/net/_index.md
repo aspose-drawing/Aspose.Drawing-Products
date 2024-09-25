@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing for .NET | Cross-platform System.Drawing.Common replacement 
 weight: 20
-url: /net/ 
+url: /net/
 description: .NET graphic library for drawing text, geometries, and images, to directly replace System.Drawing.Common package without changing existing C# code.
 ---
 
@@ -259,63 +259,83 @@ description: .NET graphic library for drawing text, geometries, and images, to d
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw lines, curves, splines and arcs
+    <a href="lines/">Draw lines, </a>
+    <a href="curves/">curves, </a>
+    <a href="spline/">splines, </a>
+    <a href="arcs/">arcs, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draw shapes like rectangle, polygon, ellipse, etc
+Draw shapes like 
+    <a href="rectangle/">rectangle, </a>
+    <a href="polygon/">polygon, </a>
+    <a href="ellipse/">ellipse, </a>
+      etc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Process and draw graphics paths
+     Process and draw 
+<a href="paths/">graphics paths, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render text with different fonts and styles
+<a href="renderText/">Render text with different fonts and styles</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use different pen widths and styles
+Use different pen 
+<a href="pen/widths/">widths, </a>
+      and 
+<a href="pen/styles/">styles</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use solid, texture, gradient, and hatch brushes
+     Use 
+<a href="brush/solid/">solid, </a>
+texture, 
+<a href="brush/gradient/">gradient, </a> 
+and hatch brushes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports alpha blending and anti-aliasing
+     Supports 
+<a href="alphaBlending/">alpha blending </a>
+and 
+<a href="antiAliasing/">anti-aliasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Work with clip regions
+<a href="clipping/">Work with clip regions</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use coordinate system transformations
+     Use coordinate system 
+<a href="transformations/matrix/">transformations</a>
+
     </p>
    </div>
    

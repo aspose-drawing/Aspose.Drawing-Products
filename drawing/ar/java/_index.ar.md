@@ -3,7 +3,7 @@ title: Aspose.Drawing لـ Java | مكتبة الرسومات عبر الأنظ�
 weight: 20
 url: /ar/java/ 
 description: مكتبة رسومية Java لرسم النصوص والمنحنيات والخطوط والأشكال والصور.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing منحنيات, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     مصفوفة
+     Matrix
     </li>
     <li>
      العالمية والمحلية
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      الحواف
     </li>
     <li>
-     لقطة
+     Clipping
     </li>
     <li>
      مزج ألفا

@@ -3,7 +3,7 @@ title: Java için Aspose.Drawing | Platformlar Arası Grafik Kütüphanesi
 weight: 20
 url: /tr/java/ 
 description: Metin, eğri, çizgi, şekil ve görsel çizmek için Java grafik kütüphanesi.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing eğriler, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Matris
+     Matrix
     </li>
     <li>
      Küresel ve Yerel
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Kenar yumuşatma
     </li>
     <li>
-     Kırpma
+     Clipping
     </li>
     <li>
      Alfa harmanlama

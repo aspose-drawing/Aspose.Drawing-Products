@@ -3,7 +3,7 @@ title: Aspose.Drawing для Java | Кроссплатформенная гра�
 weight: 20
 url: /ru/java/ 
 description: Графическая библиотека Java для рисования текста, кривых, линий, фигур и изображений.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing кривые, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Матричные операции
+     Matrix
     </li>
     <li>
      Глобальный и локальный
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Сглаживание
     </li>
     <li>
-     Обрезка
+     Clipping
     </li>
     <li>
      Альфа-смешение

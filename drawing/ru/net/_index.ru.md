@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing для .NET | Кроссплатформенная замена System.Drawing.Common 
 weight: 20
-url: /ru/net/ 
+url: /ru/net/
 description: Графическая библиотека .NET для рисования текста, геометрии и изображений для прямой замены пакета System.Drawing.Common без изменения существующего кода C#.
 ---
 
@@ -58,7 +58,7 @@ description: Графическая библиотека .NET для рисов�
    </header>
    <ul>
     <li>
-     Матричные операции
+     Matrix
     </li>
     <li>
      Глобальный и локальный
@@ -99,7 +99,7 @@ description: Графическая библиотека .NET для рисов�
      Сглаживание
     </li>
     <li>
-     Обрезка
+     Clipping
     </li>
     <li>
      Альфа-смешение
@@ -128,7 +128,7 @@ description: Графическая библиотека .NET для рисов�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Drawing для .NET поддерживает .NET Framework версии 2.0, .NET Standard 2.0 или более поздней версии." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Drawing для .NET поддерживает .NET Framework версии 2.0, .NET Standard 2.0 или новее." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -259,63 +259,83 @@ description: Графическая библиотека .NET для рисов�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Рисовать линии, кривые, сплайны и дуги
+    <a href="lines/">Рисовать линии, </a>
+    <a href="curves/">кривые, </a>
+    <a href="spline/">сплайны, </a>
+    <a href="arcs/">дуги, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Рисуйте такие фигуры, как прямоугольник, многоугольник, эллипс и т. д.
+Нарисуйте такие фигуры, как 
+    <a href="rectangle/">прямоугольник, </a>
+    <a href="polygon/">многоугольник, </a>
+    <a href="ellipse/">эллипс, </a>
+      и т. д.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Обработка и рисование графических путей
+     Обрабатываем и рисуем 
+<a href="paths/">графические пути, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Рендеринг текста с использованием разных шрифтов и стилей
+<a href="renderText/">Рендеринг текста с использованием разных шрифтов и стилей</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Используйте перья разной ширины и стиля.
+Используйте другую ручку 
+<a href="pen/widths/">ширина, </a>
+      и 
+<a href="pen/стили/">стили</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Используйте кисти сплошного цвета, текстуры, градиента и штриховки.
+     Использовать 
+<a href="brush/solid/">твердый, </a>
+текстура, 
+<a href="brush/gradient/">градиент, </a> 
+и штриховые кисти
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддерживает альфа-смешение и сглаживание.
+     Поддерживает 
+<a href="alphaBlending/">альфа-смешение </a>
+and 
+<a href="antiAliasing/">сглаживание</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Работа с областями обрезки
+<a href="clipping/">Работа с областями обрезки</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Используйте преобразования системы координат
+     Использовать систему координат 
+<a href="трансформации/matrix/">трансформации</a>
+
     </p>
    </div>
    

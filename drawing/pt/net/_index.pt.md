@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing para .NET | Substituição System.Drawing.Common multiplataforma 
 weight: 20
-url: /pt/net/ 
+url: /pt/net/
 description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagens, para substituir diretamente o pacote System.Drawing.Common sem alterar o código C# existente.
 ---
 
@@ -39,16 +39,16 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
      Desenhar formas
     </li>
     <li>
-     Use canetas
+     Usar canetas
     </li>
     <li>
-     Use pincéis
+     Usar pincéis
     </li>
     <li>
      Renderizar texto
     </li>
     <li>
-     Use fontes diferentes
+     Usar fontes diferentes
     </li>
    </ul>
    <header>
@@ -58,7 +58,7 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
    </header>
    <ul>
     <li>
-     Matriz
+     Matrix
     </li>
     <li>
      Global e Local
@@ -99,7 +99,7 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
      Antialiasing
     </li>
     <li>
-     Recorte
+     Clipping
     </li>
     <li>
      Mistura alfa
@@ -259,63 +259,83 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Desenhe linhas, curvas, splines e arcos
+    <a href="lines/">Desenhe linhas, </a>
+    <a href="curves/">curvas, </a>
+    <a href="spline/">estrias, </a>
+    <a href="arcs/">arcos, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Desenhe formas como retângulo, polígono, elipse, etc.
+Desenhe formas como 
+    <a href="rectangle/">retângulo, </a>
+    <a href="polygon/">polígono, </a>
+    <a href="ellipse/">elipse, </a>
+      etc.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Processar e desenhar caminhos gráficos
+     Processar e desenhar 
+<a href="paths/">caminhos gráficos, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Renderize texto com diferentes fontes e estilos
+<a href="renderText/">Renderize texto com diferentes fontes e estilos</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use diferentes larguras e estilos de caneta
+Usar caneta diferente 
+<a href="pen/widths/">larguras, </a>
+      e 
+<a href="pen/estilos/">estilos</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use pincéis sólidos, de textura, gradiente e hachura
+     Usar 
+<a href="brush/solid/">sólido, </a>
+textura, 
+<a href="brush/gradient/">gradiente, </a> 
+e escovas de hachura
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Suporta mistura alfa e anti-aliasing
+     Suporta 
+<a href="alphaBlending/">mistura alfa </a>
+and 
+<a href="antiAliasing/">suavização de serrilhado</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trabalhar com regiões de clipe
+<a href="clipping/">Trabalhar com regiões de clipe</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use transformações do sistema de coordenadas
+     Usar sistema de coordenadas 
+<a href="transformações/matrix/">transformações</a>
+
     </p>
    </div>
    

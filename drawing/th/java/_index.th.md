@@ -3,7 +3,7 @@ title: Aspose.Drawing สำหรับ Java | ไลบรารีกรา�
 weight: 20
 url: /th/java/ 
 description: ไลบรารีกราฟิก Java สำหรับการวาดข้อความ เส้นโค้ง เส้น ตัวเลข และรูปภาพ
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing เส้นโค้ง, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     เมทริกซ์
+     Matrix
     </li>
     <li>
      ระดับโลกและระดับท้องถิ่น
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      การลดรอยหยัก
     </li>
     <li>
-     การตัด
+     Clipping
     </li>
     <li>
      การผสมอัลฟ่า

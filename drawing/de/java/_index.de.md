@@ -3,7 +3,7 @@ title: Aspose.Drawing für Java | Plattformübergreifende Grafikbibliothek
 weight: 20
 url: /de/java/ 
 description: Java-Grafikbibliothek zum Zeichnen von Texten, Kurven, Linien, Figuren und Bildern.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing Kurven, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Kantenglättung
     </li>
     <li>
-     Ausschnitt
+     Clipping
     </li>
     <li>
      Alpha-Mischung

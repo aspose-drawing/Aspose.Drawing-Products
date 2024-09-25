@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing cho .NET | Thay thế System.Drawing.Common đa nền tảng 
 weight: 20
-url: /vi/net/ 
+url: /vi/net/
 description: Thư viện đồ họa .NET để vẽ văn bản, hình học và hình ảnh, thay thế trực tiếp gói System.Drawing.Common mà không thay đổi mã C# hiện có.
 ---
 
@@ -58,7 +58,7 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
    </header>
    <ul>
     <li>
-     Ma trận
+     Matrix
     </li>
     <li>
      Toàn cầu và địa phương
@@ -99,7 +99,7 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
      Khử răng cưa
     </li>
     <li>
-     Cắt
+     Clipping
     </li>
     <li>
      Pha trộn alpha
@@ -259,63 +259,83 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vẽ đường thẳng, đường cong, đường cong và vòng cung
+    <a href="lines/">Vẽ đường, </a>
+    <a href="curves/">đường cong, </a>
+    <a href="spline/">đường trục, </a>
+    <a href="arcs/">vòng cung, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vẽ các hình dạng như hình chữ nhật, đa giác, hình elip, v.v.
+Vẽ các hình như 
+    <a href="rectangle/">hình chữ nhật, </a>
+    <a href="polygon/">đa giác, </a>
+    <a href="ellipse/">hình elip, </a>
+      vân vân
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Xử lý và vẽ đường dẫn đồ họa
+     Xử lý và vẽ 
+<a href="paths/">đường dẫn đồ họa, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hiển thị văn bản với các phông chữ và kiểu khác nhau
+<a href="renderText/">Hiển thị văn bản với các phông chữ và kiểu khác nhau</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sử dụng các chiều rộng và kiểu bút khác nhau
+Sử dụng bút khác 
+<a href="pen/widths/">chiều rộng, </a>
+      Và 
+<a href="pen/phong cách/">phong cách</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sử dụng các cọ vẽ rắn, kết cấu, chuyển màu và nở
+     Sử dụng 
+<a href="brush/solid/">chất rắn, </a>
+kết cấu, 
+<a href="brush/gradient/">độ dốc, </a> 
+và bàn chải nở
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hỗ trợ trộn alpha và khử răng cưa
+     Hỗ trợ 
+<a href="alphaBlending/">pha trộn alpha </a>
+and 
+<a href="antiAliasing/">khử răng cưa</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Làm việc với các vùng clip
+<a href="clipping/">Làm việc với các vùng clip</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sử dụng các phép biến đổi hệ tọa độ
+     Sử dụng hệ tọa độ 
+<a href="sự biến đổi/matrix/">sự biến đổi</a>
+
     </p>
    </div>
    
@@ -328,7 +348,7 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Vẽ Arc - C#
+      Vẽ vòng cung - C#
      </h3>
      {{< gist "aspose-com-gists" "660f3761ba6652f5bbd06bd535ac4bf9" "draw-arc.cs" >}}
     </div>

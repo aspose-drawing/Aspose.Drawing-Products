@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing用.NET |クロスプラットフォーム System.Drawing.Common の代替品 
 weight: 20
-url: /ja/net/ 
+url: /ja/net/
 description: テキスト、ジオメトリ、およびイメージを描画するための .NET グラフィック ライブラリ。既存の C# コードを変更せずに System.Drawing.Common パッケージを直接置き換えます。
 ---
 
@@ -58,7 +58,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
    </header>
    <ul>
     <li>
-     マトリックス
+     Matrix
     </li>
     <li>
      グローバルとローカル
@@ -99,7 +99,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
      アンチエイリアシング
     </li>
     <li>
-     クリッピング
+     Clipping
     </li>
     <li>
      アルファブレンディング
@@ -259,63 +259,83 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     線、曲線、スプライン、円弧を描く
+    <a href="lines/">線を引いて、 </a>
+    <a href="curves/">曲線、 </a>
+    <a href="spline/">スプライン、 </a>
+    <a href="arcs/">円弧、 </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     長方形、多角形、楕円などの形状を描画します
+のような形を描きます 
+    <a href="rectangle/">矩形、 </a>
+    <a href="polygon/">ポリゴン、 </a>
+    <a href="ellipse/">楕円、 </a>
+      等
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     グラフィックスパスの処理と描画
+     加工して描く 
+<a href="paths/">グラフィックスパス、 </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     さまざまなフォントとスタイルでテキストをレンダリングする
+<a href="renderText/">さまざまなフォントとスタイルでテキストをレンダリングする</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     さまざまなペンの幅とスタイルを使用する
+別のペンを使用する 
+<a href="pen/widths/">幅、 </a>
+      そして 
+<a href="pen/スタイル/">スタイル</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ソリッド、テクスチャ、グラデーション、ハッチング ブラシを使用する
+     使用 
+<a href="brush/solid/">固体、 </a>
+テクスチャー、 
+<a href="brush/gradient/">勾配、 </a> 
+そしてハッチブラシ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     アルファブレンディングとアンチエイリアスをサポート
+     サポート 
+<a href="alphaBlending/">アルファブレンディング </a>
+and 
+<a href="antiAliasing/">アンチエイリアシング</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     クリップ領域を操作する
+<a href="clipping/">クリップ領域を操作する</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     座標系変換を使用する
+     座標系を使用する 
+<a href="変換/matrix/">変換</a>
+
     </p>
    </div>
    

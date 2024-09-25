@@ -3,7 +3,7 @@ title: Aspose.Drawing per Java | Libreria grafica multipiattaforma
 weight: 20
 url: /it/java/ 
 description: Libreria grafica Java per disegnare testi, curve, linee, figure e immagini.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curve, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Matrice
+     Matrix
     </li>
     <li>
      Globale e locale
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Anti aliasing
     </li>
     <li>
-     Ritaglio
+     Clipping
     </li>
     <li>
      Miscelazione alfa
@@ -375,14 +375,14 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilizza pennelli solidi, texture, sfumatura e tratteggio
+     Utilizza pennelli solidi, struttura, sfumatura e tratteggio
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supporta la fusione alfa e l'anti-aliasing
+     Supporta la fusione alfa e l'antialiasing
     </p>
    </div>
    <div class="col-lg-4">

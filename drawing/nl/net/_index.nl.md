@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing voor .NET | Platformonafhankelijke System.Drawing.Common-vervanging 
 weight: 20
-url: /nl/net/ 
+url: /nl/net/
 description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën en afbeeldingen, om het System.Drawing.Common-pakket direct te vervangen zonder de bestaande C#-code te wijzigen.
 ---
 
@@ -99,7 +99,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
      Anti-aliasing
     </li>
     <li>
-     Knippen
+     Clipping
     </li>
     <li>
      Alfa-menging
@@ -259,63 +259,83 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Teken lijnen, curven, splines en bogen
+    <a href="lines/">Teken lijnen, </a>
+    <a href="curves/">rondingen, </a>
+    <a href="spline/">spieën, </a>
+    <a href="arcs/">bogen, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Teken vormen zoals rechthoek, veelhoek, ellips, enz
+Teken vormen zoals 
+    <a href="rectangle/">rechthoek, </a>
+    <a href="polygon/">veelhoek, </a>
+    <a href="ellipse/">ellips, </a>
+      enz
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verwerk en teken grafische paden
+     Verwerken en tekenen 
+<a href="paths/">grafische paden, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geef tekst weer met verschillende lettertypen en stijlen
+<a href="renderText/">Geef tekst weer met verschillende lettertypen en stijlen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gebruik verschillende penbreedtes en -stijlen
+Gebruik een andere pen 
+<a href="pen/widths/">breedtes, </a>
+      En 
+<a href="pen/stijlen/">stijlen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gebruik vaste penselen, textuur-, verloop- en arceerpenselen
+     Gebruik 
+<a href="brush/solid/">stevig, </a>
+textuur, 
+<a href="brush/gradient/">gradiënt, </a> 
+en broedborstels
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ondersteunt alpha-blending en anti-aliasing
+     Ondersteunt 
+<a href="alphaBlending/">alfa-menging </a>
+and 
+<a href="antiAliasing/">anti-aliasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Werken met clipgebieden
+<a href="clipping/">Werken met clipgebieden</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gebruik coördinatensysteemtransformaties
+     Gebruik het coördinatensysteem 
+<a href="transformaties/matrix/">transformaties</a>
+
     </p>
    </div>
    

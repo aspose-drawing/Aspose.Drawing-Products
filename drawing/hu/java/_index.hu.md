@@ -3,7 +3,7 @@ title: Aspose.Drawing Java | Platformok közötti grafikus könyvtár
 weight: 20
 url: /hu/java/ 
 description: Java grafikus könyvtár szövegek, görbék, vonalak, ábrák és képek rajzolásához.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing görbék, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Mátrix
+     Matrix
     </li>
     <li>
      Globális és lokális
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Antialiasing
     </li>
     <li>
-     Darabka
+     Clipping
     </li>
     <li>
      Alfa keverés

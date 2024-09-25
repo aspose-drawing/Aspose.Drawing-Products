@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing für .NET | Plattformübergreifender System.Drawing.Common-Ersatz 
 weight: 20
-url: /de/net/ 
+url: /de/net/
 description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern, um das System.Drawing.Common-Paket direkt zu ersetzen, ohne den vorhandenen C#-Code zu ändern.
 ---
 
@@ -99,7 +99,7 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
      Kantenglättung
     </li>
     <li>
-     Ausschnitt
+     Clipping
     </li>
     <li>
      Alpha-Mischung
@@ -259,63 +259,83 @@ description: .NET-Grafikbibliothek zum Zeichnen von Text, Geometrien und Bildern
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zeichnen Sie Linien, Kurven, Splines und Bögen
+    <a href="lines/">Zeichne Linien, </a>
+    <a href="curves/">Kurven, </a>
+    <a href="spline/">Splines, </a>
+    <a href="arcs/">Bögen, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zeichnen Sie Formen wie Rechtecke, Polygone, Ellipsen usw
+Zeichnen Sie Formen wie 
+    <a href="rectangle/">Rechteck, </a>
+    <a href="polygon/">Polygon, </a>
+    <a href="ellipse/">Ellipse, </a>
+      usw
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verarbeiten und zeichnen Sie Grafikpfade
+     Verarbeiten und zeichnen 
+<a href="paths/">Grafikpfade, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rendern Sie Text mit verschiedenen Schriftarten und Stilen
+<a href="renderText/">Rendern Sie Text mit verschiedenen Schriftarten und Stilen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verwenden Sie unterschiedliche Stiftbreiten und -stile
+Anderen Stift verwenden 
+<a href="pen/widths/">Breiten, </a>
+      Und 
+<a href="pen/Stile/">Stile</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verwenden Sie Volumen-, Textur-, Verlaufs- und Schraffurpinsel
+     Verwenden 
+<a href="brush/solid/">solide, </a>
+Textur, 
+<a href="brush/gradient/">Gradient, </a> 
+und Lukenbürsten
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Unterstützt Alpha-Blending und Anti-Aliasing
+     Unterstützt 
+<a href="alphaBlending/">Alpha-Mischung </a>
+and 
+<a href="antiAliasing/">Anti-Aliasing</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Arbeiten Sie mit Clip-Regionen
+<a href="clipping/">Arbeiten Sie mit Clip-Regionen</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verwenden Sie Koordinatensystemtransformationen
+     Koordinatensystem verwenden 
+<a href="Transformationen/matrix/">Transformationen</a>
+
     </p>
    </div>
    

@@ -7,7 +7,7 @@ keywords: create WMF via Java, 2D graphics, drawing API, create metafile in Java
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Use Java para criar arquivos de imagem WMF" h2="Aprimore os recursos de seus aplicativos Java manipulando arquivos de imagem vetorial WMF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Usar Java para criar arquivos de imagem WMF" h2="Aprimore os recursos de seus aplicativos Java manipulando arquivos de imagem vetorial WMF" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-java.svg" pfName="Aspose.Drawing" subTitlepfName="para Java" downloadUrl="https://releases.aspose.com/drawing/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para Java" >}}
 

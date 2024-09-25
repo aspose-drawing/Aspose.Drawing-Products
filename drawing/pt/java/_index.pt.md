@@ -3,7 +3,7 @@ title: Aspose.Drawing para Java | Biblioteca gráfica multiplataforma
 weight: 20
 url: /pt/java/ 
 description: Biblioteca gráfica Java para desenho de textos, curvas, linhas, figuras e imagens.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -125,16 +125,16 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Desenhar formas
     </li>
     <li>
-     Use canetas
+     Usar canetas
     </li>
     <li>
-     Use pincéis
+     Usar pincéis
     </li>
     <li>
      Renderizar texto
     </li>
     <li>
-     Use fontes diferentes
+     Usar fontes diferentes
     </li>
    </ul>
    <header>
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Matriz
+     Matrix
     </li>
     <li>
      Global e Local
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Antialiasing
     </li>
     <li>
-     Recorte
+     Clipping
     </li>
     <li>
      Mistura alfa
@@ -347,7 +347,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Desenhe formas como retângulo, polígono, elipse, etc.
+     Desenhe formas como retângulo, polígono, elipse, etc..
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,21 +368,21 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use diferentes larguras e estilos de caneta
+     Usar diferentes larguras e estilos de caneta
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use pincéis sólidos, de textura, gradiente e hachura
+     Usar pincéis sólidos, de textura, gradiente e hachura
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Suporta mistura alfa e anti-aliasing
+     Suporta mistura alfa e suavização de serrilhado
     </p>
    </div>
    <div class="col-lg-4">
@@ -396,7 +396,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Use transformações do sistema de coordenadas
+     Usar transformações do sistema de coordenadas
     </p>
    </div>
    

@@ -3,7 +3,7 @@ title: Aspose.Drawing para Java | Biblioteca gráfica multiplataforma
 weight: 20
 url: /es/java/ 
 description: Biblioteca gráfica Java para dibujar texto, curvas, líneas, figuras e imágenes.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing curvas, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Matriz
+     Matrix
     </li>
     <li>
      Globales y locales
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Antialiasing
     </li>
     <li>
-     Recorte
+     Clipping
     </li>
     <li>
      Mezcla alfa
@@ -347,7 +347,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dibuja formas como rectángulo, polígono, elipse, etc.
+     Dibuja formas como rectángulo, polígono, elipse, etc..
     </p>
    </div>
    <div class="col-lg-4">

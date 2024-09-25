@@ -3,7 +3,7 @@ title: Aspose.Drawing cho Java | Thư viện đồ họa đa nền tảng
 weight: 20
 url: /vi/java/ 
 description: Thư viện đồ họa Java để vẽ văn bản, đường cong, đường thẳng, hình và hình ảnh.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing đường cong, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Ma trận
+     Matrix
     </li>
     <li>
      Toàn cầu và địa phương
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Khử răng cưa
     </li>
     <li>
-     Cắt
+     Clipping
     </li>
     <li>
      Pha trộn alpha
@@ -409,7 +409,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Vẽ Arc - Java
+      Vẽ vòng cung - Java
      </h3>
      {{< gist "aspose-com-gists" "3562c2fe053aae0bda46f32abae6062a" "Examples-JAVA-LinesCurvesShapes-DrawArc-DrawArc.java" >}}
     </div>

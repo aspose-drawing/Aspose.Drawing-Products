@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing para .NET | Reemplazo multiplataforma System.Drawing.Common 
 weight: 20
-url: /es/net/ 
+url: /es/net/
 description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágenes, para reemplazar directamente el paquete System.Drawing.Common sin cambiar el código C# existente.
 ---
 
@@ -58,7 +58,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
    </header>
    <ul>
     <li>
-     Matriz
+     Matrix
     </li>
     <li>
      Globales y locales
@@ -99,7 +99,7 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
      Antialiasing
     </li>
     <li>
-     Recorte
+     Clipping
     </li>
     <li>
      Mezcla alfa
@@ -259,63 +259,83 @@ description: Biblioteca gráfica .NET para dibujar texto, geometrías e imágene
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dibuja líneas, curvas, splines y arcos.
+    <a href="lines/">dibujar líneas, </a>
+    <a href="curves/">curvas, </a>
+    <a href="spline/">estrías, </a>
+    <a href="arcs/">arcos, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dibuja formas como rectángulo, polígono, elipse, etc.
+Dibuja formas como 
+    <a href="rectangle/">rectángulo, </a>
+    <a href="polygon/">polígono, </a>
+    <a href="ellipse/">elipse, </a>
+      etc.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Procesar y dibujar rutas de gráficos.
+     Procesar y dibujar 
+<a href="paths/">rutas de gráficos, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Renderizar texto con diferentes fuentes y estilos
+<a href="renderText/">Renderizar texto con diferentes fuentes y estilos</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilice diferentes anchos y estilos de lápiz
+Usa un bolígrafo diferente 
+<a href="pen/widths/">anchos, </a>
+      y 
+<a href="pen/estilos/">estilos</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utilice pinceles sólidos, de textura, degradados y sombreados
+     Usar 
+<a href="brush/solid/">sólido, </a>
+textura, 
+<a href="brush/gradient/">gradiente, </a> 
+y pinceles de eclosión
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Admite combinación alfa y suavizado
+     Soportes 
+<a href="alphaBlending/">mezcla alfa </a>
+and 
+<a href="antiAliasing/">suavizado</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trabajar con regiones de clip
+<a href="clipping/">Trabajar con regiones de clip</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Usar transformaciones del sistema de coordenadas
+     Usar sistema de coordenadas 
+<a href="transformaciones/matrix/">transformaciones</a>
+
     </p>
    </div>
    

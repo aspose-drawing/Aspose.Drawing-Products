@@ -34,7 +34,7 @@ Gere um meme a partir da sua foto em qualquer dispositivo.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Drawing " title="Online Ruler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_drawing_ruler-app.png" productLink="https://products.aspose.app/drawing/online-ruler" >}}
-Use fita métrica de tamanho real online.
+Usar fita métrica de tamanho real online.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/drawing/family" innerText="Ver todos os aplicativos sem código" >}}

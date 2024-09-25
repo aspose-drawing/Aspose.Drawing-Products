@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing .NET | Cross-platform System.Drawing.Common csere 
 weight: 20
-url: /hu/net/ 
+url: /hu/net/
 description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolásához, a System.Drawing.Common csomag közvetlen helyettesítésére a meglévő C# kód megváltoztatása nélkül.
 ---
 
@@ -58,7 +58,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
    </header>
    <ul>
     <li>
-     Mátrix
+     Matrix
     </li>
     <li>
      Globális és lokális
@@ -99,7 +99,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
      Antialiasing
     </li>
     <li>
-     Darabka
+     Clipping
     </li>
     <li>
      Alfa keverés
@@ -259,63 +259,83 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rajzoljon vonalakat, görbéket, spline-okat és íveket
+    <a href="lines/">Vonalokat húzni, </a>
+    <a href="curves/">görbék, </a>
+    <a href="spline/">szálak, </a>
+    <a href="arcs/">ívek, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rajzoljon olyan alakzatokat, mint téglalap, sokszög, ellipszis stb
+Rajzolj olyan alakzatokat 
+    <a href="rectangle/">téglalap, </a>
+    <a href="polygon/">poligon, </a>
+    <a href="ellipse/">ellipszis, </a>
+      stb
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Grafikus útvonalak feldolgozása és rajzolása
+     Feldolgozás és rajzolás 
+<a href="paths/">grafikai útvonalak, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Szöveg megjelenítése különböző betűtípusokkal és stílusokkal
+<a href="renderText/">Szöveg megjelenítése különböző betűtípusokkal és stílusokkal</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Használjon különböző szélességű és stílusú tollat
+Használjon más tollat 
+<a href="pen/widths/">szélességek, </a>
+      és 
+<a href="pen/stílusok/">stílusok</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Használjon tömör, textúrájú, színátmenetes és sraffozású ecsetet
+     Használat 
+<a href="brush/solid/">szilárd, </a>
+struktúra, 
+<a href="brush/gradient/">gradiens, </a> 
+és sraffozókefék
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Támogatja az alfa keverést és az élsimítást
+     Támogatja 
+<a href="alphaBlending/">alfa keverés </a>
+and 
+<a href="antiAliasing/">élsimítás</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dolgozzon kliprégiókkal
+<a href="clipping/">Dolgozzon kliprégiókkal</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Használjon koordinátarendszer-transzformációkat
+     Koordinátarendszer használata 
+<a href="átalakulások/matrix/">átalakulások</a>
+
     </p>
    </div>
    

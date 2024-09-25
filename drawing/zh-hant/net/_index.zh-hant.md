@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing 換 .NET |跨平台 System.Drawing.Common 替代品 
 weight: 20
-url: /zh-hant/net/ 
+url: /zh-hant/net/
 description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直接取代System.Drawing.Common軟體包，無需更改現有C#程式碼。
 ---
 
@@ -58,7 +58,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
    </header>
    <ul>
     <li>
-     矩陣
+     Matrix
     </li>
     <li>
      全球和本地
@@ -99,7 +99,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
      抗鋸齒
     </li>
     <li>
-     剪裁
+     Clipping
     </li>
     <li>
      阿爾法混合
@@ -259,63 +259,83 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     繪製直線、曲線、樣條曲線和圓弧
+    <a href="lines/">畫線， </a>
+    <a href="curves/">曲線， </a>
+    <a href="spline/">樣條曲線， </a>
+    <a href="arcs/">弧線， </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     繪製矩形、多邊形、橢圓形等形狀
+繪製形狀如 
+    <a href="rectangle/">長方形， </a>
+    <a href="polygon/">多邊形, </a>
+    <a href="ellipse/">橢圓， </a>
+      ETC
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     處理和繪製圖形路徑
+     加工與繪製 
+<a href="paths/">圖形路徑， </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用不同的字體和样式渲染文本
+<a href="renderText/">使用不同的字體和样式渲染文本</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用不同的筆寬度和样式
+使用不同的筆 
+<a href="pen/widths/">寬度， </a>
+      和 
+<a href="pen/風格/">風格</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用實體、紋理、漸層和剖面線畫筆
+     使用 
+<a href="brush/solid/">堅硬的， </a>
+質地， 
+<a href="brush/gradient/">坡度， </a> 
+和孵化刷
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     支援 Alpha 混合和抗鋸齒
+     支援 
+<a href="alphaBlending/">阿爾法混合 </a>
+and 
+<a href="antiAliasing/">抗鋸齒</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用剪輯區域
+<a href="clipping/">使用剪輯區域</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     使用座標系變換
+     使用座標系 
+<a href="轉變/matrix/">轉變</a>
+
     </p>
    </div>
    

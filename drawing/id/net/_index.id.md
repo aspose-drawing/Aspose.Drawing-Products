@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing untuk .NET | Penggantian System.Drawing.Common lintas platform 
 weight: 20
-url: /id/net/ 
+url: /id/net/
 description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, untuk langsung menggantikan paket System.Drawing.Common tanpa mengubah kode C# yang ada.
 ---
 
@@ -58,7 +58,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
    </header>
    <ul>
     <li>
-     Matriks
+     Matrix
     </li>
     <li>
      Global dan Lokal
@@ -99,7 +99,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
      Antialiasing
     </li>
     <li>
-     Guntingan
+     Clipping
     </li>
     <li>
      Pencampuran alfa
@@ -259,63 +259,83 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menggambar garis, kurva, spline, dan busur
+    <a href="lines/">Gambar garis, </a>
+    <a href="curves/">kurva, </a>
+    <a href="spline/">spline, </a>
+    <a href="arcs/">busur, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Menggambar bentuk seperti persegi panjang, poligon, elips, dll
+Gambarlah bentuk seperti 
+    <a href="rectangle/">persegi panjang, </a>
+    <a href="polygon/">poligon, </a>
+    <a href="ellipse/">elips, </a>
+      dll.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Memproses dan menggambar jalur grafis
+     Proses dan gambar 
+<a href="paths/">jalur grafis, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render teks dengan font dan gaya berbeda
+<a href="renderText/">Render teks dengan font dan gaya berbeda</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gunakan lebar dan gaya pena yang berbeda
+Gunakan pena yang berbeda 
+<a href="pen/widths/">lebar, </a>
+      Dan 
+<a href="pen/gaya/">gaya</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gunakan kuas padat, tekstur, gradien, dan penetasan
+     Menggunakan 
+<a href="brush/solid/">padat, </a>
+tekstur, 
+<a href="brush/gradient/">gradien, </a> 
+dan kuas palka
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mendukung pencampuran alfa dan anti-aliasing
+     Mendukung 
+<a href="alphaBlending/">pencampuran alfa </a>
+and 
+<a href="antiAliasing/">anti-alias</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bekerja dengan wilayah klip
+<a href="clipping/">Bekerja dengan wilayah klip</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gunakan transformasi sistem koordinat
+     Gunakan sistem koordinat 
+<a href="transformasi/matrix/">transformasi</a>
+
     </p>
    </div>
    
@@ -324,7 +344,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
      Menggambar Grafik Vektor
     </h2>
     <p>
-     Aspose.Drawing untuk .NET memungkinkan menggambar grafik vektor yang berbeda seperti busur, Spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. Misalnya di sini adalah kode untuk menggambar busur.
+     Aspose.Drawing untuk .NET memungkinkan menggambar grafik vektor yang berbeda seperti busur, spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. Misalnya di sini adalah kode untuk menggambar busur.
     </p>
     <div class="codeblock" id="code">
      <h3>

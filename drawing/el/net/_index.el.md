@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing για .NET | Αντικατάσταση cross-platform System.Drawing.Common 
 weight: 20
-url: /el/net/ 
+url: /el/net/
 description: Βιβλιοθήκη γραφικών .NET για σχεδίαση κειμένου, γεωμετριών και εικόνων, για άμεση αντικατάσταση του πακέτου System.Drawing.Common χωρίς αλλαγή του υπάρχοντος κώδικα C#.
 ---
 
@@ -58,7 +58,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
    </header>
    <ul>
     <li>
-     Μήτρα
+     Matrix
     </li>
     <li>
      Παγκόσμια και Τοπική
@@ -99,7 +99,7 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
      Αντιολισθητική
     </li>
     <li>
-     Απόκομμα
+     Clipping
     </li>
     <li>
      Άλφα ανάμειξη
@@ -259,63 +259,83 @@ description: Βιβλιοθήκη γραφικών .NET για σχεδίαση 
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Σχεδιάστε γραμμές, καμπύλες, σφήνες και τόξα
+    <a href="lines/">Σχεδιάστε γραμμές, </a>
+    <a href="curves/">καμπύλες, </a>
+    <a href="spline/">σφήνες, </a>
+    <a href="arcs/">τόξα, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Σχεδιάστε σχήματα όπως ορθογώνιο, πολύγωνο, έλλειψη κ.λπ
+Σχεδιάστε σχήματα όπως 
+    <a href="rectangle/">ορθογώνιο παραλληλόγραμμο, </a>
+    <a href="polygon/">πολύγωνο, </a>
+    <a href="ellipse/">έλλειψη, </a>
+      και τα λοιπά
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Επεξεργαστείτε και σχεδιάστε μονοπάτια γραφικών
+     Επεξεργασία και σχεδίαση 
+<a href="paths/">μονοπάτια γραφικών, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Απόδοση κειμένου με διαφορετικές γραμματοσειρές και στυλ
+<a href="renderText/">Απόδοση κειμένου με διαφορετικές γραμματοσειρές και στυλ</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Χρησιμοποιήστε διαφορετικά πλάτη και στυλ στυλό
+Χρησιμοποιήστε διαφορετικό στυλό 
+<a href="pen/widths/">πλάτη, </a>
+      και 
+<a href="pen/στυλ/">στυλ</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Χρησιμοποιήστε βούρτσες συμπαγούς, υφής, ντεγκραντέ και καταπακτής
+     Χρήση 
+<a href="brush/solid/">στερεός, </a>
+υφή, 
+<a href="brush/gradient/">κλίση, </a> 
+και βούρτσες για καταπακτή
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστηρίζει ανάμειξη άλφα και αντι-αλλοίωση
+     Υποστηρίζει 
+<a href="alphaBlending/">ανάμειξη άλφα </a>
+and 
+<a href="antiAliasing/">αντι-αλλοίωση</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εργαστείτε με περιοχές κλιπ
+<a href="clipping/">Εργαστείτε με περιοχές κλιπ</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Χρησιμοποιήστε μετασχηματισμούς συστήματος συντεταγμένων
+     Χρησιμοποιήστε το σύστημα συντεταγμένων 
+<a href="μεταμορφώσεις/matrix/">μεταμορφώσεις</a>
+
     </p>
    </div>
    

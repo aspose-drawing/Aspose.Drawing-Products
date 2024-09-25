@@ -3,7 +3,7 @@ title: Aspose.Drawing για Java | Βιβλιοθήκη γραφικών πολ
 weight: 20
 url: /el/java/ 
 description: Βιβλιοθήκη γραφικών Java για σχεδίαση κειμένου, καμπυλών, γραμμών, σχημάτων και εικόνων.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing καμπύλες, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Μήτρα
+     Matrix
     </li>
     <li>
      Παγκόσμια και Τοπική
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Αντιολισθητική
     </li>
     <li>
-     Απόκομμα
+     Clipping
     </li>
     <li>
      Άλφα ανάμειξη

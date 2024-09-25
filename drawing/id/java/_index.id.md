@@ -3,7 +3,7 @@ title: Aspose.Drawing untuk Java | Perpustakaan Grafis Lintas Platform
 weight: 20
 url: /id/java/ 
 description: Pustaka grafis Java untuk menggambar teks, kurva, garis, gambar, dan gambar.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing kurva, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     Matriks
+     Matrix
     </li>
     <li>
      Global dan Lokal
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Antialiasing
     </li>
     <li>
-     Guntingan
+     Clipping
     </li>
     <li>
      Pencampuran alfa
@@ -382,7 +382,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mendukung pencampuran alfa dan anti-aliasing
+     Mendukung pencampuran alfa dan anti-alias
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,7 +405,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      Menggambar Grafik Vektor
     </h2>
     <p>
-     Aspose.Drawing untuk Java memungkinkan menggambar grafik vektor yang berbeda seperti busur, Spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
+     Aspose.Drawing untuk Java memungkinkan menggambar grafik vektor yang berbeda seperti busur, spline Kardinal, spline Bezier, elips, kurva tertutup, garis, dan sejumlah jenis lainnya. Hanya beberapa baris kode yang diperlukan untuk menggambar berbagai jenis grafik vektor menggunakan API. misalnya di sini adalah kode untuk menggambar busur.
     </p>
     <div class="codeblock" id="code">
      <h3>

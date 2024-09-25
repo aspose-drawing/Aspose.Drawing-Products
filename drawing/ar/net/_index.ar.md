@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing لـ .NET | استبدال System.Drawing.Common عبر الأنظمة الأساسية 
 weight: 20
-url: /ar/net/ 
+url: /ar/net/
 description: مكتبة رسومية .NET لرسم النصوص والأشكال الهندسية والصور، لاستبدال حزمة System.Drawing.Common مباشرة دون تغيير كود C# الحالي.
 ---
 
@@ -58,7 +58,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
    </header>
    <ul>
     <li>
-     مصفوفة
+     Matrix
     </li>
     <li>
      العالمية والمحلية
@@ -99,7 +99,7 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
      الحواف
     </li>
     <li>
-     لقطة
+     Clipping
     </li>
     <li>
      مزج ألفا
@@ -259,63 +259,83 @@ description: مكتبة رسومية .NET لرسم النصوص والأشكال
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     رسم الخطوط والمنحنيات والخطوط والأقواس
+    <a href="lines/">رسم خطوط, </a>
+    <a href="curves/">منحنيات, </a>
+    <a href="spline/">الخطوط, </a>
+    <a href="arcs/">أقواس, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ارسم أشكالًا مثل المستطيل والمضلع والقطع الناقص وما إلى ذلك
+رسم الأشكال مثل 
+    <a href="rectangle/">المستطيل، </a>
+    <a href="polygon/">مضلع, </a>
+    <a href="ellipse/">القطع الناقص، </a>
+      إلخ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     معالجة ورسم مسارات الرسومات
+     عملية ورسم 
+<a href="paths/">مسارات الرسومات, </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     عرض النص بخطوط وأنماط مختلفة
+<a href="renderText/">عرض النص بخطوط وأنماط مختلفة</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استخدم عروض وأنماط مختلفة للقلم
+استخدم قلمًا مختلفًا 
+<a href="pen/widths/">الاعراض, </a>
+      و 
+<a href="pen/الأنماط/">الأنماط</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استخدم الفرش الصلبة والملمس والتدرج والفقس
+     يستخدم 
+<a href="brush/solid/">صلب، </a>
+نَسِيج، 
+<a href="brush/gradient/">التدرج, </a> 
+وفرش يفقس
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     يدعم مزج ألفا ومكافحة التعرج
+     يدعم 
+<a href="alphaBlending/">مزج ألفا </a>
+and 
+<a href="antiAliasing/">مكافحة التعرج</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     العمل مع مناطق المقطع
+<a href="clipping/">العمل مع مناطق المقطع</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     استخدم تحويلات نظام الإحداثيات
+     استخدام نظام الإحداثيات 
+<a href="التحولات/matrix/">التحولات</a>
+
     </p>
    </div>
    

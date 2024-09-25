@@ -1,7 +1,7 @@
 ---
 title: Aspose.Drawing สำหรับ .NET | การเปลี่ยน System.Drawing.Common ข้ามแพลตฟอร์ม 
 weight: 20
-url: /th/net/ 
+url: /th/net/
 description: ไลบรารีกราฟิก .NET สำหรับการวาดข้อความ เรขาคณิต และรูปภาพ เพื่อแทนที่แพ็คเกจ System.Drawing.Common โดยตรงโดยไม่ต้องเปลี่ยนโค้ด C# ที่มีอยู่
 ---
 
@@ -58,7 +58,7 @@ description: ไลบรารีกราฟิก .NET สำหรับก�
    </header>
    <ul>
     <li>
-     เมทริกซ์
+     Matrix
     </li>
     <li>
      ระดับโลกและระดับท้องถิ่น
@@ -99,7 +99,7 @@ description: ไลบรารีกราฟิก .NET สำหรับก�
      การลดรอยหยัก
     </li>
     <li>
-     การตัด
+     Clipping
     </li>
     <li>
      การผสมอัลฟ่า
@@ -259,63 +259,83 @@ description: ไลบรารีกราฟิก .NET สำหรับก�
     <em class="fa fa-pencil-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     วาดเส้น เส้นโค้ง เส้นโค้ง และส่วนโค้ง
+    <a href="lines/">วาดเส้น </a>
+    <a href="curves/">เส้นโค้ง, </a>
+    <a href="spline/">เส้นโค้ง, </a>
+    <a href="arcs/">ส่วนโค้ง </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     วาดรูปทรงต่างๆ เช่น สี่เหลี่ยม รูปหลายเหลี่ยม วงรี ฯลฯ
+วาดรูปทรงต่างๆ เช่น 
+    <a href="rectangle/">สี่เหลี่ยมผืนผ้า, </a>
+    <a href="polygon/">รูปหลายเหลี่ยม, </a>
+    <a href="ellipse/">วงรี, </a>
+      ฯลฯ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ประมวลผลและวาดเส้นทางกราฟิก
+     ดำเนินการและวาด 
+<a href="paths/">เส้นทางกราฟิก </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-font ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     แสดงข้อความด้วยแบบอักษรและสไตล์ที่แตกต่างกัน
+<a href="renderText/">แสดงข้อความด้วยแบบอักษรและสไตล์ที่แตกต่างกัน</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ใช้ความกว้างและสไตล์ปากกาที่แตกต่างกัน
+ใช้ปากกาอื่น 
+<a href="pen/widths/">ความกว้าง </a>
+      และ 
+<a href="pen/สไตล์/">สไตล์</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paint-brush ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ใช้แปรงทึบ พื้นผิว การไล่ระดับสี และฟักไข่
+     ใช้ 
+<a href="brush/solid/">แข็ง, </a>
+เนื้อสัมผัส, 
+<a href="brush/gradient/">การไล่ระดับสี, </a> 
+และแปรงฟักไข่
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     รองรับการผสมอัลฟ่าและการต่อต้านนามแฝง
+     รองรับ 
+<a href="alphaBlending/">การผสมอัลฟ่า </a>
+and 
+<a href="antiAliasing/">ต่อต้านนามแฝง</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ทำงานกับขอบเขตคลิป
+<a href="clipping/">ทำงานกับขอบเขตคลิป</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ใช้การแปลงระบบพิกัด
+     ใช้ระบบพิกัด 
+<a href="การเปลี่ยนแปลง/matrix/">การเปลี่ยนแปลง</a>
+
     </p>
    </div>
    

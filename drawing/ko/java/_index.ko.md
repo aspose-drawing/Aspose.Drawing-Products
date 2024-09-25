@@ -3,7 +3,7 @@ title: Java용 Aspose.Drawing | 크로스 플랫폼 그래픽 라이브러리
 weight: 20
 url: /ko/java/ 
 description: 텍스트, 곡선, 선, 그림 및 이미지를 그리기 위한 Java 그래픽 라이브러리입니다.
-keywords: Java API, Java library, Graphic Library, drawing text, drawing curves, drawing lines, drawing figures, vector graphics, cross-platform graphics
+keywords: Java API, Java library, Graphic Library, drawing text, drawing 곡선, drawing lines, drawing figures, vector graphics, cross-platform graphics
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
    </header>
    <ul>
     <li>
-     행렬
+     Matrix
     </li>
     <li>
      글로벌 및 로컬
@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curves,
      안티 앨리어싱
     </li>
     <li>
-     깎는
+     Clipping
     </li>
     <li>
      알파 블렌딩

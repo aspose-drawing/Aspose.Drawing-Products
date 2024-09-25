@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing кри�
    </header>
    <ul>
     <li>
-     Матричные операции
+     Matrix
     </li>
     <li>
      Глобальный и локальный

@@ -58,7 +58,7 @@ description: मौजूदा C# कोड को बदले बिना �
    </header>
    <ul>
     <li>
-     आव्यूह
+     Matrix
     </li>
     <li>
      वैश्विक और स्थानीय

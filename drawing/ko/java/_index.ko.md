@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 곡선,
    </header>
    <ul>
     <li>
-     행렬
+     Matrix
     </li>
     <li>
      글로벌 및 로컬

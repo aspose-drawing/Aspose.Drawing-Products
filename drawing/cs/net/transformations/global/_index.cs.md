@@ -90,7 +90,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matice" description="Obrázek přenosné síťové grafiky transformovaný maticí" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Obrázek přenosné síťové grafiky transformovaný maticí" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Globálně transformovaný obrázek přenosné síťové grafiky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Místní" description="Místní transformovaný obrázek Přenosná síťová grafika" >}}
 

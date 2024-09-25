@@ -58,7 +58,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Realizar transformación matricial a archivo de imagen - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatriz.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matriz" description="Imagen de gráficos de red portátiles transformada en matriz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Imagen de gráficos de red portátiles transformada en matriz" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Imagen de gráficos de red portátiles transformada globalmente" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Imagen de gráficos de red portátiles transformada localmente" >}}
 

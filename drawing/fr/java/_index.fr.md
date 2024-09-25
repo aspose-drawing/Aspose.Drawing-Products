@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing les cou
    </header>
    <ul>
     <li>
-     Matrice
+     Matrix
     </li>
     <li>
      Mondial et local

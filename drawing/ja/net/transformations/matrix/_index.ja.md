@@ -58,7 +58,7 @@ Aspose.Drawing および .NET は、すべての主要なオペレーティン�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="画像ファイルへの行列変換 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformationマトリックス.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="マトリックス" description="マトリックスに変換されたポータブル ネットワーク グラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="マトリックスに変換されたポータブル ネットワーク グラフィックス画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="世界的に変革されたポータブル ネットワーク グラフィックスの画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="地元" description="ローカルに変換されたポータブル ネットワーク グラフィックス画像" >}}
 

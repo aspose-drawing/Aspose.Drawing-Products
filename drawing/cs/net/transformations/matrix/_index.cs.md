@@ -58,7 +58,7 @@ Aspose.Drawing pro .NET je podporován na všech hlavních operačních systéme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Proveďte transformaci matice na soubor obrázku - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatice.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Kreslicí modul v Aspose.Drawing umožňuje uživatelům vykreslovat vektorovou 
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matice" description="Obrázek přenosné síťové grafiky transformovaný maticí" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Obrázek přenosné síťové grafiky transformovaný maticí" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Globálně transformovaný obrázek přenosné síťové grafiky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Místní" description="Místní transformovaný obrázek Přenosná síťová grafika" >}}
 

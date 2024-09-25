@@ -58,7 +58,7 @@ description: Bibliothèque graphique .NET pour dessiner du texte, des géométri
    </header>
    <ul>
     <li>
-     Matrice
+     Matrix
     </li>
     <li>
      Mondial et local

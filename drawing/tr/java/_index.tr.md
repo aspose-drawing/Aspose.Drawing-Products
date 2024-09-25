@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing eğrile
    </header>
    <ul>
     <li>
-     Matris
+     Matrix
     </li>
     <li>
      Küresel ve Yerel

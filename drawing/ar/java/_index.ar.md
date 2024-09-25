@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing منح�
    </header>
    <ul>
     <li>
-     مصفوفة
+     Matrix
     </li>
     <li>
      العالمية والمحلية

@@ -90,7 +90,7 @@ Aspose.Drawing 中的绘图引擎使用户能够渲染矢量图形，包括直�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="矩阵" description="矩阵变换的便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="矩阵变换的便携式网络图形图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="全球改造便携式网络图形图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="当地的" description="本地转化的便携式网络图形图片" >}}
 

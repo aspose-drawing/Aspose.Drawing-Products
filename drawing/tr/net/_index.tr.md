@@ -58,7 +58,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
    </header>
    <ul>
     <li>
-     Matris
+     Matrix
     </li>
     <li>
      Küresel ve Yerel

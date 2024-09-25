@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing křivky
    </header>
    <ul>
     <li>
-     Matice
+     Matrix
     </li>
     <li>
      Globální a místní

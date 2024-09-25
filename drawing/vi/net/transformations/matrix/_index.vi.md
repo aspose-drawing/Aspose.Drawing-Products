@@ -58,7 +58,7 @@ Aspose.Drawing cho .NET được hỗ trợ trên tất cả các hệ điều h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Thực hiện chuyển đổi ma trận thành File hình ảnh - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMa trận.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Ma trận" description="Hình ảnh đồ họa mạng di động được chuyển đổi ma trận" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Hình ảnh đồ họa mạng di động được chuyển đổi ma trận" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Hình ảnh đồ họa mạng di động được chuyển đổi toàn cầu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Địa phương" description="Hình ảnh đồ họa mạng di động được chuyển đổi cục bộ" >}}
 

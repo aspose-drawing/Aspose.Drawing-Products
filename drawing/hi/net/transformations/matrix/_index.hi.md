@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="छवि फ़ाइल - C# में मैट्रिक्स परिवर्तन करें" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformationआव्यूह.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing के भीतर ड्राइंग इंजन उपय�
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="आव्यूह" description="मैट्रिक्स ने पोर्टेबल नेटवर्क ग्राफ़िक्स पिक्चर को रूपांतरित कर दिया" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="मैट्रिक्स ने पोर्टेबल नेटवर्क ग्राफ़िक्स पिक्चर को रूपांतरित कर दिया" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="वैश्विक रूपांतरित पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="स्थानीय" description="स्थानीय रूपांतरित पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 

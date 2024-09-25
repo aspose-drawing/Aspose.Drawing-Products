@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing वक�
    </header>
    <ul>
     <li>
-     आव्यूह
+     Matrix
     </li>
     <li>
      वैश्विक और स्थानीय

@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing görbé
    </header>
    <ul>
     <li>
-     Mátrix
+     Matrix
     </li>
     <li>
      Globális és lokális

@@ -58,7 +58,7 @@ Aspose.Drawing för .NET stöds på alla större operativsystem. Se bara till at
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Gör matristransformation till bildfil - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatris.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matris" description="Matris transformerad Bärbar nätverksgrafik Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matrix transformerad Bärbar nätverksgrafik Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Global transformerad Bärbar nätverksgrafik Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokal" description="Lokal transformerad portabel nätverksgrafikbild" >}}
 

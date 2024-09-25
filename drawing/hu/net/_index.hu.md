@@ -58,7 +58,7 @@ description: .NET grafikus könyvtár szövegek, geometriák és képek rajzolá
    </header>
    <ul>
     <li>
-     Mátrix
+     Matrix
     </li>
     <li>
      Globális és lokális

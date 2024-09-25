@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing เส�
    </header>
    <ul>
     <li>
-     เมทริกซ์
+     Matrix
     </li>
     <li>
      ระดับโลกและระดับท้องถิ่น

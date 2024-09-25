@@ -58,7 +58,7 @@ description: 기존 C# 코드를 변경하지 않고 System.Drawing.Common 패�
    </header>
    <ul>
     <li>
-     행렬
+     Matrix
     </li>
     <li>
      글로벌 및 로컬

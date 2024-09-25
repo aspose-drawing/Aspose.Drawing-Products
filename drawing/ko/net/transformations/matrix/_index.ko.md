@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="이미지 파일로 행렬 변환 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformation행렬.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크�
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="행렬" description="매트릭스로 변환된 휴대용 네트워크 그래픽 사진" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="매트릭스로 변환된 휴대용 네트워크 그래픽 사진" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="글로벌하게 변화된 휴대용 네트워크 그래픽 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="현지의" description="로컬 변환된 휴대용 네트워크 그래픽 그림" >}}
 

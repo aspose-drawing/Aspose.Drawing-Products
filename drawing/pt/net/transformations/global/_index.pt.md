@@ -90,7 +90,7 @@ O mecanismo de desenho do Aspose.Drawing permite aos usuários renderizar gráfi
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matriz" description="Imagem gráfica de rede portátil transformada em matriz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Imagem gráfica de rede portátil transformada em matriz" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Imagem gráfica de rede portátil transformada globalmente" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Imagem gráfica de rede portátil transformada local" >}}
 

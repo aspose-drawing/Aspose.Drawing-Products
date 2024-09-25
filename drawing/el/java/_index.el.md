@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing καμ�
    </header>
    <ul>
     <li>
-     Μήτρα
+     Matrix
     </li>
     <li>
      Παγκόσμια και Τοπική

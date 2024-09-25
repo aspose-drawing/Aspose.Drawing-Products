@@ -58,7 +58,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
    </header>
    <ul>
     <li>
-     Matris
+     Matrix
     </li>
     <li>
      Globalt och lokalt

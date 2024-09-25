@@ -58,7 +58,7 @@ description: Grafická knihovna .NET pro kreslení textu, geometrií a obrázků
    </header>
    <ul>
     <li>
-     Matice
+     Matrix
     </li>
     <li>
      Globální a místní

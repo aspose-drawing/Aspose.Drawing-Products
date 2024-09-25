@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Πραγματοποιήστε μετασχηματισμό μήτρας σε Αρχείο εικόνας - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationΜήτρα.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationMatrix.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ PM> Install-Package Aspose.Drawing
 <!-- aboutfile Ends -->
 
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Μήτρα" description="Φορητή εικόνα γραφικών δικτύου με μετασχηματισμένη μήτρα" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Φορητή εικόνα γραφικών δικτύου με μετασχηματισμένη μήτρα" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Παγκόσμια μεταμορφωμένη εικόνα φορητών γραφικών δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Τοπικός" description="Εικόνα γραφικών φορητών δικτύων που έχει μετατραπεί σε τοπικό επίπεδο" >}}
 

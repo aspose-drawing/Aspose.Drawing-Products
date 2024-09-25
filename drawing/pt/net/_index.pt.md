@@ -58,7 +58,7 @@ description: Biblioteca gráfica .NET para desenho de texto, geometrias e imagen
    </header>
    <ul>
     <li>
-     Matriz
+     Matrix
     </li>
     <li>
      Global e Local

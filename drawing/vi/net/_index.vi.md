@@ -58,7 +58,7 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
    </header>
    <ul>
     <li>
-     Ma trận
+     Matrix
     </li>
     <li>
      Toàn cầu và địa phương

@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 曲線�
    </header>
    <ul>
     <li>
-     矩陣
+     Matrix
     </li>
     <li>
      全球和本地

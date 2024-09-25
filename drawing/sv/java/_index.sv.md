@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing kurvor,
    </header>
    <ul>
     <li>
-     Matris
+     Matrix
     </li>
     <li>
      Globalt och lokalt

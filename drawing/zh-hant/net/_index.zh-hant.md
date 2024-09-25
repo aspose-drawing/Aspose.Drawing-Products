@@ -58,7 +58,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
    </header>
    <ul>
     <li>
-     矩陣
+     Matrix
     </li>
     <li>
      全球和本地

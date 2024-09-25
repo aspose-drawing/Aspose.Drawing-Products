@@ -90,7 +90,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matriz" description="Imagen de gráficos de red portátiles transformada en matriz" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Imagen de gráficos de red portátiles transformada en matriz" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Imagen de gráficos de red portátiles transformada globalmente" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Imagen de gráficos de red portátiles transformada localmente" >}}
 

@@ -58,7 +58,7 @@ description: テキスト、ジオメトリ、およびイメージを描画す�
    </header>
    <ul>
     <li>
-     マトリックス
+     Matrix
     </li>
     <li>
      グローバルとローカル

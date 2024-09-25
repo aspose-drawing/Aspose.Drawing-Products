@@ -90,7 +90,7 @@ Aspose.Drawing 中的繪圖引擎使用戶能夠渲染向量圖形，包括直�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="矩陣" description="矩陣變換的手提網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="矩陣變換的手提網路圖形圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="全球改造便攜式網路圖形圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="當地的" description="本地轉換的手提網路圖形圖片" >}}
 

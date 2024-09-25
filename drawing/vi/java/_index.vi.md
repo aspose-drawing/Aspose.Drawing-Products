@@ -144,7 +144,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing đườ
    </header>
    <ul>
     <li>
-     Ma trận
+     Matrix
     </li>
     <li>
      Toàn cầu và địa phương

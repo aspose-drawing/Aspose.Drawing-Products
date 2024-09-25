@@ -58,7 +58,7 @@ description: Pustaka grafis .NET untuk menggambar teks, geometri, dan gambar, un
    </header>
    <ul>
     <li>
-     Matriks
+     Matrix
     </li>
     <li>
      Global dan Lokal

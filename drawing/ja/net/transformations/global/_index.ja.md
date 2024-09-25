@@ -90,7 +90,7 @@ Aspose.Drawing 内の描画エンジンにより、ユーザーは線、曲線�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="マトリックス" description="マトリックスに変換されたポータブル ネットワーク グラフィックス画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="マトリックスに変換されたポータブル ネットワーク グラフィックス画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="世界的に変革されたポータブル ネットワーク グラフィックスの画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="地元" description="ローカルに変換されたポータブル ネットワーク グラフィックス画像" >}}
 

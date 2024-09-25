@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="對影像檔案進行全域轉換 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformation全球的.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationGlobal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing 中的繪圖引擎使用戶能夠渲染向量圖形，包括直�
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="矩陣" description="矩陣變換的手提網路圖形圖片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="全球的" description="全球改造便攜式網路圖形圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="全球改造便攜式網路圖形圖片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="當地的" description="本地轉換的手提網路圖形圖片" >}}
 
 

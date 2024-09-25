@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="对图像文件进行全局转换 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformation全球的.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationGlobal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing 中的绘图引擎使用户能够渲染矢量图形，包括直�
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="矩阵" description="矩阵变换的便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="全球的" description="全球改造便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="全球改造便携式网络图形图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="当地的" description="本地转化的便携式网络图形图片" >}}
 
 

@@ -92,7 +92,7 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Матричные операции" description="Преобразованная матрица изображения портативной сетевой графики" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Глобальный" description="Глобальное преобразованное изображение портативной сетевой графики" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Глобальное преобразованное изображение портативной сетевой графики" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Местный" description="Локальное преобразованное изображение портативной сетевой графики" >}}
 
 {{< /blocks/products/pf/main-container >}}

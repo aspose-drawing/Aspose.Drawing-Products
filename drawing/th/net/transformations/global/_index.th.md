@@ -58,7 +58,7 @@ Aspose.Drawing สำหรับ .NET รองรับระบบปฏิ�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="ทำการเปลี่ยนแปลงทั่วโลกเป็นไฟล์รูปภาพ - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformationทั่วโลก.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationGlobal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing ไลบรารีกราฟิก 2D ข้ามแพล�
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="เมทริกซ์" description="เมทริกซ์ แปลงรูปภาพกราฟิกเครือข่ายแบบพกพา" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="ทั่วโลก" description="ภาพกราฟิกเครือข่ายแบบพกพาที่เปลี่ยนแปลงไปทั่วโลก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="ภาพกราฟิกเครือข่ายแบบพกพาที่เปลี่ยนแปลงไปทั่วโลก" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="ท้องถิ่น" description="รูปภาพกราฟิกเครือข่ายแบบพกพาที่แปลงท้องถิ่น" >}}
 
 

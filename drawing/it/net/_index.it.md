@@ -61,7 +61,7 @@ description: Libreria grafica .NET per disegnare testo, geometrie e immagini, pe
      Matrice
     </li>
     <li>
-     Globalee e locale
+     Globale e locale
     </li>
    </ul>
   </div>

@@ -91,7 +91,7 @@ Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des g
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrice" description="Image graphique réseau portable transformée par matrice" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Mondial" description="Image graphique de réseau portable transformée à l’échelle mondiale" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Image graphique de réseau portable transformée à l’échelle mondiale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Locale" description="Image graphique de réseau portable transformée localement" >}}
 
 

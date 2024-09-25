@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="قم بإجراء تحويل عالمي إلى ملف الصورة - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Transformationعالمي.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationGlobal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Aspose.Drawing، مكتبة رسومية ثنائية الأبعاد مُدار�
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="مصفوفة" description="قامت المصفوفة بتحويل صورة رسومات الشبكة المحمولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="عالمي" description="صورة رسومات الشبكة المحمولة المحولة عالميًا" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="صورة رسومات الشبكة المحمولة المحولة عالميًا" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="محلي" description="صورة رسومات الشبكة المحمولة المحولة محليًا" >}}
 
 

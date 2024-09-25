@@ -92,7 +92,7 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matris" description="Matris, Taşınabilir Ağ Grafik Resmini Dönüştürdü" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Küresel" description="Küresel olarak dönüştürülmüş Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Küresel olarak dönüştürülmüş Taşınabilir Ağ Grafikleri Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Yerel" description="Yerel dönüştürülmüş Taşınabilir Ağ Grafikleri Resmi" >}}
 
 {{< /blocks/products/pf/main-container >}}

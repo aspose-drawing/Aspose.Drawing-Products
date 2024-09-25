@@ -92,7 +92,7 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matryca" description="Matryca przekształcił obraz przenośnej grafiki sieciowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Światowy" description="Światowynie przekształcony obraz przenośnej grafiki sieciowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Globalnie przekształcony obraz przenośnej grafiki sieciowej" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokalny" description="Lokalnie przekształcony obraz grafiki przenośnej sieci" >}}
 
 {{< /blocks/products/pf/main-container >}}

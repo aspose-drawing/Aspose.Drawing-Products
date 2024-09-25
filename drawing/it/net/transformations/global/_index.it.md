@@ -58,7 +58,7 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Effettua la trasformazione globale in File immagine - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationGlobale.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationGlobal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -91,7 +91,7 @@ Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rende
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrice" description="Matrice ha trasformato l'immagine della grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Globale" description="Immagine grafica di rete portatile trasformata a livello globale" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Immagine grafica di rete portatile trasformata a livello globale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Locale" description="Immagine di grafica di rete portatile trasformata locale" >}}
 
 

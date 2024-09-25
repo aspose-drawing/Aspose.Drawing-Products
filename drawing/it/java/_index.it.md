@@ -147,7 +147,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing curve, 
      Matrice
     </li>
     <li>
-     Globalee e locale
+     Globale e locale
     </li>
    </ul>
   </div>

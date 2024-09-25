@@ -91,7 +91,7 @@ Aspose.Drawing의 드로잉 엔진을 통해 사용자는 다양한 글꼴, 크�
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="행렬" description="매트릭스로 변환된 휴대용 네트워크 그래픽 사진" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="글로벌" description="글로벌하게 변화된 휴대용 네트워크 그래픽 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="글로벌하게 변화된 휴대용 네트워크 그래픽 그림" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="현지의" description="로컬 변환된 휴대용 네트워크 그래픽 그림" >}}
 
 

@@ -92,7 +92,7 @@ Aspose.Drawing، مكتبة رسومية ثنائية الأبعاد مُدار�
 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="مصفوفة" description="قامت المصفوفة بتحويل صورة رسومات الشبكة المحمولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="عالمي" description="صورة رسومات الشبكة المحمولة المحولة عالميًا" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="صورة رسومات الشبكة المحمولة المحولة عالميًا" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="محلي" description="صورة رسومات الشبكة المحمولة المحولة محليًا" >}}
 
 {{< /blocks/products/pf/main-container >}}

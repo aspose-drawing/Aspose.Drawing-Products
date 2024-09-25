@@ -92,7 +92,7 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matrixtransformiertes tragbares Netzwerkgrafikbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Global transformiertes tragbares Netzwerkgrafikbild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokal" description="Lokal transformiertes tragbares Netzwerkgrafikbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Lokal transformiertes tragbares Netzwerkgrafikbild" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

@@ -58,7 +58,7 @@ Aspose.Drawing für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Führen Sie eine lokale Transformation in eine Bilddatei durch – C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationLokal.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationLocal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -92,7 +92,7 @@ Die Zeichen-Engine in Aspose.Drawing ermöglicht Benutzern das Rendern von Vekto
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matrixtransformiertes tragbares Netzwerkgrafikbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Global transformiertes tragbares Netzwerkgrafikbild" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokal" description="Lokal transformiertes tragbares Netzwerkgrafikbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Lokal transformiertes tragbares Netzwerkgrafikbild" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

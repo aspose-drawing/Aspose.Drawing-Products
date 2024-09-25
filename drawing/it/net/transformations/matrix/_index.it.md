@@ -93,7 +93,7 @@ Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rende
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matrix ha trasformato l'immagine della grafica di rete portatile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Immagine grafica di rete portatile trasformata a livello globale" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Locale" description="Immagine di grafica di rete portatile trasformata locale" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Immagine di grafica di rete portatile trasformata locale" >}}
 
 {{< /blocks/products/pf/main-container >}}
 

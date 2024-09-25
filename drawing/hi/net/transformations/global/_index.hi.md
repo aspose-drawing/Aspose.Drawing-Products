@@ -92,7 +92,7 @@ Aspose.Drawing के भीतर ड्राइंग इंजन उपय�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="मैट्रिक्स ने पोर्टेबल नेटवर्क ग्राफ़िक्स पिक्चर को रूपांतरित कर दिया" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="वैश्विक रूपांतरित पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="स्थानीय" description="स्थानीय रूपांतरित पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="स्थानीय रूपांतरित पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

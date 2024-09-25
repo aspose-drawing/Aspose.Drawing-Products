@@ -37,7 +37,7 @@ Vous avez besoin du [aspose.drawing.dll](https://downloads.aspose.com/drawing/ne
 
 + Créez un objet bitmap à l'aide de la classe Bitmap.
 + Créez un objet graphique à l'aide de la méthode Graphics.FromImage().
-+ Localeisez la zone à transformer.
++ Localisez la zone à transformer.
 + Appliquer les opérations de transformation.
 + Enregistrez le bitmap créé au format d'image png.
 
@@ -92,7 +92,7 @@ Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des g
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Image graphique réseau portable transformée par matrice" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Image graphique de réseau portable transformée à l’échelle mondiale" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Locale" description="Image graphique de réseau portable transformée localement" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Image graphique de réseau portable transformée localement" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

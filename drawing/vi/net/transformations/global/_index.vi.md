@@ -92,7 +92,7 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Hình ảnh đồ họa mạng di động được chuyển đổi ma trận" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Hình ảnh đồ họa mạng di động được chuyển đổi toàn cầu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Địa phương" description="Hình ảnh đồ họa mạng di động được chuyển đổi cục bộ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Hình ảnh đồ họa mạng di động được chuyển đổi cục bộ" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

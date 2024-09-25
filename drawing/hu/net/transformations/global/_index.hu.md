@@ -92,7 +92,7 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Mátrix átalakított hordozható hálózati grafikus kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Globálisan átalakított hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Helyi" description="Helyi átalakított hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Helyi átalakított hordozható hálózati grafikus kép" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

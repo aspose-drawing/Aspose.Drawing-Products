@@ -92,7 +92,7 @@ Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik ve
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matriks mengubah Gambar Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Gambar Grafik Jaringan Portabel yang diubah secara global" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokal" description="Gambar Grafik Jaringan Portabel yang diubah secara lokal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Gambar Grafik Jaringan Portabel yang diubah secara lokal" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

@@ -93,7 +93,7 @@ Ritmotorn inom Aspose.Drawing ger användare möjlighet att återge vektorgrafik
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matrix transformerad Bärbar nätverksgrafik Picture" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Global transformerad Bärbar nätverksgrafik Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokal" description="Lokal transformerad portabel nätverksgrafikbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Lokal transformerad portabel nätverksgrafikbild" >}}
 
 {{< /blocks/products/pf/main-container >}}
 

@@ -58,7 +58,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Voer een lokale transformatie uit naar Afbeeldingsbestand - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationLokaal.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationLocal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -92,7 +92,7 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matrix getransformeerd draagbaar netwerk grafisch beeld" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Wereldwijd getransformeerd draagbaar netwerk grafisch beeld" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokaal" description="Lokaal getransformeerd draagbaar netwerk grafisch beeld" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Lokaal getransformeerd draagbaar netwerk grafisch beeld" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

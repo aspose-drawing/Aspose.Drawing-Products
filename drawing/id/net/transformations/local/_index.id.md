@@ -58,7 +58,7 @@ Aspose.Drawing untuk .NET didukung di semua sistem operasi utama. Pastikan Anda 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Lakukan transformasi lokal ke File Gambar - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationLokal.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-TransformationLocal.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -92,7 +92,7 @@ Mesin gambar dalam Aspose.Drawing memberdayakan pengguna untuk membuat grafik ve
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/matrix/" name="Matrix" description="Matriks mengubah Gambar Grafik Jaringan Portabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/global/" name="Global" description="Gambar Grafik Jaringan Portabel yang diubah secara global" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Lokal" description="Gambar Grafik Jaringan Portabel yang diubah secara lokal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/transformation/local/" name="Local" description="Gambar Grafik Jaringan Portabel yang diubah secara lokal" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

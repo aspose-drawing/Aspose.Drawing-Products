@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing đườ
      Khử răng cưa
     </li>
     <li>
-     Cắt
+     Clipping
     </li>
     <li>
      Pha trộn alpha

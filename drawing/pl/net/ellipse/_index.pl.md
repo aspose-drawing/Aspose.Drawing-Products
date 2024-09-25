@@ -7,7 +7,7 @@ Keywords: create Elipsa via C#, 2D graphics, drawing API, create bitmap C#, Draw
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu elipsy za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania, korzystając z plików obrazów Elipsa" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik obrazu elipsy za pomocą C#" h2="Twórz własne aplikacje dla .NET do rysowania, korzystając z plików obrazów Ellipse" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="dla .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="dla .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing dla .NET jest obsługiwany we wszystkich głównych systemach ope
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Utwórz plik obrazu elipsy — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawElipsa.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nie trzeba pisać żadnego kodu" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki i utwórz rysunek tekstowy w przeglądarce internetowej" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Elipsa" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj łącze do pobrania wynikowego pliku Ellipse" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane kształty" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elipsa" description="Obraz grafiki przenośnej sieci Elipsa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Obraz grafiki przenośnej sieci Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Prostokąt" description="Prostokątny obraz grafiki przenośnej sieci" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Wielokąt" description="Obraz grafiki wielokątnej przenośnej sieci" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Obraz grafiki wielokątnej przenośnej sieci" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

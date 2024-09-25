@@ -7,14 +7,14 @@ Keywords: create Knippen via C#, 2D graphics, drawing API, create bitmap C#, Dra
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Maak een clipping-afbeeldingsbestand via de C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Knippen-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Maak een clipping-afbeeldingsbestand via de C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Clipping-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Hoe u een clipping-imagebestand kunt maken met de C#" %}}
 
-Ontdek de eenvoud van het maken van Knippen-afbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Knippen-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Knippen-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Ontdek de eenvoud van het maken van Clipping-afbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Clipping-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Clipping-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -63,7 +63,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Maak een clipping-afbeeldingsbestand - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawKnippen.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawClipping.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -87,7 +87,7 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Knippen-bestand" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Clipping-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 

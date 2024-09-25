@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing kurvor,
      Kantutjämning
     </li>
     <li>
-     Klippning
+     Clipping
     </li>
     <li>
      Alfablandning

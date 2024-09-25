@@ -99,7 +99,7 @@ description: .NET grafische bibliotheek voor het tekenen van tekst, geometrieën
      Anti-aliasing
     </li>
     <li>
-     Knippen
+     Clipping
     </li>
     <li>
      Alfa-menging

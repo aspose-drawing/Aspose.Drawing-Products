@@ -7,7 +7,7 @@ Keywords: create วงรี via C#, 2D graphics, drawing API, create bitmap C#
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="สร้างไฟล์ภาพ วงรี ด้วย C#" h2="สร้างแอพพลิเคชั่น .NET ที่คุณกำหนดเองสำหรับการวาดภาพด้วยไฟล์ภาพ วงรี" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับ .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="สร้างไฟล์ภาพ วงรี ด้วย C#" h2="สร้างแอพพลิเคชั่น .NET ที่คุณกำหนดเองสำหรับการวาดภาพด้วยไฟล์ภาพ Ellipse" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="สำหรับ .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="สำหรับ .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing สำหรับ .NET รองรับระบบปฏิ�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="สร้างไฟล์ภาพวงรี - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawวงรี.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing ไลบรารีกราฟิก 2D ข้ามแพล�
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปร่างที่รองรับอื่นๆ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="วงรี" description="รูปภาพกราฟิกเครือข่ายแบบพกพา วงรี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="รูปภาพกราฟิกเครือข่ายแบบพกพา Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="สี่เหลี่ยมผืนผ้า" description="รูปภาพกราฟิกเครือข่ายแบบพกพาสี่เหลี่ยม" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="รูปหลายเหลี่ยม" description="รูปภาพกราฟิกเครือข่ายแบบพกพารูปหลายเหลี่ยม" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="รูปภาพกราฟิกเครือข่ายแบบพกพารูปหลายเหลี่ยม" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -99,7 +99,7 @@ description: .NET grafiskt bibliotek för att rita text, geometrier och bilder, 
      Kantutjämning
     </li>
     <li>
-     Klippning
+     Clipping
     </li>
     <li>
      Alfablandning

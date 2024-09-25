@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing ronding
      Anti-aliasing
     </li>
     <li>
-     Knippen
+     Clipping
     </li>
     <li>
      Alfa-menging

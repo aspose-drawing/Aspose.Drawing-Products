@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing เส�
      การลดรอยหยัก
     </li>
     <li>
-     การตัด
+     Clipping
     </li>
     <li>
      การผสมอัลฟ่า

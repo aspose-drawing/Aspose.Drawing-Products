@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="创建多边形图像文件 - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Draw多边形.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing 中的绘图引擎使用户能够渲染矢量图形，包括直�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的形状" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="椭圆" description="椭圆便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="椭圆便携式网络图形图片" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="长方形" description="矩形便携式网络图形图片" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="多边形" description="多边形便携式网络图形图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="多边形便携式网络图形图片" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

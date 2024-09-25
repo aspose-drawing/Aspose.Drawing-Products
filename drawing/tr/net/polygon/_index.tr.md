@@ -7,7 +7,7 @@ Keywords: create Çokgen via C#, 2D graphics, drawing API, create bitmap C#, Dra
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C# aracılığıyla Poligon görüntü dosyası oluşturun" h2="Çokgen görüntü dosyalarıyla çizim yapmak için özel .NET uygulamalarınızı oluşturun" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C# aracılığıyla Poligon görüntü dosyası oluşturun" h2="Polygon görüntü dosyalarıyla çizim yapmak için özel .NET uygulamalarınızı oluşturun" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName=".NET için" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName=".NET için" >}}
 
@@ -58,7 +58,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Çokgen Görüntü Dosyası Oluşturun - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawÇokgen.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Şekiller" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elips" description="Elips Taşınabilir Ağ Grafiği Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Elips Taşınabilir Ağ Grafiği Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Dikdörtgen" description="Dikdörtgen Taşınabilir Ağ Grafiği Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Çokgen" description="Çokgen Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon Taşınabilir Ağ Grafikleri Resmi" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

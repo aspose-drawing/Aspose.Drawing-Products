@@ -58,7 +58,7 @@ Aşağıdaki iş akışını kendi ortamınızda denemek için [aspose.drawing.d
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Elips Görüntü Dosyası Oluştur - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawElips.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Şekiller" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elips" description="Elips Taşınabilir Ağ Grafiği Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Elips Taşınabilir Ağ Grafiği Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Dikdörtgen" description="Dikdörtgen Taşınabilir Ağ Grafiği Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Çokgen" description="Çokgen Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon Taşınabilir Ağ Grafikleri Resmi" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

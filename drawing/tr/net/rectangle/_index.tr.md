@@ -93,9 +93,9 @@ Aspose.Drawing'ün içindeki çizim motoru, kullanıcılara çeşitli yazı tipl
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Şekiller" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elips" description="Elips Taşınabilir Ağ Grafiği Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Elips Taşınabilir Ağ Grafiği Resmi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Dikdörtgen" description="Dikdörtgen Taşınabilir Ağ Grafiği Resmi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Çokgen" description="Çokgen Taşınabilir Ağ Grafikleri Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon Taşınabilir Ağ Grafikleri Resmi" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -99,7 +99,7 @@ description: Biblioteka graficzna .NET do rysowania tekstu, geometrii i obrazów
      Wygładzanie krawędzi
     </li>
     <li>
-     Obrzynek
+     Clipping
     </li>
     <li>
      Mieszanie alfa

@@ -1,20 +1,20 @@
 ---
-title: Maak een Ellips-afbeeldingsbestand via de .NET
+title: Maak een Ellipse-afbeeldingsbestand via de .NET
 weight: 20
 url: /nl/net/ellipse/
-description: Maak een Ellips-afbeeldingsbestand via de .NET.
+description: Maak een Ellipse-afbeeldingsbestand via de .NET.
 Keywords: create Ellips via C#, 2D graphics, drawing API, create bitmap C#, Drawing voor .NET, save bitmap, save Ellips image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Ellips image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Maak een Ellips-afbeeldingsbestand via de C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Ellips-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Maak een Ellipse-afbeeldingsbestand via de C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Ellipse-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Hoe u een ellipsbeeldbestand kunt maken met de C#" %}}
 
-Ontdek de eenvoud van het maken van Ellips-afbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Ellips-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Ellips-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Ontdek de eenvoud van het maken van Ellipse-afbeeldingsbestanden met de C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Ellipse-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Ellipse-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Maak een ellipsbeeldbestand - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllips.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,12 +77,12 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Verwerk Ellips via de gratis online app" sectionDescription="Maak Ellips-afbeeldingen en voeg tekst toe aan afbeeldingen door naar onze [Live Demos-website](https://products.aspose.app/drawing) te gaan. De live demo heeft de volgende voordelen:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Verwerk Ellips via de gratis online app" sectionDescription="Maak Ellipse-afbeeldingen en voeg tekst toe aan afbeeldingen door naar onze [Live Demos-website](https://products.aspose.app/drawing) te gaan. De live demo heeft de volgende voordelen:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Ellips-bestand" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Ellipse-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde vormen" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellips" description="Ellips draagbare netwerk grafische afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse draagbare netwerk grafische afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rechthoek" description="Rechthoek draagbare netwerk grafische afbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Veelhoek" description="Veelhoek draagbaar netwerk grafisch beeld" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Veelhoek draagbaar netwerk grafisch beeld" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Drawing
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="बहुभुज छवि फ़ाइल बनाएँ - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawबहुभुज.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -95,7 +95,7 @@ Aspose.Drawing के भीतर ड्राइंग इंजन उपय�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="एलिप्से पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="आयत" description="आयत पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="बहुभुज" description="बहुभुज पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="बहुभुज पोर्टेबल नेटवर्क ग्राफ़िक्स चित्र" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

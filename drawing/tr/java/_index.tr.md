@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing eğrile
      Kenar yumuşatma
     </li>
     <li>
-     Kırpma
+     Clipping
     </li>
     <li>
      Alfa harmanlama

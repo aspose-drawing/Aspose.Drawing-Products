@@ -99,7 +99,7 @@ description: .NET图形库，用于绘制文本、几何图形和图像，可直
      抗锯齿
     </li>
     <li>
-     剪裁
+     Clipping
     </li>
     <li>
      阿尔法混合

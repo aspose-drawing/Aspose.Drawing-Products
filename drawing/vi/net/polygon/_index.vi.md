@@ -58,7 +58,7 @@ Aspose.Drawing cho .NET được hỗ trợ trên tất cả các hệ điều h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tạo File Hình Đa Giác - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawĐa giác.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 
 {{< blocks/products/pf/agp/other-supported-section title="Các hình dạng được hỗ trợ khác" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="hình elip" description="Hình ảnh đồ họa mạng di động hình elip" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Hình ảnh đồ họa mạng di động Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Hình chữ nhật" description="Hình ảnh đồ họa mạng di động hình chữ nhật" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Đa giác" description="Hình ảnh đồ họa mạng di động đa giác" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Hình ảnh đồ họa mạng di động đa giác" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

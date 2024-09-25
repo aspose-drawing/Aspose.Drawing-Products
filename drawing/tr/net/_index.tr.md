@@ -99,7 +99,7 @@ description: Mevcut C# kodunu değiştirmeden System.Drawing.Common paketini do�
      Kenar yumuşatma
     </li>
     <li>
-     Kırpma
+     Clipping
     </li>
     <li>
      Alfa harmanlama

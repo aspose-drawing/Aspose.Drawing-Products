@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing 曲线�
      抗锯齿
     </li>
     <li>
-     剪裁
+     Clipping
     </li>
     <li>
      阿尔法混合

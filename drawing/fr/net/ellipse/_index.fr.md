@@ -95,7 +95,7 @@ Le moteur de dessin du Aspose.Drawing permet aux utilisateurs de restituer des g
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Image graphique réseau portable Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectangle" description="Image graphique réseau portable rectangulaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygone" description="Image graphique de réseau portable Polygone" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Image graphique de réseau portable Polygon" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

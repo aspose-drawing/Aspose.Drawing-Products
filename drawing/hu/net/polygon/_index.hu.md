@@ -58,7 +58,7 @@ A Aspose.Drawing .NET-hez minden nagyobb operációs rendszeren támogatott. Csa
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Hozzon létre sokszögű képfájlt - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPoligon.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -95,7 +95,7 @@ A Aspose.Drawing-ban található rajzmotor lehetővé teszi a felhasználók sz�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse hordozható hálózati grafikus kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Téglalap" description="Téglalap alakú hordozható hálózati grafikus kép" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Poligon" description="Poligon hordozható hálózati grafikus kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Polygon hordozható hálózati grafikus kép" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

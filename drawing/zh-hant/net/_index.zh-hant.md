@@ -99,7 +99,7 @@ description: .NET圖形庫，用於繪製文字、幾何圖形和圖像，可直
      抗鋸齒
     </li>
     <li>
-     剪裁
+     Clipping
     </li>
     <li>
      阿爾法混合

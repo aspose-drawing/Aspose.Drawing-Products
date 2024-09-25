@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing кри�
      Сглаживание
     </li>
     <li>
-     Обрезка
+     Clipping
     </li>
     <li>
      Альфа-смешение

@@ -7,7 +7,7 @@ Keywords: create Poligono via C#, 2D graphics, drawing API, create bitmap C#, Dr
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Crea un file immagine poligonale tramite C#" h2="Crea le tue applicazioni .NET personalizzate per disegnare con file immagine Poligono" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Crea un file immagine poligonale tramite C#" h2="Crea le tue applicazioni .NET personalizzate per disegnare con file immagine Polygon" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="per .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="per .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing per .NET è supportato su tutti i principali sistemi operativi. A
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Crea file immagine poligonale - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPoligono.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -95,7 +95,7 @@ Il motore di disegno di Aspose.Drawing consente agli utenti di eseguire il rende
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Immagine grafica di rete portatile Ellisse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rettangolo" description="Immagine rettangolare di grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Poligono" description="Immagine grafica di rete portatile poligonale" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Immagine grafica di rete portatile poligonale" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

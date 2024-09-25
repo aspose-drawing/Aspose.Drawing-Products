@@ -99,7 +99,7 @@ description: Thư viện đồ họa .NET để vẽ văn bản, hình học và
      Khử răng cưa
     </li>
     <li>
-     Cắt
+     Clipping
     </li>
     <li>
      Pha trộn alpha

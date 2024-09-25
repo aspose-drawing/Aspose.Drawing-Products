@@ -185,7 +185,7 @@ keywords: Java API, Java library, Graphic Library, drawing text, drawing krzywe,
      Wygładzanie krawędzi
     </li>
     <li>
-     Obrzynek
+     Clipping
     </li>
     <li>
      Mieszanie alfa

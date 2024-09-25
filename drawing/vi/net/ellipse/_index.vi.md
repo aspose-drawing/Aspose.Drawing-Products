@@ -7,14 +7,14 @@ Keywords: create hình elip via C#, 2D graphics, drawing API, create bitmap C#, 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Tạo file ảnh hình elip qua C#" h2="Xây dựng các ứng dụng .NET tùy chỉnh của bạn để vẽ bằng các tệp hình ảnh hình elip" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="cho .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tạo file ảnh hình elip qua C#" h2="Xây dựng các ứng dụng .NET tùy chỉnh của bạn để vẽ bằng các tệp hình ảnh Ellipse" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="cho .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="cho .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Cách tạo file ảnh hình elip bằng C#" %}}
 
-Khám phá sự đơn giản của việc tạo tập tin hình ảnh hình elip với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh hình elip vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo tệp hình elip, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là thư viện API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh cho **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+Khám phá sự đơn giản của việc tạo tập tin hình ảnh hình elip với C#. Tài liệu này cung cấp thông tin chi tiết và hướng dẫn cần thiết, cho dù bạn là nhà phát triển dày dạn kinh nghiệm hay mới bắt đầu. Tìm hiểu các bước để kết hợp liền mạch việc tạo hình ảnh hình elip vào dự án của bạn và nâng cao kỹ năng lập trình của bạn. Để tạo tệp Ellipse, chúng tôi sẽ sử dụng thư viện [Aspose.Drawing cho .NET](https://products.aspose.com/drawing/net) là thư viện API vẽ đồ họa 2D giàu tính năng, mạnh mẽ và dễ sử dụng cho C# nền tảng. Mở trình quản lý gói [NuGet](https://www.nuget.org/packages/aspose.drawing), seCurveh cho **Aspose.Drawing** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing cho .NET được hỗ trợ trên tất cả các hệ điều h
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Tạo File Hình hình elip - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-Drawhình elip.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Công cụ vẽ trong Aspose.Drawing cho phép người dùng hiển thị đồ
 
 {{< blocks/products/pf/agp/other-supported-section title="Các hình dạng được hỗ trợ khác" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="hình elip" description="Hình ảnh đồ họa mạng di động hình elip" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Hình ảnh đồ họa mạng di động Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Hình chữ nhật" description="Hình ảnh đồ họa mạng di động hình chữ nhật" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Đa giác" description="Hình ảnh đồ họa mạng di động đa giác" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Hình ảnh đồ họa mạng di động đa giác" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

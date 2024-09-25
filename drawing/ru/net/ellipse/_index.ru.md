@@ -7,7 +7,7 @@ Keywords: create Эллипс via C#, 2D graphics, drawing API, create bitmap C#
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения эллипса через C#" h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений Эллипс." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Создайте файл изображения эллипса через C#" h2="Создавайте собственные приложения .NET для рисования с помощью файлов изображений Ellipse." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="для .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="для .NET" >}}
 
@@ -58,7 +58,7 @@ Aspose.Drawing для .NET поддерживается во всех основ
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Создать файл изображения эллипса — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawЭллипс.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawEllipse.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -82,7 +82,7 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="Нет необходимости писать какой-либо код" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите свои файлы и создайте текстовый рисунок в веб-браузере." >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получите ссылку для скачивания полученного файла Эллипс." >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получите ссылку для скачивания полученного файла Ellipse." >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Aspose.Drawing, полностью управляемая кроссплатфо
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые формы" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Эллипс" description="Изображение портативной сетевой графики Эллипс" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Изображение портативной сетевой графики Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Прямоугольник" description="Прямоугольное изображение портативной сетевой графики" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Полигон" description="Изображение портативной сетевой графики Полигон" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Изображение портативной сетевой графики Polygon" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -58,7 +58,7 @@ Aspose.Drawing dla .NET jest obsługiwany we wszystkich głównych systemach ope
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Utwórz plik obrazu wielokątnego — C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawWielokąt.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -93,9 +93,9 @@ Silnik rysunkowy Aspose.Drawing umożliwia użytkownikom renderowanie grafiki we
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane kształty" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Elipsa" description="Obraz grafiki przenośnej sieci Elipsa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Obraz grafiki przenośnej sieci Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Prostokąt" description="Prostokątny obraz grafiki przenośnej sieci" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Wielokąt" description="Obraz grafiki wielokątnej przenośnej sieci" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Obraz grafiki wielokątnej przenośnej sieci" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

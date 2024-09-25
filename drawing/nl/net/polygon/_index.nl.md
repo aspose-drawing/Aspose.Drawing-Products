@@ -1,20 +1,20 @@
 ---
-title: Maak een Veelhoek-afbeeldingsbestand via .NET
+title: Maak een Polygon-afbeeldingsbestand via .NET
 weight: 20
 url: /nl/net/polygon/
-description: Maak een Veelhoek-afbeeldingsbestand via .NET.
+description: Maak een Polygon-afbeeldingsbestand via .NET.
 Keywords: create Veelhoek via C#, 2D graphics, drawing API, create bitmap C#, Drawing voor .NET, save bitmap, save Veelhoek image, cross-platform 2D graphic library, Bitmap class, vector graphics drawing, draw text, rendering raster images, Veelhoek image file
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Maak een Veelhoek-afbeeldingsbestand via C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Veelhoek-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Maak een Polygon-afbeeldingsbestand via C#" h2="Bouw uw aangepaste .NET-applicaties voor tekenen met Polygon-afbeeldingsbestanden" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="voor .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="voor .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Hoe u een polygoonafbeeldingsbestand kunt maken met de C#" %}}
 
-Ontdek de eenvoud van het maken van Veelhoek-afbeeldingsbestanden met C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Veelhoek-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Veelhoek-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Ontdek de eenvoud van het maken van Polygon-afbeeldingsbestanden met C#. Dit document biedt essentiële inzichten en richtlijnen, of u nu een doorgewinterde ontwikkelaar bent of net begint. Leer de stappen om het maken van Polygon-afbeeldingen naadloos in uw projecten te integreren en uw programmeervaardigheden te verbeteren. Om Polygon-bestanden te maken, gebruiken we de [Aspose.Drawing voor .NET](https://products.aspose.com/drawing/net) bibliotheek, een veelzijdige, krachtige en gebruiksvriendelijke 2D grafische teken-API voor C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.drawing) pakketbeheerder, seCurveh voor **Aspose.Drawing** en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Maak een polygoonafbeeldingsbestand - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawVeelhoek.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -77,12 +77,12 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-{{< blocks/products/pf/agp/demobox sectionTitle="Verwerk Polygoon via de gratis online app" sectionDescription="Maak Veelhoek-afbeeldingen en voeg tekst toe aan afbeeldingen door naar onze [Live Demos-website](https://products.aspose.app/drawing) te gaan. De live demo heeft de volgende voordelen:" >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Verwerk Polygoon via de gratis online app" sectionDescription="Maak Polygon-afbeeldingen en voeg tekst toe aan afbeeldingen door naar onze [Live Demos-website](https://products.aspose.app/drawing) te gaan. De live demo heeft de volgende voordelen:" >}}
 
 {{< blocks/products/pf/agp/democard icon="fa-cogs" text="U hoeft niets te downloaden of in te stellen" >}}
 {{< blocks/products/pf/agp/democard icon="fa-edit" text="U hoeft geen code te schrijven" >}}
 {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw bestanden en maak een teksttekening in de webbrowser" >}}
-{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Veelhoek-bestand" >}}
+{{< blocks/products/pf/agp/democard icon="fa-download" text="Ontvang direct de downloadlink voor het resulterende Polygon-bestand" >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
@@ -93,9 +93,9 @@ Met de tekenengine in de Aspose.Drawing kunnen gebruikers vectorafbeeldingen wee
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde vormen" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellips" description="Ellips draagbare netwerk grafische afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Ellipse draagbare netwerk grafische afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rechthoek" description="Rechthoek draagbare netwerk grafische afbeelding" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Veelhoek" description="Veelhoek draagbaar netwerk grafisch beeld" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Veelhoek draagbaar netwerk grafisch beeld" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

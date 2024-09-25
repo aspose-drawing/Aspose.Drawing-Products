@@ -7,14 +7,14 @@ Keywords: create Polígono via C#, 2D graphics, drawing API, create bitmap C#, D
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Cree un archivo de imagen de polígono a través de C#" h2="Cree sus aplicaciones .NET personalizadas para dibujar con archivos de imagen Polígono" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Cree un archivo de imagen de polígono a través de C#" h2="Cree sus aplicaciones .NET personalizadas para dibujar con archivos de imagen Polygon" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/drawing/headers/aspose_drawing-for-net.svg" pfName="Aspose.Drawing" subTitlepfName="para .NET" downloadUrl="https://releases.aspose.com/drawing/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Drawing" subTitlepfName="para .NET" >}}
 
 
 {{% blocks/products/pf/agp/content h2="Cómo crear un archivo de imagen poligonal usando C#" %}}
 
-Descubra la simplicidad de crear archivos de imágenes Polígono con C#. Este documento proporciona información y orientación esenciales, ya sea que sea un desarrollador experimentado o recién esté comenzando. Conozca los pasos para incorporar perfectamente la creación de imágenes Polígono en sus proyectos y mejorar sus habilidades de programación. Para crear archivos Polígono, usaremos la biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que es una API de dibujo de gráficos 2D potente, fácil de usar y rica en funciones para C#. plataforma. Abra el administrador de paquetes [NuGet](https://www.nuget.org/packages/aspose.drawing), seleccioneCurveh para **Aspose.Drawing** e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+Descubra la simplicidad de crear archivos de imágenes Polígono con C#. Este documento proporciona información y orientación esenciales, ya sea que sea un desarrollador experimentado o recién esté comenzando. Conozca los pasos para incorporar perfectamente la creación de imágenes Polígono en sus proyectos y mejorar sus habilidades de programación. Para crear archivos Polygon, usaremos la biblioteca [Aspose.Drawing para .NET](https://products.aspose.com/drawing/net), que es una API de dibujo de gráficos 2D potente, fácil de usar y rica en funciones para C#. plataforma. Abra el administrador de paquetes [NuGet](https://www.nuget.org/packages/aspose.drawing), seleccioneCurveh para **Aspose.Drawing** e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 ```cs
@@ -58,7 +58,7 @@ Aspose.Drawing para .NET es compatible con todos los principales sistemas operat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Crear archivo de imagen de polígono - C#" offSpacer="" %}}
-{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolígono.cs" >}}
+{{< gist "aspose-com-gists" "8b1dc03ab805ef18eea88d4c442331e9" "Examples-CSharp-DrawPolygon.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -95,7 +95,7 @@ El motor de dibujo del Aspose.Drawing permite a los usuarios representar gráfic
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="Imagen de gráficos de red portátiles Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="Rectángulo" description="Imagen de gráficos de red portátiles rectangulares" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polígono" description="Imagen de gráficos de red portátiles de polígono" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="Imagen de gráficos de red portátiles de polígono" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -93,9 +93,9 @@ Aspose.Drawing ไลบรารีกราฟิก 2D ข้ามแพล�
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปร่างที่รองรับอื่นๆ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="วงรี" description="รูปภาพกราฟิกเครือข่ายแบบพกพา วงรี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/ellipse/" name="Ellipse" description="รูปภาพกราฟิกเครือข่ายแบบพกพา Ellipse" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/net/rectangle/" name="สี่เหลี่ยมผืนผ้า" description="รูปภาพกราฟิกเครือข่ายแบบพกพาสี่เหลี่ยม" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="รูปหลายเหลี่ยม" description="รูปภาพกราฟิกเครือข่ายแบบพกพารูปหลายเหลี่ยม" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/net/polygon/" name="Polygon" description="รูปภาพกราฟิกเครือข่ายแบบพกพารูปหลายเหลี่ยม" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
